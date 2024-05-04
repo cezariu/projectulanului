@@ -6,7 +6,7 @@ BOARD_HEIGHT = 565-2
 window = {
 	"name" : "InventoryWindow",
 
-	## 600 - (width + ¿À¸¥ÂÊÀ¸·Î ºÎÅÍ ¶ç¿ì±â 24 px)
+	## 600 - (width + ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 24 px)
 	"x" : SCREEN_WIDTH - BOARD_WIDTH,
 	"y" : SCREEN_HEIGHT - BOARD_HEIGHT - 43,
 	#"style" : ("movable", "float","not_pick",),
@@ -102,11 +102,11 @@ window = {
 										{"index":EQUIPMENT_START_INDEX+18, "x":75, "y":2, "width":32, "height":32},
 										#Talisman Slot
 										{"index":EQUIPMENT_START_INDEX+25, "x":3, "y":106, "width":32, "height":32},
-										## »õ ¹ÝÁö1
+										## ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½1
 										##{"index":item.EQUIPMENT_RING1, "x":2, "y":106, "width":32, "height":32},
-										## »õ ¹ÝÁö2
+										## ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½2
 										##{"index":item.EQUIPMENT_RING2, "x":75, "y":106, "width":32, "height":32},
-										## »õ º§Æ®
+										## ï¿½ï¿½ ï¿½ï¿½Æ®
 										{"index":EQUIPMENT_BELT, "x":39, "y":106, "width":32, "height":32},
 									),
 						},
@@ -192,9 +192,9 @@ window = {
 							"tooltip_text" : uiscriptlocale.TASKBAR_DRAGON_SOUL,
 							"tooltip_x" : - 56,
 							"tooltip_y" : - 12,
-							"default_image" : "d:/ymir work/ui/dragonsoul/dss_inventory_button_01.tga",
-							"over_image" : "d:/ymir work/ui/dragonsoul/dss_inventory_button_02.tga",
-							"down_image" : "d:/ymir work/ui/dragonsoul/dss_inventory_button_03.tga",
+							"default_image" : "d:/ymir work/ui/dragonsoul/DISABLED_dss_inventory_button_01.tga",
+							"over_image" : "d:/ymir work/ui/dragonsoul/DISABLED_dss_inventory_button_02.tga",
+							"down_image" : "d:/ymir work/ui/dragonsoul/DISABLED_dss_inventory_button_03.tga",
 						},
 						## if app.ENABLE_EXTRA_INVENTORY:
 						{

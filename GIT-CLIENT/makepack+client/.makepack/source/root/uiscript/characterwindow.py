@@ -273,7 +273,7 @@ window = {
 								{
 									"name" : "Guild_Name",
 									"type":"text",
-									"text":"±æµå ÀÌ¸§",
+									"text":"ï¿½ï¿½ï¿½ ï¿½Ì¸ï¿½",
 									"x":0,
 									"y":0,
 									"r":1.0,
@@ -298,7 +298,7 @@ window = {
 								{
 									"name" : "Character_Name",
 									"type":"text",
-									"text":"Ä³¸¯ÅÍ ÀÌ¸§",
+									"text":"Ä³ï¿½ï¿½ï¿½ï¿½ ï¿½Ì¸ï¿½",
 									"x":0,
 									"y":0,
 									"r":1.0,
@@ -351,20 +351,20 @@ window = {
 						## Passive Expanded Button
 						# { "name":"passive_expanded_btn", "type" : "button", "x":166, "y":107, "default_image" : ROOT_PATH+"passive_expanded_button_01.sub", "over_image" : ROOT_PATH+"passive_expanded_button_02.sub", "down_image" : ROOT_PATH+"passive_expanded_button_03.sub", },
 						
-						## Á¤º¹ÀÚ º¯°æ ¹öÆ°
+						## ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Æ°
 						{ "name":"change_base_button",		"type" : "radio_button",	"x":6, "y":107, "default_image" : ROOT_PATH+"button_status_normal.tga", "over_image" : ROOT_PATH+"button_status_normal.tga", "down_image" : ROOT_PATH+"button_status_normal.tga", },
 						# { "name":"change_conqueror_button",	"type" : "radio_button",	"x":87, "y":107, "default_image" : ROOT_PATH+"new_level_btn_03.sub", "over_image" : ROOT_PATH+"new_level_btn_03.sub", "down_image" : ROOT_PATH+"new_level_btn_01.sub", },
 
-						## ±âº» ´É·Â
+						## ï¿½âº» ï¿½É·ï¿½
 						{
 							"name":"Status_Standard", "type":"window", "x":3, "y":125, "width":250, "height":250,
 							"children" :
 							[
-								## ±âº» ´É·Â ¹Ù
+								## ï¿½âº» ï¿½É·ï¿½ ï¿½ï¿½
 								{ "name":"Base_Info_bar", "type":"image", "x":6, "y":12-7, "image":ROOT_PATH+"base_info_bar.sub" },
 								{ "name":"Char_Info_Status_img", "type" : "image", "x" : 12, "y" : 14-7, "image" : ROOT_PATH+"char_info_status_img.sub", },
 								
-								## ´É·Â ¼ö·Ã ¼öÄ¡
+								## ï¿½É·ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ä¡
 								{ 
 									"name":"Status_Plus_Label", 
 									"type":"image", 
@@ -378,7 +378,7 @@ window = {
 									],
 								},
 
-								## ±âº» ´É·ÂÄ¡
+								## ï¿½âº» ï¿½É·ï¿½Ä¡
 								{
 									"name":"base_info", "type":"window", "x":0, "y":26, "width":150, "height":150,
 									"children" :
@@ -403,7 +403,7 @@ window = {
 										{ "name":"DEX_Value", "type":"text", "x":70, "y":96, "text":"999", "r":1.0, "g":1.0, "b":1.0, "a":1.0, "text_horizontal_align":"center" },
 										{ "name":"DEX_Plus", "type" : "button", "x" : 91, "y" : 96, "default_image" : ROOT_PATH+"btn_plus_up.sub", "over_image" : ROOT_PATH+"btn_plus_over.sub", "down_image" : ROOT_PATH+"btn_plus_down.sub", },
 
-										## ÀÌ¹ÌÁöµé
+										## ï¿½Ì¹ï¿½ï¿½ï¿½ï¿½ï¿½
 										{ "name":"HTH_IMG", "type":"image",	"x":20, "y":-2, "image":ROOT_PATH+"char_info_con.sub" },
 										{ "name":"INT_IMG", "type":"image",	"x":20, "y":29, "image":ROOT_PATH+"char_info_int.sub" },
 										{ "name":"STR_IMG", "type":"image",	"x":20, "y":60, "image":ROOT_PATH+"char_info_str.sub" },
@@ -411,7 +411,7 @@ window = {
 									],
 								},
 								
-								## ¼º¸¶ ´É·ÂÄ¡
+								## ï¿½ï¿½ï¿½ï¿½ ï¿½É·ï¿½Ä¡
 								{
 									"name":"sungma_info", "type":"window", "x":0, "y":26, "width":150, "height":150,
 									"children" :
@@ -436,7 +436,7 @@ window = {
 										{ "name":"sungma_immune_value",	"type":"text", "x":70, "y":96, "text":"999", "r":1.0, "g":1.0, "b":1.0, "a":1.0, "text_horizontal_align":"center" },
 										{ "name":"sungma_immune_plus",	"type":"button", "x" : 91, "y" : 96, "default_image" : ROOT_PATH+"btn_plus_up.sub", "over_image" : ROOT_PATH+"btn_plus_over.sub", "down_image" : ROOT_PATH+"btn_plus_down.sub", },
 
-										## ÀÌ¹ÌÁöµé
+										## ï¿½Ì¹ï¿½ï¿½ï¿½ï¿½ï¿½
 										{ "name":"SUNGMA_STR_IMG",		"type":"image",	"x":20,	"y":-2,	"image":ROOT_PATH+"char_info_sungma_str.sub" },
 										{ "name":"SUNGMA_HP_IMG",		"type":"image",	"x":20,	"y":29,	"image":ROOT_PATH+"char_info_sungma_hp.sub" },
 										{ "name":"SUNGMA_MOVE_IMG",		"type":"image",	"x":20,	"y":60,	"image":ROOT_PATH+"char_info_sungma_move.sub" },
@@ -444,14 +444,14 @@ window = {
 									],
 								},
 
-								## ¸¶ÀÌ³Ê½º ¹öÆ°
+								## ï¿½ï¿½ï¿½Ì³Ê½ï¿½ ï¿½ï¿½Æ°
 								{ "name":"HTH_Minus", "type" : "button", "x":7, "y":36-7, "default_image" : ROOT_PATH+"btn_minus_up.sub", "over_image" : ROOT_PATH+"btn_minus_over.sub", "down_image" : ROOT_PATH+"btn_minus_down.sub", },
 								{ "name":"INT_Minus", "type" : "button", "x":7, "y":67-7, "default_image" : ROOT_PATH+"btn_minus_up.sub", "over_image" : ROOT_PATH+"btn_minus_over.sub", "down_image" : ROOT_PATH+"btn_minus_down.sub", },
 								{ "name":"STR_Minus", "type" : "button", "x":7, "y":98-7, "default_image" : ROOT_PATH+"btn_minus_up.sub", "over_image" : ROOT_PATH+"btn_minus_over.sub", "down_image" : ROOT_PATH+"btn_minus_down.sub", },
 								{ "name":"DEX_Minus", "type" : "button", "x":7, "y":129-7, "default_image" : ROOT_PATH+"btn_minus_up.sub", "over_image" : ROOT_PATH+"btn_minus_over.sub", "down_image" : ROOT_PATH+"btn_minus_down.sub", },
 
 								
-								## »ý¸í·Â,Á¤½Å·Â,°ø°Ý·Â,¹æ¾î·Â
+								## ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½,ï¿½ï¿½ï¿½Å·ï¿½,ï¿½ï¿½ï¿½Ý·ï¿½,ï¿½ï¿½ï¿½ï¿½
 								{ "name":"HEL_IMG",	"type":"image",	"x":118, "y":31-7, "image":ROOT_PATH+"char_info_hp.sub" },
 								{ "name":"SP_IMG",	"type":"image",	"x":118, "y":62-7, "image":ROOT_PATH+"char_info_sp.sub" },
 								{ "name":"ATT_IMG",	"type":"image",	"x":118, "y":93-7, "image":ROOT_PATH+"char_info_att.sub" },
@@ -498,12 +498,12 @@ window = {
 							],
 						},
 						
-						## ºÎ°¡ ´É·Â
+						## ï¿½Î°ï¿½ ï¿½É·ï¿½
 						{ 
 							"name":"Status_Extent", "type":"window", "x":3, "y":270, "width":253, "height":125, 
 							"children" :
 							(
-								## ºÎ°¡ ´É·Â Á¦¸ñ
+								## ï¿½Î°ï¿½ ï¿½É·ï¿½ ï¿½ï¿½ï¿½ï¿½
 								#{ "name":"Status_Extent_Bar", "type":"horizontalbar", "x":12, "y":0, "width":223, },
 								{ "name":"Status_Extent_Label", "type" : "image", "x" : 13, "y" : 0, "image" : ROOT_PATH+"status_extent_bar.sub", },
 
@@ -516,11 +516,11 @@ window = {
 								{ "name":"ER_IMG", "type":"image", "x":118, "y":93 - 25, "image":ROOT_PATH+"char_info_hitpct.sub" },
 
 
-								## ±âº» ´É·Â ¾ÆÀÌÅÛ ¸®½ºÆ®
+								## ï¿½âº» ï¿½É·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ®
 								#{"name":"Status_Extent_ItemList1", "type" : "image", "x":11, "y":31, "image" : LOCALE_PATH+"label_ext_item1.sub", },
 								#{"name":"Status_Extent_ItemList2", "type" : "image", "x":128, "y":32, "image" : LOCALE_PATH+"label_ext_item2.sub", },
 
-								## MSPD - ÀÌµ¿ ¼Óµµ
+								## MSPD - ï¿½Ìµï¿½ ï¿½Óµï¿½
 								{
 									"name":"MOV_Label", "type":"window", "x":50, "y":33 - 25, "width":50, "height":20, 
 									"children" :
@@ -530,7 +530,7 @@ window = {
 									)
 								},
 
-								## ASPD - °ø°Ý ¼Óµµ
+								## ASPD - ï¿½ï¿½ï¿½ï¿½ ï¿½Óµï¿½
 								{
 									"name":"ASPD_Label", "type":"window", "x":50, "y":64 - 25, "width":50, "height":20, 
 									"children" :
@@ -540,7 +540,7 @@ window = {
 									)
 								},
 
-								## CSPD - ÁÖ¹® ¼Óµµ
+								## CSPD - ï¿½Ö¹ï¿½ ï¿½Óµï¿½
 								{
 									"name":"CSPD_Label", "type":"window", "x":50, "y":95 - 25, "width":50, "height":20, 
 									"children" :
@@ -550,7 +550,7 @@ window = {
 									)
 								},
 
-								## MATT - ¸¶¹ý °ø°Ý·Â
+								## MATT - ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ý·ï¿½
 								{
 									"name":"MATT_Label", "type":"window", "x":148, "y":33 - 25, "width":50, "height":20, 
 									"children" :
@@ -560,7 +560,7 @@ window = {
 									)
 								},
 
-								## MDEF - ¸¶¹ý ¹æ¾î·Â
+								## MDEF - ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 								{
 									"name":"MDEF_Label", "type":"window", "x":148, "y":64 - 25, "width":50, "height":20, 
 									"children" :
@@ -570,7 +570,7 @@ window = {
 									)
 								},
 
-								## È¸ÇÇÀ²
+								## È¸ï¿½ï¿½ï¿½ï¿½
 								{
 									"name":"ER_Label", "type":"window", "x":148, "y":95 - 25, "width":50, "height":20, 
 									"children" :
@@ -683,7 +683,7 @@ window = {
 							"children" :
 							(
 								## Support_skill_Tooltip_icon
-								## ´É·Â ¼ö·Ã ¼öÄ¡
+								## ï¿½É·ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ä¡
 								{ 
 									"name":"Support_Skill_Point_Label", 
 									"type":"image", 
@@ -696,7 +696,7 @@ window = {
 										{ "name":"Support_Skill_Point_Value", "type":"text", "x":25, "y":0, "text":"99", "r":1.0, "g":1.0, "b":1.0, "a":1.0, "text_horizontal_align":"center" },
 									),
 								},
-								## º¸Á¶½ºÅ³ ÅøÆÁ
+								## ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å³ ï¿½ï¿½ï¿½ï¿½
 								{ "name":"Support_Skill_ToolTip", "type":"image", "x":3, "y":3, "image":ROOT_PATH+"support_skill_bar_icon.sub", },
 							),
 						},
@@ -784,7 +784,7 @@ window = {
 			
 					"children" :
 					[
-						## ±âº» ¾×¼Ç Á¦¸ñ
+						## ï¿½âº» ï¿½×¼ï¿½ ï¿½ï¿½ï¿½ï¿½
 						{ "name":"Action_Bar", "type":"horizontalbar", "x":12, "y":11+7, "width":223, },
 						{ "name":"Action_Bar_Img", "type":"image", "x":15, "y":19, "image":ROOT_PATH+"action_bar_img.sub", },
 			
@@ -805,11 +805,11 @@ window = {
 							"image" : ICON_SLOT_FILE,
 						},
 			
-						## »óÈ£ ¾×¼Ç Á¦¸ñ
+						## ï¿½ï¿½È£ ï¿½×¼ï¿½ ï¿½ï¿½ï¿½ï¿½
 						{ "name":"Reaction_Bar", "type":"horizontalbar", "x":12, "y":8+130+26, "width":223, },
 						{ "name":"Reaction_Bar_Img", "type":"image", "x":15, "y":10+130+25, "image":ROOT_PATH+"reaction_bar_img.sub", },
 			
-						## »óÈ£ ¾×¼Ç ½½·Ô
+						## ï¿½ï¿½È£ ï¿½×¼ï¿½ ï¿½ï¿½ï¿½ï¿½
 						{
 							"name" : "DualEmotionSlot",
 							"type" : "grid_table",
@@ -825,11 +825,11 @@ window = {
 							"image" : ICON_SLOT_FILE,
 						},
 						
-						## Æ¯¼ö ¾×¼Ç Á¦¸ñ
+						## Æ¯ï¿½ï¿½ ï¿½×¼ï¿½ ï¿½ï¿½ï¿½ï¿½
 						{ "name":"Special_Action_Bar", "type":"horizontalbar", "x":12, "y":8+190+25, "width":223, },
 						{ "name":"Special_Action_Bar_Img", "type":"image", "x":15, "y":10+190+24, "image":ROOT_PATH+"special_action_bar_img.sub", },
 						
-						## Æ¯¼ö ¾×¼Ç ½½·Ô
+						## Æ¯ï¿½ï¿½ ï¿½×¼ï¿½ ï¿½ï¿½ï¿½ï¿½
 						{				
 							"name" : "SpecialEmotionSlot",
 							"type" : "grid_table",

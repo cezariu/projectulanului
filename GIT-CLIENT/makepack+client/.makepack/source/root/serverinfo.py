@@ -7,7 +7,7 @@ import localeinfo
 app.ServerName = None
 
 SRV1 = {
-	"name":"Hypnotic2",
+	"name":"work dog",
 	"host":"81.180.202.36",
 	"auth1":30052,
 	"ch1":30054,

@@ -1,6 +1,6 @@
 import uiscriptlocale
 
-BUTTONS_COUNT = 5
+BUTTONS_COUNT = 4
 BOARD_WIDTH = 37
 BOARD_HEIGHT = (38 * BUTTONS_COUNT)
 

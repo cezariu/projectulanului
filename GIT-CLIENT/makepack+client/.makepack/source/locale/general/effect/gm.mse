@@ -122,9 +122,6 @@ Group Particle
         {
             0.000000 0.000000
         }
-        List TextureFiles
-        {
-            "staff.tga"
-        }
+       
     }
 }

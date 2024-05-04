@@ -495,7 +495,7 @@ class GameWindow(ui.ScriptWindow):
 		#onPressKeyDict[app.DIK_B]			= lambda state = "EMOTICON": self.interface.ToggleCharacterWindow(state)
 		onPressKeyDict[app.DIK_N]			= lambda state = "QUEST": self.interface.ToggleCharacterWindow(state)
 		onPressKeyDict[app.DIK_I]			= lambda : self.interface.ToggleInventoryWindow()
-		onPressKeyDict[app.DIK_O]			= lambda : self.interface.ToggleDragonSoulWindowWithNoInfo()
+		# onPressKeyDict[app.DIK_O]			= lambda : self.interface.ToggleDragonSoulWindowWithNoInfo()
 		onPressKeyDict[app.DIK_M]			= lambda : self.interface.PressMKey()
 		onPressKeyDict[app.DIK_ADD]			= lambda : self.interface.MiniMapScaleUp()
 		onPressKeyDict[app.DIK_SUBTRACT]	= lambda : self.interface.MiniMapScaleDown()
@@ -503,14 +503,14 @@ class GameWindow(ui.ScriptWindow):
 		#onPressKeyDict[app.DIK_COMMA]		= lambda : self.ShowConsole()		# "`" key
 		onPressKeyDict[app.DIK_LSHIFT]		= lambda : self.__SetQuickPageMode()
 
-		onPressKeyDict[app.DIK_J]			= lambda : self.__PressJKey()
+		# onPressKeyDict[app.DIK_J]			= lambda : self.__PressJKey()
 		onPressKeyDict[app.DIK_H]			= lambda : self.__PressHKey()
 		onPressKeyDict[app.DIK_B]			= lambda : self.__PressBKey()
 		onPressKeyDict[app.DIK_F]			= lambda : self.__PressFKey()
 		# if app.__ENABLE_NEW_OFFLINESHOP__:
 			# onPressKeyDict[app.DIK_Y]		= lambda : self.__PressYKey()
-		if app.NEW_PET_SYSTEM:
-			onPressKeyDict[app.DIK_P] = lambda: self.OpenPetMainGui()
+		# if app.NEW_PET_SYSTEM:
+			# onPressKeyDict[app.DIK_P] = lambda: self.OpenPetMainGui()
 
 		# CUBE_TEST
 		onPressKeyDict[app.DIK_K]			= lambda : self.interface.ToggleSwitchbotWindow()
