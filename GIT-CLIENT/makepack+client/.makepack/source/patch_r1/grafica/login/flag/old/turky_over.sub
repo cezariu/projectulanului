@@ -1,0 +1,7 @@
+title subImage
+version 1.0
+image "flags.png"
+left 86
+top 85
+right 123
+bottom 106

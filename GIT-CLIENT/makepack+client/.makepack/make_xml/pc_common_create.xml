@@ -1,0 +1,3 @@
+<ScriptFile>
+	<CreateEterPackXml Input="source/pc/common:d:/ymir work/pc/common/" ArchivePath="../.client/pack/pc_common" XmlPath="xml/pc_common_create.xml"></CreateEterPackXml>
+</ScriptFile>

@@ -1,0 +1,13 @@
+<ScriptFile>
+	<CreateEterPack ArchivePath="../.client/pack/bin" BuildKeyfile="false" >
+		<File ArchivedPath="d:/ymir work/bin/icon/face/assassin_m.tga"><![CDATA[source/bin/icon/face/assassin_m.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/assassin_w.tga"><![CDATA[source/bin/icon/face/assassin_w.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/shaman_m.tga"><![CDATA[source/bin/icon/face/shaman_m.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/shaman_w.tga"><![CDATA[source/bin/icon/face/shaman_w.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/sura_m.tga"><![CDATA[source/bin/icon/face/sura_m.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/sura_w.tga"><![CDATA[source/bin/icon/face/sura_w.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/warrior_m.tga"><![CDATA[source/bin/icon/face/warrior_m.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/warrior_w.tga"><![CDATA[source/bin/icon/face/warrior_w.tga]]></File>
+		<File ArchivedPath="d:/ymir work/bin/icon/face/wolfman_m.tga"><![CDATA[source/bin/icon/face/wolfman_m.tga]]></File>
+	</CreateEterPack>
+</ScriptFile>

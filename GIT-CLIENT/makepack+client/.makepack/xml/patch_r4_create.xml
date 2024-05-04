@@ -1,0 +1,11 @@
+<ScriptFile>
+	<CreateEterPack ArchivePath="../.client/pack/patch_r4" BuildKeyfile="false" >
+		<File ArchivedPath="sound/effect/battlepass/battlepass_sound_effect.wav"><![CDATA[source/patch_r4/sound/effect/battlepass/battlepass_sound_effect.wav]]></File>
+		<File ArchivedPath="sound/effect/battlepass/event_battlepass_complete.mss"><![CDATA[source/patch_r4/sound/effect/battlepass/event_battlepass_complete.mss]]></File>
+		<File ArchivedPath="sound/effect/battlepass/event_mission_complete.mss"><![CDATA[source/patch_r4/sound/effect/battlepass/event_mission_complete.mss]]></File>
+		<File ArchivedPath="sound/effect/battlepass/normal_battlepass_complete.mss"><![CDATA[source/patch_r4/sound/effect/battlepass/normal_battlepass_complete.mss]]></File>
+		<File ArchivedPath="sound/effect/battlepass/normal_mission_complete.mss"><![CDATA[source/patch_r4/sound/effect/battlepass/normal_mission_complete.mss]]></File>
+		<File ArchivedPath="sound/effect/battlepass/premium_battlepass_complete.mss"><![CDATA[source/patch_r4/sound/effect/battlepass/premium_battlepass_complete.mss]]></File>
+		<File ArchivedPath="sound/effect/battlepass/premium_mission_complete.mss"><![CDATA[source/patch_r4/sound/effect/battlepass/premium_mission_complete.mss]]></File>
+	</CreateEterPack>
+</ScriptFile>

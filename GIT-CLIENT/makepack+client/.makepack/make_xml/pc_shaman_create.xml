@@ -1,0 +1,3 @@
+<ScriptFile>
+	<CreateEterPackXml Input="source/pc/shaman:d:/ymir work/pc/shaman/" ArchivePath="../.client/pack/pc_shaman" XmlPath="xml/pc_shaman_create.xml"></CreateEterPackXml>
+</ScriptFile>

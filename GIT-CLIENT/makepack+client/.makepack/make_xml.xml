@@ -1,0 +1,3 @@
+<ScriptFile>
+	<CreateEterPackXml Input="source/bgm:bgm/" ArchivePath="../../.client/pack/bgm" XmlPath="xml/bgm_create.xml"></CreateEterPackXml>
+</ScriptFile>

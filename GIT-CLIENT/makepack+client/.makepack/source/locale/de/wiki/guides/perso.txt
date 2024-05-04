@@ -1,0 +1,28 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/en/perso.png]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]How to claim a personalised item:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=30; CENTER_ALIGN]
+
+[X_PADDING=12]1. Purchase the personalised chest set from the itemshop.
+[X_PADDING=12]2. Opening the chest will give you 3x vouchers for: weapon,costume,hairstyle.
+[X_PADDING=12]3. Give the vouchers to: [SA]Moralised,[SGA]Fermion,[CoMa]SNK or [GA]Pantera.
+[X_PADDING=12]4. You can only request a perso if you have atleast 2 out of 3 vouchers.
+[X_PADDING=12]5. Make sure you have a proof of trade in case of a dispute.
+[X_PADDING=12]6. You will be redirected to one of the GFXs on Discord or in-game to discuss about the design
+[X_PADDING=12]7. The vouchers will be collected only Monday to Saturday and will be added
+[X_PADDING=12]   and released on the server at the next scheduled maintenance(every Monday)
+[X_PADDING=12]8. Before giving the vouchers make sure you have an idea about what you want to create so there will be no delay.
+[X_PADDING=12]9. It is mandatory to have Discord to contact and discuss with the GFX about your perso!
+[X_PADDING=12]10. In case of any problem,question or dispute please contact a team member!
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]Bonusing the set:
+
+[X_PADDING=12]1. You also have to choose 3 bonuses on all 3 items in the set.
+[X_PADDING=12]2. The bonuses can be chosen at the maximum value possible and only what is possible.
+[X_PADDING=12]3. Choosing the bonus is mandatory.Choose carefully to avoid extra costs in case you want to change it later!
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]EXTRA INFO:
+
+[X_PADDING=12]1. Vouchers can be sold in-game to other players.
+[X_PADDING=12]2. You cannot request a personalised item if you do not own atleast 2 out of 3 vouchers.
+[X_PADDING=12]3. The vouchers must be : weapon+armor or armor+hairstyle or all 3 togheter!

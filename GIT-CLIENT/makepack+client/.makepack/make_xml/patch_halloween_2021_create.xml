@@ -1,0 +1,3 @@
+<ScriptFile>
+	<CreateEterPackXml Input="source/patch_halloween_2021" ArchivePath="../.client/pack/patch_halloween_2021" XmlPath="xml/patch_halloween_2021_create.xml"></CreateEterPackXml>
+</ScriptFile>

@@ -1,0 +1,10 @@
+#ifyouwant show all map write all or write mapname
+#important hair need item value3 in proto
+# armor and weapon affect u need put effect item value0 from proto!
+#mobvnum-mapname-race-weapon-armor-hair-acce-mount-effect_weapon-effect_armor-effect_special-effect_wing
+20092	all	0	65414	65418	65419	85105	0	88230	88232	0	4
+20093	all	1	65412	65417	65420	85105	0	88230	88232	0	4
+20094	all	2	65411	65418	65419	85105	0	88230	88232	0	4
+20095	all	3	65415	65417	65420	85105	0	88230	88232	0	4
+
+

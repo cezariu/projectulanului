@@ -1,0 +1,27 @@
+<ScriptFile>
+	<CreateEterPack ArchivePath="../.client/pack/pc2_common" BuildKeyfile="false" >
+		<File ArchivedPath="d:/ymir work/pc2/common/skill/fishing.msk"><![CDATA[source/pc2/common/skill/fishing.msk]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/horse_charge.mse"><![CDATA[source/pc2/common/effect/horse_charge.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/sword/banzzak.jpg"><![CDATA[source/pc2/common/effect/sword/banzzak.jpg]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/sword/crescent.bmp"><![CDATA[source/pc2/common/effect/sword/crescent.bmp]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/sword/gwi_geom_spark copy.jpg"><![CDATA[source/pc2/common/effect/sword/gwi_geom_spark copy.jpg]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/sword/sword_7.mse"><![CDATA[source/pc2/common/effect/sword/sword_7.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/sword/sword_7_b.mse"><![CDATA[source/pc2/common/effect/sword/sword_7_b.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/sword/sword_7_f.mse"><![CDATA[source/pc2/common/effect/sword/sword_7_f.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/sword/sword_7_s.mse"><![CDATA[source/pc2/common/effect/sword/sword_7_s.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/sword/sword_8.mse"><![CDATA[source/pc2/common/effect/sword/sword_8.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/sword/sword_8_b.mse"><![CDATA[source/pc2/common/effect/sword/sword_8_b.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/sword/sword_8_f.mse"><![CDATA[source/pc2/common/effect/sword/sword_8_f.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/sword/sword_8_s.mse"><![CDATA[source/pc2/common/effect/sword/sword_8_s.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/sword/sword_9.mse"><![CDATA[source/pc2/common/effect/sword/sword_9.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/sword/sword_9_b.mse"><![CDATA[source/pc2/common/effect/sword/sword_9_b.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/sword/sword_9_f.mse"><![CDATA[source/pc2/common/effect/sword/sword_9_f.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/sword/sword_9_s.mse"><![CDATA[source/pc2/common/effect/sword/sword_9_s.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/armor/armor_7.mse"><![CDATA[source/pc2/common/effect/armor/armor_7.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/armor/armor_8.mse"><![CDATA[source/pc2/common/effect/armor/armor_8.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/armor/armor_9.mse"><![CDATA[source/pc2/common/effect/armor/armor_9.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/armor/gwi_geom_spark copy.jpg"><![CDATA[source/pc2/common/effect/armor/gwi_geom_spark copy.jpg]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/armor/orange_cure copy.jpg"><![CDATA[source/pc2/common/effect/armor/orange_cure copy.jpg]]></File>
+		<File ArchivedPath="d:/ymir work/pc2/common/effect/armor/upline.jpg"><![CDATA[source/pc2/common/effect/armor/upline.jpg]]></File>
+	</CreateEterPack>
+</ScriptFile>

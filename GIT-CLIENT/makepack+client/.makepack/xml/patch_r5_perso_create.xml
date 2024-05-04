@@ -1,0 +1,13 @@
+<ScriptFile>
+	<CreateEterPack ArchivePath="../.client/pack/patch_r5_perso" BuildKeyfile="false" >
+		<File ArchivedPath="pc/warrior/costum_perso_alex.dds"><![CDATA[source/patch_r5_perso/pc/warrior/costum_perso_alex.dds]]></File>
+		<File ArchivedPath="pc/warrior/costum_perso_alex.gr2"><![CDATA[source/patch_r5_perso/pc/warrior/costum_perso_alex.gr2]]></File>
+		<File ArchivedPath="pc/warrior/hair/freza_perso_alex.dds"><![CDATA[source/patch_r5_perso/pc/warrior/hair/freza_perso_alex.dds]]></File>
+		<File ArchivedPath="pc/warrior/hair/freza_perso_alex.gr2"><![CDATA[source/patch_r5_perso/pc/warrior/hair/freza_perso_alex.gr2]]></File>
+		<File ArchivedPath="item/weapon/skin_perso_alex.dds"><![CDATA[source/patch_r5_perso/item/weapon/skin_perso_alex.dds]]></File>
+		<File ArchivedPath="item/weapon/skin_perso_alex.gr2"><![CDATA[source/patch_r5_perso/item/weapon/skin_perso_alex.gr2]]></File>
+		<File ArchivedPath="icon/item/ic_costum.tga"><![CDATA[source/patch_r5_perso/icon/item/ic_costum.tga]]></File>
+		<File ArchivedPath="icon/item/ic_freza.tga"><![CDATA[source/patch_r5_perso/icon/item/ic_freza.tga]]></File>
+		<File ArchivedPath="icon/item/ic_skin.tga"><![CDATA[source/patch_r5_perso/icon/item/ic_skin.tga]]></File>
+	</CreateEterPack>
+</ScriptFile>

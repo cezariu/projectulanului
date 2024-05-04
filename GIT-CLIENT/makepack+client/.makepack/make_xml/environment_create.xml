@@ -1,0 +1,3 @@
+<ScriptFile>
+	<CreateEterPackXml Input="source/environment:d:/ymir work/environment/" ArchivePath="../.client/pack/environment" XmlPath="xml/environment_create.xml"></CreateEterPackXml>
+</ScriptFile>

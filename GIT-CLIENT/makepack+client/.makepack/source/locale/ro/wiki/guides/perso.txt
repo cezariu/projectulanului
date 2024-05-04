@@ -1,0 +1,32 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/ro/perso.png]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]Cum sa obtii un set personalizat:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=30; CENTER_ALIGN]
+
+[X_PADDING=12]1. Cumpara un CUFAR SET PERSONALIZAT din itemshop.
+[X_PADDING=12]2. Deschide cufarul pentru a obtine cele 3 vouchere perso:arma,armura,frizura!.
+[X_PADDING=12]3. Ofera voucherele unuia dintre: [SA]Moralised,[SGA]Fermion,[CoMa]SNK sau [GA]Pantera.
+[X_PADDING=12]4. Poti face cererea de perso doar daca ai cel putin 2 din 3 vouchere(vezi info mai jos).
+[X_PADDING=12]5. Asigura-te ca ai o dovada de trade(printscreen).
+[X_PADDING=12]6. Vei fi redirectionat catre un GFX pentru a discuta despre designul itemelor.
+[X_PADDING=12]7. Voucherele se colecteaza de Luni pana Sambata iar implementarea setului se va face
+[X_PADDING=12] in fiecare Duminica-Noapte->Luni-Dimineata la mentenanta saptamanala!
+[X_PADDING=12]8. Inainte de predarea voucherelor asigura-te ca ai o idee despre cum ai vrea sa arate setul.
+[X_PADDING=12]Va scurta timpul de asteptare.
+[X_PADDING=12]9. Este recomandat sa ai DISCORD pentru a putea discuta direct cu unul dintre [GFX]
+[X_PADDING=12]10. Pentru orice problema,nelamurire sau intrebare contacteaza un membru al echipei!
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]Bonusarea setului:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=30; CENTER_ALIGN]
+
+[X_PADDING=12]1. Ai dreptul sa alegi 3 bonusuri (maxim posibile pe server) pentru bonusarea setului - arma,armura,frizura!.
+[X_PADDING=12]2. Bonusurile pot fi doar din cele existente pe server/ce poate intra pe skinul respectiv!
+[X_PADDING=12]3. Alegerea bonusurilor este obligatorie si iti recomandam sa alegi foarte atent 
+[X_PADDING=12]deoarece schimbarea lor pe viitor va include extra costuri!
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]Informatii EXTRA:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=30; CENTER_ALIGN]
+
+[X_PADDING=12]1. Voucherele pot fi vandute la alti jucatori.
+[X_PADDING=12]2. Nu poti cere un personalizat daca nu detii cel putin 2 din 3 vouchere
+[X_PADDING=12]3. Voucherele trebuie sa fie : arma+armura,armura+frizura sau toate 3!

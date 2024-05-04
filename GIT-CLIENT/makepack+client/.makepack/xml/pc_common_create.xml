@@ -1,0 +1,49 @@
+<ScriptFile>
+	<CreateEterPack ArchivePath="../.client/pack/pc_common" BuildKeyfile="false" >
+		<File ArchivedPath="d:/ymir work/pc/common/skill/fishing.msk"><![CDATA[source/pc/common/skill/fishing.msk]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/horse_charge.mse"><![CDATA[source/pc/common/effect/horse_charge.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/banzzak.jpg"><![CDATA[source/pc/common/effect/sword/banzzak.jpg]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/crescent.bmp"><![CDATA[source/pc/common/effect/sword/crescent.bmp]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/gwi_geom_spark copy.jpg"><![CDATA[source/pc/common/effect/sword/gwi_geom_spark copy.jpg]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/sword_7.mse"><![CDATA[source/pc/common/effect/sword/sword_7.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/sword_7_b.mse"><![CDATA[source/pc/common/effect/sword/sword_7_b.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/sword_7_f.mse"><![CDATA[source/pc/common/effect/sword/sword_7_f.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/sword_7_s.mse"><![CDATA[source/pc/common/effect/sword/sword_7_s.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/sword_7_w.mse"><![CDATA[source/pc/common/effect/sword/sword_7_w.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/sword_8.mse"><![CDATA[source/pc/common/effect/sword/sword_8.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/sword_8_b.mse"><![CDATA[source/pc/common/effect/sword/sword_8_b.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/sword_8_f.mse"><![CDATA[source/pc/common/effect/sword/sword_8_f.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/sword_8_s.mse"><![CDATA[source/pc/common/effect/sword/sword_8_s.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/sword_8_w.mse"><![CDATA[source/pc/common/effect/sword/sword_8_w.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/sword_9.mse"><![CDATA[source/pc/common/effect/sword/sword_9.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/sword_9_b.mse"><![CDATA[source/pc/common/effect/sword/sword_9_b.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/sword_9_f.mse"><![CDATA[source/pc/common/effect/sword/sword_9_f.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/sword_9_s.mse"><![CDATA[source/pc/common/effect/sword/sword_9_s.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/sword/sword_9_w.mse"><![CDATA[source/pc/common/effect/sword/sword_9_w.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/aura/aura_01_49_001.mse"><![CDATA[source/pc/common/effect/aura/aura_01_49_001.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/aura/aura_100_149_003.mse"><![CDATA[source/pc/common/effect/aura/aura_100_149_003.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/aura/aura_150_199_004.mse"><![CDATA[source/pc/common/effect/aura/aura_150_199_004.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/aura/aura_200_249_005.mse"><![CDATA[source/pc/common/effect/aura/aura_200_249_005.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/aura/aura_250_006.mse"><![CDATA[source/pc/common/effect/aura/aura_250_006.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/aura/aura_50_99_002.mse"><![CDATA[source/pc/common/effect/aura/aura_50_99_002.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/aura/aura_aura_01.dds"><![CDATA[source/pc/common/effect/aura/aura_aura_01.dds]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/aura/aura_aura_02.dds"><![CDATA[source/pc/common/effect/aura/aura_aura_02.dds]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/aura/aura_aura_03.dds"><![CDATA[source/pc/common/effect/aura/aura_aura_03.dds]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/aura/aura_out.dds"><![CDATA[source/pc/common/effect/aura/aura_out.dds]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/aura/wing_lea01.dds"><![CDATA[source/pc/common/effect/aura/wing_lea01.dds]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/aura/wing_lv06.dds"><![CDATA[source/pc/common/effect/aura/wing_lv06.dds]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/aura/wing_lv06.mde"><![CDATA[source/pc/common/effect/aura/wing_lv06.mde]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/armor/acc_01.mse"><![CDATA[source/pc/common/effect/armor/acc_01.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/armor/armor-4-2-1.mse"><![CDATA[source/pc/common/effect/armor/armor-4-2-1.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/armor/armor-4-2-2.mse"><![CDATA[source/pc/common/effect/armor/armor-4-2-2.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/armor/armor-5-1.mse"><![CDATA[source/pc/common/effect/armor/armor-5-1.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/armor/armor_7.mse"><![CDATA[source/pc/common/effect/armor/armor_7.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/armor/armor_8.mse"><![CDATA[source/pc/common/effect/armor/armor_8.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/armor/armor_9.mse"><![CDATA[source/pc/common/effect/armor/armor_9.mse]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/armor/aura1.dds"><![CDATA[source/pc/common/effect/armor/aura1.dds]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/armor/gwi_geom_spark copy.jpg"><![CDATA[source/pc/common/effect/armor/gwi_geom_spark copy.jpg]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/armor/orange_cure copy.jpg"><![CDATA[source/pc/common/effect/armor/orange_cure copy.jpg]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/armor/upline.jpg"><![CDATA[source/pc/common/effect/armor/upline.jpg]]></File>
+		<File ArchivedPath="d:/ymir work/pc/common/effect/armor/water1.dds"><![CDATA[source/pc/common/effect/armor/water1.dds]]></File>
+	</CreateEterPack>
+</ScriptFile>

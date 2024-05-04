@@ -1,0 +1,3 @@
+<ScriptFile>
+	<CreateEterPackXml Input="source/season2:season2/" ArchivePath="../.client/pack/season2" XmlPath="xml/season2_create.xml"></CreateEterPackXml>
+</ScriptFile>
