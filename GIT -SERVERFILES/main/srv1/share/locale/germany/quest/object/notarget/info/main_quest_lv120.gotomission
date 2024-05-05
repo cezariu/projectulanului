@@ -1,0 +1,65 @@
+local lang = pc . get_language ( ) 
+say_title ( string . format ( "%s:" , gameforge [ lang ] . main_quest . subtitle_7 ) ) 
+say ( "" ) 
+local idx = pc . get_map_index ( ) 
+if idx >= 3.56e+06 and idx < 3.57e+06 then 
+say ( string . format ( gameforge [ lang ] . main_quest . _38 , mob_name ( 8512 ) ) ) 
+say ( gameforge [ lang ] . main_quest . _39 ) 
+else 
+say ( gameforge [ lang ] . main_quest . _37 ) 
+say ( string . format ( "- %d %s." , pc . getqf ( "8512" ) , mob_name ( 8512 ) ) ) 
+say ( gameforge [ lang ] . main_quest . _40 ) 
+local s = select ( gameforge [ lang ] . main_quest . _41 , gameforge [ lang ] . main_quest . _42 ) 
+if s == 1 then 
+say_title ( string . format ( "%s:" , gameforge [ lang ] . main_quest . subtitle_7 ) ) 
+say ( "" ) 
+if party . is_party ( ) then 
+say ( gameforge [ lang ] . main_quest . _43 ) 
+return 
+end 
+if pc . get_map_index ( ) ~= 361 then 
+say ( gameforge [ lang ] . main_quest . _44 ) 
+say ( gameforge [ lang ] . main_quest . _45 ) 
+return 
+end 
+local r = pc . getqf ( "success" ) - get_time ( ) 
+if r > 0 then 
+local goahead = 1 
+local rejoinTIME = pc . getf ( "catacombe" , "disconnect" ) - get_global_time ( ) 
+if rejoinTIME > 0 then 
+local rejoinIDX = pc . getf ( "catacombe" , "idx" ) 
+if rejoinIDX > 0 then 
+local rejoinCH = pc . getf ( "catacombe" , "ch" ) 
+if rejoinCH ~= pc . get_channel_id ( ) then 
+say ( string . format ( gameforge [ lang ] . common . dungeon_26 , rejoinCH ) ) 
+return 
+end 
+if d . find ( rejoinIDX ) then 
+goahead = 0 
+pc . warp ( 1.5282e+06 , 2.3187e+06 , rejoinIDX ) 
+end 
+end 
+end 
+if goahead == 1 then 
+local d1 = math . floor ( r / 3600 ) 
+local d2 = math . floor ( ( r - ( d1 * 3600 ) ) ) / 60 
+if d1 < 0 then 
+d1 = 0 
+end 
+if d2 < 0 then 
+d2 = 0 
+end 
+j = string . format ( gameforge [ lang ] . main_quest . _47 , d1 , d2 ) 
+say ( string . format ( gameforge [ lang ] . main_quest . _48 , j ) ) 
+end 
+else 
+say ( gameforge [ lang ] . main_quest . _46 ) 
+wait ( ) 
+pc . setqf ( "success" , get_time ( ) + 60 * 60 * 8 ) 
+pc . setqf ( "dungeon" , 0 ) 
+d . join_cords ( 356 , 15282 , 23187 ) 
+end 
+else 
+send_letter ( gameforge [ lang ] . main_quest . subtitle_7 ) 
+end 
+end 

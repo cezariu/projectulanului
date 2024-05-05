@@ -1,0 +1,13 @@
+say_title ( "Spirit Costume Voucher:" ) 
+say ( "" ) 
+say ( "Choose your sex:" ) 
+say_reward ( "This is a SKIN !" ) 
+say ( "" ) 
+local premiu = select ( "Male Costume" , "Female Costume" , "I will decide later" ) 
+if premiu == 1 then 
+pc . give_item2 ( 49028 , 1 ) 
+pc . remove_item ( 40006 , 1 ) 
+elseif premiu == 2 then 
+pc . give_item2 ( 49027 , 1 ) 
+pc . remove_item ( 40006 , 1 ) 
+end 

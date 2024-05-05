@@ -1,0 +1,17 @@
+local arg = get_server_timer_arg ( ) 
+if d . find ( arg ) then 
+local s = d . getf ( arg , "step" ) 
+if s > 0 then 
+if s == 1 then 
+d . notice ( arg , 984 , "" , true ) 
+else 
+d . notice ( arg , 985 , string . format ( "%d" , s ) , true ) 
+end 
+d . setf ( arg , "step" , s - 1 ) 
+else 
+d . notice ( arg , 986 , "" , true ) 
+clear_server_timer ( "loop_azrael" , arg ) 
+d . kill_all ( arg ) 
+d . exit_all_lobby ( arg , 3 ) 
+end 
+end 

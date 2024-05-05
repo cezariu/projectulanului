@@ -1,0 +1,27 @@
+local arg = get_server_timer_arg ( ) 
+if d . find ( arg ) then 
+d . setf ( arg , "count" , 9 ) 
+d . spawn_mob ( arg , 2095 , 400 , 566 ) 
+d . spawn_mob ( arg , 2095 , 400 , 594 ) 
+d . spawn_mob ( arg , 2095 , 362 , 600 ) 
+d . spawn_mob ( arg , 2095 , 337 , 599 ) 
+d . spawn_mob ( arg , 2095 , 335 , 581 ) 
+d . spawn_mob ( arg , 2095 , 344 , 562 ) 
+d . spawn_mob ( arg , 2095 , 364 , 588 ) 
+d . spawn_mob ( arg , 2095 , 379 , 562 ) 
+d . spawn_mob ( arg , 2095 , 368 , 525 ) 
+local boss = d . spawn_mob ( arg , 2092 , 367 , 588 ) 
+local success = d . set_vid_invincible ( boss , true ) 
+if not success then 
+d . notice ( arg , 1133 , "" , true ) 
+dungeon_spider . clear ( arg ) 
+else 
+d . notice ( arg , 1128 , string . format ( "%d" , 30 ) , true ) 
+server_timer ( "spider_end" , 1799 , arg ) 
+d . setf ( arg , "boss" , boss ) 
+d . notice ( arg , 1131 , "" , true ) 
+d . notice ( arg , 1132 , "" , true ) 
+end 
+else 
+dungeon_spider . clear ( arg ) 
+end 

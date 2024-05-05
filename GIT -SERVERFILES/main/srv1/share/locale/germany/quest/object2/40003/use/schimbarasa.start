@@ -1,0 +1,109 @@
+say_title ( "Change Race :" ) 
+say ( "Hi " .. pc . get_name ( ) .. ", do you want to change your race ?" ) 
+say ( "" ) 
+say_reward ( "WARNING !!!" ) 
+say ( "Once you do this the change race ring" ) 
+say ( "will dissapear and you will need a new" ) 
+say ( "ring in case you want to change your race again" ) 
+say_reward ( "PLEASE UNEQUIP ALL YOUR SKINS BEFORE CHANGING" ) 
+say_reward ( "OTHERWISE CHANGING WONT WORK !!!" ) 
+say_item_vnum ( "40003" ) 
+say ( "" ) 
+wait ( ) 
+say_title ( "Change Race !" ) 
+say_reward ( "Are you sure?" ) 
+say ( "" ) 
+local main_set = select ( "Yes" , "No" ) 
+if main_set == 2 then 
+return 
+end 
+if main_set == 1 then 
+say_title ( "Change Race:" ) 
+say ( "Choose your race:" ) 
+say ( "" ) 
+local schimbarasa = select ( "Warrior" , "Ninja" , "Sura" , "Shaman" , "Close" ) 
+if schimbarasa == 1 then 
+say_title ( "Change Race:" ) 
+say ( "Choose sex:" ) 
+say ( "" ) 
+local sexwar = select ( "Male" , "Female" , "Close" ) 
+if sexwar == 1 then 
+pc . polymorph ( "4" ) 
+pc . change_sex ( ) 
+pc . warp ( pc . get_x ( ) * 100 , pc . get_y ( ) * 100 ) 
+elseif sexwar == 2 then 
+pc . polymorph ( "4" ) 
+pc . change_sex ( ) 
+pc . polymorph ( "20032" ) 
+pc . polymorph ( "1" ) 
+pc . change_sex ( ) 
+pc . polymorph ( "20032" ) 
+pc . warp ( pc . get_x ( ) * 100 , pc . get_y ( ) * 100 ) 
+elseif sexwar == 3 then 
+return 
+end 
+elseif schimbarasa == 2 then 
+say_title ( "Change Race:" ) 
+say ( "Choose sex:" ) 
+say ( "" ) 
+local sexninja = select ( "Male" , "Female" , "Close" ) 
+if sexninja == 2 then 
+pc . polymorph ( "5" ) 
+pc . change_sex ( ) 
+pc . warp ( pc . get_x ( ) * 100 , pc . get_y ( ) * 100 ) 
+elseif sexninja == 1 then 
+pc . polymorph ( "5" ) 
+pc . change_sex ( ) 
+pc . polymorph ( "20032" ) 
+pc . polymorph ( "1" ) 
+pc . change_sex ( ) 
+pc . polymorph ( "20032" ) 
+pc . warp ( pc . get_x ( ) * 100 , pc . get_y ( ) * 100 ) 
+elseif sexninja == 3 then 
+return 
+end 
+elseif schimbarasa == 3 then 
+say_title ( "Change Race:" ) 
+say ( "Choose sex:" ) 
+say ( "" ) 
+local sexsura = select ( "Male" , "Female" , "Close" ) 
+if sexsura == 1 then 
+pc . polymorph ( "6" ) 
+pc . change_sex ( ) 
+pc . warp ( pc . get_x ( ) * 100 , pc . get_y ( ) * 100 ) 
+elseif sexsura == 2 then 
+pc . polymorph ( "6" ) 
+pc . change_sex ( ) 
+pc . polymorph ( "20032" ) 
+pc . polymorph ( "1" ) 
+pc . change_sex ( ) 
+pc . polymorph ( "20032" ) 
+pc . warp ( pc . get_x ( ) * 100 , pc . get_y ( ) * 100 ) 
+elseif sexsura == 3 then 
+return 
+end 
+elseif schimbarasa == 4 then 
+say_title ( "Change Race:" ) 
+say ( "Choose sex:" ) 
+say ( "" ) 
+local sexshamy = select ( "Male" , "Female" , "Close" ) 
+if sexshamy == 2 then 
+pc . polymorph ( "7" ) 
+pc . change_sex ( ) 
+pc . warp ( pc . get_x ( ) * 100 , pc . get_y ( ) * 100 ) 
+elseif sexshamy == 1 then 
+pc . polymorph ( "7" ) 
+pc . change_sex ( ) 
+pc . polymorph ( "20032" ) 
+pc . polymorph ( "1" ) 
+pc . change_sex ( ) 
+pc . polymorph ( "20032" ) 
+pc . warp ( pc . get_x ( ) * 100 , pc . get_y ( ) * 100 ) 
+elseif sexshamy == 3 then 
+return 
+end 
+elseif schimbarasa == 5 then 
+return 
+end 
+pc . removeitem ( 40003 , 1 ) 
+end 

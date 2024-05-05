@@ -1,0 +1,41 @@
+if game . get_event_flag ( "oua_event" ) == 1 then 
+say_title ( "Administrare Eveniment:" ) 
+say ( "" ) 
+say ( "Ouã de Paste : ~ Activ " ) 
+say ( "" ) 
+say_reward ( "Inchieire event ??" ) 
+local s = select ( "Da" , "Nu" ) 
+if s == 1 then 
+say_title ( "Administrare Eveniment:" ) 
+say ( "" ) 
+say ( "Evenimentul a luat sfârsit ." ) 
+say ( "~ Pe data viitoare !" ) 
+game . set_event_flag ( "oua_event" , 0 ) 
+char_log ( 0 , "oua_event_end from" .. pc . get_name ( ) ) 
+notice_all ( "Evenimentul : Ouã de Paste ~ Terminat." ) 
+elseif s == 2 then 
+say_title ( "Administrare Eveniment:" ) 
+say ( "" ) 
+say ( "~ Pe curând !" ) 
+end 
+else 
+say_title ( "Administrare Eveniment:" ) 
+say ( "" ) 
+say ( "Ouã de Paste : ~ Închis " ) 
+say ( "" ) 
+say_reward ( "Start Eveniment?" ) 
+local s = select ( "Da" , "Nu" ) 
+if s == 1 then 
+say_title ( "Administrare Eveniment:" ) 
+say ( "" ) 
+say ( "Evenimentul ~ A Început ! ." ) 
+say ( "~ Succes la strans mai multe Ouã de Paste !" ) 
+game . set_event_flag ( "oua_event" , 1 ) 
+char_log ( 0 , "oua_event_start from" .. pc . get_name ( ) ) 
+notice_all ( "Evenimentul : Ouã de Paste ~ A Început !" ) 
+elseif s == 2 then 
+say_title ( "Administrare Eveniment:" ) 
+say ( "" ) 
+say ( "~ Pe curând !" ) 
+end 
+end 

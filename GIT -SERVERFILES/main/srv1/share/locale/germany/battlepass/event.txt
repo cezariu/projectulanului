@@ -1,0 +1,46 @@
+ Group BattlePass
+{
+	#--#	BattlePassName	BattlePassID	StartTime	EndTime
+	1	event_2023_advent_event	1	1694714752	1702577152
+}
+
+Group event_2023_advent_event
+{
+	Group Reward
+	{
+		#--#	ItemVnum	ItemCount
+		1	70610	1
+	}
+
+	Group Mission_1
+	{
+		#--#	InfoDesc	InfoName
+		1	type	FISH_CATCH
+		2	item_vnum	0
+		3	count	200
+		#--#	Rewards
+		4	30279	2000
+	}
+
+	Group Mission_2
+	{
+		#--#	InfoDesc	InfoName
+		1	type	FISH_GRILL
+		2	item_vnum	0
+		3	count	100
+		#--#	Rewards
+		4	30277	2000
+	}
+	
+	Group Mission_3
+	{
+		#--#	InfoDesc	InfoName
+		1	type	COMPLETE_DUNGEON
+		2	dungeon_id	0
+		3	count	50
+		#--#	Rewards
+		4	30278	20
+		5	30280	20
+	}
+
+}

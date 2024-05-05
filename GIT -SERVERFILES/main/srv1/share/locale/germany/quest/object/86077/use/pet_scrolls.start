@@ -1,0 +1,26 @@
+if not pc . can_warp ( ) then 
+syschat ( gameforge [ pc . get_language ( ) ] . reset_scroll . _35 ) 
+return 
+end 
+say_title ( string . format ( "%s:" , item_name ( 86076 ) ) ) 
+say ( "" ) 
+local lang = pc . get_language ( ) 
+say ( gameforge [ lang ] . pet_scrolls . _18 ) 
+local s = select ( "YES" , gameforge [ lang ] . common . close ) 
+if s == 1 then 
+local ret = newpet . reset_skills ( ) 
+if ret == 1 then 
+say_title ( string . format ( "%s:" , item_name ( 86076 ) ) ) 
+say ( "" ) 
+say ( gameforge [ lang ] . pet_scrolls . _19 ) 
+pc . remove_item ( 86077 , 1 ) 
+elseif ret == 2 then 
+say_title ( string . format ( "%s:" , item_name ( 86076 ) ) ) 
+say ( "" ) 
+say ( gameforge [ lang ] . pet_scrolls . _16 ) 
+elseif ret == 3 then 
+say_title ( string . format ( "%s:" , item_name ( 86076 ) ) ) 
+say ( "" ) 
+say ( gameforge [ lang ] . pet_scrolls . _17 ) 
+end 
+end 

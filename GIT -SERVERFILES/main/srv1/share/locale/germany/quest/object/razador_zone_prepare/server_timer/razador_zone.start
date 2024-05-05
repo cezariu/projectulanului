@@ -1,0 +1,9 @@
+local arg = get_server_timer_arg ( ) 
+if d . find ( arg ) then 
+d . spawn_mob ( arg , 6091 , 686 , 637 ) 
+d . notice ( arg , 1128 , "50" , true ) 
+server_timer ( "razador_zone_end" , 2999 , arg ) 
+d . notice ( idx , 1060 , "" , true ) 
+else 
+razador_zone . clear ( arg ) 
+end 

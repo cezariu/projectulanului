@@ -16,3 +16,119 @@ GIT-CLIENT/makepack+client/.client/pack/patch_osf
 GIT-CLIENT/makepack+client/.client/pack/effect
 GIT-CLIENT/makepack+client/.client/pack/map
 GIT-CLIENT/makepack+client/.client/pack/zone_flame_dungeon
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+Debug/
+Release/
+Distribute/
+
+desktop.ini
+
+backup/
+
+
+client live/
+server src/External
+resurse/iconite
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+*.bsc
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# DNX
+project.lock.json
+artifacts/
+
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+
+VSFiles/
+syserr/
+syserr.txt
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.tlog
+
+# Executables
+*.out
+*.app
+*.db
+*.db-shm
+*.db-wal

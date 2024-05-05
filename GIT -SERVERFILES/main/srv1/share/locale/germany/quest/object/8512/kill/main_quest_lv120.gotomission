@@ -1,0 +1,16 @@
+local idx = pc . get_map_index ( ) 
+if idx >= 3.56e+06 and idx < 3.57e+06 then 
+d . notice ( idx , 988 , "" , true ) 
+d . notice ( idx , 989 , "" , true ) 
+server_timer ( "end_azrael" , 10 , idx ) 
+local c = pc . getf ( "main_quest_lv120" , "8512" ) 
+if c > 0 then 
+pc . setf ( "main_quest_lv120" , "8512" , c - 1 ) 
+end 
+local t = pc . getf ( "main_quest_lv120" , "8512" ) 
+if t == 0 then 
+pc . setf ( "main_quest_lv120" , "dungeon" , 2 ) 
+pc . setf ( "main_quest_lv120" , "success" , 0 ) 
+end 
+pc . setf ( "dungeon" , string . format ( "%d" , idx ) , 0 ) 
+end 

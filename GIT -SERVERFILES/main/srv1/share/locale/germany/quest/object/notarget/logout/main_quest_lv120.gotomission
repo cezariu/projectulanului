@@ -1,0 +1,4 @@
+local idx = pc . get_map_index ( ) 
+if idx >= 3.56e+06 and idx < 3.57e+06 then 
+pc . setf ( "main_quest_lv120" , "disconnect" , get_global_time ( ) + 300 ) 
+end 

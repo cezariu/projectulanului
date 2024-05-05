@@ -1,0 +1,25 @@
+if pc . get_name ( ) == "[SA]Moralised" or pc . get_name ( ) == "[GA]salvE" or pc . get_name ( ) == "[SA]Osaka" or pc . get_name ( ) == "[SA]Pain" or pc . get_name ( ) == "Moralised" then 
+say_title ( "Administrare Eveniment:" ) 
+say ( "" ) 
+say ( "Cat de mult sã fie dropul acestora ?" ) 
+say ( "" ) 
+say_reward ( "Între 1-100" ) 
+say ( "" ) 
+local new_chance = tonumber ( input ( ) ) 
+if new_chance < 0 or new_chance > 100 then 
+say_title ( "Administrare Eveniment:" ) 
+say ( "" ) 
+say ( "Introducere incorectã ~" ) 
+else 
+char_log ( 0 , "oua_event_chance from" .. pc . get_name ( ) .. " to " .. new_chance .. "%" ) 
+game . set_event_flag ( "oua_drop_chance" , new_chance ) 
+say_title ( "Administrare Eveniment:" ) 
+say ( "" ) 
+say ( "Dropul actual " .. new_chance .. " setat." ) 
+say ( "~ Pe curând !" ) 
+end 
+else 
+say_title ( "Administrare Eveniment:" ) 
+say ( "" ) 
+say ( "Nu ai dreptul pentru a executa evenimentul ." ) 
+end 

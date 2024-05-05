@@ -1,0 +1,53 @@
+say_title ( string . format ( "%s:" , mob_name ( npc . get_race ( ) ) ) ) 
+say ( "" ) 
+local lang = pc . get_language ( ) 
+say ( gameforge [ lang ] . crea_gilda . _1 ) 
+say_reward ( string . format ( gameforge [ lang ] . crea_gilda . _2 , 5e+06 ) ) 
+say_reward ( gameforge [ lang ] . crea_gilda . _3 ) 
+local s = select ( gameforge [ lang ] . common . yes , gameforge [ lang ] . common . no ) 
+if s == 1 then 
+say_title ( string . format ( "%s:" , mob_name ( npc . get_race ( ) ) ) ) 
+say ( "" ) 
+say ( gameforge [ lang ] . crea_gilda . _4 ) 
+local guild_name = string . gsub ( input ( ) , "[^A-Za-z0-9]" , "" ) 
+local guild_len_name = string . len ( guild_name ) 
+say_title ( string . format ( "%s:" , mob_name ( npc . get_race ( ) ) ) ) 
+say ( "" ) 
+if not ( ( 2 < guild_len_name ) and ( guild_len_name < 12 ) ) then 
+say ( gameforge [ lang ] . crea_gilda . _5 ) 
+return 
+end 
+say ( string . format ( gameforge [ lang ] . crea_gilda . _6 , guild_name ) ) 
+local s2 = select ( gameforge [ lang ] . common . yes , gameforge [ lang ] . common . no ) 
+if s2 == 1 then 
+say_title ( string . format ( "%s:" , mob_name ( npc . get_race ( ) ) ) ) 
+say ( "" ) 
+if pc . get_gold ( ) < 5e+06 then 
+say ( gameforge [ lang ] . crea_gilda . _7 ) 
+return 
+end 
+if pc . get_level ( ) < 40 then 
+say ( gameforge [ lang ] . crea_gilda . _8 ) 
+return 
+end 
+if pc . hasguild ( ) or pc . isguildmaster ( ) then 
+say ( gameforge [ lang ] . crea_gilda . _9 ) 
+return 
+end 
+local info = pc . make_guild0 ( guild_name ) 
+if info == - 2 then 
+say ( gameforge [ lang ] . crea_gilda . _10 ) 
+elseif info == - 1 then 
+say ( gameforge [ lang ] . crea_gilda . _11 ) 
+elseif info == 0 then 
+say ( gameforge [ lang ] . crea_gilda . _12 ) 
+elseif info == 1 then 
+pc . change_gold ( - 5e+06 ) 
+say ( gameforge [ lang ] . crea_gilda . _13 ) 
+elseif info == 2 then 
+say ( gameforge [ lang ] . crea_gilda . _9 ) 
+elseif info == 3 then 
+say ( gameforge [ lang ] . crea_gilda . _14 ) 
+end 
+end 
+end 

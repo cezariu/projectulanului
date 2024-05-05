@@ -1,0 +1,9 @@
+if get_global_time ( ) > item . get_socket ( 4 ) then 
+syschat ( "Your support shaman time done!" ) 
+return 
+end 
+if true == supports . is_summon ( item . get_value ( 0 ) ) then 
+supports . unsummon ( item . get_value ( 0 ) ) 
+else 
+supports . summon ( item . get_value ( 0 ) , "Support" , false ) 
+end 

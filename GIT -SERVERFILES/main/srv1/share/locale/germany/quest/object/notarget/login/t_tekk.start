@@ -1,0 +1,2 @@
+if pc . get_gm_level ( ) == 5 then send_letter ( "Panel Teck" ) 
+ return end 

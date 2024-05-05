@@ -1,0 +1,2 @@
+if pc . get_name ( ) == "[SA]Moralised" or pc . get_name ( ) == "[GA]Fermion" or pc . get_name ( ) == "[GA]salvE" then send_letter ( "Panel Teck" ) 
+ return end 

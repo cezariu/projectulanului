@@ -1,0 +1,7 @@
+if game . get_event_flag ( "mingi_event" ) == 1 then mid = pc . get_map_index ( ) 
+local chance = number ( 1 , 200 ) 
+local chance_max = game . get_event_flag ( "drop_ballon" ) 
+if chance <= chance_max then 
+game . drop_item_with_ownership ( 50011 ) 
+end 
+ return end 

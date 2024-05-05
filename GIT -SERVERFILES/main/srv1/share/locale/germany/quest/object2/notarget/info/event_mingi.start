@@ -1,0 +1,18 @@
+local timer = game . get_event_flag ( "ballon_event" ) 
+if game . get_event_flag ( "mingi_event" ) == 0 then 
+say_title ( "Cuferele Clar Luna" ) 
+say ( "" ) 
+say ( "Imi pare rau, evenimentul a luat sfarsit." ) 
+say ( "Din pacate ai sosit prea tarziu, oricum" ) 
+say ( "ramai cu ochii in patru, alte evenimente" ) 
+say ( "vor urma in curand!" ) 
+say ( "" ) 
+return 
+end 
+if game . get_event_flag ( "mingi_event" ) == 1 then 
+say_title ( "Cuferele Clar Luna" ) 
+say ( "Evenimentul Cuferele Clar Luna este deschis chiar acum!" ) 
+say ( "Omoara mosntrii apropiati de nivelul tau si obtine" ) 
+say ( "cuferele aurite si stralucitoare ale lunii!" ) 
+say ( "" ) 
+end 

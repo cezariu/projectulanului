@@ -1,0 +1,6 @@
+table_rate = { 3 , 5 , 6 , 7 } 
+local timer = game . get_event_flag ( "ballon_event" ) 
+game . set_event_flag ( "drop_ballon" , table_rate [ 2 ] ) 
+notice_all ( string . format ( "Mai sunt %s pana la incheierea evenimentului" , get_time_remaining ( timer - get_global_time ( ) ) ) ) 
+notice_all ( "Dropul Cuferelor Clar de Luna a fost marit!" ) 
+notice_all ( "Drop Precedent " .. table_rate [ 1 ] .. "%, Drop actual " .. table_rate [ 2 ] .. "%" ) 

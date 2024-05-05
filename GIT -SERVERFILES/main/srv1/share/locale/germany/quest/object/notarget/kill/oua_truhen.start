@@ -1,0 +1,77 @@
+local m_ind = pc . get_map_index ( ) 
+if npc . is_pc ( ) then 
+else 
+if m_ind == 1 or m_ind == 3 or m_ind == 21 or m_ind == 23 or m_ind == 41 or m_ind == 43 and pc . get_level ( ) <= 120 then 
+if game . get_event_flag ( "oua_event" ) == 1 then 
+local chance = number ( 1 , 100 ) 
+local chance_max = game . get_event_flag ( "oua_drop_chance" ) 
+if chance <= chance_max then 
+pc . give_item2 ( 50162 ) 
+pc . give_item2 ( 50164 ) 
+pc . give_item2 ( 50166 ) 
+else 
+end 
+else 
+end 
+elseif m_ind == 61 or m_ind == 62 or m_ind == 63 or m_ind == 64 or m_ind == 65 or m_ind == 66 or m_ind == 67 or m_ind == 68 or m_ind == 69 and pc . get_level ( ) <= 120 then 
+if game . get_event_flag ( "oua_event" ) == 1 then 
+local chance = number ( 1 , 100 ) 
+local chance_max = game . get_event_flag ( "oua_drop_chance" ) 
+if chance <= chance_max then 
+pc . give_item2 ( 50162 ) 
+pc . give_item2 ( 50164 ) 
+pc . give_item2 ( 50166 ) 
+else 
+end 
+else 
+end 
+elseif m_ind == 70 or m_ind == 71 or m_ind == 72 or m_ind == 73 or m_ind == 103 or m_ind == 104 or m_ind == 105 and pc . get_level ( ) <= 120 then 
+if game . get_event_flag ( "oua_event" ) == 1 then 
+local chance = number ( 1 , 100 ) 
+local chance_max = game . get_event_flag ( "oua_drop_chance" ) 
+if chance <= chance_max then 
+pc . give_item2 ( 50162 ) 
+pc . give_item2 ( 50164 ) 
+pc . give_item2 ( 50166 ) 
+else 
+end 
+else 
+end 
+elseif m_ind == 110 or m_ind == 111 or m_ind == 208 or m_ind == 209 or m_ind == 210 or m_ind == 212 or m_ind == 216 or m_ind == 217 or m_ind == 218 and pc . get_level ( ) <= 120 then 
+if game . get_event_flag ( "oua_event" ) == 1 then 
+local chance = number ( 1 , 100 ) 
+local chance_max = game . get_event_flag ( "oua_drop_chance" ) 
+if chance <= chance_max then 
+pc . give_item2 ( 50162 ) 
+pc . give_item2 ( 50164 ) 
+pc . give_item2 ( 50166 ) 
+else 
+end 
+else 
+end 
+elseif m_ind == 301 or m_ind == 302 or m_ind == 303 or m_ind == 304 and pc . get_level ( ) <= 120 then 
+if game . get_event_flag ( "oua_event" ) == 1 then 
+local chance = number ( 1 , 100 ) 
+local chance_max = game . get_event_flag ( "oua_drop_chance" ) 
+if chance <= chance_max then 
+pc . give_item2 ( 50162 ) 
+pc . give_item2 ( 50164 ) 
+pc . give_item2 ( 50166 ) 
+else 
+end 
+else 
+end 
+elseif m_ind == 351 or m_ind == 352 or m_imd == 353 or m_ind == 354 or m_ind == 355 or m_imd == 356 or m_imd == 357 and pc . get_level ( ) <= 120 then 
+if game . get_event_flag ( "oua_event" ) == 1 then 
+local chance = number ( 1 , 100 ) 
+local chance_max = game . get_event_flag ( "oua_drop_chance" ) 
+if chance <= chance_max then 
+pc . give_item2 ( 50162 ) 
+pc . give_item2 ( 50164 ) 
+pc . give_item2 ( 50166 ) 
+else 
+end 
+else 
+end 
+end 
+end 

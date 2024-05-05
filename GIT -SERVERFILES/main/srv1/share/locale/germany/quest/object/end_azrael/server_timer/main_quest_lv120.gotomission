@@ -1,0 +1,7 @@
+local arg = get_server_timer_arg ( ) 
+clear_server_timer ( "loop_azrael" , arg ) 
+clear_server_timer ( "end_azrael" , arg ) 
+if d . find ( arg ) then 
+d . kill_all ( arg ) 
+d . exit_all_lobby ( arg , 3 ) 
+end 

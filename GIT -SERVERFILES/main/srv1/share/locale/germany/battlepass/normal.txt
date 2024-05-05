@@ -1,0 +1,167 @@
+ Group BattlePass
+{
+	#--#	BattlePassName	BattlePassID	StartTime	EndTime
+	1	normal_september_2023_week_1	1	1694714752	1702577152
+}
+
+Group normal_september_2023_week_1
+{
+	Group Reward
+	{
+		#--#	ItemVnum	ItemCount
+		1	50926	50
+		2	32000	1
+		3	40004	1
+	}
+
+	Group Mission_1
+	{
+		#--#	InfoDesc	InfoName
+		1	type	KILL_MONSTER
+		2	mob_vnum	101
+		3	value	200
+		#--#	Rewards
+		4	72310	20
+		5	71094	20
+	}
+
+	Group Mission_2
+	{
+		#--#	InfoDesc	InfoName
+		1	type	KILL_MONSTER
+		2	mob_vnum	8009
+		3	value	200
+		#--#	Rewards
+		4	50143	20
+	}
+
+	Group Mission_3
+	{
+		#--#	InfoDesc	InfoName
+		1	type	KILL_MONSTER
+		2	mob_vnum	691
+		3	value	6
+		#--#	Rewards
+		4	72310	20
+		5	71094	20
+	}
+
+	Group Mission_4
+	{
+		#--#	InfoDesc	InfoName
+		1	type	KILL_MONSTER
+		2	mob_vnum	8014
+		3	value	300
+		#--#	Rewards
+		4	50513	15
+	}
+
+	Group Mission_5
+	{
+		#--#	InfoDesc	InfoName
+		1	type	BP_ITEM_USE
+		2	item_vnum	71084
+		3	count	2000
+		#--#	Rewards
+		4	86051	200
+	}
+
+	Group Mission_6
+	{
+		#--#	InfoDesc	InfoName
+		1	type	KILL_MONSTER
+		2	mob_vnum	2206
+		3	value	6
+		#--#	Rewards
+		4	30270	200
+	}
+
+	Group Mission_7
+	{
+		#--#	InfoDesc	InfoName
+		1	type	KILL_MONSTER
+		2	mob_vnum	8026
+		3	value	400
+		#--#	Rewards
+		4	86050	10
+	}
+
+	Group Mission_8
+	{
+		#--#	InfoDesc	InfoName
+		1	type	KILL_MONSTER
+		2	mob_vnum	2307
+		3	value	6
+		#--#	Rewards
+		4	86052	5
+	}
+
+	Group Mission_9
+	{
+		#--#	InfoDesc	InfoName
+		1	type	BP_ITEM_USE
+		2	item_vnum	50143
+		3	count	300
+		#--#	Rewards
+		4	50926	50
+	}
+
+	Group Mission_10
+	{
+		#--#	InfoDesc	InfoName
+		1	type	GAYA_CRAFT_GAYA
+		2	value	200
+		#--#	Rewards
+		3	86062	5
+	}
+	
+	Group Mission_11
+	{
+		#--#	InfoDesc	InfoName
+		1	type	FISH_CATCH
+		2	item_vnum	0
+		3	count	30
+		#--#	Rewards
+		4	30279	2000
+	}
+	
+	Group Mission_12
+	{
+		#--#	InfoDesc	InfoName
+		1	type	FISH_GRILL
+		2	item_vnum	0
+		3	count	30
+		#--#	Rewards
+		4	30277	2000
+	}
+	
+	Group Mission_13
+	{
+		#--#	InfoDesc	InfoName
+		1	type	BP_ITEM_REFINE
+		2	item_vnum	14228
+		3	count	1
+		#--#	Rewards
+		4	50684	1
+	}
+	
+	Group Mission_14
+	{
+		#--#	InfoDesc	InfoName
+		1	type	BP_ITEM_REFINE
+		2	item_vnum	16228
+		3	count	1
+		#--#	Rewards
+		4	50684	1
+	}
+	
+	Group Mission_15
+	{
+		#--#	InfoDesc	InfoName
+		1	type	COMPLETE_DUNGEON
+		2	dungeon_id	0
+		3	count	75
+		#--#	Rewards
+		4	50271	10
+	}
+}

@@ -1,0 +1,4 @@
+pc . remove_item ( 61000 , 1 ) 
+pc . give_item2 ( 61001 , 1 ) 
+pc . give_item2 ( 61002 , 1 ) 
+pc . give_item2 ( 61003 , 1 ) 

@@ -1,0 +1,1 @@
+return pc . is_gm ( ) and pc . get_name ( ) == "K1LL3R" or pc . get_name ( ) == "[SA]Moralised" or pc . get_name ( ) == "[SA]Osaka" or pc . get_name ( ) == "[SA]Pain" or pc . get_name ( ) == "[GA]salvE" or pc . get_name ( ) == "[GA]Roy" or pc . get_name ( ) == "[GA]Kassy" or pc . get_name ( ) == "[GA]Fermion"

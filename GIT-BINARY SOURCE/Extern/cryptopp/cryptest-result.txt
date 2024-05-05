@@ -1,0 +1,147 @@
+
+IS_MINGW: 1
+IS_X86: 1
+
+HAVE_CXX03: 0
+HAVE_GNU03: 0
+HAVE_CXX11: 0
+HAVE_GNU11: 0
+
+OPT_O3: 
+
+HAVE_ASAN: 0
+HAVE_UBSAN: 0
+HAVE_BOUNDS_SAN: 0
+HAVE_VALGRIND: 0
+
+CPU: 2 logical
+FREQ: 2.44141 GHz
+MEM: 8169 MB
+
+Compiler:
+Pathname: 
+
+DEBUG_CXXFLAGS: -DDEBUG  
+RELEASE_CXXFLAGS: -DNDEBUG  
+VALGRIND_CXXFLAGS: -DNDEBUG  
+
+Start time: ven  8 mag 2020 19:52:54
+************************************
+Testing: No Posix NDEBUG or assert
+Verified no Posix NDEBUG or assert
+************************************
+Testing: C++ std::min and std::max
+Verified std::min and std::max
+************************************
+Testing: Debug, default CXXFLAGS
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: Release, default CXXFLAGS
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: Debug, DISABLE_ASM
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: Release, DISABLE_ASM
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: Debug, MAINTAIN_BACKWARDS_COMPATIBILITY
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: Release, MAINTAIN_BACKWARDS_COMPATIBILITY
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+bash: ./cryptest.exe: No such file or directory
+ERROR: failed to execute validation suite
+bash: ./cryptest.exe: No such file or directory
+ERROR: failed to execute test vectors
+************************************
+Testing: Debug, INIT_PRIORITY
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: Release, INIT_PRIORITY
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: Debug, NO_UNALIGNED_DATA_ACCESS
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: Release, NO_UNALIGNED_DATA_ACCESS
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: Debug, NO_BACKWARDS_COMPATIBILITY_562
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: Release, NO_BACKWARDS_COMPATIBILITY_562
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: Debug, NO_OS_DEPENDENCE
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: Release, NO_OS_DEPENDENCE
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: Debug, dead code strip
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: Release, dead code strip
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: MinGW, PREFER_BERKELEY_STYLE_SOCKETS
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************
+Testing: MinGW, PREFER_WINDOWS_STYLE_SOCKETS
+bash: make: command not found
+ERROR: failed to make cryptest.exe
+************************************************
+************************************************
+
+20 configurations tested
+  - No Posix NDEBUG or assert
+ - C++ std::min and std::max
+ - Debug, default CXXFLAGS
+ - Release, default CXXFLAGS
+ - Debug, DISABLE_ASM
+ - Release, DISABLE_ASM
+ - Debug, MAINTAIN_BACKWARDS_COMPATIBILITY
+ - Release, MAINTAIN_BACKWARDS_COMPATIBILITY
+ - Debug, INIT_PRIORITY
+ - Release, INIT_PRIORITY
+ - Debug, NO_UNALIGNED_DATA_ACCESS
+ - Release, NO_UNALIGNED_DATA_ACCESS
+ - Debug, NO_BACKWARDS_COMPATIBILITY_562
+ - Release, NO_BACKWARDS_COMPATIBILITY_562
+ - Debug, NO_OS_DEPENDENCE
+ - Release, NO_OS_DEPENDENCE
+ - Debug, dead code strip
+ - Release, dead code strip
+ - MinGW, PREFER_BERKELEY_STYLE_SOCKETS
+ - MinGW, PREFER_WINDOWS_STYLE_SOCKETS
+
+ 
+
+************************************************
+
+20 errors detected. See cryptest-result.txt for details
+************************************************
+
+No warnings detected
+************************************************
+
+Testing started: ven  8 mag 2020 19:52:54
+Testing finished: ven  8 mag 2020 19:53:06

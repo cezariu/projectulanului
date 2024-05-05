@@ -1,0 +1,2 @@
+if game . get_event_flag ( "mingi_event" ) == 1 then send_letter ( "Cuferele Clar Luna" ) 
+ return end 

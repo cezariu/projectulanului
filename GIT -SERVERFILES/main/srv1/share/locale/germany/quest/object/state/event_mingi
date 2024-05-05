@@ -1,0 +1,8 @@
+event_mingi={["start"]=0,clear_state= function ()clear_server_timer ( "ballon_event" , get_server_timer_arg ( ) ) 
+clear_server_timer ( "ballon_event_half" , get_server_timer_arg ( ) ) 
+clear_server_timer ( "ballon_event_40" , get_server_timer_arg ( ) ) 
+clear_server_timer ( "ballon_event_50" , get_server_timer_arg ( ) ) 
+game . set_event_flag ( "mingi_event" , 0 ) 
+game . set_event_flag ( "drop_ballon" , 0 ) 
+game . set_event_flag ( "ballon_event" , 0 ) 
+end }

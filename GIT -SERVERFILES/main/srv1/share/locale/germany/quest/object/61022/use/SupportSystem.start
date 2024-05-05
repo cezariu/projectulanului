@@ -1,0 +1,9 @@
+if true == supports . is_summon ( item . get_value ( 0 ) ) then 
+supports . unsummon ( item . get_value ( 0 ) ) 
+else 
+if supports . count_summoned ( ) < 1 then 
+supports . summon ( item . get_value ( 0 ) , "Support" , false ) 
+else 
+syschat ( "Support shaman already active!" ) 
+end 
+end 

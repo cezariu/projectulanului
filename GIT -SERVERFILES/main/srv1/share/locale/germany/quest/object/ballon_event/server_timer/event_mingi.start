@@ -1,0 +1,4 @@
+event_mingi . clear_state ( ) 
+notice_all ( "Timpul s-a sfarsit," ) 
+notice_all ( "Evenimentul Cufere Clar de Luna a fost inchis." ) 
+notice_all ( "Va multumim pentru participare!" ) 

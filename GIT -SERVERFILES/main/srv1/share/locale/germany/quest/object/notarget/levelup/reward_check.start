@@ -1,0 +1,3 @@
+if pc . get_level ( ) == 120 and not pc . is_gm ( ) then game . set_reward ( 3 ) 
+ return end if pc . get_level ( ) == 100 and not pc . is_gm ( ) then game . set_reward ( 1 ) 
+ return end 

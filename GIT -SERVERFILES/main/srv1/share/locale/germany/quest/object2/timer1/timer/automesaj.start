@@ -1,0 +1,3 @@
+timer ( "timer2" , 721 ) 
+notice ( "Players with [H] included in the name are called HELPERS" ) 
+notice ( "They can answer server related questions." ) 

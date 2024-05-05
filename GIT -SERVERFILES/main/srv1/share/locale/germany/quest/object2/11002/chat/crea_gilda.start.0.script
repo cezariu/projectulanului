@@ -1,0 +1,15 @@
+local lang = pc . get_language ( ) 
+say_title ( string . format ( "%s:" , mob_name ( npc . get_race ( ) ) ) ) 
+say ( "" ) 
+say ( gameforge [ lang ] . guild_leave . _1 ) 
+say ( gameforge [ lang ] . guild_leave . _2 ) 
+say ( gameforge [ lang ] . guild_leave . _3 ) 
+local s = select ( gameforge [ lang ] . common . yes , gameforge [ lang ] . common . no ) 
+if s == 2 then 
+return 
+end 
+say_title ( string . format ( "%s:" , mob_name ( npc . get_race ( ) ) ) ) 
+say ( "" ) 
+say ( gameforge [ lang ] . guild_leave . _4 ) 
+pc . remove_from_guild ( ) 
+pc . setqf ( "new_withdraw_time" , get_global_time ( ) ) 

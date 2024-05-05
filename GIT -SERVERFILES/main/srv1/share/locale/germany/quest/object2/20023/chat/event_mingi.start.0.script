@@ -1,0 +1,83 @@
+table_rate = { 3 , 5 , 6 , 7 } 
+if game . get_event_flag ( "mingi_event" ) == 1 then 
+say_title ( "Magazin General - Event" ) 
+say ( "" ) 
+say ( "Evenimentul este deja pornit," ) 
+say ( "doresti sa inchizi evenimentul?" ) 
+say ( "" ) 
+if ( select ( "Da" , "Nu" ) == 1 ) then 
+notice_all ( "Evenimentul a fost inchis de catre echipa Zentoria2." ) 
+event_mingi . clear_state ( ) 
+end 
+end 
+if game . get_event_flag ( "mingi_event" ) == 0 then 
+say_title ( "Magazin General - Event" ) 
+say ( "" ) 
+say ( "Manage Event:" ) 
+say ( "" ) 
+local manage = select ( "Deschide Eveniment" , "Curata Timer/Event_Flag" , "Renunta" ) 
+if manage == 3 then return end 
+if manage == 1 then 
+say_title ( "Magazin General - Event" ) 
+say ( "" ) 
+say ( "Alege o metoda:" ) 
+say ( "" ) 
+say_reward ( "ATENTIE: Timpul se calculeaza in minute!" ) 
+say ( "" ) 
+local metoda = select ( "Scrie Timpul" , "Renunta" ) 
+if metoda == 2 then return end 
+if metoda == 1 then 
+say_title ( "Magazin General - Event" ) 
+say ( "" ) 
+say ( "Insereaza cat timp va tine evenimentul:" ) 
+say ( "" ) 
+say_reward ( "ATENTIE: Timpul se calculeaza in minute!" ) 
+say ( "" ) 
+local input = tonumber ( input ( ) ) 
+if input == nil then 
+say_title ( "Magazin General - Event" ) 
+say ( "" ) 
+say ( "Trebuie sa scri ceva pentru ca evenimentul sa inceapa." ) 
+say ( "" ) 
+return 
+end 
+if input <= 10080 then 
+if input >= 1 then 
+say_title ( "Magazin General - Event" ) 
+say ( "" ) 
+say ( "Vad ca esti foarte hotarat, asa sa fie." ) 
+event_mingi . clear_state ( ) 
+wait ( ) 
+game . set_event_flag ( "ballon_event" , get_global_time ( ) + input * 60 ) 
+game . set_event_flag ( "mingi_event" , 1 ) 
+game . set_event_flag ( "drop_ballon" , table_rate [ 1 ] ) 
+server_timer ( "ballon_event" , input * 60 , get_server_timer_arg ( ) ) 
+server_timer ( "ballon_event_half" , input * 60 / 2 , get_server_timer_arg ( ) ) 
+server_timer ( "ballon_event_40" , input * 60 / 2 * 1.5 , get_server_timer_arg ( ) ) 
+server_timer ( "ballon_event_50" , input * 60 / 2 * 1.5 * 1.22 , get_server_timer_arg ( ) ) 
+notice_all ( "Evenimentul Cufarul Clar Luna a fost deschis!" ) 
+notice_all ( string . format ( "Acesta a fost setat pentru inchidere in %s " , get_time_remaining ( input * 60 ) ) ) 
+return 
+end 
+else 
+say_title ( "Magazin General - Event" ) 
+say ( "" ) 
+say ( "Erroare - Timp prea mare!" ) 
+return 
+end 
+if input <= 0 then 
+say_title ( "Magazin General - Event" ) 
+say ( "" ) 
+say ( "Erroare - Timp prea mic!" ) 
+return 
+end 
+end 
+end 
+if manage == 2 then 
+say_title ( "Magazin General - Event" ) 
+say ( "" ) 
+say ( "Eveniment curatat cu succes." ) 
+say ( "" ) 
+event_mingi . clear_state ( ) 
+end 
+end 

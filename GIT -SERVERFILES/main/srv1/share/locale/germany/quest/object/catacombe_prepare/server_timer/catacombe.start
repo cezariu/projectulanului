@@ -1,0 +1,9 @@
+local arg = get_server_timer_arg ( ) 
+if d . find ( arg ) then 
+d . spawn_mob ( arg , 2597 , 1300 , 710 ) 
+d . notice ( arg , 1128 , string . format ( "%d" , 40 ) , true ) 
+server_timer ( "catacombe_end" , 2399 , arg ) 
+d . notice ( arg , 1004 , "" , true ) 
+else 
+catacombe . clear ( arg ) 
+end 

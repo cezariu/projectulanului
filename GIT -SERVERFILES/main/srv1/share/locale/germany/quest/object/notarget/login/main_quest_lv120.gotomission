@@ -1,0 +1,20 @@
+if pc . getqf ( "dungeon" ) == 2 then 
+pc . delqf ( "dungeon" ) 
+set_state ( "gotoreward" ) 
+end 
+local idx = pc . get_map_index ( ) 
+if idx == 356 then 
+pc . warp ( 645800 , 351400 ) 
+elseif idx >= 3.56e+06 and idx < 3.57e+06 then 
+pc . set_warp_location ( 361 , 6458 , 3514 ) 
+pc . setf ( "main_quest_lv120" , "idx" , idx ) 
+pc . setf ( "main_quest_lv120" , "ch" , pc . get_channel_id ( ) ) 
+if pc . getqf ( "dungeon" ) == 0 then 
+pc . setqf ( "dungeon" , idx ) 
+d . setf ( idx , "floor" , 1 ) 
+d . setf ( idx , "step" , 9 ) 
+d . notice ( idx , 987 , "" , true ) 
+d . spawn_mob ( idx , 8512 , 384 , 657 ) 
+server_timer ( "loop_azrael" , 60 , idx ) 
+end 
+end 

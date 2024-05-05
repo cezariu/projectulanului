@@ -1,0 +1,10 @@
+say_title ( "GM Map Teleporter" ) 
+say ( "To enter the gm map" ) 
+say ( "you will need a password. Ask:" ) 
+say ( "Moralised" ) 
+say_reward ( "PASSWORD:" ) 
+local sname = input ( ) 
+if sname == "rubria" then 
+pc . warp ( 93200 , 10000 ) 
+return 
+end 
