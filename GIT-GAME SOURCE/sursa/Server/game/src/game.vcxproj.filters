@@ -508,9 +508,6 @@
     <ClCompile Include="questlua_support.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="reborn.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="SupportSystem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -914,9 +911,6 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="pcbang.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="reborn.h">
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="SupportSystem.h">

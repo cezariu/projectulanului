@@ -521,7 +521,7 @@
 80024	ETC	icon/item/80024.tga
 80025	ETC	icon/item/80025.tga
 80026	ETC	icon/item/80026.tga
-80027	ETC	icon/item/80027.tga
+80027	ETC	icon/item/31024.tga
 30284	ETC	icon/item/30284.tga
 72001	ETC	icon/item/70005.tga
 72002	ETC	icon/item/70005.tga
@@ -11961,3 +11961,5 @@
 
 
 85106	WING	icon/item/dkc_wing.tga	d:/ymir work/item/wing/plechito/dark_cult_wing/dark_cult_wing.gr2
+
+30182	ETC	icon/item/30182.tga

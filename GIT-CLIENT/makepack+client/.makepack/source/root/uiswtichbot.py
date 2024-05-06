@@ -585,7 +585,7 @@ class UiSwitchBot(ui.ScriptWindow):
 		if self.func_check_change():
 			list_bonus = self.func_get_list_bonus_select()
 
-			self.accept_message.SetText1("¿Do you want to change the bonuses of this item?")
+			self.accept_message.SetText1("Do you want to change the bonuses of this item?")
 			self.accept_message.SetText2("The item will lose the current bonuses.")
 			self.accept_message.SetAcceptEvent(lambda arg=TRUE,  bonus  = list_bonus: self.AcceptChangeBonus(arg,bonus))
 			self.accept_message.SetCancelEvent(lambda arg=FALSE, bonus  = list_bonus: self.AcceptChangeBonus(arg,bonus))

@@ -531,7 +531,7 @@ class LoginWindow(ui.ScriptWindow):
 				
 				app.SetDefaultCodePage(self.GetCodePage(lang))
 				app.ForceSetLocale(lang, "locale/%s" % (lang))
-				app.ShellExecute("Hypnotic2.exe")
+				app.ShellExecute("??????.exe")
 				self.OnCloseQuestionDialog()
 				app.Exit()
 
@@ -878,7 +878,7 @@ class LoginWindow(ui.ScriptWindow):
 
 	def OnUpdate(self):
 		if constinfo.restart == 1:
-			app.ShellExecute("Hypnotic2.exe")
+			app.ShellExecute("??????.exe")
 			app.Exit()
 		
 		ServerStateChecker.Update()

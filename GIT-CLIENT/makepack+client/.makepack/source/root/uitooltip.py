@@ -3013,10 +3013,10 @@ class ItemToolTip(ToolTip):
 				self.AppendSpace(5)
 				self.AppendTextLine(localeinfo.CHEST_DROP_INFO, self.NORMAL_COLOR)
 			
-			hasinfo = item.HasDropInfo(itemVnum, False)
-			if hasinfo:
-				self.AppendSpace(5)
-				self.AppendTextLine(localeinfo.CHEST_BASE_DROP_INFO, self.NORMAL_COLOR)
+			# hasinfo = item.HasDropInfo(itemVnum, False)
+			# if hasinfo:
+			# 	self.AppendSpace(5)
+			# 	self.AppendTextLine(localeinfo.CHEST_BASE_DROP_INFO, self.NORMAL_COLOR)
 
 	def __IsOldHair(self, itemVnum):
 		return itemVnum > 73000 and itemVnum < 74000
