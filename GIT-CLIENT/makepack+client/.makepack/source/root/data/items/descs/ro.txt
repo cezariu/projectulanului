@@ -116,7 +116,7 @@
 30618	Piatra Lunii	O sc�nteie din lumina lunii este prins� �n aceast� bijuterie �n form� de lacrim�. Folosit� pentru rafinarea unei piese din echipament.
 33031	Floare elemental�	Piatr� pre�ioas� �n form� de floare pentru �mbun�t��irea talismanelor elementale.
 39001	Piatra Magica	Aceast� piatr� ��i garanteaz� succesul �n �mbun�t��irea obiectului. Pe l�ng� asta, obiectul nu va fi nici distrus �i nici dec�zut. Obiectul se poate negocia.
-39007	Manualul Fierarului	Aceast� carte este binecuv�ntat� cu sufletul unui fierar �n�elept. Cre�te �ansa de a �mbun�t��i un obiect. Obiectul se poate negocia.
+39007	Manualul Fierarului	Aceast� carte este binecuvantat� cu sufletul unui fierar �n�elept. Cre�te �ansa de a �mbun�t��i un obiect. Obiectul se poate negocia.
 39008	Pergamentul Exorcizarii	Va desface blestemul spiritelor rele daca invatatul nu are succes. Cu ajutorul acestui pergament poti citi un alt document in aceeasi zi. Obiectul se poate negocia.
 39022	Pergamentul Dragonului	Reduce riscul distrugerii unui obiect dac� �mbun�t��irea e�ueaz�. �n cazul e�u�rii, calitatea obiectului va fi sc�zut� doar cu 1 punct. Adi�ional, �ansa succesului la �mbun�t��ire va cre�te cu 10%. Obiectul se poate negocia.
 39027	Cartea Pietrelor	Elimina toate pietrele sparte dintr-un obiect. Astfel primesti o noua incercare de a imbunatati arma sau armura. Obiectul se poate negocia.
@@ -1014,7 +1014,7 @@
 71135	Inel Semiluna(7d)	Un inel cu o gravur� artizanal� �n form� de semilun�.
 71136	Acadea N�zdr�van�(7d)	O acadea f�cut� din ingrediente secrete, care ��i ofera bonusuri speciale.
 71148	Inelul Voin�� Puternic� (30d)	Un inel f�cut din ingrediente secrete, care ��i ofera bonusuri speciale
-71153	Po�iunea �n�elepciune (1h)	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
+71153	Po�iunea �n�elepciune (1h)	Zeul Dragon te va binecuvanta.
 71174	Permis Trecere Razador	�nm�n�nd Biletul Razador tutorelui, vei ob�ine permisiunea de a intra �n Cetatea Dragonului rosu.
 71175	Permis Trecere Nemere	�nm�n�nd Biletul Nemere tutorelui, vei ob�ine permisiunea de a intra �n Turnul Nemere.
 71188	Acadea Magic� (15d)	O acadea f�cut� din ingrediente secrete, care ��i ofera bonusuri speciale.
@@ -1031,13 +1031,13 @@
 71253	Manny (Permanent)	Sigiliu care evoc� un mamut antic.
 71254	Leu Alb(Permanent)	Animalele cu blan� alb� sunt foarte rare �i multe culturi le venereaz�, crez�nd ca poart� puteri remarcabile.
 71255	Cal Spectral (Permanent)	Acest sigiliu evoc� un mount str�lucitor.
-72001	Inelul Experien�ei(1h)	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-72002	Inelul Experien�ei(3h)	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-72006	M�nu�a T�lharului (1h)	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-72013	Cartea Pescuitului (30m)	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-72014	Cartea Pescuitului (1h)	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-72015	Cartea Pescuitului(Permanent)	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-72044	Cartea Liderilor (1h)	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
+72001	Inelul Experien�ei(1h)	Zeul Dragon te va binecuvanta.
+72002	Inelul Experien�ei(3h)	Zeul Dragon te va binecuvanta.
+72006	M�nu�a T�lharului (1h)	Zeul Dragon te va binecuvanta.
+72013	Cartea Pescuitului (30m)	Zeul Dragon te va binecuvanta.
+72014	Cartea Pescuitului (1h)	Zeul Dragon te va binecuvanta.
+72015	Cartea Pescuitului(Permanent)	Zeul Dragon te va binecuvanta.
+72044	Cartea Liderilor (1h)	Zeul Dragon te va binecuvanta.
 72726	Elixir de soare(E)	Automatically refills your HP. con�ine infinite HP.
 72730	Elixir de lun� (E)	Automatically refills your SP.con�ine infinite SP.
 80019	Yellow thin fabric	Material folosit pentru fabricarea unui esarfe.
@@ -1206,54 +1206,54 @@
 88256	Efect Armur� Galben� III (7d)	Acest articol ofera o estetica special� caracterului t�u.
 88257	Efect Armur� Galben� III (Permanent)	Acest articol ofera o estetica special� caracterului t�u.
 88902	Pachetul Kashmir	Acest pachet v� permite s� v� decora�i magazinul �ntr-un mod unic.
-88910	Fiol� Portocalie	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88911	Fiol� Galben�	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88912	Fiol� Albastr�	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88913	Fiol� Ro�ie	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88914	Fiol� Verde	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88915	Fiol� Violet	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88916	Roc� Albastr�	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88917	Roc� Portocalie	Zeul Dragon te va binecuv�nta: NECESITA LEVEL 75.
-88918	Roc� Alb�	Zeul Dragon te va binecuv�nta: NECESITA LEVEL 50.
-88919	Roc� Galben�	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88920	Roc� Ro�ie	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88921	Roc� Verde	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88922	Lovitur� Critic�	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88923	Lovitur� P�trunz�toare	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88924	Atacul Zeului Dragon	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88925	APararea Zeului Dragon	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88926	Inteligen�a Zeului Dragon	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88927	Via�a Zeului Dragon	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88928	Elixir Vitez� de Atac	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88929	Po�iune Verde(L) (Permanent)	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88930	Roc� Albastr� (Permanent)	Zeul Dragon te va binecuv�nta: NECESITA LEVEL 75.
-88931	Roc� Portocalie (Permanent)	Zeul Dragon te va binecuv�nta: NECESITA LEVEL 75.
-88932	Roc� Galben� (Permanent)	Zeul Dragon te va binecuv�nta: NECESITA LEVEL 75.
-88933	Roc� Ro�ie (Permanent)	Zeul Dragon te va binecuv�nta: NECESITA LEVEL 75.
-88934	Roc� Verde (Permanent)	Zeul Dragon te va binecuv�nta: NECESITA LEVEL 75.
-88935	Lovitur� Critic� (Permanent)	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88936	Lovitur� P�trunz�toare (Permanent)	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88937	Atacul Zeului Dragon (Permanent)	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88938	APararea Zeului Dragon (Permanent)	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88939	Inteligen�a Zeului Dragon (Permanent)	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88940	Via�a Zeului Dragon (Permanent)	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88941	Roc� Albastr�	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88942	Roc� Portocalie	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88943	Roc� Galben�	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88944	Roc� Ro�ie	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88945	Roc� Verde	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88946	Fiol� Portocalie	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88947	Fiol� Galben�	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88948	Fiol� Albastr�	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88949	Fiol� Ro�ie	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88950	Fiol� Verde	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88951	Fiol� Violet	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88952	Lovitur� Critic�	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88953	Lovitur� P�trunz�toare	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88954	Atacul Zeului Dragon	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88955	APararea Zeului Dragon	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88956	Inteligen�a Zeului Dragon	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
-88957	Via�a Zeului Dragon	Zeul Dragon te va binecuv�nta: Apas� click-dreapta pentru a primi binecuv�ntarea
+88910	Fiol� Portocalie	Zeul Dragon te va binecuvanta.
+88911	Fiol� Galben�	Zeul Dragon te va binecuvanta.
+88912	Fiol� Albastr�	Zeul Dragon te va binecuvanta.
+88913	Fiol� Ro�ie	Zeul Dragon te va binecuvanta.
+88914	Fiol� Verde	Zeul Dragon te va binecuvanta.
+88915	Fiol� Violet	Zeul Dragon te va binecuvanta.
+88916	Roc� Albastr�	Zeul Dragon te va binecuvanta.
+88917	Roc� Portocalie	Zeul Dragon te va binecuvanta.
+88918	Roc� Alb�	Zeul Dragon te va binecuvanta.
+88919	Roc� Galben�	Zeul Dragon te va binecuvanta.
+88920	Roc� Ro�ie	Zeul Dragon te va binecuvanta.
+88921	Roc� Verde	Zeul Dragon te va binecuvanta.
+88922	Lovitur� Critic�	Zeul Dragon te va binecuvanta.
+88923	Lovitur� P�trunz�toare	Zeul Dragon te va binecuvanta.
+88924	Atacul Zeului Dragon	Zeul Dragon te va binecuvanta.
+88925	APararea Zeului Dragon	Zeul Dragon te va binecuvanta.
+88926	Inteligen�a Zeului Dragon	Zeul Dragon te va binecuvanta.
+88927	Via�a Zeului Dragon	Zeul Dragon te va binecuvanta.
+88928	Elixir Vitez� de Atac	Zeul Dragon te va binecuvanta.
+88929	Po�iune Verde(L) (Permanent)	Zeul Dragon te va binecuvanta.
+88930	Roc� Albastr� (Permanent)	Zeul Dragon te va binecuvanta.
+88931	Roc� Portocalie (Permanent)	Zeul Dragon te va binecuvanta.
+88932	Roc� Galben� (Permanent)	Zeul Dragon te va binecuvanta.
+88933	Roc� Ro�ie (Permanent)	Zeul Dragon te va binecuvanta.
+88934	Roc� Verde (Permanent)	Zeul Dragon te va binecuvanta.
+88935	Lovitur� Critic� (Permanent)	Zeul Dragon te va binecuvanta.
+88936	Lovitur� P�trunz�toare (Permanent)	Zeul Dragon te va binecuvanta.
+88937	Atacul Zeului Dragon (Permanent)	Zeul Dragon te va binecuvanta.
+88938	APararea Zeului Dragon (Permanent)	Zeul Dragon te va binecuvanta.
+88939	Inteligen�a Zeului Dragon (Permanent)	Zeul Dragon te va binecuvanta.
+88940	Via�a Zeului Dragon (Permanent)	Zeul Dragon te va binecuvanta.
+88941	Roc� Albastr�	Zeul Dragon te va binecuvanta.
+88942	Roc� Portocalie	Zeul Dragon te va binecuvanta.
+88943	Roc� Galben�	Zeul Dragon te va binecuvanta.
+88944	Roc� Ro�ie	Zeul Dragon te va binecuvanta.
+88945	Roc� Verde	Zeul Dragon te va binecuvanta.
+88946	Fiol� Portocalie	Zeul Dragon te va binecuvanta.
+88947	Fiol� Galben�	Zeul Dragon te va binecuvanta.
+88948	Fiol� Albastr�	Zeul Dragon te va binecuvanta.
+88949	Fiol� Ro�ie	Zeul Dragon te va binecuvanta.
+88950	Fiol� Verde	Zeul Dragon te va binecuvanta.
+88951	Fiol� Violet	Zeul Dragon te va binecuvanta.
+88952	Lovitur� Critic�	Zeul Dragon te va binecuvanta.
+88953	Lovitur� P�trunz�toare	Zeul Dragon te va binecuvanta.
+88954	Atacul Zeului Dragon	Zeul Dragon te va binecuvanta.
+88955	APararea Zeului Dragon	Zeul Dragon te va binecuvanta.
+88956	Inteligen�a Zeului Dragon	Zeul Dragon te va binecuvanta.
+88957	Via�a Zeului Dragon	Zeul Dragon te va binecuvanta.
 88958	Pergament Suflet	With this scroll you make your soul evolve one level
 88959	Vr�je�te Obiectul	It removes the bonuses from one de your items and adds more
 88960	Snack Special	Prin aceast� mu�c�tur� po�i �mbun�t��i un bonus al animalului dvs. de companie. Trage snack-ul peste pictograma animalului de companie pentru al utiliza.
