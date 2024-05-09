@@ -647,20 +647,20 @@ window = {
 									"down_image" : "d:/ymir work/ui/game/windows/skill_tab_button_03.sub",
 								},
 
-								{
-									"name" : "Skill_Group_Button_3",
-									"type" : "radio_button",
+								# {
+								# 	"name" : "Skill_Group_Button_3",
+								# 	"type" : "radio_button",
 
-									"x" : 95,
-									"y" : 2,
+								# 	"x" : 95,
+								# 	"y" : 2,
 
-									"text" : uiscriptlocale.SKILL_PASSIVE_DEFENSE,
-									"text_color" : 0xFFFFE3AD,
+								# 	"text" : uiscriptlocale.SKILL_PASSIVE_DEFENSE,
+								# 	"text_color" : 0xFFFFE3AD,
 
-									"default_image" : "d:/ymir work/ui/game/windows/skill_tab_button_01.sub",
-									"over_image" : "d:/ymir work/ui/game/windows/skill_tab_button_02.sub",
-									"down_image" : "d:/ymir work/ui/game/windows/skill_tab_button_03.sub",
-								},
+								# 	"default_image" : "d:/ymir work/ui/game/windows/skill_tab_button_01.sub",
+								# 	"over_image" : "d:/ymir work/ui/game/windows/skill_tab_button_02.sub",
+								# 	"down_image" : "d:/ymir work/ui/game/windows/skill_tab_button_03.sub",
+								# },
 
 								{
 									"name" : "Active_Skill_Group_Name",

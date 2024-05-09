@@ -244,8 +244,8 @@ class CharacterWindow(ui.ScriptWindow):
 		self.supportSkillPointValue = None
 		self.skillGroupButton1 = None
 		self.skillGroupButton2 = None
-		if app.ENABLE_NEW_PASSIVE_SKILLS:
-			self.skillGroupButton3 = None
+		# if app.ENABLE_NEW_PASSIVE_SKILLS:
+		# 	self.skillGroupButton3 = None
 		
 		self.activeSkillGroupName = None
 
@@ -328,8 +328,8 @@ class CharacterWindow(ui.ScriptWindow):
 		self.supportSkillPointValue.Hide()
 		self.skillGroupButton1 = self.GetChild("Skill_Group_Button_1")
 		self.skillGroupButton2 = self.GetChild("Skill_Group_Button_2")
-		if app.ENABLE_NEW_PASSIVE_SKILLS:
-			self.skillGroupButton3 = self.GetChild("Skill_Group_Button_3")
+		# if app.ENABLE_NEW_PASSIVE_SKILLS:
+		# 	self.skillGroupButton3 = self.GetChild("Skill_Group_Button_3")
 
 		self.activeSkillGroupName = self.GetChild("Active_Skill_Group_Name")
 
@@ -673,8 +673,8 @@ class CharacterWindow(ui.ScriptWindow):
 		for i in xrange(len(self.skillGroupButton)):
 			self.skillGroupButton[i].SetEvent(lambda arg=i: self.__SelectSkillGroup(arg))
 		
-		if app.ENABLE_NEW_PASSIVE_SKILLS:
-			self.skillGroupButton3.SetEvent(lambda arg=i: self.__SelectSkillGroup(3))
+		# if app.ENABLE_NEW_PASSIVE_SKILLS:
+		# 	self.skillGroupButton3.SetEvent(lambda arg=i: self.__SelectSkillGroup(3))
 
 		self.RefreshQuest()
 		self.__HideJobToolTip()
@@ -940,8 +940,8 @@ class CharacterWindow(ui.ScriptWindow):
 
 	def SelectSkill(self, skillSlotIndex):
 
-		if app.ENABLE_NEW_PASSIVE_SKILLS and self.skillGroupButton3.IsDown() and skillSlotIndex < 100:
-			return
+		# if app.ENABLE_NEW_PASSIVE_SKILLS and self.skillGroupButton3.IsDown() and skillSlotIndex < 100:
+		# 	return
 
 		mouseController = mousemodule.mouseController
 
@@ -976,12 +976,12 @@ class CharacterWindow(ui.ScriptWindow):
 			return
 
 		srcSlotIndex = self.__RealSkillSlotToSourceSlot(slotNumber)
-		if app.ENABLE_NEW_PASSIVE_SKILLS and self.skillGroupButton3.IsDown() and slotNumber < 100:
-			srcSlotIndex = self.__RealSkillSlotToSourceSlot(slotNumber + 220)
-			if srcSlotIndex-220 >= 40:
-				srcSlotIndex -= 40
-			elif srcSlotIndex-220 >= 20:
-				srcSlotIndex -= 20
+		# if app.ENABLE_NEW_PASSIVE_SKILLS and self.skillGroupButton3.IsDown() and slotNumber < 100:
+		# 	srcSlotIndex = self.__RealSkillSlotToSourceSlot(slotNumber + 220)
+		# 	if srcSlotIndex-220 >= 40:
+		# 		srcSlotIndex -= 40
+		# 	elif srcSlotIndex-220 >= 20:
+		# 		srcSlotIndex -= 20
 		
 		skillIndex = player.GetSkillIndex(srcSlotIndex)
 		skillLevel = player.GetSkillLevel(srcSlotIndex)
@@ -1217,69 +1217,69 @@ class CharacterWindow(ui.ScriptWindow):
 	def __RefreshSkillPage(self, name, slotCount):
 		global SHOW_LIMIT_SUPPORT_SKILL_LIST
 		
-		if app.ENABLE_NEW_PASSIVE_SKILLS and self.skillGroupButton3.IsDown():
-			skillPage = self.skillPageDict["ACTIVE"]
-			getSkillMaxLevel = skill.GetSkillMaxLevel
+		# if app.ENABLE_NEW_PASSIVE_SKILLS and self.skillGroupButton3.IsDown():
+		# 	skillPage = self.skillPageDict["ACTIVE"]
+		# 	getSkillMaxLevel = skill.GetSkillMaxLevel
 			
-			for i in xrange(self.ACTIVE_PAGE_SLOT_COUNT+1):
-				slotIndex = i + skillPage.GetStartIndex() + 220
-				skillIndex = player.GetSkillIndex(slotIndex)
-				for j in xrange(skill.SKILL_GRADE_COUNT):
-					skillPage.ClearSlot(self.__GetRealSkillSlot(j, i))
+		# 	for i in xrange(self.ACTIVE_PAGE_SLOT_COUNT+1):
+		# 		slotIndex = i + skillPage.GetStartIndex() + 220
+		# 		skillIndex = player.GetSkillIndex(slotIndex)
+		# 		for j in xrange(skill.SKILL_GRADE_COUNT):
+		# 			skillPage.ClearSlot(self.__GetRealSkillSlot(j, i))
 				
-				if skillIndex == 0:
-					continue
+		# 		if skillIndex == 0:
+		# 			continue
 				
-				skillGrade = player.GetSkillGrade(slotIndex)
-				skillLevel = player.GetSkillLevel(slotIndex)
-				skillType = skill.GetSkillType(skillIndex)
-				for j in xrange(skill.SKILL_GRADE_COUNT):
-					realSlotIndex = self.__GetRealSkillSlot(j, slotIndex - 220)
+		# 		skillGrade = player.GetSkillGrade(slotIndex)
+		# 		skillLevel = player.GetSkillLevel(slotIndex)
+		# 		skillType = skill.GetSkillType(skillIndex)
+		# 		for j in xrange(skill.SKILL_GRADE_COUNT):
+		# 			realSlotIndex = self.__GetRealSkillSlot(j, slotIndex - 220)
 					
-					skillPage.SetSkillSlotNew(realSlotIndex, skillIndex, j, skillLevel)
-					skillPage.SetCoverButton(realSlotIndex)
+		# 			skillPage.SetSkillSlotNew(realSlotIndex, skillIndex, j, skillLevel)
+		# 			skillPage.SetCoverButton(realSlotIndex)
 					
-					if (skillGrade == skill.SKILL_GRADE_COUNT) and j == (skill.SKILL_GRADE_COUNT-1):
-						skillPage.SetSlotCountNew(realSlotIndex, skillGrade, skillLevel)
-					elif (not self.__CanUseSkillNow()) or (skillGrade != j):
-						skillPage.SetSlotCount(realSlotIndex, 0)
-						skillPage.DisableCoverButton(realSlotIndex)
-					else:
-						skillPage.SetSlotCountNew(realSlotIndex, skillGrade, skillLevel)
+		# 			if (skillGrade == skill.SKILL_GRADE_COUNT) and j == (skill.SKILL_GRADE_COUNT-1):
+		# 				skillPage.SetSlotCountNew(realSlotIndex, skillGrade, skillLevel)
+		# 			elif (not self.__CanUseSkillNow()) or (skillGrade != j):
+		# 				skillPage.SetSlotCount(realSlotIndex, 0)
+		# 				skillPage.DisableCoverButton(realSlotIndex)
+		# 			else:
+		# 				skillPage.SetSlotCountNew(realSlotIndex, skillGrade, skillLevel)
 				
-				skillPage.RefreshSlot()
+		# 		skillPage.RefreshSlot()
 			
-			for i in xrange(12):
-				skillPage = self.skillPageDict["SUPPORT"]
-				slotIndex = i + 101
-				skillPage.ClearSlot(slotIndex)
-				skillIndex = player.GetSkillIndex(slotIndex)
-				skillGrade = player.GetSkillGrade(slotIndex)
-				skillLevel = player.GetSkillLevel(slotIndex)
-				if skillIndex == 0:
-					continue
+		# 	for i in xrange(12):
+		# 		skillPage = self.skillPageDict["SUPPORT"]
+		# 		slotIndex = i + 101
+		# 		skillPage.ClearSlot(slotIndex)
+		# 		skillIndex = player.GetSkillIndex(slotIndex)
+		# 		skillGrade = player.GetSkillGrade(slotIndex)
+		# 		skillLevel = player.GetSkillLevel(slotIndex)
+		# 		if skillIndex == 0:
+		# 			continue
 				
-				if player.SKILL_INDEX_RIDING == skillIndex:
-					if 1 == skillGrade:
-						skillLevel += 19
-					elif 2 == skillGrade:
-						skillLevel += 29
-					elif 3 == skillGrade:
-						skillLevel = 40
+		# 		if player.SKILL_INDEX_RIDING == skillIndex:
+		# 			if 1 == skillGrade:
+		# 				skillLevel += 19
+		# 			elif 2 == skillGrade:
+		# 				skillLevel += 29
+		# 			elif 3 == skillGrade:
+		# 				skillLevel = 40
 
-					skillPage.SetSkillSlotNew(slotIndex, skillIndex, max(skillLevel-1, 0), skillLevel)
-					skillPage.SetSlotCount(slotIndex, skillLevel)
-				else:
-					realSlotIndex = self.__GetETCSkillRealSlotIndex(slotIndex)
-					skillPage.SetSkillSlot(realSlotIndex, skillIndex, skillLevel)
-					skillPage.SetSlotCountNew(realSlotIndex, skillGrade, skillLevel)
+		# 			skillPage.SetSkillSlotNew(slotIndex, skillIndex, max(skillLevel-1, 0), skillLevel)
+		# 			skillPage.SetSlotCount(slotIndex, skillLevel)
+		# 		else:
+		# 			realSlotIndex = self.__GetETCSkillRealSlotIndex(slotIndex)
+		# 			skillPage.SetSkillSlot(realSlotIndex, skillIndex, skillLevel)
+		# 			skillPage.SetSlotCountNew(realSlotIndex, skillGrade, skillLevel)
 					
-					if skill.CanUseSkill(skillIndex):
-						skillPage.SetCoverButton(realSlotIndex)
+		# 			if skill.CanUseSkill(skillIndex):
+		# 				skillPage.SetCoverButton(realSlotIndex)
 				
-				skillPage.RefreshSlot()
+		# 		skillPage.RefreshSlot()
 			
-			return
+		# 	return
 	
 		skillPage = self.skillPageDict[name]
 
@@ -1374,8 +1374,8 @@ class CharacterWindow(ui.ScriptWindow):
 
 	def CanShowPlusButton(self, skillIndex, skillLevel, curStatPoint):
 
-		if app.ENABLE_NEW_PASSIVE_SKILLS and self.skillGroupButton3.IsDown():
-			return False
+		# if app.ENABLE_NEW_PASSIVE_SKILLS and self.skillGroupButton3.IsDown():
+		# 	return False
 
 		## ��ų�� ������
 		if 0 == skillIndex:
@@ -1560,8 +1560,8 @@ class CharacterWindow(ui.ScriptWindow):
 
 	## Use Skill
 	def ClickSkillSlot(self, slotIndex):
-		if app.ENABLE_NEW_PASSIVE_SKILLS and self.skillGroupButton3.IsDown() and slotIndex < 100:
-			return
+		# if app.ENABLE_NEW_PASSIVE_SKILLS and self.skillGroupButton3.IsDown() and slotIndex < 100:
+		# 	return
 
 		srcSlotIndex = self.__RealSkillSlotToSourceSlot(slotIndex)
 		skillIndex = player.GetSkillIndex(srcSlotIndex)
@@ -1721,12 +1721,12 @@ class CharacterWindow(ui.ScriptWindow):
 				self.__SelectSkillGroup(0)
 
 	def __SetSkillGroupName(self, race, group):
-		if app.ENABLE_NEW_PASSIVE_SKILLS:
-			if net.GetMainActorSkillGroup() == 0:
-				self.skillGroupButton3.SetPosition(95, 2)
-			elif self.__CanUseHorseSkill():
-				self.skillGroupButton3.SetPosition(50, 2)
-				self.skillGroupButton2.SetPosition(95, 2)
+		# if app.ENABLE_NEW_PASSIVE_SKILLS:
+		# 	if net.GetMainActorSkillGroup() == 0:
+		# 		self.skillGroupButton3.SetPosition(95, 2)
+		# 	elif self.__CanUseHorseSkill():
+		# 		self.skillGroupButton3.SetPosition(50, 2)
+		# 		self.skillGroupButton2.SetPosition(95, 2)
 		
 		job = chr.RaceToJob(race)
 
@@ -1757,14 +1757,14 @@ class CharacterWindow(ui.ScriptWindow):
 			else:
 				self.activeSkillGroupName.SetText(nameList.get(group, "Noname"))
 				self.activeSkillGroupName.Show()
-				if app.ENABLE_NEW_PASSIVE_SKILLS:
-					if not self.skillGroupButton3.IsDown() and not self.skillGroupButton2.IsDown():
-						self.skillGroupButton1.Down()
+				# if app.ENABLE_NEW_PASSIVE_SKILLS:
+				# 	if not self.skillGroupButton3.IsDown() and not self.skillGroupButton2.IsDown():
+				# 		self.skillGroupButton1.Down()
 					
-					self.skillGroupButton1.Show()
-					self.skillGroupButton1.SetText("")
-				else:
-					self.skillGroupButton1.Hide()
+				# 	self.skillGroupButton1.Show()
+				# 	self.skillGroupButton1.SetText("")
+				# else:
+				# 	self.skillGroupButton1.Hide()
 				
 				self.skillGroupButton2.Hide()
 
@@ -1779,47 +1779,47 @@ class CharacterWindow(ui.ScriptWindow):
 		self.RefreshSkill()
 
 	def __SelectSkillGroup(self, index):
-		if app.ENABLE_NEW_PASSIVE_SKILLS:
-			if index == 3:
-				self.skillGroupButton3.Down()
-				if app.ENABLE_SKILL_COLOR_SYSTEM:
-					self.skillColorButton = []
+		# if app.ENABLE_NEW_PASSIVE_SKILLS:
+		# 	if index == 3:
+		# 		self.skillGroupButton3.Down()
+		# 		if app.ENABLE_SKILL_COLOR_SYSTEM:
+		# 			self.skillColorButton = []
 				
-				skillPage = self.skillPageDict["ACTIVE"]
-				getSkillMaxLevel=skill.GetSkillMaxLevel
+		# 		skillPage = self.skillPageDict["ACTIVE"]
+		# 		getSkillMaxLevel=skill.GetSkillMaxLevel
 				
-				for i in xrange(self.ACTIVE_PAGE_SLOT_COUNT+1):
-					slotIndex = i + skillPage.GetStartIndex() + 220
-					skillIndex = player.GetSkillIndex(slotIndex)
-					for j in xrange(skill.SKILL_GRADE_COUNT):
-						skillPage.ClearSlot(self.__GetRealSkillSlot(j, i))
+		# 		for i in xrange(self.ACTIVE_PAGE_SLOT_COUNT+1):
+		# 			slotIndex = i + skillPage.GetStartIndex() + 220
+		# 			skillIndex = player.GetSkillIndex(slotIndex)
+		# 			for j in xrange(skill.SKILL_GRADE_COUNT):
+		# 				skillPage.ClearSlot(self.__GetRealSkillSlot(j, i))
 					
-					if skillIndex == 0:
-						continue
+		# 			if skillIndex == 0:
+		# 				continue
 					
-					skillGrade = player.GetSkillGrade(slotIndex)
-					skillLevel = player.GetSkillLevel(slotIndex)
-					skillType = skill.GetSkillType(skillIndex)
-					for j in xrange(skill.SKILL_GRADE_COUNT):
-						realSlotIndex = self.__GetRealSkillSlot(j, slotIndex - 220)
+		# 			skillGrade = player.GetSkillGrade(slotIndex)
+		# 			skillLevel = player.GetSkillLevel(slotIndex)
+		# 			skillType = skill.GetSkillType(skillIndex)
+		# 			for j in xrange(skill.SKILL_GRADE_COUNT):
+		# 				realSlotIndex = self.__GetRealSkillSlot(j, slotIndex - 220)
 						
-						skillPage.SetSkillSlotNew(realSlotIndex, skillIndex, j, skillLevel)
-						skillPage.SetCoverButton(realSlotIndex)
+		# 				skillPage.SetSkillSlotNew(realSlotIndex, skillIndex, j, skillLevel)
+		# 				skillPage.SetCoverButton(realSlotIndex)
 						
-						if (skillGrade == skill.SKILL_GRADE_COUNT) and j == (skill.SKILL_GRADE_COUNT-1):
-							skillPage.SetSlotCountNew(realSlotIndex, skillGrade, skillLevel)
-						elif (not self.__CanUseSkillNow()) or (skillGrade != j):
-							skillPage.SetSlotCount(realSlotIndex, 0)
-							skillPage.DisableCoverButton(realSlotIndex)
-						else:
-							skillPage.SetSlotCountNew(realSlotIndex, skillGrade, skillLevel)
+		# 				if (skillGrade == skill.SKILL_GRADE_COUNT) and j == (skill.SKILL_GRADE_COUNT-1):
+		# 					skillPage.SetSlotCountNew(realSlotIndex, skillGrade, skillLevel)
+		# 				elif (not self.__CanUseSkillNow()) or (skillGrade != j):
+		# 					skillPage.SetSlotCount(realSlotIndex, 0)
+		# 					skillPage.DisableCoverButton(realSlotIndex)
+		# 				else:
+		# 					skillPage.SetSlotCountNew(realSlotIndex, skillGrade, skillLevel)
 				
-				for btn in self.skillGroupButton:
-					btn.SetUp()
+		# 		for btn in self.skillGroupButton:
+		# 			btn.SetUp()
 				
-				return
-			else:
-				self.skillGroupButton3.SetUp()
+		# 		return
+		# 	else:
+		# 		self.skillGroupButton3.SetUp()
 		
 		for btn in self.skillGroupButton:
 			btn.SetUp()

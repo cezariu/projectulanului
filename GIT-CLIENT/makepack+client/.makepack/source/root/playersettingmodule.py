@@ -57,10 +57,10 @@ SKILL_INDEX_DICT = []
 def DefineSkillIndexDict():
 	global SKILL_INDEX_DICT
 	
-	if app.ENABLE_NEW_PASSIVE_SKILLS:
-		passiveBoost = (236, 240, 237, 241, 238, 242, 239, 243)
-	else:
-		passiveBoost = (0, 0, 0, 0, 0, 0, 0, 0)
+	#if app.ENABLE_NEW_PASSIVE_SKILLS:
+	#	passiveBoost = (236, 240, 237, 241, 238, 242, 239, 243)
+	#else:
+	passiveBoost = (0, 0, 0, 0, 0, 0, 0, 0)
 	
 	SKILL_INDEX_DICT = {
 		JOB_WARRIOR : {
@@ -102,7 +102,7 @@ def RegisterSkill(race, group, empire=0):
 			for i in xrange(len(activeSkillList)):
 				skillIndex = activeSkillList[i]
 
-				## 7¹ø 8¹ø ½ºÅ³Àº ¿©±â¼­ ¼³Á¤ÇÏ¸é ¾ÈµÊ
+				## 7ï¿½ï¿½ 8ï¿½ï¿½ ï¿½ï¿½Å³ï¿½ï¿½ ï¿½ï¿½ï¿½â¼­ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¸ï¿½ ï¿½Èµï¿½
 				if i != 6 and i != 7 and not app.ENABLE_NEW_PASSIVE_SKILLS:
 					player.SetSkill(i+1, skillIndex)
 				else:
@@ -781,23 +781,23 @@ def LoadGameEffect():
 	effect.RegisterIndexedFlyData(effect.FLY_SKILL_MUYEONG, effect.INDEX_FLY_TYPE_AUTO_FIRE, "d:/ymir work/pc/sura/effect/muyeong_fly.msf")
 	
 	chrmgr.RegisterEffect(chrmgr.EFFECT_EMOTICON+0, "", "d:/ymir work/effect/etc/emoticon/sweat.mse")
-	net.RegisterEmoticonString("(È²´ç)")
+	net.RegisterEmoticonString("(È²ï¿½ï¿½)")
 	chrmgr.RegisterEffect(chrmgr.EFFECT_EMOTICON+1, "", "d:/ymir work/effect/etc/emoticon/money.mse")
-	net.RegisterEmoticonString("(µ·)")
+	net.RegisterEmoticonString("(ï¿½ï¿½)")
 	chrmgr.RegisterEffect(chrmgr.EFFECT_EMOTICON+2, "", "d:/ymir work/effect/etc/emoticon/happy.mse")
-	net.RegisterEmoticonString("(±â»Ý)")
+	net.RegisterEmoticonString("(ï¿½ï¿½ï¿½)")
 	chrmgr.RegisterEffect(chrmgr.EFFECT_EMOTICON+3, "", "d:/ymir work/effect/etc/emoticon/love_s.mse")
-	net.RegisterEmoticonString("(ÁÁ¾Æ)")
+	net.RegisterEmoticonString("(ï¿½ï¿½ï¿½ï¿½)")
 	chrmgr.RegisterEffect(chrmgr.EFFECT_EMOTICON+4, "", "d:/ymir work/effect/etc/emoticon/love_l.mse")
-	net.RegisterEmoticonString("(»ç¶û)")
+	net.RegisterEmoticonString("(ï¿½ï¿½ï¿½)")
 	chrmgr.RegisterEffect(chrmgr.EFFECT_EMOTICON+5, "", "d:/ymir work/effect/etc/emoticon/angry.mse")
-	net.RegisterEmoticonString("(ºÐ³ë)")
+	net.RegisterEmoticonString("(ï¿½Ð³ï¿½)")
 	chrmgr.RegisterEffect(chrmgr.EFFECT_EMOTICON+6, "", "d:/ymir work/effect/etc/emoticon/aha.mse")
-	net.RegisterEmoticonString("(¾ÆÇÏ)")
+	net.RegisterEmoticonString("(ï¿½ï¿½ï¿½ï¿½)")
 	chrmgr.RegisterEffect(chrmgr.EFFECT_EMOTICON+7, "", "d:/ymir work/effect/etc/emoticon/gloom.mse")
-	net.RegisterEmoticonString("(¿ì¿ï)")
+	net.RegisterEmoticonString("(ï¿½ï¿½ï¿½)")
 	chrmgr.RegisterEffect(chrmgr.EFFECT_EMOTICON+8, "", "d:/ymir work/effect/etc/emoticon/sorry.mse")
-	net.RegisterEmoticonString("(ÁË¼Û)")
+	net.RegisterEmoticonString("(ï¿½Ë¼ï¿½)")
 	chrmgr.RegisterEffect(chrmgr.EFFECT_EMOTICON+9, "", "d:/ymir work/effect/etc/emoticon/!_mix_back.mse")
 	net.RegisterEmoticonString("(!)")
 	chrmgr.RegisterEffect(chrmgr.EFFECT_EMOTICON+10, "", "d:/ymir work/effect/etc/emoticon/question.mse")
