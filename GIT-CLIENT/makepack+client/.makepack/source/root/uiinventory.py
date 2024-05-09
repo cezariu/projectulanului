@@ -367,7 +367,7 @@ class InventoryWindow(ui.ScriptWindow):
 				self.visibleButtonList = []
 				self.visibleButtonList.append(self.GetChild("BodyToolTipButton"))
 				self.visibleButtonList.append(self.GetChild("HairToolTipButton"))
-				self.visibleButtonList.append(self.GetChild("AcceToolTipButton"))
+				#self.visibleButtonList.append(self.GetChild("AcceToolTipButton"))
 				self.visibleButtonList.append(self.GetChild("WeaponToolTipButton"))
 			
 			self.GetChild("TitleBar").SetCloseEvent(ui.__mem_func__(self.Close))
@@ -459,19 +459,19 @@ class InventoryWindow(ui.ScriptWindow):
 		if app.ENABLE_HIDE_COSTUME_SYSTEM:
 			self.visibleButtonList[0].SetToggleUpEvent(ui.__mem_func__(self.VisibleCostume), 1, 0)
 			self.visibleButtonList[1].SetToggleUpEvent(ui.__mem_func__(self.VisibleCostume), 2, 0)
-			if app.ENABLE_ACCE_SYSTEM:
-				self.visibleButtonList[2].SetToggleUpEvent(ui.__mem_func__(self.VisibleCostume), 3, 0)
+			#if app.ENABLE_ACCE_SYSTEM:
+			#	self.visibleButtonList[2].SetToggleUpEvent(ui.__mem_func__(self.VisibleCostume), 3, 0)
 			
 			if app.ENABLE_WEAPON_COSTUME_SYSTEM:
-				self.visibleButtonList[3].SetToggleUpEvent(ui.__mem_func__(self.VisibleCostume), 4, 0)
+				self.visibleButtonList[2].SetToggleUpEvent(ui.__mem_func__(self.VisibleCostume), 4, 0)
 			
 			self.visibleButtonList[0].SetToggleDownEvent(ui.__mem_func__(self.VisibleCostume), 1, 1)
 			self.visibleButtonList[1].SetToggleDownEvent(ui.__mem_func__(self.VisibleCostume), 2, 1)
-			if app.ENABLE_ACCE_SYSTEM:
-				self.visibleButtonList[2].SetToggleDownEvent(ui.__mem_func__(self.VisibleCostume), 3, 1)
+			#if app.ENABLE_ACCE_SYSTEM:
+			#	self.visibleButtonList[2].SetToggleDownEvent(ui.__mem_func__(self.VisibleCostume), 3, 1)
 			
 			if app.ENABLE_WEAPON_COSTUME_SYSTEM:
-				self.visibleButtonList[3].SetToggleDownEvent(ui.__mem_func__(self.VisibleCostume), 4, 1)
+				self.visibleButtonList[2].SetToggleDownEvent(ui.__mem_func__(self.VisibleCostume), 4, 1)
 		
 		## PickMoneyDialog
 		dlgPickMoney = uipickmoney.PickMoneyDialog()
@@ -722,21 +722,21 @@ class InventoryWindow(ui.ScriptWindow):
 				self.visibleButtonList[1].SetToolTipText(localeinfo.HIDE_COSTUME)
 				self.visibleButtonList[1].SetUp()
 
-			if app.ENABLE_ACCE_COSTUME_SYSTEM:
-				if acce == 1:
+			#if app.ENABLE_ACCE_COSTUME_SYSTEM:
+			#	if acce == 1:
+			#		self.visibleButtonList[2].SetToolTipText(localeinfo.SHOW_COSTUME)
+			#		self.visibleButtonList[2].Down()
+			#	else:
+			#		self.visibleButtonList[2].SetToolTipText(localeinfo.HIDE_COSTUME)
+			#		self.visibleButtonList[2].SetUp()
+
+			if app.ENABLE_WEAPON_COSTUME_SYSTEM:
+				if weapon == 1:
 					self.visibleButtonList[2].SetToolTipText(localeinfo.SHOW_COSTUME)
 					self.visibleButtonList[2].Down()
 				else:
 					self.visibleButtonList[2].SetToolTipText(localeinfo.HIDE_COSTUME)
 					self.visibleButtonList[2].SetUp()
-
-			if app.ENABLE_WEAPON_COSTUME_SYSTEM:
-				if weapon == 1:
-					self.visibleButtonList[3].SetToolTipText(localeinfo.SHOW_COSTUME)
-					self.visibleButtonList[3].Down()
-				else:
-					self.visibleButtonList[3].SetToolTipText(localeinfo.HIDE_COSTUME)
-					self.visibleButtonList[3].SetUp()
 
 		def VisibleCostume(self, part, hidden):
 			net.SendChatPacket("/hide_costume %d %d" % (part, hidden))
@@ -750,7 +750,7 @@ class InventoryWindow(ui.ScriptWindow):
 					#self.equipmentTypeName.SetText(uiscriptlocale.EQUIPMENT_PAGE_BUTTON_TOOLTIP_1)
 					self.wndEquip.Show()
 					self.wndCostume.Hide()
-					self.bkImg.LoadImage("d:/ymir work/ui/equipment_bg_with_talisman.tga")
+					self.bkImg.LoadImage("d:/ymir work/ui/equipment_bg_exygo.tga")
 					self.DSSButton.Show()
 					self.OfflineshopButton.Show()
 					#self.RuneButton.Show()
@@ -2356,11 +2356,11 @@ if app.ENABLE_CAPITALE_SYSTEM:
 			self.wndMoneySlotIcon.SetStringEvent("MOUSE_OVER_IN", ui.__mem_func__(self.__ShowMoneyTitleToolTip))
 			self.wndMoneySlotIcon.SetStringEvent("MOUSE_OVER_OUT", ui.__mem_func__(self.__HideMoneyTitleToolTip))
 			self.__SetCapitalSystemToolTip()
-			if app.ENABLE_GAYA_SYSTEM:
-				self.Gem = self.GetChild("Gem")
-				self.wndGemSlotIcon = self.GetChild("Gem_Icon")
-				self.wndGemSlotIcon.SetStringEvent("MOUSE_OVER_IN", ui.__mem_func__(self.__ShowGayaTitleToolTip))
-				self.wndGemSlotIcon.SetStringEvent("MOUSE_OVER_OUT", ui.__mem_func__(self.__HideGayaTitleToolTip))
+			# if app.ENABLE_GAYA_SYSTEM:
+			# 	self.Gem = self.GetChild("Gem")
+			# 	self.wndGemSlotIcon = self.GetChild("Gem_Icon")
+			# 	self.wndGemSlotIcon.SetStringEvent("MOUSE_OVER_IN", ui.__mem_func__(self.__ShowGayaTitleToolTip))
+			# 	self.wndGemSlotIcon.SetStringEvent("MOUSE_OVER_OUT", ui.__mem_func__(self.__HideGayaTitleToolTip))
 
 		def Show(self):
 			ui.ScriptWindow.Show(self)
@@ -2370,8 +2370,8 @@ if app.ENABLE_CAPITALE_SYSTEM:
 
 		def RefreshStatus(self):
 			self.money.SetText(localeinfo.NumberToMoneyString(player.GetMoney()))
-			if app.ENABLE_GAYA_SYSTEM:
-				self.Gem.SetText(localeinfo.NumberToGayaString(player.GetGaya()))
+			# if app.ENABLE_GAYA_SYSTEM:
+			# 	self.Gem.SetText(localeinfo.NumberToGayaString(player.GetGaya()))
 
 
 		def SetTop(self):
@@ -2382,10 +2382,10 @@ if app.ENABLE_CAPITALE_SYSTEM:
 
 		
 		def __SetCapitalSystemToolTip(self):
-			if app.ENABLE_GAYA_SYSTEM:
-				self.toolTipGayaTitle = uitooltip.ToolTip(20)
-				self.toolTipGayaTitle.AutoAppendTextLine(localeinfo.GAYA_SYSTEM_UNIT_GAYA, uitooltip.ToolTip.GAYA_PRICE_COLOR)
-				self.toolTipGayaTitle.AlignHorizonalCenter()
+			# if app.ENABLE_GAYA_SYSTEM:
+			# 	self.toolTipGayaTitle = uitooltip.ToolTip(20)
+			# 	self.toolTipGayaTitle.AutoAppendTextLine(localeinfo.GAYA_SYSTEM_UNIT_GAYA, uitooltip.ToolTip.GAYA_PRICE_COLOR)
+			# 	self.toolTipGayaTitle.AlignHorizonalCenter()
 			self.toolTipMoneyTitle = uitooltip.ToolTip(20)
 			self.toolTipMoneyTitle.AutoAppendTextLine(localeinfo.CHEQUE_SYSTEM_UNIT_YANG, uitooltip.ToolTip.PRICE_INFO_COLOR)
 			self.toolTipMoneyTitle.AlignHorizonalCenter()
@@ -2396,12 +2396,12 @@ if app.ENABLE_CAPITALE_SYSTEM:
 		def __HideMoneyTitleToolTip(self):
 			self.toolTipMoneyTitle.HideToolTip()
 
-		if app.ENABLE_GAYA_SYSTEM:
-			def __ShowGayaTitleToolTip(self):
-				self.toolTipGayaTitle.ShowToolTip()
+		# if app.ENABLE_GAYA_SYSTEM:
+		# 	def __ShowGayaTitleToolTip(self):
+		# 		self.toolTipGayaTitle.ShowToolTip()
 
-			def __HideGayaTitleToolTip(self):
-				self.toolTipGayaTitle.HideToolTip()
+		# 	def __HideGayaTitleToolTip(self):
+		# 		self.toolTipGayaTitle.HideToolTip()
 
 		#def OnPressEscapeKey(self):
 		#	self.Close()

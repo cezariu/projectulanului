@@ -48,6 +48,7 @@
 		<File ArchivedPath="d:/ymir work/ui/dungeon_minimap_button.png"><![CDATA[source/ui/dungeon_minimap_button.png]]></File>
 		<File ArchivedPath="d:/ymir work/ui/dungeon_minimap_button_over_in.png"><![CDATA[source/ui/dungeon_minimap_button_over_in.png]]></File>
 		<File ArchivedPath="d:/ymir work/ui/dungeon_minimap_button_over_out.png"><![CDATA[source/ui/dungeon_minimap_button_over_out.png]]></File>
+		<File ArchivedPath="d:/ymir work/ui/equipment_bg_exygo.tga"><![CDATA[source/ui/equipment_bg_exygo.tga]]></File>
 		<File ArchivedPath="d:/ymir work/ui/equipment_bg_without_ring.tga"><![CDATA[source/ui/equipment_bg_without_ring.tga]]></File>
 		<File ArchivedPath="d:/ymir work/ui/equipment_bg_with_ring.tga"><![CDATA[source/ui/equipment_bg_with_ring.tga]]></File>
 		<File ArchivedPath="d:/ymir work/ui/equipment_bg_with_talisman.tga"><![CDATA[source/ui/equipment_bg_with_talisman.tga]]></File>
@@ -140,6 +141,7 @@
 		<File ArchivedPath="d:/ymir work/ui/miniwindow_pet_back.dds"><![CDATA[source/ui/miniwindow_pet_back.dds]]></File>
 		<File ArchivedPath="d:/ymir work/ui/newskillcommon.dds"><![CDATA[source/ui/newskillcommon.dds]]></File>
 		<File ArchivedPath="d:/ymir work/ui/new_cube_bg.tga"><![CDATA[source/ui/new_cube_bg.tga]]></File>
+		<File ArchivedPath="d:/ymir work/ui/old_costumi_bg.tga"><![CDATA[source/ui/old_costumi_bg.tga]]></File>
 		<File ArchivedPath="d:/ymir work/ui/over.tga"><![CDATA[source/ui/over.tga]]></File>
 		<File ArchivedPath="d:/ymir work/ui/post_ui_001.dds"><![CDATA[source/ui/post_ui_001.dds]]></File>
 		<File ArchivedPath="d:/ymir work/ui/properties_01.dds"><![CDATA[source/ui/properties_01.dds]]></File>

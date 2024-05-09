@@ -371,7 +371,7 @@
 50064	Nemere's Chest	This chest was recovered from Nemere's Watchtower. It contains a truly magnificent treasure.
 50065	Ice Witch Chest	The Ice Witch's Chest. This chest contains something valuable.
 50066	Precious Chest	This chest contains valuable items for your equipment.	It can contain sash costumes and other useful items for costumes.
-50067	Daily Gift Chest	This Chest contains some fantastic prizes.
+50067	Chest of Stones	This chest contains stones+3.
 50069	Lord Ghost Tree Chest	This chest contains something valuable.
 50070	Chief Orc's Box	The chest of the Orc Lord. Apparently something valuable is in the box.
 50071	Esoteric Leader's Box	The chest of the Esoteric Lord. Apparently something valuable is in the box.

@@ -6,5 +6,5 @@ for file in os.listdir("make_xml"):
 		fileString += "make_xml/%s " % (str(file))
 
 os.system('"FoxFSArchiver" %s' % fileString)
-print "XML Files were created"
+print ("XML Files were created")
 

@@ -371,8 +371,8 @@ class TargetBoard(ui.ThinBoard):
 				item.SelectItem(vnum)
 				itemName = item.GetItemName()
 				
-				if self.stofaImg != None and (vnum == 80019 or vnum == 80022 or vnum == 80023 or vnum == 80024 or vnum == 80025 or vnum == 80026 or vnum == 80027):
-					return 0
+				# if self.stofaImg != None and (vnum == 80019 or vnum == 80022 or vnum == 80023 or vnum == 80024 or vnum == 80025 or vnum == 80026 or vnum == 80027):
+				# 	return 0
 				
 				if self.saccaImg != None and (vnum == 30094 or vnum == 30095 or vnum == 30096):
 					return 0
@@ -414,11 +414,11 @@ class TargetBoard(ui.ThinBoard):
 					self.stoneVnum = vnums
 					self.lastStoneVnum = self.STONE_LAST_VNUM + vnums[len(vnums) - 1] % 1000 / 100 * 100
 				
-				if vnum == 80019 or vnum == 80022 or vnum == 80023 or vnum == 80024 or vnum == 80025 or vnum == 80026 or vnum == 80027:
-					self.stofaImg = myItem
-					self.stofaVnum = vnum
-					self.lastStofaVnum = 80019
-					self.stofaStep = 0
+				# if vnum == 80019 or vnum == 80022 or vnum == 80023 or vnum == 80024 or vnum == 80025 or vnum == 80026 or vnum == 80027:
+				# 	self.stofaImg = myItem
+				# 	self.stofaVnum = vnum
+				# 	self.lastStofaVnum = 80019
+				# 	self.stofaStep = 0
 				
 				if vnum == 30094 or vnum == 30095 or vnum == 30096:
 					self.saccaImg = myItem
@@ -458,16 +458,16 @@ class TargetBoard(ui.ThinBoard):
 					self.itemTooltip2.isChest = False
 					self.itemTooltip2.isBossChest = False
 					self.itemTooltip2.SetItemToolTip(self.lastStoneVnum)
-				elif vnum == 80019 or vnum == 80022 or vnum == 80023 or vnum == 80024 or vnum == 80025 or vnum == 80026 or vnum == 80027:
-					self.itemTooltip2.isStone = False
-					self.itemTooltip2.isBook = False
-					self.itemTooltip2.isBook2 = False
-					self.itemTooltip2.isStofa = True
-					self.itemTooltip2.isSacca = False
-					self.itemTooltip2.isSock = False
-					self.itemTooltip2.isChest = False
-					self.itemTooltip2.isBossChest = False
-					self.itemTooltip2.SetItemToolTip(self.lastStofaVnum)
+				# elif vnum == 80019 or vnum == 80022 or vnum == 80023 or vnum == 80024 or vnum == 80025 or vnum == 80026 or vnum == 80027:
+				# 	self.itemTooltip2.isStone = False
+				# 	self.itemTooltip2.isBook = False
+				# 	self.itemTooltip2.isBook2 = False
+				# 	self.itemTooltip2.isStofa = True
+				# 	self.itemTooltip2.isSacca = False
+				# 	self.itemTooltip2.isSock = False
+				# 	self.itemTooltip2.isChest = False
+				# 	self.itemTooltip2.isBossChest = False
+				# 	self.itemTooltip2.SetItemToolTip(self.lastStofaVnum)
 				elif vnum == 30094 or vnum == 30095 or vnum == 30096:
 					self.itemTooltip2.isStone = False
 					self.itemTooltip2.isBook = False
@@ -534,16 +534,16 @@ class TargetBoard(ui.ThinBoard):
 					self.itemTooltip.isChest = False
 					self.itemTooltip.isBossChest = False
 					self.itemTooltip.SetItemToolTip(self.lastStoneVnum)
-				elif vnum == 80019 or vnum == 80022 or vnum == 80023 or vnum == 80024 or vnum == 80025 or vnum == 80026 or vnum == 80027:
-					self.itemTooltip.isStone = False
-					self.itemTooltip.isBook = False
-					self.itemTooltip.isBook2 = False
-					self.itemTooltip.isStofa = True
-					self.itemTooltip.isSacca = False
-					self.itemTooltip.isSock = False
-					self.itemTooltip.isChest = False
-					self.itemTooltip.isBossChest = False
-					self.itemTooltip.SetItemToolTip(self.lastStofaVnum)
+				# elif vnum == 80019 or vnum == 80022 or vnum == 80023 or vnum == 80024 or vnum == 80025 or vnum == 80026 or vnum == 80027:
+				# 	self.itemTooltip.isStone = False
+				# 	self.itemTooltip.isBook = False
+				# 	self.itemTooltip.isBook2 = False
+				# 	self.itemTooltip.isStofa = True
+				# 	self.itemTooltip.isSacca = False
+				# 	self.itemTooltip.isSock = False
+				# 	self.itemTooltip.isChest = False
+				# 	self.itemTooltip.isBossChest = False
+				# 	self.itemTooltip.SetItemToolTip(self.lastStofaVnum)
 				elif vnum == 30094 or vnum == 30095 or vnum == 30096:
 					self.itemTooltip.isStone = False
 					self.itemTooltip.isBook = False

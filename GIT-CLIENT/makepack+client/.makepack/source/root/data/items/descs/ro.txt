@@ -904,7 +904,7 @@
 50064	Cuf�rul lui Nemere	Acest Cuf�r was recovered from Nemere's Watchtower. It con�ine a truly magnifghea��nt treasure.
 50065	Cuf�rul Vr�jitoarei de ghea��	The ghea�� Witch's Chest. Acest Cuf�r con�ine ceva valoros.
 50066	Cuf�r Pre�ios	Acest Cuf�r con�ine valuable items for your equipment.	It can contain sash costumes and other useful items for costumes.
-50067	Cuf�r Cadou Zilnic	Acest Cuf�r con�ine some fantastic prizes.
+50067	Cufarul Pietrelor	Acest Cufar contine pietre+3.
 50069	Cuf�r Copac Lord Fantom�	Acest Cuf�r con�ine ceva valoros.
 50072	Cuf�r Orc �ef	Acest Cuf�r con�ine ceva valoros.
 50074	Cuf�rul Baronesei	Acest Cuf�r con�ine ceva valoros.

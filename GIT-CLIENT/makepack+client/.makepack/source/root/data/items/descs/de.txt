@@ -906,7 +906,7 @@
 50064	Nemeres Truhe	Diese Truhe wurde aus Nemeres Wachtturm geborgen. Es enth�lt einen wahrhaft gro�artigen Schatz.
 50065	Eishexentruhe	Die Eishexentruhe. Diese Truhe enth�lt etwas Wertvolles.
 50066	Kostbare Truhe	Diese Truhe enth�lt wertvolle Gegenst�nde f�r deine Ausr�stung.	Es kann Sch�rpenkost�me und andere n�tzliche Gegenst�nde f�r Kost�me enthalten.
-50067	T�gliche Geschenktruhe	Diese Truhe enth�lt einige fantastische Preise.
+50067	Chest of Stones	This chest contains stones+3.
 50069	Geisterbaumlord Truhe	Diese Truhe enth�lt etwas Wertvolles.
 50072	Ork Labyrinth	Truhe Diese Truhe enth�lt etwas Wertvolles.
 50074	Truhe der Baronin	Diese Truhe enth�lt etwas Wertvolles.

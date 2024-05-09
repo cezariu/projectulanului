@@ -72,7 +72,7 @@ window = {
 					"x" : 10,
 					"y" : 33,
 
-					"image" : "d:/ymir work/ui/equipment_bg_with_talisman.tga",
+					"image" : "d:/ymir work/ui/equipment_bg_exygo.tga",
 
 					"children" :
 					(
@@ -99,9 +99,9 @@ window = {
 										{"index":EQUIPMENT_START_INDEX+8, "x":75, "y":145, "width":32, "height":32},
 										{"index":EQUIPMENT_START_INDEX+9, "x":114, "y":2, "width":32, "height":32},
 										{"index":EQUIPMENT_START_INDEX+10, "x":75, "y":35, "width":32, "height":32},
-										{"index":EQUIPMENT_START_INDEX+18, "x":75, "y":2, "width":32, "height":32},
+										#{"index":EQUIPMENT_START_INDEX+18, "x":75, "y":2, "width":32, "height":32},
 										#Talisman Slot
-										{"index":EQUIPMENT_START_INDEX+25, "x":3, "y":106, "width":32, "height":32},
+										# {"index":EQUIPMENT_START_INDEX+25, "x":3, "y":106, "width":32, "height":32},
 										## �� ����1
 										##{"index":item.EQUIPMENT_RING1, "x":2, "y":106, "width":32, "height":32},
 										## �� ����2
@@ -124,10 +124,10 @@ window = {
 										{"index":COSTUME_START_INDEX+0, "x":78, "y":37, "width":32, "height":64},
 										{"index":COSTUME_START_INDEX+1, "x":78, "y": 5, "width":32, "height":32},
 										{"index":COSTUME_START_INDEX+2, "x":21, "y":109, "width":32, "height":32},
-										{"index":COSTUME_START_INDEX+3, "x":58, "y":124, "width":32, "height":32},
+										#{"index":COSTUME_START_INDEX+3, "x":58, "y":124, "width":32, "height":32},
 										{"index":COSTUME_SLOT_WEAPON, "x":40, "y":5, "width":32, "height":96},
-										{"index":COSTUME_PETSKIN_SLOT, "x":95, "y":145, "width":32, "height":32},
-										{"index":COSTUME_MOUNTSKIN_SLOT, "x":21, "y":145, "width":32, "height":32},
+										# {"index":COSTUME_PETSKIN_SLOT, "x":95, "y":145, "width":32, "height":32},
+										# {"index":COSTUME_MOUNTSKIN_SLOT, "x":21, "y":145, "width":32, "height":32},
 										{"index":COSTUME_EFFECT_BODY_SLOT, "x":5, "y":34, "width":32, "height":32},
 										{"index":COSTUME_EFFECT_WEAPON_SLOT, "x":5, "y":2, "width":32, "height":32},
 									),
@@ -157,18 +157,18 @@ window = {
 							"over_image" : "d:/ymir work/ui/pattern/visible_mark_02.tga",
 							"down_image" : "d:/ymir work/ui/pattern/visible_mark_03.tga",
 						},
-						{
-							"name" : "AcceToolTipButton",
-							"type" : "toggle_button",
-							"x" : 88,
-							"y" : 127,
-							"tooltip_text" : uiscriptlocale.HIDE_COSTUME,
-							"tooltip_x" : - 55,
-							"tooltip_y" : - 10,
-							"default_image" : "d:/ymir work/ui/pattern/visible_mark_01.tga",
-							"over_image" : "d:/ymir work/ui/pattern/visible_mark_02.tga",
-							"down_image" : "d:/ymir work/ui/pattern/visible_mark_03.tga",
-						},
+						#{
+						#	"name" : "AcceToolTipButton",
+						#	"type" : "toggle_button",
+						#	"x" : 88,
+						#	"y" : 127,
+						#	"tooltip_text" : uiscriptlocale.HIDE_COSTUME,
+						#	"tooltip_x" : - 55,
+						#	"tooltip_y" : - 10,
+						#	"default_image" : "d:/ymir work/ui/pattern/visible_mark_01.tga",
+						#	"over_image" : "d:/ymir work/ui/pattern/visible_mark_02.tga",
+						#	"down_image" : "d:/ymir work/ui/pattern/visible_mark_03.tga",
+						#},
 						{
 							"name" : "WeaponToolTipButton",
 							"type" : "toggle_button",
