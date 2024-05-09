@@ -2286,8 +2286,8 @@ class ItemToolTip(ToolTip):
 		if app.ENABLE_RARITY_SYSTEM:
 			itemRarity = item.GetRarity()
 			rarityDesc = self.RARITY_DESC[itemRarity]
-			self.AppendTextLine(rarityDesc, self.RARITY_COLOR[itemRarity])
-			self.AppendSpace(5)
+			# self.AppendTextLine(rarityDesc, self.RARITY_COLOR[itemRarity])
+			# self.AppendSpace(5)
 
 
 		if app.NEW_PET_SYSTEM:
@@ -3754,8 +3754,8 @@ class ItemToolTip(ToolTip):
 				if itemSubType == item.COSTUME_TYPE_STOLE:
 					itemRarity = item.GetRarity()
 					rarityDesc = self.RARITY_DESC[itemRarity]
-					self.AppendTextLine(rarityDesc, self.RARITY_COLOR[itemRarity])
-					self.AppendSpace(5)
+					# self.AppendTextLine(rarityDesc, self.RARITY_COLOR[itemRarity])
+					# self.AppendSpace(5)
 			
 			self.AppendDescription(itemDesc, 26)
 			self.AppendDescription(item.GetItemSummary(), 26, self.CONDITION_COLOR)
@@ -3764,7 +3764,7 @@ class ItemToolTip(ToolTip):
 				if itemSubType == item.COSTUME_TYPE_ACCE:
 					itemRarity = item.GetRarity()
 					rarityDesc = self.RARITY_DESC[itemRarity]
-					self.AppendTextLine(rarityDesc, self.RARITY_COLOR[itemRarity])
+					# self.AppendTextLine(rarityDesc, self.RARITY_COLOR[itemRarity])
 			
 			self.__AppendLimitInformation()
 			
