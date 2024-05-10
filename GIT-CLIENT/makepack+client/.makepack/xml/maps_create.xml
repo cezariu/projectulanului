@@ -13294,7 +13294,6 @@
 		<File ArchivedPath="metin2_map_capedragonhead/000000/tile.raw"><![CDATA[source/maps/metin2_map_capedragonhead/000000/tile.raw]]></File>
 		<File ArchivedPath="metin2_map_capedragonhead/000000/water.wtr"><![CDATA[source/maps/metin2_map_capedragonhead/000000/water.wtr]]></File>
 		<File ArchivedPath="metin2_map_c3/mapproperty.txt"><![CDATA[source/maps/metin2_map_c3/mapproperty.txt]]></File>
-		<File ArchivedPath="metin2_map_c3/monsterareainfo.txt"><![CDATA[source/maps/metin2_map_c3/monsterareainfo.txt]]></File>
 		<File ArchivedPath="metin2_map_c3/monsterarrange.txt"><![CDATA[source/maps/metin2_map_c3/monsterarrange.txt]]></File>
 		<File ArchivedPath="metin2_map_c3/regen.txt"><![CDATA[source/maps/metin2_map_c3/regen.txt]]></File>
 		<File ArchivedPath="metin2_map_c3/setting.txt"><![CDATA[source/maps/metin2_map_c3/setting.txt]]></File>
@@ -13459,8 +13458,8 @@
 		<File ArchivedPath="metin2_map_c3/000000/tile.raw"><![CDATA[source/maps/metin2_map_c3/000000/tile.raw]]></File>
 		<File ArchivedPath="metin2_map_c3/000000/water.wtr"><![CDATA[source/maps/metin2_map_c3/000000/water.wtr]]></File>
 		<File ArchivedPath="metin2_map_c1/mapproperty.txt"><![CDATA[source/maps/metin2_map_c1/mapproperty.txt]]></File>
-		<File ArchivedPath="metin2_map_c1/monsterareainfo.txt"><![CDATA[source/maps/metin2_map_c1/monsterareainfo.txt]]></File>
 		<File ArchivedPath="metin2_map_c1/monsterarrange.txt"><![CDATA[source/maps/metin2_map_c1/monsterarrange.txt]]></File>
+		<File ArchivedPath="metin2_map_c1/regen.txt"><![CDATA[source/maps/metin2_map_c1/regen.txt]]></File>
 		<File ArchivedPath="metin2_map_c1/server_attr"><![CDATA[source/maps/metin2_map_c1/server_attr]]></File>
 		<File ArchivedPath="metin2_map_c1/setting.txt"><![CDATA[source/maps/metin2_map_c1/setting.txt]]></File>
 		<File ArchivedPath="metin2_map_c1/003004/areaambiencedata.txt"><![CDATA[source/maps/metin2_map_c1/003004/areaambiencedata.txt]]></File>
@@ -14403,7 +14402,6 @@
 		<File ArchivedPath="metin2_map_b3/001001/shadowmap.raw"><![CDATA[source/maps/metin2_map_b3/001001/shadowmap.raw]]></File>
 		<File ArchivedPath="metin2_map_b3/001001/tile.raw"><![CDATA[source/maps/metin2_map_b3/001001/tile.raw]]></File>
 		<File ArchivedPath="metin2_map_b3/001001/water.wtr"><![CDATA[source/maps/metin2_map_b3/001001/water.wtr]]></File>
-		<File ArchivedPath="metin2_map_b3/001001/ป็oป - areadata.txt"><![CDATA[source/maps/metin2_map_b3/001001/ป็oป - areadata.txt]]></File>
 		<File ArchivedPath="metin2_map_b3/001001/ป็บป - areadata.txt"><![CDATA[source/maps/metin2_map_b3/001001/ป็บป - areadata.txt]]></File>
 		<File ArchivedPath="metin2_map_b3/001000/areaambiencedata.txt"><![CDATA[source/maps/metin2_map_b3/001000/areaambiencedata.txt]]></File>
 		<File ArchivedPath="metin2_map_b3/001000/areadata.txt"><![CDATA[source/maps/metin2_map_b3/001000/areadata.txt]]></File>
@@ -14460,12 +14458,10 @@
 		<File ArchivedPath="metin2_map_b3/000000/shadowmap.raw"><![CDATA[source/maps/metin2_map_b3/000000/shadowmap.raw]]></File>
 		<File ArchivedPath="metin2_map_b3/000000/tile.raw"><![CDATA[source/maps/metin2_map_b3/000000/tile.raw]]></File>
 		<File ArchivedPath="metin2_map_b3/000000/water.wtr"><![CDATA[source/maps/metin2_map_b3/000000/water.wtr]]></File>
-		<File ArchivedPath="metin2_map_b3/000000/ป็oป - areadata.txt"><![CDATA[source/maps/metin2_map_b3/000000/ป็oป - areadata.txt]]></File>
 		<File ArchivedPath="metin2_map_b3/000000/ป็บป - areadata.txt"><![CDATA[source/maps/metin2_map_b3/000000/ป็บป - areadata.txt]]></File>
 		<File ArchivedPath="metin2_map_b1/mapproperty.txt"><![CDATA[source/maps/metin2_map_b1/mapproperty.txt]]></File>
-		<File ArchivedPath="metin2_map_b1/monsterareainfo.txt"><![CDATA[source/maps/metin2_map_b1/monsterareainfo.txt]]></File>
 		<File ArchivedPath="metin2_map_b1/monsterarrange.txt"><![CDATA[source/maps/metin2_map_b1/monsterarrange.txt]]></File>
-		<File ArchivedPath="metin2_map_b1/server_attr"><![CDATA[source/maps/metin2_map_b1/server_attr]]></File>
+		<File ArchivedPath="metin2_map_b1/regen.txt"><![CDATA[source/maps/metin2_map_b1/regen.txt]]></File>
 		<File ArchivedPath="metin2_map_b1/setting.txt"><![CDATA[source/maps/metin2_map_b1/setting.txt]]></File>
 		<File ArchivedPath="metin2_map_b1/003004/areaambiencedata.txt"><![CDATA[source/maps/metin2_map_b1/003004/areaambiencedata.txt]]></File>
 		<File ArchivedPath="metin2_map_b1/003004/areadata.txt"><![CDATA[source/maps/metin2_map_b1/003004/areadata.txt]]></File>
@@ -14855,21 +14851,7 @@
 		<File ArchivedPath="metin2_map_a1/mapproperty.txt"><![CDATA[source/maps/metin2_map_a1/mapproperty.txt]]></File>
 		<File ArchivedPath="metin2_map_a1/monsterareainfo.txt"><![CDATA[source/maps/metin2_map_a1/monsterareainfo.txt]]></File>
 		<File ArchivedPath="metin2_map_a1/monsterarrange.txt"><![CDATA[source/maps/metin2_map_a1/monsterarrange.txt]]></File>
-		<File ArchivedPath="metin2_map_a1/server_attr"><![CDATA[source/maps/metin2_map_a1/server_attr]]></File>
 		<File ArchivedPath="metin2_map_a1/setting.txt"><![CDATA[source/maps/metin2_map_a1/setting.txt]]></File>
-		<File ArchivedPath="metin2_map_a1/005005/areadata.txt"><![CDATA[source/maps/metin2_map_a1/005005/areadata.txt]]></File>
-		<File ArchivedPath="metin2_map_a1/005004/areadata.txt"><![CDATA[source/maps/metin2_map_a1/005004/areadata.txt]]></File>
-		<File ArchivedPath="metin2_map_a1/005003/areadata.txt"><![CDATA[source/maps/metin2_map_a1/005003/areadata.txt]]></File>
-		<File ArchivedPath="metin2_map_a1/005002/areadata.txt"><![CDATA[source/maps/metin2_map_a1/005002/areadata.txt]]></File>
-		<File ArchivedPath="metin2_map_a1/005001/areadata.txt"><![CDATA[source/maps/metin2_map_a1/005001/areadata.txt]]></File>
-		<File ArchivedPath="metin2_map_a1/005000/areadata.txt"><![CDATA[source/maps/metin2_map_a1/005000/areadata.txt]]></File>
-		<File ArchivedPath="metin2_map_a1/004005/areadata.txt"><![CDATA[source/maps/metin2_map_a1/004005/areadata.txt]]></File>
-		<File ArchivedPath="metin2_map_a1/004004/areadata.txt"><![CDATA[source/maps/metin2_map_a1/004004/areadata.txt]]></File>
-		<File ArchivedPath="metin2_map_a1/004003/areadata.txt"><![CDATA[source/maps/metin2_map_a1/004003/areadata.txt]]></File>
-		<File ArchivedPath="metin2_map_a1/004002/areadata.txt"><![CDATA[source/maps/metin2_map_a1/004002/areadata.txt]]></File>
-		<File ArchivedPath="metin2_map_a1/004001/areadata.txt"><![CDATA[source/maps/metin2_map_a1/004001/areadata.txt]]></File>
-		<File ArchivedPath="metin2_map_a1/004000/areadata.txt"><![CDATA[source/maps/metin2_map_a1/004000/areadata.txt]]></File>
-		<File ArchivedPath="metin2_map_a1/003005/areadata.txt"><![CDATA[source/maps/metin2_map_a1/003005/areadata.txt]]></File>
 		<File ArchivedPath="metin2_map_a1/003004/areaambiencedata.txt"><![CDATA[source/maps/metin2_map_a1/003004/areaambiencedata.txt]]></File>
 		<File ArchivedPath="metin2_map_a1/003004/areadata.txt"><![CDATA[source/maps/metin2_map_a1/003004/areadata.txt]]></File>
 		<File ArchivedPath="metin2_map_a1/003004/areaproperty.txt"><![CDATA[source/maps/metin2_map_a1/003004/areaproperty.txt]]></File>
@@ -14920,7 +14902,6 @@
 		<File ArchivedPath="metin2_map_a1/003000/shadowmap.raw"><![CDATA[source/maps/metin2_map_a1/003000/shadowmap.raw]]></File>
 		<File ArchivedPath="metin2_map_a1/003000/tile.raw"><![CDATA[source/maps/metin2_map_a1/003000/tile.raw]]></File>
 		<File ArchivedPath="metin2_map_a1/003000/water.wtr"><![CDATA[source/maps/metin2_map_a1/003000/water.wtr]]></File>
-		<File ArchivedPath="metin2_map_a1/002005/areadata.txt"><![CDATA[source/maps/metin2_map_a1/002005/areadata.txt]]></File>
 		<File ArchivedPath="metin2_map_a1/002004/areaambiencedata.txt"><![CDATA[source/maps/metin2_map_a1/002004/areaambiencedata.txt]]></File>
 		<File ArchivedPath="metin2_map_a1/002004/areadata.txt"><![CDATA[source/maps/metin2_map_a1/002004/areadata.txt]]></File>
 		<File ArchivedPath="metin2_map_a1/002004/areaproperty.txt"><![CDATA[source/maps/metin2_map_a1/002004/areaproperty.txt]]></File>
@@ -14971,7 +14952,6 @@
 		<File ArchivedPath="metin2_map_a1/002000/shadowmap.raw"><![CDATA[source/maps/metin2_map_a1/002000/shadowmap.raw]]></File>
 		<File ArchivedPath="metin2_map_a1/002000/tile.raw"><![CDATA[source/maps/metin2_map_a1/002000/tile.raw]]></File>
 		<File ArchivedPath="metin2_map_a1/002000/water.wtr"><![CDATA[source/maps/metin2_map_a1/002000/water.wtr]]></File>
-		<File ArchivedPath="metin2_map_a1/001005/areadata.txt"><![CDATA[source/maps/metin2_map_a1/001005/areadata.txt]]></File>
 		<File ArchivedPath="metin2_map_a1/001004/areaambiencedata.txt"><![CDATA[source/maps/metin2_map_a1/001004/areaambiencedata.txt]]></File>
 		<File ArchivedPath="metin2_map_a1/001004/areadata.txt"><![CDATA[source/maps/metin2_map_a1/001004/areadata.txt]]></File>
 		<File ArchivedPath="metin2_map_a1/001004/areaproperty.txt"><![CDATA[source/maps/metin2_map_a1/001004/areaproperty.txt]]></File>
@@ -15022,7 +15002,6 @@
 		<File ArchivedPath="metin2_map_a1/001000/shadowmap.raw"><![CDATA[source/maps/metin2_map_a1/001000/shadowmap.raw]]></File>
 		<File ArchivedPath="metin2_map_a1/001000/tile.raw"><![CDATA[source/maps/metin2_map_a1/001000/tile.raw]]></File>
 		<File ArchivedPath="metin2_map_a1/001000/water.wtr"><![CDATA[source/maps/metin2_map_a1/001000/water.wtr]]></File>
-		<File ArchivedPath="metin2_map_a1/000005/areadata.txt"><![CDATA[source/maps/metin2_map_a1/000005/areadata.txt]]></File>
 		<File ArchivedPath="metin2_map_a1/000004/areaambiencedata.txt"><![CDATA[source/maps/metin2_map_a1/000004/areaambiencedata.txt]]></File>
 		<File ArchivedPath="metin2_map_a1/000004/areadata.txt"><![CDATA[source/maps/metin2_map_a1/000004/areadata.txt]]></File>
 		<File ArchivedPath="metin2_map_a1/000004/areaproperty.txt"><![CDATA[source/maps/metin2_map_a1/000004/areaproperty.txt]]></File>

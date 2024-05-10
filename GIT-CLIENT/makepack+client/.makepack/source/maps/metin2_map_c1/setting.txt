@@ -7,6 +7,6 @@ ViewRadius	128
 
 MapSize	4	5
 BasePosition	921600	204800
-TextureSet	textureset\metin2_horus_summer.txt
-Environment	summer.msenv
+TextureSet	textureset\metin2_C1.txt
+Environment	C1.msenv
 

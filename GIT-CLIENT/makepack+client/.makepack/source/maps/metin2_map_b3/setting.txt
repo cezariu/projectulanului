@@ -7,7 +7,6 @@ ViewRadius	128
 
 MapSize	4	4
 BasePosition	102400	204800
-TextureSet	textureset\metin2_a3.txt
-Environment	lasek.msenv
-
+TextureSet	textureset\metin2_B3.txt
+Environment	B3.msenv
 
