@@ -1,0 +1,62 @@
+May 11 18:00:19 :: PONG! 239
+May 11 18:00:19 :: Handshake: client_time 11015807 server_time 11195806 name: [DEV]Cezariu
+May 11 18:00:21 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:03:19 :: PONG! 239
+May 11 18:03:19 :: Handshake: client_time 11195806 server_time 11375806 name: [DEV]Cezariu
+May 11 18:03:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:06:19 :: PONG! 239
+May 11 18:06:19 :: Handshake: client_time 11375806 server_time 11555807 name: [DEV]Cezariu
+May 11 18:06:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:09:19 :: PONG! 239
+May 11 18:09:19 :: Handshake: client_time 11555807 server_time 11735806 name: [DEV]Cezariu
+May 11 18:09:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:12:19 :: PONG! 239
+May 11 18:12:19 :: Handshake: client_time 11735806 server_time 11915808 name: [DEV]Cezariu
+May 11 18:12:21 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:15:19 :: PONG! 239
+May 11 18:15:19 :: Handshake: lower than zero -1
+May 11 18:15:19 :: Handshake: client_time 11915808 server_time 12095888 name: [DEV]Cezariu
+May 11 18:15:21 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:18:19 :: PONG! 239
+May 11 18:18:19 :: Handshake: client_time 12095888 server_time 12275806 name: [DEV]Cezariu
+May 11 18:18:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:21:19 :: PONG! 239
+May 11 18:21:19 :: Handshake: client_time 12275806 server_time 12455806 name: [DEV]Cezariu
+May 11 18:21:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:24:19 :: PONG! 239
+May 11 18:24:19 :: Handshake: client_time 12455806 server_time 12635808 name: [DEV]Cezariu
+May 11 18:24:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:27:19 :: PONG! 239
+May 11 18:27:19 :: Handshake: client_time 12635808 server_time 12815807 name: [DEV]Cezariu
+May 11 18:27:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:30:19 :: PONG! 239
+May 11 18:30:19 :: Handshake: client_time 12815807 server_time 12995807 name: [DEV]Cezariu
+May 11 18:30:21 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:33:19 :: PONG! 239
+May 11 18:33:19 :: Handshake: client_time 12995807 server_time 13175806 name: [DEV]Cezariu
+May 11 18:33:21 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:36:19 :: PONG! 239
+May 11 18:36:19 :: Handshake: client_time 13175806 server_time 13355806 name: [DEV]Cezariu
+May 11 18:36:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:39:19 :: PONG! 239
+May 11 18:39:19 :: Handshake: client_time 13355806 server_time 13535807 name: [DEV]Cezariu
+May 11 18:39:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:42:19 :: PONG! 239
+May 11 18:42:19 :: Handshake: client_time 13535807 server_time 13715807 name: [DEV]Cezariu
+May 11 18:42:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:45:19 :: PONG! 239
+May 11 18:45:19 :: Handshake: client_time 13715807 server_time 13895807 name: [DEV]Cezariu
+May 11 18:45:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:48:19 :: PONG! 239
+May 11 18:48:19 :: Handshake: client_time 13895807 server_time 14075808 name: [DEV]Cezariu
+May 11 18:48:21 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:51:19 :: PONG! 239
+May 11 18:51:19 :: Handshake: client_time 14075808 server_time 14255807 name: [DEV]Cezariu
+May 11 18:51:21 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:54:19 :: PONG! 239
+May 11 18:54:19 :: Handshake: client_time 14255807 server_time 14435807 name: [DEV]Cezariu
+May 11 18:54:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 18:57:19 :: PONG! 239
+May 11 18:57:19 :: Handshake: client_time 14435807 server_time 14615807 name: [DEV]Cezariu
+May 11 18:57:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 19:00:00 :: SYSTEM: LOG ROTATE (2024-05-11 18)

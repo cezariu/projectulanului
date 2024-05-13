@@ -1,10 +1,10 @@
  Group BattlePass
 {
 	#--#	BattlePassName	BattlePassID	StartTime	EndTime
-	1	event_2023_advent_event	1	1694714752	1702577152
+	1	event_2024_advent_event	1	1715428150	1718106550
 }
 
-Group event_2023_advent_event
+Group event_2024_advent_event
 {
 	Group Reward
 	{

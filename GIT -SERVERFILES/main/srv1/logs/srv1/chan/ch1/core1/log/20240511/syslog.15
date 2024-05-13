@@ -1,0 +1,553 @@
+May 11 15:00:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:01:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:01:50 :: PONG! 239
+May 11 15:01:50 :: Handshake: client_time 306858 server_time 486805 name: [DEV]Cezariu
+May 11 15:01:53 :: SAVE: [DEV]Cezariu 343905x703655
+May 11 15:02:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:03:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:04:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:04:50 :: PONG! 239
+May 11 15:04:50 :: Handshake: client_time 486805 server_time 666805 name: [DEV]Cezariu
+May 11 15:04:52 :: PING_EVENT: no pong 93.115.44.219
+May 11 15:04:52 :: SYSTEM: closing socket. DESC #20
+May 11 15:04:53 :: SAVE: [DEV]Cezariu 343905x703655
+May 11 15:05:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:06:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:06:58 :: COMMAND: [DEV]Cezariu: ride
+May 11 15:06:58 :: RegisterRaceNumMap Wolf 20111
+May 11 15:06:58 :: SECTREE DIFFER: [DEV]Cezariu 52x109 was 53x109 dist 1.0m
+May 11 15:06:59 :: COMMAND: [DEV]Cezariu: ride
+May 11 15:06:59 :: AddAffect [DEV]Cezariu type 533 apply 53 15 flag 0 duration 554374
+May 11 15:06:59 :: AddAffect [DEV]Cezariu type 533 apply 162 5 flag 0 duration 554374
+May 11 15:06:59 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 554374
+May 11 15:06:59 :: AddAffect [DEV]Cezariu type 221 apply 109 20111 flag 0 duration 554374
+May 11 15:07:01 :: COMMAND: [DEV]Cezariu: gotoxy
+May 11 15:07:01 :: SHOW: [DEV]Cezariu 350800x728700x0
+May 11 15:07:03 :: SECTREE DIFFER: [DEV]Cezariu 54x114 was 54x113 dist 1.0m
+May 11 15:07:03 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:07:05 :: SECTREE DIFFER: [DEV]Cezariu 53x114 was 54x114 dist 1.0m
+May 11 15:07:05 :: [DEV]Cezariu: USE_ITEM Teleport Ring (inven 1, cell: 0)
+May 11 15:07:07 :: QUEST ScriptAnswer pid 22 answer 4
+May 11 15:07:07 :: QUEST ScriptAnswer pid 22 answer 3
+May 11 15:07:07 :: WarpSet [DEV]Cezariu 492100 257400 current map 64 target map 61
+May 11 15:07:07 :: SAVE: [DEV]Cezariu 492100x257400
+May 11 15:07:07 :: DISCONNECT: [DEV]Cezariu (DESC::~DESC)
+May 11 15:07:07 :: SAVE: [DEV]Cezariu 492100x257400
+May 11 15:07:07 :: QUEST clear timer 1
+May 11 15:07:07 :: SYSTEM: closing socket. DESC #21
+May 11 15:07:07 :: SYSTEM: new connection from [93.115.44.219] fd: 20 handshake 1635210756 output input_len 0, ptr 0x2bb29800
+May 11 15:07:08 :: Handshake: client_time 0 server_time 804045
+May 11 15:07:08 :: LOGIN_BY_KEY: jack key 79664330
+May 11 15:07:08 :: LoginSuccess
+May 11 15:07:08 :: 	player([DEV]Cezariu).job(0)
+May 11 15:07:08 :: 	player(Test).job(5)
+May 11 15:07:08 :: 	player(Shaorma).job(2)
+May 11 15:07:08 :: 	player(Militari).job(0)
+May 11 15:07:08 :: 	player(redas).job(0)
+May 11 15:07:08 :: success to 81.180.202.36:30054
+May 11 15:07:08 :: success to 81.180.202.36:30070
+May 11 15:07:08 :: success to 81.180.202.36:30070
+May 11 15:07:08 :: success to 81.180.202.36:30070
+May 11 15:07:08 :: success to 81.180.202.36:30054
+May 11 15:07:08 :: InputDB::login_success: jack
+May 11 15:07:08 :: SYSTEM: new connection from [93.115.44.219] fd: 21 handshake 1040075881 output input_len 0, ptr 0x2bb29d00
+May 11 15:07:08 :: SYSTEM: new connection from [93.115.44.219] fd: 22 handshake 1209948776 output input_len 0, ptr 0x2bb2b100
+May 11 15:07:08 :: player_select: login: jack index: 0
+May 11 15:07:08 :: MARK_SERVER: Login
+May 11 15:07:08 :: GM_NEW_GET_LEVEL : FIND ACCOUNT
+May 11 15:07:08 :: PK_MODE: [DEV]Cezariu 3
+May 11 15:07:08 :: PLAYER_LOAD: [DEV]Cezariu PREMIUM 2062000800 2062000800, LOGGOFF_INTERVAL 1 PTR: 0x57d15340
+May 11 15:07:08 :: GM_LOGIN(gmlevel=5, name=[DEV]Cezariu(22), pos=(492100, 257400)
+May 11 15:07:08 :: InputDB: player_load [DEV]Cezariu 492100x257400x0 LEVEL 65 MOV_SPEED 200 JOB 0 ATG 0 DFG 142 GMLv 0
+May 11 15:07:08 :: ITEM_LOAD: COUNT [DEV]Cezariu 175
+May 11 15:07:08 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:08 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:08 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:08 :: RegisterRaceNumMap Wolf 20111
+May 11 15:07:08 :: AddAffect [DEV]Cezariu type 533 apply 53 15 flag 0 duration 554365
+May 11 15:07:08 :: AddAffect [DEV]Cezariu type 533 apply 162 5 flag 0 duration 554365
+May 11 15:07:08 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 554365
+May 11 15:07:08 :: AddAffect [DEV]Cezariu type 221 apply 109 20111 flag 0 duration 554365
+May 11 15:07:08 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:08 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:08 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:08 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:08 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:08 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:08 :: QUEST_LOAD: count 47
+May 11 15:07:08 ::             rune.__status 777843330
+May 11 15:07:08 ::             main_quest_lv10.__status 668443392
+May 11 15:07:08 ::             give_basic_weapon.__status 668443392
+May 11 15:07:08 ::             horse_name.valid_till 1840976028
+May 11 15:07:08 ::             system_gaya.gaya_time_world_4 1715081847
+May 11 15:07:08 ::             pyramide_zone.cooldown 1714872929
+May 11 15:07:08 ::             pyramide_zone.disconnect 1714869973
+May 11 15:07:08 ::             pyramide_zone.idx 3570000
+May 11 15:07:08 ::             hydra_zone.cooldown 1715094472
+May 11 15:07:08 ::             rune.hide_effect 1
+May 11 15:07:08 ::             catacombe.disconnect 1714985953
+May 11 15:07:08 ::             hydra_zone.disconnect 1715091490
+May 11 15:07:08 ::             slime_dungeon.cooldown 1715100926
+May 11 15:07:08 ::             slime_dungeon.disconnect 1715100035
+May 11 15:07:08 ::             slime_dungeon.idx 270000
+May 11 15:07:08 ::             dungeonorchi.cooldown 1715100975
+May 11 15:07:08 ::             dungeonorchi.disconnect 1715100105
+May 11 15:07:08 ::             dungeonorchi.idx 3550000
+May 11 15:07:08 ::             deviltower_zone.cooldown 1714870707
+May 11 15:07:08 ::             training_grandmaster_skill.skill3 2
+May 11 15:07:08 ::             deviltower_zone.disconnect 1714870413
+May 11 15:07:08 ::             deviltower_zone.can_refine 1
+May 11 15:07:08 ::             catacombe.cooldown 1714988033
+May 11 15:07:08 ::             pda_quest.cooldown 1714927218
+May 11 15:07:08 ::             hydra_zone.enter_time 1715091172
+May 11 15:07:08 ::             hydra_zone.idx 3530000
+May 11 15:07:08 ::             hydra_zone.ch 1
+May 11 15:07:08 ::             razador_zone.cooldown 1714873420
+May 11 15:07:08 ::             razador_zone.idx 3510000
+May 11 15:07:08 ::             razador_zone.disconnect 1714870137
+May 11 15:07:08 ::             nemere_zone.cooldown 1714873450
+May 11 15:07:08 ::             nemere_zone.idx 3520000
+May 11 15:07:08 ::             nemere_zone.disconnect 1714870166
+May 11 15:07:08 ::             deviltower_zone.idx 660001
+May 11 15:07:08 ::             catacombe.idx 2160000
+May 11 15:07:08 ::             temple_ochao.cooldown 1715102575
+May 11 15:07:08 ::             enchanted_forest.cooldown 1715102614
+May 11 15:07:08 ::             enchanted_forest.idx 2100001
+May 11 15:07:08 ::             enchanted_forest.disconnect 1715099326
+May 11 15:07:08 ::             rune_zone.cooldown 1715102654
+May 11 15:07:08 ::             temple_ochao.disconnect 1715099284
+May 11 15:07:08 ::             temple_ochao.idx 2090000
+May 11 15:07:08 ::             rune_zone.enter_time 1715099054
+May 11 15:07:08 ::             rune_zone.ch 1
+May 11 15:07:08 ::             rune_zone.disconnect 1715099428
+May 11 15:07:08 ::             rune_zone.idx 2180000
+May 11 15:07:08 ::             main_quest_lv30.__status -596781658
+May 11 15:07:08 :: LargePacket Size 136
+May 11 15:07:08 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+May 11 15:07:08 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+May 11 15:07:09 :: SYSTEM: closing socket. DESC #21
+May 11 15:07:09 :: VERSION: [DEV]Cezariu 1215955205 Hypnotic2.exe
+May 11 15:07:09 :: SYSTEM: closing socket. DESC #22
+May 11 15:07:09 :: SYSTEM: new connection from [93.115.44.219] fd: 21 handshake 4293070999 output input_len 0, ptr 0x2bb2b100
+May 11 15:07:09 :: SHOW: [DEV]Cezariu 492100x257400x0
+May 11 15:07:09 :: AddAffect [DEV]Cezariu type 215 apply 0 0 flag 28 duration 5
+May 11 15:07:09 :: ENTERGAME: [DEV]Cezariu 492100x257400x0 93.115.44.219 map_index 61
+May 11 15:07:09 :: HORSE STAMINA CONSUME EVENT CANCEL 0x0
+May 11 15:07:09 :: HORSE STAMINA REGEN EVENT CREATE 0x734dab00
+May 11 15:07:09 :: SendLandList map 61 count 0 elem_size: 0
+May 11 15:07:09 :: AddAffect [DEV]Cezariu type 500 apply 0 0 flag 0 duration 346571571
+May 11 15:07:09 :: PREMIUM: [DEV]Cezariu type 0 346571571min
+May 11 15:07:09 :: AddAffect [DEV]Cezariu type 501 apply 0 0 flag 0 duration 346571571
+May 11 15:07:09 :: PREMIUM: [DEV]Cezariu type 1 346571571min
+May 11 15:07:09 :: AddAffect [DEV]Cezariu type 502 apply 0 0 flag 0 duration 346571571
+May 11 15:07:09 :: PREMIUM: [DEV]Cezariu type 2 346571571min
+May 11 15:07:09 :: AddAffect [DEV]Cezariu type 503 apply 0 0 flag 0 duration 346571571
+May 11 15:07:09 :: PREMIUM: [DEV]Cezariu type 3 346571571min
+May 11 15:07:09 :: AddAffect [DEV]Cezariu type 504 apply 0 0 flag 0 duration 346571571
+May 11 15:07:09 :: PREMIUM: [DEV]Cezariu type 4 346571571min
+May 11 15:07:09 :: AddAffect [DEV]Cezariu type 505 apply 0 0 flag 0 duration 346571571
+May 11 15:07:09 :: PREMIUM: [DEV]Cezariu type 5 346571571min
+May 11 15:07:09 :: AddAffect [DEV]Cezariu type 506 apply 0 0 flag 0 duration 346571571
+May 11 15:07:09 :: PREMIUM: [DEV]Cezariu type 6 346571571min
+May 11 15:07:09 :: VERSION : NO CHECK
+May 11 15:07:09 :: QUEST_LOAD: Login pc 22 by event
+May 11 15:07:09 :: QUEST timer name timer1 cycle 15025 pc 22 npc 4294967295 loop? 0
+May 11 15:07:09 :: QUEST add timer 0x734dabc0 1
+May 11 15:07:09 :: AddAffect [DEV]Cezariu type 999 apply 0 0 flag 0 duration 31536000
+May 11 15:07:13 :: COMMAND: [DEV]Cezariu: gotoxy
+May 11 15:07:13 :: SHOW: [DEV]Cezariu 453400x240600x0
+May 11 15:07:16 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:07:19 :: SECTREE DIFFER: [DEV]Cezariu 69x37 was 70x37 dist 1.0m
+May 11 15:07:19 :: SECTREE DIFFER: [DEV]Cezariu 69x36 was 69x37 dist 1.0m
+May 11 15:07:20 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:07:22 :: SECTREE DIFFER: [DEV]Cezariu 68x36 was 69x36 dist 1.0m
+May 11 15:07:25 :: SECTREE DIFFER: [DEV]Cezariu 68x35 was 68x36 dist 1.0m
+May 11 15:07:26 :: SECTREE DIFFER: [DEV]Cezariu 67x35 was 68x35 dist 1.0m
+May 11 15:07:29 :: SECTREE DIFFER: [DEV]Cezariu 67x34 was 67x35 dist 1.0m
+May 11 15:07:32 :: SECTREE DIFFER: [DEV]Cezariu 67x33 was 67x34 dist 1.0m
+May 11 15:07:34 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:07:36 :: SECTREE DIFFER: [DEV]Cezariu 67x32 was 67x33 dist 1.0m
+May 11 15:07:39 :: SECTREE DIFFER: [DEV]Cezariu 67x31 was 67x32 dist 1.0m
+May 11 15:07:42 :: SECTREE DIFFER: [DEV]Cezariu 67x30 was 67x31 dist 1.0m
+May 11 15:07:43 :: SECTREE DIFFER: [DEV]Cezariu 68x30 was 67x30 dist 1.0m
+May 11 15:07:44 :: SECTREE DIFFER: [DEV]Cezariu 67x30 was 68x30 dist 1.0m
+May 11 15:07:44 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:07:47 :: SECTREE DIFFER: [DEV]Cezariu 66x30 was 67x30 dist 1.0m
+May 11 15:07:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:07:48 :: SECTREE DIFFER: [DEV]Cezariu 66x31 was 66x30 dist 1.0m
+May 11 15:07:50 :: [DEV]Cezariu: USE_ITEM Teleport Ring (inven 1, cell: 0)
+May 11 15:07:51 :: QUEST ScriptAnswer pid 22 answer 6
+May 11 15:07:52 :: QUEST ScriptAnswer pid 22 answer 2
+May 11 15:07:52 :: WarpSet [DEV]Cezariu 650300 752600 current map 61 target map 62
+May 11 15:07:52 :: DISCONNECT: [DEV]Cezariu (DESC::~DESC)
+May 11 15:07:52 :: SAVE: [DEV]Cezariu 650300x752600
+May 11 15:07:52 :: QUEST clear timer 1
+May 11 15:07:52 :: SYSTEM: closing socket. DESC #20
+May 11 15:07:52 :: SYSTEM: new connection from [93.115.44.219] fd: 20 handshake 2553304403 output input_len 0, ptr 0x2bb29800
+May 11 15:07:52 :: Handshake: client_time 0 server_time 848571
+May 11 15:07:52 :: LOGIN_BY_KEY: jack key 79664330
+May 11 15:07:53 :: LoginSuccess
+May 11 15:07:53 :: 	player([DEV]Cezariu).job(0)
+May 11 15:07:53 :: 	player(Test).job(5)
+May 11 15:07:53 :: 	player(Shaorma).job(2)
+May 11 15:07:53 :: 	player(Militari).job(0)
+May 11 15:07:53 :: 	player(redas).job(0)
+May 11 15:07:53 :: success to 81.180.202.36:30054
+May 11 15:07:53 :: success to 81.180.202.36:30070
+May 11 15:07:53 :: success to 81.180.202.36:30070
+May 11 15:07:53 :: success to 81.180.202.36:30070
+May 11 15:07:53 :: success to 81.180.202.36:30054
+May 11 15:07:53 :: InputDB::login_success: jack
+May 11 15:07:53 :: SYSTEM: closing socket. DESC #21
+May 11 15:07:53 :: SYSTEM: new connection from [93.115.44.219] fd: 21 handshake 3742437429 output input_len 0, ptr 0x2bb2b100
+May 11 15:07:53 :: player_select: login: jack index: 0
+May 11 15:07:53 :: GM_NEW_GET_LEVEL : FIND ACCOUNT
+May 11 15:07:53 :: PK_MODE: [DEV]Cezariu 3
+May 11 15:07:53 :: PLAYER_LOAD: [DEV]Cezariu PREMIUM 2062000800 2062000800, LOGGOFF_INTERVAL 1 PTR: 0x57d28d40
+May 11 15:07:53 :: GM_LOGIN(gmlevel=5, name=[DEV]Cezariu(22), pos=(650300, 752600)
+May 11 15:07:53 :: InputDB: player_load [DEV]Cezariu 650300x752600x0 LEVEL 65 MOV_SPEED 200 JOB 0 ATG 0 DFG 142 GMLv 0
+May 11 15:07:53 :: ITEM_LOAD: COUNT [DEV]Cezariu 175
+May 11 15:07:53 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:53 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:53 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:53 :: RegisterRaceNumMap Wolf 20111
+May 11 15:07:53 :: AddAffect [DEV]Cezariu type 533 apply 53 15 flag 0 duration 554320
+May 11 15:07:53 :: AddAffect [DEV]Cezariu type 533 apply 162 5 flag 0 duration 554320
+May 11 15:07:53 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 554320
+May 11 15:07:53 :: AddAffect [DEV]Cezariu type 221 apply 109 20111 flag 0 duration 554320
+May 11 15:07:53 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:53 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:53 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:53 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:53 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:53 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 15:07:53 :: QUEST_LOAD: count 47
+May 11 15:07:53 ::             rune.__status 777843330
+May 11 15:07:53 ::             main_quest_lv10.__status 668443392
+May 11 15:07:53 ::             give_basic_weapon.__status 668443392
+May 11 15:07:53 ::             horse_name.valid_till 1840976028
+May 11 15:07:53 ::             system_gaya.gaya_time_world_4 1715081847
+May 11 15:07:53 ::             pyramide_zone.cooldown 1714872929
+May 11 15:07:53 ::             pyramide_zone.disconnect 1714869973
+May 11 15:07:53 ::             pyramide_zone.idx 3570000
+May 11 15:07:53 ::             hydra_zone.cooldown 1715094472
+May 11 15:07:53 ::             rune.hide_effect 1
+May 11 15:07:53 ::             catacombe.disconnect 1714985953
+May 11 15:07:53 ::             hydra_zone.disconnect 1715091490
+May 11 15:07:53 ::             slime_dungeon.cooldown 1715100926
+May 11 15:07:53 ::             slime_dungeon.disconnect 1715100035
+May 11 15:07:53 ::             slime_dungeon.idx 270000
+May 11 15:07:53 ::             dungeonorchi.cooldown 1715100975
+May 11 15:07:53 ::             dungeonorchi.disconnect 1715100105
+May 11 15:07:53 ::             dungeonorchi.idx 3550000
+May 11 15:07:53 ::             deviltower_zone.cooldown 1714870707
+May 11 15:07:53 ::             training_grandmaster_skill.skill3 2
+May 11 15:07:53 ::             deviltower_zone.disconnect 1714870413
+May 11 15:07:53 ::             deviltower_zone.can_refine 1
+May 11 15:07:53 ::             catacombe.cooldown 1714988033
+May 11 15:07:53 ::             pda_quest.cooldown 1714927218
+May 11 15:07:53 ::             hydra_zone.enter_time 1715091172
+May 11 15:07:53 ::             hydra_zone.idx 3530000
+May 11 15:07:53 ::             hydra_zone.ch 1
+May 11 15:07:53 ::             razador_zone.cooldown 1714873420
+May 11 15:07:53 ::             razador_zone.idx 3510000
+May 11 15:07:53 ::             razador_zone.disconnect 1714870137
+May 11 15:07:53 ::             nemere_zone.cooldown 1714873450
+May 11 15:07:53 ::             nemere_zone.idx 3520000
+May 11 15:07:53 ::             nemere_zone.disconnect 1714870166
+May 11 15:07:53 ::             deviltower_zone.idx 660001
+May 11 15:07:53 ::             catacombe.idx 2160000
+May 11 15:07:53 ::             temple_ochao.cooldown 1715102575
+May 11 15:07:53 ::             enchanted_forest.cooldown 1715102614
+May 11 15:07:53 ::             enchanted_forest.idx 2100001
+May 11 15:07:53 ::             enchanted_forest.disconnect 1715099326
+May 11 15:07:53 ::             rune_zone.cooldown 1715102654
+May 11 15:07:53 ::             temple_ochao.disconnect 1715099284
+May 11 15:07:53 ::             temple_ochao.idx 2090000
+May 11 15:07:53 ::             rune_zone.enter_time 1715099054
+May 11 15:07:53 ::             rune_zone.ch 1
+May 11 15:07:53 ::             rune_zone.disconnect 1715099428
+May 11 15:07:53 ::             rune_zone.idx 2180000
+May 11 15:07:53 ::             main_quest_lv30.__status -596781658
+May 11 15:07:53 :: VERSION: [DEV]Cezariu 1215955205 Hypnotic2.exe
+May 11 15:07:53 :: SYSTEM: closing socket. DESC #21
+May 11 15:07:54 :: SYSTEM: new connection from [93.115.44.219] fd: 21 handshake 208898622 output input_len 0, ptr 0x2bb2b100
+May 11 15:07:54 :: SHOW: [DEV]Cezariu 650300x752600x0
+May 11 15:07:54 :: AddAffect [DEV]Cezariu type 215 apply 0 0 flag 28 duration 5
+May 11 15:07:54 :: ENTERGAME: [DEV]Cezariu 650300x752600x0 93.115.44.219 map_index 62
+May 11 15:07:54 :: HORSE STAMINA CONSUME EVENT CANCEL 0x0
+May 11 15:07:54 :: HORSE STAMINA REGEN EVENT CREATE 0x57d39f20
+May 11 15:07:54 :: SendLandList map 62 count 0 elem_size: 0
+May 11 15:07:54 :: AddAffect [DEV]Cezariu type 500 apply 0 0 flag 0 duration 346571526
+May 11 15:07:54 :: PREMIUM: [DEV]Cezariu type 0 346571526min
+May 11 15:07:54 :: AddAffect [DEV]Cezariu type 501 apply 0 0 flag 0 duration 346571526
+May 11 15:07:54 :: PREMIUM: [DEV]Cezariu type 1 346571526min
+May 11 15:07:54 :: AddAffect [DEV]Cezariu type 502 apply 0 0 flag 0 duration 346571526
+May 11 15:07:54 :: PREMIUM: [DEV]Cezariu type 2 346571526min
+May 11 15:07:54 :: AddAffect [DEV]Cezariu type 503 apply 0 0 flag 0 duration 346571526
+May 11 15:07:54 :: PREMIUM: [DEV]Cezariu type 3 346571526min
+May 11 15:07:54 :: AddAffect [DEV]Cezariu type 504 apply 0 0 flag 0 duration 346571526
+May 11 15:07:54 :: PREMIUM: [DEV]Cezariu type 4 346571526min
+May 11 15:07:54 :: AddAffect [DEV]Cezariu type 505 apply 0 0 flag 0 duration 346571526
+May 11 15:07:54 :: PREMIUM: [DEV]Cezariu type 5 346571526min
+May 11 15:07:54 :: AddAffect [DEV]Cezariu type 506 apply 0 0 flag 0 duration 346571526
+May 11 15:07:54 :: PREMIUM: [DEV]Cezariu type 6 346571526min
+May 11 15:07:54 :: VERSION : NO CHECK
+May 11 15:07:54 :: QUEST_LOAD: Login pc 22 by event
+May 11 15:07:54 :: QUEST timer name timer1 cycle 15025 pc 22 npc 4294967295 loop? 0
+May 11 15:07:54 :: QUEST add timer 0x57d3a000 1
+May 11 15:07:54 :: AddAffect [DEV]Cezariu type 999 apply 0 0 flag 0 duration 31536000
+May 11 15:07:55 :: COMMAND: [DEV]Cezariu: open_savepoint
+May 11 15:07:57 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:07:58 :: SECTREE DIFFER: [DEV]Cezariu 102x117 was 101x117 dist 1.0m
+May 11 15:07:59 :: SECTREE DIFFER: [DEV]Cezariu 101x117 was 102x117 dist 1.0m
+May 11 15:07:59 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:08:02 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:08:03 :: SECTREE DIFFER: [DEV]Cezariu 100x117 was 101x117 dist 1.0m
+May 11 15:08:05 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:08:07 :: SECTREE DIFFER: [DEV]Cezariu 99x117 was 100x117 dist 1.0m
+May 11 15:08:08 :: SECTREE DIFFER: [DEV]Cezariu 100x117 was 99x117 dist 1.0m
+May 11 15:08:11 :: SECTREE DIFFER: [DEV]Cezariu 101x117 was 100x117 dist 1.0m
+May 11 15:08:12 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:08:14 :: SECTREE DIFFER: [DEV]Cezariu 102x117 was 101x117 dist 1.0m
+May 11 15:08:17 :: SECTREE DIFFER: [DEV]Cezariu 102x116 was 102x117 dist 1.0m
+May 11 15:08:17 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:08:19 :: SECTREE DIFFER: [DEV]Cezariu 103x116 was 102x116 dist 1.0m
+May 11 15:08:20 :: SECTREE DIFFER: [DEV]Cezariu 103x117 was 103x116 dist 1.0m
+May 11 15:08:21 :: SECTREE DIFFER: [DEV]Cezariu 104x117 was 103x117 dist 1.0m
+May 11 15:08:24 :: SECTREE DIFFER: [DEV]Cezariu 105x117 was 104x117 dist 1.0m
+May 11 15:08:26 :: SECTREE DIFFER: [DEV]Cezariu 105x118 was 105x117 dist 1.0m
+May 11 15:08:28 :: SECTREE DIFFER: [DEV]Cezariu 106x118 was 105x118 dist 1.0m
+May 11 15:08:28 :: SECTREE DIFFER: [DEV]Cezariu 106x117 was 106x118 dist 1.0m
+May 11 15:08:31 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:08:33 :: SECTREE DIFFER: [DEV]Cezariu 106x116 was 106x117 dist 1.0m
+May 11 15:08:34 :: SECTREE DIFFER: [DEV]Cezariu 107x116 was 106x116 dist 1.0m
+May 11 15:08:35 :: COMMAND: [DEV]Cezariu: pvp_block_equipment
+May 11 15:08:36 :: COMMAND: [DEV]Cezariu: pvp_block_equipment
+May 11 15:08:36 :: COMMAND: [DEV]Cezariu: open_whispersys
+May 11 15:08:36 :: SECTREE DIFFER: [DEV]Cezariu 107x115 was 107x116 dist 1.0m
+May 11 15:08:39 :: SECTREE DIFFER: [DEV]Cezariu 107x114 was 107x115 dist 1.0m
+May 11 15:08:41 :: SECTREE DIFFER: [DEV]Cezariu 108x114 was 107x114 dist 1.0m
+May 11 15:08:46 :: SECTREE DIFFER: [DEV]Cezariu 108x113 was 108x114 dist 1.0m
+May 11 15:08:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:08:48 :: SECTREE DIFFER: [DEV]Cezariu 109x113 was 108x113 dist 1.0m
+May 11 15:08:51 :: SECTREE DIFFER: [DEV]Cezariu 110x113 was 109x113 dist 1.0m
+May 11 15:08:51 :: SECTREE DIFFER: [DEV]Cezariu 109x113 was 110x113 dist 1.0m
+May 11 15:08:51 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:08:51 :: SECTREE DIFFER: [DEV]Cezariu 110x113 was 109x113 dist 1.0m
+May 11 15:08:52 :: SECTREE DIFFER: [DEV]Cezariu 110x112 was 110x113 dist 1.0m
+May 11 15:08:55 :: SECTREE DIFFER: [DEV]Cezariu 111x112 was 110x112 dist 1.0m
+May 11 15:08:55 :: SECTREE DIFFER: [DEV]Cezariu 111x113 was 111x112 dist 1.0m
+May 11 15:08:56 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:08:59 :: SECTREE DIFFER: [DEV]Cezariu 111x114 was 111x113 dist 1.0m
+May 11 15:09:00 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:09:01 :: SECTREE DIFFER: [DEV]Cezariu 111x115 was 111x114 dist 1.0m
+May 11 15:09:04 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:09:05 :: SECTREE DIFFER: [DEV]Cezariu 111x116 was 111x115 dist 1.0m
+May 11 15:09:07 :: SECTREE DIFFER: [DEV]Cezariu 112x116 was 111x116 dist 1.0m
+May 11 15:09:08 :: SECTREE DIFFER: [DEV]Cezariu 112x117 was 112x116 dist 1.0m
+May 11 15:09:11 :: SECTREE DIFFER: [DEV]Cezariu 112x116 was 112x117 dist 1.0m
+May 11 15:09:12 :: SECTREE DIFFER: [DEV]Cezariu 111x116 was 112x116 dist 1.0m
+May 11 15:09:12 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:09:14 :: SECTREE DIFFER: [DEV]Cezariu 111x115 was 111x116 dist 1.0m
+May 11 15:09:16 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:09:17 :: SECTREE DIFFER: [DEV]Cezariu 111x114 was 111x115 dist 1.0m
+May 11 15:09:20 :: SECTREE DIFFER: [DEV]Cezariu 111x113 was 111x114 dist 1.0m
+May 11 15:09:22 :: SECTREE DIFFER: [DEV]Cezariu 110x113 was 111x113 dist 1.0m
+May 11 15:09:23 :: SECTREE DIFFER: [DEV]Cezariu 110x114 was 110x113 dist 1.0m
+May 11 15:09:24 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:09:25 :: SECTREE DIFFER: [DEV]Cezariu 109x114 was 110x114 dist 1.0m
+May 11 15:09:28 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:09:28 :: SECTREE DIFFER: [DEV]Cezariu 108x114 was 109x114 dist 1.0m
+May 11 15:09:32 :: SECTREE DIFFER: [DEV]Cezariu 107x114 was 108x114 dist 1.0m
+May 11 15:09:34 :: SECTREE DIFFER: [DEV]Cezariu 107x115 was 107x114 dist 1.0m
+May 11 15:09:34 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:09:37 :: SECTREE DIFFER: [DEV]Cezariu 107x116 was 107x115 dist 1.0m
+May 11 15:09:40 :: SECTREE DIFFER: [DEV]Cezariu 106x116 was 107x116 dist 1.0m
+May 11 15:09:43 :: SECTREE DIFFER: [DEV]Cezariu 106x117 was 106x116 dist 1.0m
+May 11 15:09:43 :: SECTREE DIFFER: [DEV]Cezariu 105x117 was 106x117 dist 1.0m
+May 11 15:09:46 :: SECTREE DIFFER: [DEV]Cezariu 104x117 was 105x117 dist 1.0m
+May 11 15:09:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:09:50 :: SECTREE DIFFER: [DEV]Cezariu 103x117 was 104x117 dist 1.0m
+May 11 15:09:50 :: SECTREE DIFFER: [DEV]Cezariu 103x116 was 103x117 dist 1.0m
+May 11 15:09:51 :: SECTREE DIFFER: [DEV]Cezariu 103x117 was 103x116 dist 1.0m
+May 11 15:09:51 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:09:55 :: SECTREE DIFFER: [DEV]Cezariu 102x117 was 103x117 dist 1.0m
+May 11 15:09:55 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:09:56 :: SECTREE DIFFER: [DEV]Cezariu 102x118 was 102x117 dist 1.0m
+May 11 15:09:56 :: SECTREE DIFFER: [DEV]Cezariu 102x117 was 102x118 dist 1.0m
+May 11 15:09:58 :: SECTREE DIFFER: [DEV]Cezariu 101x117 was 102x117 dist 1.0m
+May 11 15:09:59 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:10:00 :: SECTREE DIFFER: [DEV]Cezariu 100x117 was 101x117 dist 1.0m
+May 11 15:10:04 :: SECTREE DIFFER: [DEV]Cezariu 99x117 was 100x117 dist 1.0m
+May 11 15:10:05 :: SECTREE DIFFER: [DEV]Cezariu 99x116 was 99x117 dist 1.0m
+May 11 15:10:06 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:10:07 :: SECTREE DIFFER: [DEV]Cezariu 98x116 was 99x116 dist 1.0m
+May 11 15:10:09 :: SECTREE DIFFER: [DEV]Cezariu 98x117 was 98x116 dist 1.0m
+May 11 15:10:11 :: SECTREE DIFFER: [DEV]Cezariu 97x117 was 98x117 dist 1.0m
+May 11 15:10:11 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:10:13 :: SECTREE DIFFER: [DEV]Cezariu 97x118 was 97x117 dist 1.0m
+May 11 15:10:15 :: SECTREE DIFFER: [DEV]Cezariu 96x118 was 97x118 dist 1.0m
+May 11 15:10:16 :: SECTREE DIFFER: [DEV]Cezariu 96x117 was 96x118 dist 1.0m
+May 11 15:10:19 :: SECTREE DIFFER: [DEV]Cezariu 95x117 was 96x117 dist 1.0m
+May 11 15:10:19 :: SECTREE DIFFER: [DEV]Cezariu 96x117 was 95x117 dist 1.0m
+May 11 15:10:19 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:10:19 :: SECTREE DIFFER: [DEV]Cezariu 95x117 was 96x117 dist 1.0m
+May 11 15:10:20 :: SECTREE DIFFER: [DEV]Cezariu 95x116 was 95x117 dist 1.0m
+May 11 15:10:23 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 11 15:10:23 :: SECTREE DIFFER: [DEV]Cezariu 94x116 was 95x116 dist 1.0m
+May 11 15:10:35 :: SECTREE DIFFER: [DEV]Cezariu 93x116 was 94x116 dist 1.0m
+May 11 15:10:39 :: SECTREE DIFFER: [DEV]Cezariu 93x117 was 93x116 dist 1.0m
+May 11 15:10:40 :: SECTREE DIFFER: [DEV]Cezariu 94x117 was 93x117 dist 1.0m
+May 11 15:10:43 :: SECTREE DIFFER: [DEV]Cezariu 95x117 was 94x117 dist 1.0m
+May 11 15:10:45 :: SECTREE DIFFER: [DEV]Cezariu 95x118 was 95x117 dist 1.0m
+May 11 15:10:46 :: SECTREE DIFFER: [DEV]Cezariu 96x118 was 95x118 dist 1.0m
+May 11 15:10:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:10:52 :: PONG! 239
+May 11 15:10:52 :: Handshake: client_time 848571 server_time 1028523 name: [DEV]Cezariu
+May 11 15:10:55 :: SAVE: [DEV]Cezariu 617377x756692
+May 11 15:11:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:12:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:13:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:13:52 :: PONG! 239
+May 11 15:13:52 :: Handshake: client_time 1028523 server_time 1208523 name: [DEV]Cezariu
+May 11 15:13:54 :: PING_EVENT: no pong 93.115.44.219
+May 11 15:13:54 :: SYSTEM: closing socket. DESC #21
+May 11 15:13:54 :: SAVE: [DEV]Cezariu 617377x756692
+May 11 15:14:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:15:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:16:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:16:52 :: PONG! 239
+May 11 15:16:52 :: Handshake: client_time 1208523 server_time 1388523 name: [DEV]Cezariu
+May 11 15:16:54 :: SAVE: [DEV]Cezariu 617377x756692
+May 11 15:17:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:17:55 :: QUEST loading locale/germany/quest/object/timer2/timer/automesaj.start : automesaj [STATE] start
+May 11 15:17:55 :: QUEST timer name timer2 cycle 18025 pc 22 npc 4294967294 loop? 0
+May 11 15:17:55 :: QUEST add timer 0x57b0e360 2
+May 11 15:17:55 :: QUEST remove with no cancel 0x57d3a000
+May 11 15:18:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:19:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:19:52 :: PONG! 239
+May 11 15:19:52 :: Handshake: client_time 1388523 server_time 1568523 name: [DEV]Cezariu
+May 11 15:19:54 :: HORSE STAMINA + 0x57d39f20
+May 11 15:19:54 :: SAVE: [DEV]Cezariu 617377x756692
+May 11 15:20:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:21:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:22:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:22:52 :: PONG! 239
+May 11 15:22:52 :: Handshake: client_time 1568523 server_time 1748523 name: [DEV]Cezariu
+May 11 15:22:54 :: SAVE: [DEV]Cezariu 617377x756692
+May 11 15:23:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:24:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:25:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:25:52 :: PONG! 239
+May 11 15:25:52 :: Handshake: client_time 1748523 server_time 1928522 name: [DEV]Cezariu
+May 11 15:25:54 :: SAVE: [DEV]Cezariu 617377x756692
+May 11 15:26:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:27:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:28:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:28:52 :: PONG! 239
+May 11 15:28:52 :: Handshake: client_time 1928522 server_time 2108523 name: [DEV]Cezariu
+May 11 15:28:54 :: SAVE: [DEV]Cezariu 617377x756692
+May 11 15:29:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:29:56 :: QUEST loading locale/germany/quest/object/timer3/timer/automesaj.start : automesaj [STATE] start
+May 11 15:29:56 :: QUEST timer name timer3 cycle 22525 pc 22 npc 4294967293 loop? 0
+May 11 15:29:56 :: QUEST add timer 0x57b0e5e0 2
+May 11 15:29:56 :: QUEST remove with no cancel 0x57b0e360
+May 11 15:30:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:31:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:31:52 :: PONG! 239
+May 11 15:31:52 :: Handshake: client_time 2108523 server_time 2288523 name: [DEV]Cezariu
+May 11 15:31:54 :: SAVE: [DEV]Cezariu 617377x756692
+May 11 15:32:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:33:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:34:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:34:52 :: PONG! 239
+May 11 15:34:52 :: Handshake: client_time 2288523 server_time 2468523 name: [DEV]Cezariu
+May 11 15:34:54 :: SAVE: [DEV]Cezariu 617377x756692
+May 11 15:35:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:36:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:37:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:37:52 :: PONG! 239
+May 11 15:37:52 :: Handshake: client_time 2468523 server_time 2648523 name: [DEV]Cezariu
+May 11 15:37:54 :: SAVE: [DEV]Cezariu 617377x756692
+May 11 15:38:04 :: SECTREE DIFFER: [DEV]Cezariu 97x118 was 96x118 dist 1.0m
+May 11 15:38:05 :: SECTREE DIFFER: [DEV]Cezariu 97x117 was 97x118 dist 1.0m
+May 11 15:38:07 :: SECTREE DIFFER: [DEV]Cezariu 98x117 was 97x117 dist 1.0m
+May 11 15:38:08 :: SECTREE DIFFER: [DEV]Cezariu 97x117 was 98x117 dist 1.0m
+May 11 15:38:08 :: SECTREE DIFFER: [DEV]Cezariu 98x117 was 97x117 dist 1.0m
+May 11 15:38:08 :: SECTREE DIFFER: [DEV]Cezariu 98x116 was 98x117 dist 1.0m
+May 11 15:38:12 :: SECTREE DIFFER: [DEV]Cezariu 99x116 was 98x116 dist 1.0m
+May 11 15:38:14 :: SECTREE DIFFER: [DEV]Cezariu 99x117 was 99x116 dist 1.0m
+May 11 15:38:21 :: SECTREE DIFFER: [DEV]Cezariu 100x117 was 99x117 dist 1.0m
+May 11 15:38:22 :: SECTREE DIFFER: [DEV]Cezariu 100x116 was 100x117 dist 1.0m
+May 11 15:38:23 :: SECTREE DIFFER: [DEV]Cezariu 101x116 was 100x116 dist 1.0m
+May 11 15:38:27 :: SECTREE DIFFER: [DEV]Cezariu 102x116 was 101x116 dist 1.0m
+May 11 15:38:28 :: SECTREE DIFFER: [DEV]Cezariu 102x117 was 102x116 dist 1.0m
+May 11 15:38:31 :: SECTREE DIFFER: [DEV]Cezariu 103x117 was 102x117 dist 1.0m
+May 11 15:38:34 :: SECTREE DIFFER: [DEV]Cezariu 104x117 was 103x117 dist 1.0m
+May 11 15:38:37 :: SECTREE DIFFER: [DEV]Cezariu 105x117 was 104x117 dist 1.0m
+May 11 15:38:40 :: SECTREE DIFFER: [DEV]Cezariu 106x117 was 105x117 dist 1.0m
+May 11 15:38:43 :: SECTREE DIFFER: [DEV]Cezariu 106x116 was 106x117 dist 1.0m
+May 11 15:38:45 :: SECTREE DIFFER: [DEV]Cezariu 107x116 was 106x116 dist 1.0m
+May 11 15:38:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:39:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:40:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:40:52 :: PONG! 239
+May 11 15:40:52 :: Handshake: client_time 2648523 server_time 2828523 name: [DEV]Cezariu
+May 11 15:40:54 :: SAVE: [DEV]Cezariu 690681x744602
+May 11 15:41:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:42:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:43:46 :: RegisterRaceNumMap Vein Of Amethyst Ore 20058
+May 11 15:43:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:43:52 :: PONG! 239
+May 11 15:43:52 :: Handshake: client_time 2828523 server_time 3008523 name: [DEV]Cezariu
+May 11 15:43:55 :: SAVE: [DEV]Cezariu 690681x744602
+May 11 15:44:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:44:50 :: RegisterRaceNumMap Heaven's Tear Vein 20059
+May 11 15:44:57 :: QUEST remove with no cancel 0x57b0e5e0
+May 11 15:45:26 :: RegisterRaceNumMap Vein Of Ebony Ore 20054
+May 11 15:45:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:46:17 :: RegisterRaceNumMap Vein Of White Gold Ore 20056
+May 11 15:46:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:46:52 :: PONG! 239
+May 11 15:46:52 :: Handshake: client_time 3008523 server_time 3188563 name: [DEV]Cezariu
+May 11 15:46:54 :: SAVE: [DEV]Cezariu 690681x744602
+May 11 15:47:06 :: RegisterRaceNumMap Pile Of Clams 20055
+May 11 15:47:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:48:08 :: RegisterRaceNumMap Vein Of Amethyst Ore 20058
+May 11 15:48:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:48:57 :: RegisterRaceNumMap Vein Of Diamond Ore 20047
+May 11 15:49:39 :: RegisterRaceNumMap Heaven's Tear Vein 20059
+May 11 15:49:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:49:52 :: PONG! 239
+May 11 15:49:52 :: Handshake: client_time 3188563 server_time 3368523 name: [DEV]Cezariu
+May 11 15:49:54 :: SAVE: [DEV]Cezariu 690681x744602
+May 11 15:50:28 :: RegisterRaceNumMap Vein Of Diamond Ore 20047
+May 11 15:50:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:51:20 :: RegisterRaceNumMap Vein Of Amethyst Ore 20058
+May 11 15:51:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:52:12 :: RegisterRaceNumMap Pile Of Clams 20055
+May 11 15:52:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:52:52 :: PONG! 239
+May 11 15:52:52 :: Handshake: client_time 3368523 server_time 3548523 name: [DEV]Cezariu
+May 11 15:52:54 :: SAVE: [DEV]Cezariu 690681x744602
+May 11 15:52:58 :: RegisterRaceNumMap Vein Of Crystal Ore 20057
+May 11 15:53:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:53:52 :: RegisterRaceNumMap Vein Of Amethyst Ore 20058
+May 11 15:54:45 :: RegisterRaceNumMap Heaven's Tear Vein 20059
+May 11 15:54:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:55:26 :: RegisterRaceNumMap Vein Of Amethyst Ore 20058
+May 11 15:55:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:55:52 :: PONG! 239
+May 11 15:55:52 :: Handshake: client_time 3548523 server_time 3728521 name: [DEV]Cezariu
+May 11 15:55:54 :: SAVE: [DEV]Cezariu 690681x744602
+May 11 15:56:28 :: RegisterRaceNumMap Vein Of Ebony Ore 20054
+May 11 15:56:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:57:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:58:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 15:58:52 :: PONG! 239
+May 11 15:58:52 :: Handshake: client_time 3728521 server_time 3908523 name: [DEV]Cezariu
+May 11 15:58:54 :: SAVE: [DEV]Cezariu 690681x744602
+May 11 15:59:48 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+May 11 16:00:00 :: SYSTEM: LOG ROTATE (2024-05-11 15)

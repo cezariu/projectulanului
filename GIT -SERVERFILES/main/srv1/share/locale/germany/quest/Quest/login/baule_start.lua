@@ -23,9 +23,8 @@ quest baule_start begin
 				pc.give_item2(88938, 1)
 				pc.give_item2(88939, 1)
 				pc.give_item2(88940, 1)
-				pc.give_item2(71127, 1)
+				pc.give_item2(71124, 1)
 				pc.give_item2(30897, 1)
-				pc.give_item2(85084, 1)
 				if pc.get_sex() == 0 then
 					pc.give_item2(41856, 1)
 					pc.give_item2(45596, 1)

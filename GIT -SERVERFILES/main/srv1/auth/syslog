@@ -1,0 +1,57 @@
+May 12 01:14:33 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 2738341728 output input_len 0, ptr 0x288c3e00
+May 12 01:14:33 :: Handshake: lower than zero -1
+May 12 01:14:33 :: Handshake: client_time 0 server_time 37250819
+May 12 01:14:33 :: AUTH_PHASE 0x288c3e00
+May 12 01:14:34 :: InputAuth::Login : jack(4) desc 0x288c3e00
+May 12 01:14:34 :: SetLoginKey 111736243
+May 12 01:14:34 :: InputAuth::Login: key (111736243) login (jack)
+May 12 01:14:34 :: MySQL connection was reconnected. querying locale set
+May 12 01:14:34 :: 	--mysql_set_character_set(latin1)
+SYSERR: May 12 01:14:34 :: ChildLoop: AsyncSQL: query failed: Table 'account.account' doesn't exist (query: SELECT '*4ACFE3202A5FF5CF467898FC58AAB1D615029441',password,social_id,id,language+0,status,availDt - NOW() > 0,UNIX_TIMESTAMP(silver_expire),UNIX_TIMESTAMP(gold_expire),UNIX_TIMESTAMP(safebox_expire),UNIX_TIMESTAMP(autoloot_expire),UNIX_TIMESTAMP(fish_mind_expire),UNIX_TIMESTAMP(marriage_fast_expire),UNIX_TIMESTAMP(money_drop_rate_expire),UNIX_TIMESTAMP(create_time) FROM account WHERE login='jack' errno: 1146)
+May 12 01:14:34 :: QID_AUTH_LOGIN: START 111736243 0x288c3e00
+May 12 01:14:34 ::    NOID
+May 12 01:14:35 :: SYSTEM: new connection from [93.115.44.219] fd: 17 handshake 1357089865 output input_len 0, ptr 0x288c4300
+May 12 01:14:35 :: SYSTEM: closing socket. DESC #16
+May 12 01:14:35 :: Handshake: lower than zero -20
+May 12 01:14:36 :: Handshake: client_time 0 server_time 37253099
+May 12 01:14:36 :: AUTH_PHASE 0x288c4300
+May 12 01:14:36 :: InputAuth::Login : jack(4) desc 0x288c4300
+May 12 01:14:36 :: SetLoginKey 89732726
+May 12 01:14:36 :: InputAuth::Login: key (89732726) login (jack)
+SYSERR: May 12 01:14:36 :: ChildLoop: AsyncSQL: query failed: Table 'account.account' doesn't exist (query: SELECT '*4ACFE3202A5FF5CF467898FC58AAB1D615029441',password,social_id,id,language+0,status,availDt - NOW() > 0,UNIX_TIMESTAMP(silver_expire),UNIX_TIMESTAMP(gold_expire),UNIX_TIMESTAMP(safebox_expire),UNIX_TIMESTAMP(autoloot_expire),UNIX_TIMESTAMP(fish_mind_expire),UNIX_TIMESTAMP(marriage_fast_expire),UNIX_TIMESTAMP(money_drop_rate_expire),UNIX_TIMESTAMP(create_time) FROM account WHERE login='jack' errno: 1146)
+May 12 01:14:36 :: QID_AUTH_LOGIN: START 89732726 0x288c4300
+May 12 01:14:36 ::    NOID
+May 12 01:14:38 :: SYSTEM: closing socket. DESC #17
+May 12 01:14:39 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 2292890426 output input_len 0, ptr 0x288c4300
+May 12 01:14:39 :: Handshake: lower than zero -4
+May 12 01:14:39 :: Handshake: client_time 0 server_time 37256399
+May 12 01:14:39 :: AUTH_PHASE 0x288c4300
+May 12 01:14:39 :: InputAuth::Login : jack(4) desc 0x288c4300
+May 12 01:14:39 :: SetLoginKey 1883462859
+May 12 01:14:39 :: InputAuth::Login: key (1883462859) login (jack)
+SYSERR: May 12 01:14:39 :: ChildLoop: AsyncSQL: query failed: Table 'account.account' doesn't exist (query: SELECT '*4ACFE3202A5FF5CF467898FC58AAB1D615029441',password,social_id,id,language+0,status,availDt - NOW() > 0,UNIX_TIMESTAMP(silver_expire),UNIX_TIMESTAMP(gold_expire),UNIX_TIMESTAMP(safebox_expire),UNIX_TIMESTAMP(autoloot_expire),UNIX_TIMESTAMP(fish_mind_expire),UNIX_TIMESTAMP(marriage_fast_expire),UNIX_TIMESTAMP(money_drop_rate_expire),UNIX_TIMESTAMP(create_time) FROM account WHERE login='jack' errno: 1146)
+May 12 01:14:39 :: QID_AUTH_LOGIN: START 1883462859 0x288c4300
+May 12 01:14:39 ::    NOID
+May 12 01:14:43 :: SYSTEM: closing socket. DESC #16
+May 12 01:14:43 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 1954596593 output input_len 0, ptr 0x288c4300
+May 12 01:14:43 :: Handshake: lower than zero -1
+May 12 01:14:43 :: Handshake: client_time 0 server_time 37260580
+May 12 01:14:43 :: AUTH_PHASE 0x288c4300
+May 12 01:14:43 :: InputAuth::Login : jack(4) desc 0x288c4300
+May 12 01:14:43 :: SetLoginKey 2043911779
+May 12 01:14:43 :: InputAuth::Login: key (2043911779) login (jack)
+SYSERR: May 12 01:14:43 :: ChildLoop: AsyncSQL: query failed: Table 'account.account' doesn't exist (query: SELECT '*4ACFE3202A5FF5CF467898FC58AAB1D615029441',password,social_id,id,language+0,status,availDt - NOW() > 0,UNIX_TIMESTAMP(silver_expire),UNIX_TIMESTAMP(gold_expire),UNIX_TIMESTAMP(safebox_expire),UNIX_TIMESTAMP(autoloot_expire),UNIX_TIMESTAMP(fish_mind_expire),UNIX_TIMESTAMP(marriage_fast_expire),UNIX_TIMESTAMP(money_drop_rate_expire),UNIX_TIMESTAMP(create_time) FROM account WHERE login='jack' errno: 1146)
+May 12 01:14:43 :: QID_AUTH_LOGIN: START 2043911779 0x288c4300
+May 12 01:14:43 ::    NOID
+May 12 01:14:47 :: SYSTEM: closing socket. DESC #16
+May 12 01:14:47 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 3874664453 output input_len 0, ptr 0x288c4300
+May 12 01:14:47 :: Handshake: client_time 0 server_time 37264683
+May 12 01:14:47 :: AUTH_PHASE 0x288c4300
+May 12 01:14:47 :: InputAuth::Login : admin(5) desc 0x288c4300
+May 12 01:14:47 :: SetLoginKey 28261909
+May 12 01:14:47 :: InputAuth::Login: key (28261909) login (admin)
+SYSERR: May 12 01:14:47 :: ChildLoop: AsyncSQL: query failed: Table 'account.account' doesn't exist (query: SELECT '*4ACFE3202A5FF5CF467898FC58AAB1D615029441',password,social_id,id,language+0,status,availDt - NOW() > 0,UNIX_TIMESTAMP(silver_expire),UNIX_TIMESTAMP(gold_expire),UNIX_TIMESTAMP(safebox_expire),UNIX_TIMESTAMP(autoloot_expire),UNIX_TIMESTAMP(fish_mind_expire),UNIX_TIMESTAMP(marriage_fast_expire),UNIX_TIMESTAMP(money_drop_rate_expire),UNIX_TIMESTAMP(create_time) FROM account WHERE login='admin' errno: 1146)
+May 12 01:14:48 :: QID_AUTH_LOGIN: START 28261909 0x288c4300
+May 12 01:14:48 ::    NOID
+May 12 01:17:47 :: PONG! 239
+May 12 01:20:47 :: PONG! 239

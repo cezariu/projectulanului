@@ -1,10 +1,10 @@
  Group BattlePass
 {
 	#--#	BattlePassName	BattlePassID	StartTime	EndTime
-	1	normal_september_2023_week_1	1	1694714752	1702577152
+	1	normal_may_2024_week_1	1	1715428150	1718106550
 }
 
-Group normal_september_2023_week_1
+Group normal_may_2024_week_1
 {
 	Group Reward
 	{

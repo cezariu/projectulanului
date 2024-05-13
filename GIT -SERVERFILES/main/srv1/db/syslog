@@ -1,0 +1,882 @@
+May 12 01:00:00 :: [   909500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:00:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:00:02 :: [   909550] return 0/0/0 async 0/0/0
+May 12 01:00:04 :: [   909600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:00:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:00:06 :: [   909650] return 0/0/1 async 0/0/0
+May 12 01:00:08 :: [   909700] return 0/0/0 async 0/0/0
+May 12 01:00:10 :: [   909750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:00:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:00:12 :: [   909800] return 0/0/0 async 0/0/0
+May 12 01:00:14 :: [   909850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:00:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:00:16 :: [   909900] return 0/0/1 async 0/0/0
+May 12 01:00:18 :: [   909950] return 0/0/0 async 0/0/0
+May 12 01:00:20 :: [   910000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:00:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:00:22 :: [   910050] return 0/0/0 async 0/0/0
+May 12 01:00:24 :: [   910100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:00:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:00:26 :: [   910150] return 0/0/1 async 0/0/0
+May 12 01:00:28 :: [   910200] return 0/0/0 async 0/0/0
+May 12 01:00:30 :: [   910250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:00:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:00:32 :: [   910300] return 0/0/0 async 0/0/0
+May 12 01:00:34 :: [   910350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:00:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:00:36 :: [   910400] return 0/0/1 async 0/0/0
+May 12 01:00:38 :: [   910450] return 0/0/0 async 0/0/0
+May 12 01:00:40 :: [   910500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:00:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:00:42 :: [   910550] return 0/0/0 async 0/0/0
+May 12 01:00:44 :: [   910600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:00:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:00:46 :: [   910650] return 0/0/1 async 0/0/0
+May 12 01:00:48 :: [   910700] return 0/0/0 async 0/0/0
+May 12 01:00:50 :: [   910750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:00:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:00:52 :: [   910800] return 0/0/0 async 0/0/0
+May 12 01:00:54 :: [   910850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:00:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:00:56 :: [   910900] return 0/0/1 async 0/0/0
+May 12 01:00:58 :: [   910950] return 0/0/0 async 0/0/0
+May 12 01:01:00 :: [   911000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:01:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:01:02 :: [   911050] return 0/0/0 async 0/0/0
+May 12 01:01:04 :: [   911100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:01:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:01:06 :: [   911150] return 0/0/1 async 0/0/0
+May 12 01:01:08 :: [   911200] return 0/0/0 async 0/0/0
+May 12 01:01:10 :: [   911250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:01:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:01:12 :: [   911300] return 0/0/0 async 0/0/0
+May 12 01:01:14 :: [   911350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:01:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:01:16 :: [   911400] return 0/0/1 async 0/0/0
+May 12 01:01:18 :: [   911450] return 0/0/0 async 0/0/0
+May 12 01:01:20 :: [   911500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:01:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:01:22 :: [   911550] return 0/0/0 async 0/0/0
+May 12 01:01:24 :: [   911600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:01:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:01:26 :: [   911650] return 0/0/1 async 0/0/0
+May 12 01:01:28 :: [   911700] return 0/0/0 async 0/0/0
+May 12 01:01:30 :: [   911750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:01:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:01:32 :: [   911800] return 0/0/0 async 0/0/0
+May 12 01:01:34 :: [   911850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:01:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:01:36 :: [   911900] return 0/0/1 async 0/0/0
+May 12 01:01:38 :: [   911950] return 0/0/0 async 0/0/0
+May 12 01:01:40 :: [   912000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:01:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:01:42 :: [   912050] return 0/0/0 async 0/0/0
+May 12 01:01:44 :: [   912100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:01:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:01:46 :: [   912150] return 0/0/1 async 0/0/0
+May 12 01:01:48 :: [   912200] return 0/0/0 async 0/0/0
+May 12 01:01:50 :: [   912250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:01:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:01:52 :: [   912300] return 0/0/0 async 0/0/0
+May 12 01:01:54 :: [   912350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:01:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:01:56 :: [   912400] return 0/0/1 async 0/0/0
+May 12 01:01:58 :: [   912450] return 0/0/0 async 0/0/0
+May 12 01:02:00 :: [   912500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:02:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:02:02 :: [   912550] return 0/0/0 async 0/0/0
+May 12 01:02:04 :: [   912600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:02:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:02:06 :: [   912650] return 0/0/1 async 0/0/0
+May 12 01:02:08 :: [   912700] return 0/0/0 async 0/0/0
+May 12 01:02:10 :: [   912750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:02:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:02:12 :: [   912800] return 0/0/0 async 0/0/0
+May 12 01:02:14 :: [   912850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:02:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:02:16 :: [   912900] return 0/0/1 async 0/0/0
+May 12 01:02:18 :: [   912950] return 0/0/0 async 0/0/0
+May 12 01:02:20 :: [   913000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:02:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:02:22 :: [   913050] return 0/0/0 async 0/0/0
+May 12 01:02:24 :: [   913100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:02:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:02:26 :: [   913150] return 0/0/1 async 0/0/0
+May 12 01:02:28 :: [   913200] return 0/0/0 async 0/0/0
+May 12 01:02:30 :: [   913250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:02:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:02:32 :: [   913300] return 0/0/0 async 0/0/0
+May 12 01:02:34 :: [   913350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:02:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:02:36 :: [   913400] return 0/0/1 async 0/0/0
+May 12 01:02:38 :: [   913450] return 0/0/0 async 0/0/0
+May 12 01:02:40 :: [   913500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:02:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:02:42 :: [   913550] return 0/0/0 async 0/0/0
+May 12 01:02:44 :: [   913600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:02:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:02:46 :: [   913650] return 0/0/1 async 0/0/0
+May 12 01:02:48 :: [   913700] return 0/0/0 async 0/0/0
+May 12 01:02:50 :: [   913750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:02:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:02:52 :: [   913800] return 0/0/0 async 0/0/0
+May 12 01:02:54 :: [   913850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:02:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:02:56 :: [   913900] return 0/0/1 async 0/0/0
+May 12 01:02:58 :: [   913950] return 0/0/0 async 0/0/0
+May 12 01:03:00 :: [   914000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:03:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:03:02 :: [   914050] return 0/0/0 async 0/0/0
+May 12 01:03:04 :: [   914100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:03:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:03:06 :: [   914150] return 0/0/1 async 0/0/0
+May 12 01:03:08 :: [   914200] return 0/0/0 async 0/0/0
+May 12 01:03:10 :: [   914250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:03:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:03:12 :: [   914300] return 0/0/0 async 0/0/0
+May 12 01:03:14 :: [   914350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:03:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:03:16 :: [   914400] return 0/0/1 async 0/0/0
+May 12 01:03:18 :: [   914450] return 0/0/0 async 0/0/0
+May 12 01:03:20 :: [   914500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:03:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:03:22 :: [   914550] return 0/0/0 async 0/0/0
+May 12 01:03:24 :: [   914600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:03:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:03:26 :: [   914650] return 0/0/1 async 0/0/0
+May 12 01:03:28 :: [   914700] return 0/0/0 async 0/0/0
+May 12 01:03:30 :: [   914750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:03:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:03:32 :: [   914800] return 0/0/0 async 0/0/0
+May 12 01:03:34 :: [   914850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:03:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:03:36 :: [   914900] return 0/0/1 async 0/0/0
+May 12 01:03:38 :: [   914950] return 0/0/0 async 0/0/0
+May 12 01:03:40 :: [   915000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:03:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:03:42 :: [   915050] return 0/0/0 async 0/0/0
+May 12 01:03:44 :: [   915100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:03:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:03:46 :: [   915150] return 0/0/1 async 0/0/0
+May 12 01:03:48 :: [   915200] return 0/0/0 async 0/0/0
+May 12 01:03:50 :: [   915250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:03:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:03:52 :: [   915300] return 0/0/0 async 0/0/0
+May 12 01:03:54 :: [   915350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:03:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:03:56 :: [   915400] return 0/0/1 async 0/0/0
+May 12 01:03:58 :: [   915450] return 0/0/0 async 0/0/0
+May 12 01:04:00 :: [   915500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:04:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:04:02 :: [   915550] return 0/0/0 async 0/0/0
+May 12 01:04:04 :: [   915600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:04:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:04:06 :: [   915650] return 0/0/1 async 0/0/0
+May 12 01:04:08 :: [   915700] return 0/0/0 async 0/0/0
+May 12 01:04:10 :: [   915750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:04:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:04:12 :: [   915800] return 0/0/0 async 0/0/0
+May 12 01:04:14 :: [   915850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:04:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:04:16 :: [   915900] return 0/0/1 async 0/0/0
+May 12 01:04:18 :: [   915950] return 0/0/0 async 0/0/0
+May 12 01:04:20 :: [   916000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:04:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:04:22 :: [   916050] return 0/0/0 async 0/0/0
+May 12 01:04:24 :: [   916100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:04:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:04:26 :: [   916150] return 0/0/1 async 0/0/0
+May 12 01:04:28 :: [   916200] return 0/0/0 async 0/0/0
+May 12 01:04:30 :: [   916250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:04:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:04:32 :: [   916300] return 0/0/0 async 0/0/0
+May 12 01:04:34 :: [   916350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:04:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:04:36 :: [   916400] return 0/0/1 async 0/0/0
+May 12 01:04:38 :: [   916450] return 0/0/0 async 0/0/0
+May 12 01:04:40 :: [   916500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:04:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:04:42 :: [   916550] return 0/0/0 async 0/0/0
+May 12 01:04:44 :: [   916600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:04:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:04:46 :: [   916650] return 0/0/1 async 0/0/0
+May 12 01:04:48 :: [   916700] return 0/0/0 async 0/0/0
+May 12 01:04:50 :: [   916750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:04:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:04:52 :: [   916800] return 0/0/0 async 0/0/0
+May 12 01:04:54 :: [   916850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:04:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:04:56 :: [   916900] return 0/0/1 async 0/0/0
+May 12 01:04:58 :: [   916950] return 0/0/0 async 0/0/0
+May 12 01:05:00 :: [   917000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:05:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:05:02 :: [   917050] return 0/0/0 async 0/0/0
+May 12 01:05:04 :: [   917100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:05:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:05:06 :: [   917150] return 0/0/1 async 0/0/0
+May 12 01:05:08 :: [   917200] return 0/0/0 async 0/0/0
+May 12 01:05:10 :: [   917250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:05:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:05:12 :: [   917300] return 0/0/0 async 0/0/0
+May 12 01:05:14 :: [   917350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:05:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:05:16 :: [   917400] return 0/0/1 async 0/0/0
+May 12 01:05:18 :: [   917450] return 0/0/0 async 0/0/0
+May 12 01:05:20 :: [   917500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:05:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:05:22 :: [   917550] return 0/0/0 async 0/0/0
+May 12 01:05:24 :: [   917600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:05:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:05:26 :: [   917650] return 0/0/1 async 0/0/0
+May 12 01:05:28 :: [   917700] return 0/0/0 async 0/0/0
+May 12 01:05:30 :: [   917750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:05:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:05:32 :: [   917800] return 0/0/0 async 0/0/0
+May 12 01:05:34 :: [   917850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:05:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:05:36 :: [   917900] return 0/0/1 async 0/0/0
+May 12 01:05:38 :: [   917950] return 0/0/0 async 0/0/0
+May 12 01:05:40 :: [   918000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:05:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:05:42 :: [   918050] return 0/0/0 async 0/0/0
+May 12 01:05:44 :: [   918100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:05:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:05:46 :: [   918150] return 0/0/1 async 0/0/0
+May 12 01:05:48 :: [   918200] return 0/0/0 async 0/0/0
+May 12 01:05:50 :: [   918250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:05:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:05:52 :: [   918300] return 0/0/0 async 0/0/0
+May 12 01:05:54 :: [   918350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:05:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:05:56 :: [   918400] return 0/0/1 async 0/0/0
+May 12 01:05:58 :: [   918450] return 0/0/0 async 0/0/0
+May 12 01:06:00 :: [   918500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:06:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:06:02 :: [   918550] return 0/0/0 async 0/0/0
+May 12 01:06:04 :: [   918600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:06:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:06:06 :: [   918650] return 0/0/1 async 0/0/0
+May 12 01:06:08 :: [   918700] return 0/0/0 async 0/0/0
+May 12 01:06:10 :: [   918750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:06:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:06:12 :: [   918800] return 0/0/0 async 0/0/0
+May 12 01:06:14 :: [   918850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:06:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:06:16 :: [   918900] return 0/0/1 async 0/0/0
+May 12 01:06:18 :: [   918950] return 0/0/0 async 0/0/0
+May 12 01:06:20 :: [   919000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:06:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:06:22 :: [   919050] return 0/0/0 async 0/0/0
+May 12 01:06:24 :: [   919100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:06:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:06:26 :: [   919150] return 0/0/1 async 0/0/0
+May 12 01:06:28 :: [   919200] return 0/0/0 async 0/0/0
+May 12 01:06:30 :: [   919250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:06:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:06:32 :: [   919300] return 0/0/0 async 0/0/0
+May 12 01:06:34 :: [   919350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:06:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:06:36 :: [   919400] return 0/0/1 async 0/0/0
+May 12 01:06:38 :: [   919450] return 0/0/0 async 0/0/0
+May 12 01:06:40 :: [   919500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:06:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:06:42 :: [   919550] return 0/0/0 async 0/0/0
+May 12 01:06:44 :: [   919600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:06:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:06:46 :: [   919650] return 0/0/1 async 0/0/0
+May 12 01:06:48 :: [   919700] return 0/0/0 async 0/0/0
+May 12 01:06:50 :: [   919750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:06:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:06:52 :: [   919800] return 0/0/0 async 0/0/0
+May 12 01:06:54 :: [   919850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:06:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:06:56 :: [   919900] return 0/0/1 async 0/0/0
+May 12 01:06:58 :: [   919950] return 0/0/0 async 0/0/0
+May 12 01:07:00 :: [   920000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:07:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:07:02 :: [   920050] return 0/0/0 async 0/0/0
+May 12 01:07:04 :: [   920100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:07:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:07:06 :: [   920150] return 0/0/1 async 0/0/0
+May 12 01:07:08 :: [   920200] return 0/0/0 async 0/0/0
+May 12 01:07:10 :: [   920250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:07:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:07:12 :: [   920300] return 0/0/0 async 0/0/0
+May 12 01:07:14 :: [   920350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:07:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:07:16 :: [   920400] return 0/0/1 async 0/0/0
+May 12 01:07:18 :: [   920450] return 0/0/0 async 0/0/0
+May 12 01:07:20 :: [   920500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:07:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:07:22 :: [   920550] return 0/0/0 async 0/0/0
+May 12 01:07:24 :: [   920600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:07:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:07:26 :: [   920650] return 0/0/1 async 0/0/0
+May 12 01:07:28 :: [   920700] return 0/0/0 async 0/0/0
+May 12 01:07:30 :: [   920750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:07:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:07:32 :: [   920800] return 0/0/0 async 0/0/0
+May 12 01:07:34 :: [   920850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:07:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:07:36 :: [   920900] return 0/0/1 async 0/0/0
+May 12 01:07:38 :: [   920950] return 0/0/0 async 0/0/0
+May 12 01:07:40 :: [   921000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:07:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:07:42 :: [   921050] return 0/0/0 async 0/0/0
+May 12 01:07:44 :: [   921100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:07:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:07:46 :: [   921150] return 0/0/1 async 0/0/0
+May 12 01:07:48 :: [   921200] return 0/0/0 async 0/0/0
+May 12 01:07:50 :: [   921250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:07:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:07:52 :: [   921300] return 0/0/0 async 0/0/0
+May 12 01:07:54 :: [   921350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:07:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:07:56 :: [   921400] return 0/0/1 async 0/0/0
+May 12 01:07:58 :: [   921450] return 0/0/0 async 0/0/0
+May 12 01:08:00 :: [   921500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:08:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:08:02 :: [   921550] return 0/0/0 async 0/0/0
+May 12 01:08:04 :: [   921600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:08:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:08:06 :: [   921650] return 0/0/1 async 0/0/0
+May 12 01:08:08 :: [   921700] return 0/0/0 async 0/0/0
+May 12 01:08:10 :: [   921750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:08:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:08:12 :: [   921800] return 0/0/0 async 0/0/0
+May 12 01:08:14 :: [   921850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:08:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:08:16 :: [   921900] return 0/0/1 async 0/0/0
+May 12 01:08:18 :: [   921950] return 0/0/0 async 0/0/0
+May 12 01:08:20 :: [   922000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:08:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:08:22 :: [   922050] return 0/0/0 async 0/0/0
+May 12 01:08:24 :: [   922100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:08:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:08:26 :: [   922150] return 0/0/1 async 0/0/0
+May 12 01:08:28 :: [   922200] return 0/0/0 async 0/0/0
+May 12 01:08:30 :: [   922250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:08:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:08:32 :: [   922300] return 0/0/0 async 0/0/0
+May 12 01:08:34 :: [   922350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:08:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:08:36 :: [   922400] return 0/0/1 async 0/0/0
+May 12 01:08:38 :: [   922450] return 0/0/0 async 0/0/0
+May 12 01:08:40 :: [   922500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:08:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:08:42 :: [   922550] return 0/0/0 async 0/0/0
+May 12 01:08:44 :: [   922600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:08:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:08:46 :: [   922650] return 0/0/1 async 0/0/0
+May 12 01:08:48 :: [   922700] return 0/0/0 async 0/0/0
+May 12 01:08:50 :: [   922750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:08:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:08:52 :: [   922800] return 0/0/0 async 0/0/0
+May 12 01:08:54 :: [   922850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:08:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:08:56 :: [   922900] return 0/0/1 async 0/0/0
+May 12 01:08:58 :: [   922950] return 0/0/0 async 0/0/0
+May 12 01:09:00 :: [   923000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:09:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:09:02 :: [   923050] return 0/0/0 async 0/0/0
+May 12 01:09:04 :: [   923100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:09:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:09:06 :: [   923150] return 0/0/1 async 0/0/0
+May 12 01:09:08 :: [   923200] return 0/0/0 async 0/0/0
+May 12 01:09:10 :: [   923250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:09:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:09:12 :: [   923300] return 0/0/0 async 0/0/0
+May 12 01:09:14 :: [   923350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:09:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:09:16 :: [   923400] return 0/0/1 async 0/0/0
+May 12 01:09:18 :: [   923450] return 0/0/0 async 0/0/0
+May 12 01:09:20 :: [   923500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:09:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:09:22 :: [   923550] return 0/0/0 async 0/0/0
+May 12 01:09:24 :: [   923600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:09:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:09:26 :: [   923650] return 0/0/1 async 0/0/0
+May 12 01:09:28 :: [   923700] return 0/0/0 async 0/0/0
+May 12 01:09:30 :: [   923750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:09:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:09:32 :: [   923800] return 0/0/0 async 0/0/0
+May 12 01:09:34 :: [   923850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:09:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:09:36 :: [   923900] return 0/0/1 async 0/0/0
+May 12 01:09:38 :: [   923950] return 0/0/0 async 0/0/0
+May 12 01:09:40 :: [   924000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:09:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:09:42 :: [   924050] return 0/0/0 async 0/0/0
+May 12 01:09:44 :: [   924100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:09:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:09:46 :: [   924150] return 0/0/1 async 0/0/0
+May 12 01:09:48 :: [   924200] return 0/0/0 async 0/0/0
+May 12 01:09:50 :: [   924250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:09:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:09:52 :: [   924300] return 0/0/0 async 0/0/0
+May 12 01:09:54 :: [   924350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:09:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:09:56 :: [   924400] return 0/0/1 async 0/0/0
+May 12 01:09:58 :: [   924450] return 0/0/0 async 0/0/0
+May 12 01:10:00 :: [   924500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:10:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:10:02 :: [   924550] return 0/0/0 async 0/0/0
+May 12 01:10:04 :: [   924600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:10:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:10:06 :: [   924650] return 0/0/1 async 0/0/0
+May 12 01:10:08 :: [   924700] return 0/0/0 async 0/0/0
+May 12 01:10:10 :: [   924750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:10:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:10:12 :: [   924800] return 0/0/0 async 0/0/0
+May 12 01:10:14 :: [   924850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:10:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:10:16 :: [   924900] return 0/0/1 async 0/0/0
+May 12 01:10:18 :: [   924950] return 0/0/0 async 0/0/0
+May 12 01:10:20 :: [   925000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:10:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:10:22 :: [   925050] return 0/0/0 async 0/0/0
+May 12 01:10:24 :: [   925100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:10:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:10:26 :: [   925150] return 0/0/1 async 0/0/0
+May 12 01:10:28 :: [   925200] return 0/0/0 async 0/0/0
+May 12 01:10:30 :: [   925250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:10:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:10:32 :: [   925300] return 0/0/0 async 0/0/0
+May 12 01:10:34 :: [   925350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:10:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:10:36 :: [   925400] return 0/0/1 async 0/0/0
+May 12 01:10:38 :: [   925450] return 0/0/0 async 0/0/0
+May 12 01:10:40 :: [   925500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:10:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:10:42 :: [   925550] return 0/0/0 async 0/0/0
+May 12 01:10:44 :: [   925600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:10:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:10:46 :: [   925650] return 0/0/1 async 0/0/0
+May 12 01:10:48 :: [   925700] return 0/0/0 async 0/0/0
+May 12 01:10:50 :: [   925750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:10:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:10:52 :: [   925800] return 0/0/0 async 0/0/0
+May 12 01:10:54 :: [   925850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:10:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:10:56 :: [   925900] return 0/0/1 async 0/0/0
+May 12 01:10:58 :: [   925950] return 0/0/0 async 0/0/0
+May 12 01:11:00 :: [   926000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:11:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:11:02 :: [   926050] return 0/0/0 async 0/0/0
+May 12 01:11:04 :: [   926100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:11:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:11:06 :: [   926150] return 0/0/1 async 0/0/0
+May 12 01:11:08 :: [   926200] return 0/0/0 async 0/0/0
+May 12 01:11:10 :: [   926250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:11:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:11:12 :: [   926300] return 0/0/0 async 0/0/0
+May 12 01:11:14 :: [   926350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:11:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:11:16 :: [   926400] return 0/0/1 async 0/0/0
+May 12 01:11:18 :: [   926450] return 0/0/0 async 0/0/0
+May 12 01:11:20 :: [   926500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:11:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:11:22 :: [   926550] return 0/0/0 async 0/0/0
+May 12 01:11:24 :: [   926600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:11:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:11:26 :: [   926650] return 0/0/1 async 0/0/0
+May 12 01:11:28 :: [   926700] return 0/0/0 async 0/0/0
+May 12 01:11:30 :: [   926750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:11:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:11:32 :: [   926800] return 0/0/0 async 0/0/0
+May 12 01:11:34 :: [   926850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:11:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:11:36 :: [   926900] return 0/0/1 async 0/0/0
+May 12 01:11:38 :: [   926950] return 0/0/0 async 0/0/0
+May 12 01:11:40 :: [   927000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:11:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:11:42 :: [   927050] return 0/0/0 async 0/0/0
+May 12 01:11:44 :: [   927100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:11:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:11:46 :: [   927150] return 0/0/1 async 0/0/0
+May 12 01:11:48 :: [   927200] return 0/0/0 async 0/0/0
+May 12 01:11:50 :: [   927250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:11:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:11:52 :: [   927300] return 0/0/0 async 0/0/0
+May 12 01:11:54 :: [   927350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:11:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:11:56 :: [   927400] return 0/0/1 async 0/0/0
+May 12 01:11:58 :: [   927450] return 0/0/0 async 0/0/0
+May 12 01:12:00 :: [   927500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:12:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:12:02 :: [   927550] return 0/0/0 async 0/0/0
+May 12 01:12:04 :: [   927600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:12:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:12:06 :: [   927650] return 0/0/1 async 0/0/0
+May 12 01:12:08 :: [   927700] return 0/0/0 async 0/0/0
+May 12 01:12:10 :: [   927750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:12:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:12:12 :: [   927800] return 0/0/0 async 0/0/0
+May 12 01:12:14 :: [   927850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:12:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:12:16 :: [   927900] return 0/0/1 async 0/0/0
+May 12 01:12:18 :: [   927950] return 0/0/0 async 0/0/0
+May 12 01:12:20 :: [   928000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:12:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:12:22 :: [   928050] return 0/0/0 async 0/0/0
+May 12 01:12:24 :: [   928100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:12:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:12:26 :: [   928150] return 0/0/1 async 0/0/0
+May 12 01:12:28 :: [   928200] return 0/0/0 async 0/0/0
+May 12 01:12:30 :: [   928250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:12:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:12:32 :: [   928300] return 0/0/0 async 0/0/0
+May 12 01:12:34 :: [   928350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:12:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:12:36 :: [   928400] return 0/0/1 async 0/0/0
+May 12 01:12:38 :: [   928450] return 0/0/0 async 0/0/0
+May 12 01:12:40 :: [   928500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:12:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:12:42 :: [   928550] return 0/0/0 async 0/0/0
+May 12 01:12:44 :: [   928600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:12:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:12:46 :: [   928650] return 0/0/1 async 0/0/0
+May 12 01:12:48 :: [   928700] return 0/0/0 async 0/0/0
+May 12 01:12:50 :: [   928750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:12:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:12:52 :: [   928800] return 0/0/0 async 0/0/0
+May 12 01:12:54 :: [   928850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:12:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:12:56 :: [   928900] return 0/0/1 async 0/0/0
+May 12 01:12:58 :: [   928950] return 0/0/0 async 0/0/0
+May 12 01:13:00 :: [   929000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:13:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:13:02 :: [   929050] return 0/0/0 async 0/0/0
+May 12 01:13:04 :: [   929100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:13:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:13:06 :: [   929150] return 0/0/1 async 0/0/0
+May 12 01:13:08 :: [   929200] return 0/0/0 async 0/0/0
+May 12 01:13:10 :: [   929250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:13:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:13:12 :: [   929300] return 0/0/0 async 0/0/0
+May 12 01:13:14 :: [   929350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:13:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:13:16 :: [   929400] return 0/0/1 async 0/0/0
+May 12 01:13:18 :: [   929450] return 0/0/0 async 0/0/0
+May 12 01:13:20 :: [   929500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:13:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:13:22 :: [   929550] return 0/0/0 async 0/0/0
+May 12 01:13:24 :: [   929600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:13:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:13:26 :: [   929650] return 0/0/1 async 0/0/0
+May 12 01:13:28 :: [   929700] return 0/0/0 async 0/0/0
+May 12 01:13:30 :: [   929750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:13:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:13:32 :: [   929800] return 0/0/0 async 0/0/0
+May 12 01:13:34 :: [   929850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:13:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:13:36 :: [   929900] return 0/0/1 async 0/0/0
+May 12 01:13:38 :: [   929950] return 0/0/0 async 0/0/0
+May 12 01:13:40 :: [   930000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:13:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:13:42 :: [   930050] return 0/0/0 async 0/0/0
+May 12 01:13:44 :: [   930100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:13:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:13:46 :: [   930150] return 0/0/1 async 0/0/0
+May 12 01:13:48 :: [   930200] return 0/0/0 async 0/0/0
+May 12 01:13:50 :: [   930250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:13:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:13:52 :: [   930300] return 0/0/0 async 0/0/0
+May 12 01:13:54 :: [   930350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:13:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:13:56 :: [   930400] return 0/0/1 async 0/0/0
+May 12 01:13:58 :: [   930450] return 0/0/0 async 0/0/0
+May 12 01:14:00 :: [   930500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:14:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:14:02 :: [   930550] return 0/0/0 async 0/0/0
+May 12 01:14:04 :: [   930600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:14:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:14:06 :: [   930650] return 0/0/1 async 0/0/0
+May 12 01:14:08 :: [   930700] return 0/0/0 async 0/0/0
+May 12 01:14:10 :: [   930750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:14:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:14:12 :: [   930800] return 0/0/0 async 0/0/0
+May 12 01:14:14 :: [   930850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:14:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:14:16 :: [   930900] return 0/0/1 async 0/0/0
+May 12 01:14:18 :: [   930950] return 0/0/0 async 0/0/0
+May 12 01:14:20 :: [   931000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:14:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:14:22 :: [   931050] return 0/0/0 async 0/0/0
+May 12 01:14:24 :: [   931100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:14:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:14:26 :: [   931150] return 0/0/1 async 0/0/0
+May 12 01:14:28 :: [   931200] return 0/0/0 async 0/0/0
+May 12 01:14:30 :: [   931250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:14:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:14:32 :: [   931300] return 0/0/0 async 0/0/0
+May 12 01:14:34 :: [   931350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:14:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:14:36 :: [   931400] return 0/0/1 async 0/0/0
+May 12 01:14:38 :: [   931450] return 0/0/0 async 0/0/0
+May 12 01:14:40 :: [   931500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:14:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:14:42 :: [   931550] return 0/0/0 async 0/0/0
+May 12 01:14:44 :: [   931600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:14:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:14:46 :: [   931650] return 0/0/1 async 0/0/0
+May 12 01:14:48 :: [   931700] return 0/0/0 async 0/0/0
+May 12 01:14:50 :: [   931750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:14:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:14:52 :: [   931800] return 0/0/0 async 0/0/0
+May 12 01:14:54 :: [   931850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:14:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:14:56 :: [   931900] return 0/0/1 async 0/0/0
+May 12 01:14:58 :: [   931950] return 0/0/0 async 0/0/0
+May 12 01:15:00 :: [   932000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:15:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:15:02 :: [   932050] return 0/0/0 async 0/0/0
+May 12 01:15:04 :: [   932100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:15:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:15:06 :: [   932150] return 0/0/1 async 0/0/0
+May 12 01:15:08 :: [   932200] return 0/0/0 async 0/0/0
+May 12 01:15:10 :: [   932250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:15:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:15:12 :: [   932300] return 0/0/0 async 0/0/0
+May 12 01:15:14 :: [   932350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:15:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:15:16 :: [   932400] return 0/0/1 async 0/0/0
+May 12 01:15:18 :: [   932450] return 0/0/0 async 0/0/0
+May 12 01:15:20 :: [   932500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:15:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:15:22 :: [   932550] return 0/0/0 async 0/0/0
+May 12 01:15:24 :: [   932600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:15:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:15:26 :: [   932650] return 0/0/1 async 0/0/0
+May 12 01:15:28 :: [   932700] return 0/0/0 async 0/0/0
+May 12 01:15:30 :: [   932750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:15:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:15:32 :: [   932800] return 0/0/0 async 0/0/0
+May 12 01:15:34 :: [   932850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:15:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:15:36 :: [   932900] return 0/0/1 async 0/0/0
+May 12 01:15:38 :: [   932950] return 0/0/0 async 0/0/0
+May 12 01:15:40 :: [   933000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:15:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:15:42 :: [   933050] return 0/0/0 async 0/0/0
+May 12 01:15:44 :: [   933100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:15:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:15:46 :: [   933150] return 0/0/1 async 0/0/0
+May 12 01:15:48 :: [   933200] return 0/0/0 async 0/0/0
+May 12 01:15:50 :: [   933250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:15:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:15:52 :: [   933300] return 0/0/0 async 0/0/0
+May 12 01:15:54 :: [   933350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:15:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:15:56 :: [   933400] return 0/0/1 async 0/0/0
+May 12 01:15:58 :: [   933450] return 0/0/0 async 0/0/0
+May 12 01:16:00 :: [   933500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:16:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:16:02 :: [   933550] return 0/0/0 async 0/0/0
+May 12 01:16:04 :: [   933600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:16:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:16:06 :: [   933650] return 0/0/1 async 0/0/0
+May 12 01:16:08 :: [   933700] return 0/0/0 async 0/0/0
+May 12 01:16:10 :: [   933750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:16:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:16:12 :: [   933800] return 0/0/0 async 0/0/0
+May 12 01:16:14 :: [   933850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:16:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:16:16 :: [   933900] return 0/0/1 async 0/0/0
+May 12 01:16:18 :: [   933950] return 0/0/0 async 0/0/0
+May 12 01:16:20 :: [   934000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:16:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:16:22 :: [   934050] return 0/0/0 async 0/0/0
+May 12 01:16:24 :: [   934100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:16:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:16:26 :: [   934150] return 0/0/1 async 0/0/0
+May 12 01:16:28 :: [   934200] return 0/0/0 async 0/0/0
+May 12 01:16:30 :: [   934250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:16:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:16:32 :: [   934300] return 0/0/0 async 0/0/0
+May 12 01:16:34 :: [   934350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:16:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:16:36 :: [   934400] return 0/0/1 async 0/0/0
+May 12 01:16:38 :: [   934450] return 0/0/0 async 0/0/0
+May 12 01:16:40 :: [   934500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:16:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:16:42 :: [   934550] return 0/0/0 async 0/0/0
+May 12 01:16:44 :: [   934600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:16:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:16:46 :: [   934650] return 0/0/1 async 0/0/0
+May 12 01:16:48 :: [   934700] return 0/0/0 async 0/0/0
+May 12 01:16:50 :: [   934750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:16:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:16:52 :: [   934800] return 0/0/0 async 0/0/0
+May 12 01:16:54 :: [   934850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:16:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:16:56 :: [   934900] return 0/0/1 async 0/0/0
+May 12 01:16:58 :: [   934950] return 0/0/0 async 0/0/0
+May 12 01:17:00 :: [   935000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:17:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:17:02 :: [   935050] return 0/0/0 async 0/0/0
+May 12 01:17:04 :: [   935100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:17:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:17:06 :: [   935150] return 0/0/1 async 0/0/0
+May 12 01:17:08 :: [   935200] return 0/0/0 async 0/0/0
+May 12 01:17:10 :: [   935250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:17:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:17:12 :: [   935300] return 0/0/0 async 0/0/0
+May 12 01:17:14 :: [   935350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:17:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:17:16 :: [   935400] return 0/0/1 async 0/0/0
+May 12 01:17:18 :: [   935450] return 0/0/0 async 0/0/0
+May 12 01:17:20 :: [   935500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:17:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:17:22 :: [   935550] return 0/0/0 async 0/0/0
+May 12 01:17:24 :: [   935600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:17:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:17:26 :: [   935650] return 0/0/1 async 0/0/0
+May 12 01:17:28 :: [   935700] return 0/0/0 async 0/0/0
+May 12 01:17:30 :: [   935750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:17:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:17:32 :: [   935800] return 0/0/0 async 0/0/0
+May 12 01:17:34 :: [   935850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:17:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:17:36 :: [   935900] return 0/0/1 async 0/0/0
+May 12 01:17:38 :: [   935950] return 0/0/0 async 0/0/0
+May 12 01:17:40 :: [   936000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:17:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:17:42 :: [   936050] return 0/0/0 async 0/0/0
+May 12 01:17:44 :: [   936100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:17:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:17:46 :: [   936150] return 0/0/1 async 0/0/0
+May 12 01:17:48 :: [   936200] return 0/0/0 async 0/0/0
+May 12 01:17:50 :: [   936250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:17:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:17:52 :: [   936300] return 0/0/0 async 0/0/0
+May 12 01:17:54 :: [   936350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:17:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:17:56 :: [   936400] return 0/0/1 async 0/0/0
+May 12 01:17:58 :: [   936450] return 0/0/0 async 0/0/0
+May 12 01:18:00 :: [   936500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:18:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:18:02 :: [   936550] return 0/0/0 async 0/0/0
+May 12 01:18:04 :: [   936600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:18:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:18:06 :: [   936650] return 0/0/1 async 0/0/0
+May 12 01:18:08 :: [   936700] return 0/0/0 async 0/0/0
+May 12 01:18:10 :: [   936750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:18:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:18:12 :: [   936800] return 0/0/0 async 0/0/0
+May 12 01:18:14 :: [   936850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:18:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:18:16 :: [   936900] return 0/0/1 async 0/0/0
+May 12 01:18:18 :: [   936950] return 0/0/0 async 0/0/0
+May 12 01:18:20 :: [   937000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:18:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:18:22 :: [   937050] return 0/0/0 async 0/0/0
+May 12 01:18:24 :: [   937100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:18:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:18:26 :: [   937150] return 0/0/1 async 0/0/0
+May 12 01:18:28 :: [   937200] return 0/0/0 async 0/0/0
+May 12 01:18:30 :: [   937250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:18:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:18:32 :: [   937300] return 0/0/0 async 0/0/0
+May 12 01:18:34 :: [   937350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:18:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:18:36 :: [   937400] return 0/0/1 async 0/0/0
+May 12 01:18:38 :: [   937450] return 0/0/0 async 0/0/0
+May 12 01:18:40 :: [   937500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:18:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:18:42 :: [   937550] return 0/0/0 async 0/0/0
+May 12 01:18:44 :: [   937600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:18:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:18:46 :: [   937650] return 0/0/1 async 0/0/0
+May 12 01:18:48 :: [   937700] return 0/0/0 async 0/0/0
+May 12 01:18:50 :: [   937750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:18:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:18:52 :: [   937800] return 0/0/0 async 0/0/0
+May 12 01:18:54 :: [   937850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:18:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:18:56 :: [   937900] return 0/0/1 async 0/0/0
+May 12 01:18:58 :: [   937950] return 0/0/0 async 0/0/0
+May 12 01:19:00 :: [   938000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:19:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:19:02 :: [   938050] return 0/0/0 async 0/0/0
+May 12 01:19:04 :: [   938100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:19:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:19:06 :: [   938150] return 0/0/1 async 0/0/0
+May 12 01:19:08 :: [   938200] return 0/0/0 async 0/0/0
+May 12 01:19:10 :: [   938250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:19:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:19:12 :: [   938300] return 0/0/0 async 0/0/0
+May 12 01:19:14 :: [   938350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:19:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:19:16 :: [   938400] return 0/0/1 async 0/0/0
+May 12 01:19:18 :: [   938450] return 0/0/0 async 0/0/0
+May 12 01:19:20 :: [   938500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:19:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:19:22 :: [   938550] return 0/0/0 async 0/0/0
+May 12 01:19:24 :: [   938600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:19:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:19:26 :: [   938650] return 0/0/1 async 0/0/0
+May 12 01:19:28 :: [   938700] return 0/0/0 async 0/0/0
+May 12 01:19:30 :: [   938750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:19:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:19:32 :: [   938800] return 0/0/0 async 0/0/0
+May 12 01:19:34 :: [   938850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:19:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:19:36 :: [   938900] return 0/0/1 async 0/0/0
+May 12 01:19:38 :: [   938950] return 0/0/0 async 0/0/0
+May 12 01:19:40 :: [   939000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:19:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:19:42 :: [   939050] return 0/0/0 async 0/0/0
+May 12 01:19:44 :: [   939100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:19:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:19:46 :: [   939150] return 0/0/1 async 0/0/0
+May 12 01:19:48 :: [   939200] return 0/0/0 async 0/0/0
+May 12 01:19:50 :: [   939250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:19:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:19:52 :: [   939300] return 0/0/0 async 0/0/0
+May 12 01:19:54 :: [   939350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:19:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:19:56 :: [   939400] return 0/0/1 async 0/0/0
+May 12 01:19:58 :: [   939450] return 0/0/0 async 0/0/0
+May 12 01:20:00 :: [   939500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:20:00 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:20:02 :: [   939550] return 0/0/0 async 0/0/0
+May 12 01:20:04 :: [   939600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:20:05 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:20:06 :: [   939650] return 0/0/1 async 0/0/0
+May 12 01:20:08 :: [   939700] return 0/0/0 async 0/0/0
+May 12 01:20:10 :: [   939750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:20:10 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:20:12 :: [   939800] return 0/0/0 async 0/0/0
+May 12 01:20:14 :: [   939850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:20:15 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:20:16 :: [   939900] return 0/0/1 async 0/0/0
+May 12 01:20:18 :: [   939950] return 0/0/0 async 0/0/0
+May 12 01:20:20 :: [   940000] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:20:20 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:20:22 :: [   940050] return 0/0/0 async 0/0/0
+May 12 01:20:24 :: [   940100] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:20:25 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:20:26 :: [   940150] return 0/0/1 async 0/0/0
+May 12 01:20:28 :: [   940200] return 0/0/0 async 0/0/0
+May 12 01:20:30 :: [   940250] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:20:30 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:20:32 :: [   940300] return 0/0/0 async 0/0/0
+May 12 01:20:34 :: [   940350] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:20:35 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:20:36 :: [   940400] return 0/0/1 async 0/0/0
+May 12 01:20:38 :: [   940450] return 0/0/0 async 0/0/0
+May 12 01:20:40 :: [   940500] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:20:40 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:20:42 :: [   940550] return 0/0/0 async 0/0/0
+May 12 01:20:44 :: [   940600] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:20:45 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:20:46 :: [   940650] return 0/0/1 async 0/0/0
+May 12 01:20:48 :: [   940700] return 0/0/0 async 0/0/0
+May 12 01:20:50 :: [   940750] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:20:50 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:20:52 :: [   940800] return 0/0/0 async 0/0/0
+May 12 01:20:54 :: [   940850] return 0/0/0 async 0/0/0
+SYSERR: May 12 01:20:55 :: ChildLoop: AsyncSQL: query failed: Table 'player.item_award' doesn't exist (query: SELECT id, login, vnum, count, socket0, socket1, socket2, attrtype0, attrvalue0, attrtype1, attrvalue1, attrtype2, attrvalue2, attrtype3, attrvalue3, attrtype4, attrvalue4, attrtype5, attrvalue5, attrtype6, attrvalue6, mall, why FROM item_award WHERE taken_time IS NULL and id > 0 errno: 1146)
+May 12 01:20:56 :: [   940900] return 0/0/1 async 0/0/0
+May 12 01:20:58 :: [   940950] return 0/0/0 async 0/0/0

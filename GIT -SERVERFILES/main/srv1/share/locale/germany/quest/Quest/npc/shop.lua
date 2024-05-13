@@ -20,10 +20,6 @@ quest shopuri begin
 			npc.open_shop(59)
 			setskin(NOWINDOW)
 		end
-		when 20381.chat."Mounts/Pets" begin
-			npc.open_shop(61)
-			setskin(NOWINDOW)
-		end
 		when 20381.chat."Effects" begin
 			npc.open_shop(62)
 			setskin(NOWINDOW)
@@ -31,11 +27,7 @@ quest shopuri begin
 		when 20381.chat."BELTS" begin
 			npc.open_shop(995)
 			setskin(NOWINDOW)
-		end
-		when 20381.chat."Shards of Pearl" begin
-			npc.open_shop(70)
-			setskin(NOWINDOW)
-		end		
+		end	
 		when 30129.chat."EASTER SHOP" begin
 			npc.open_shop(1049)
 			setskin(NOWINDOW)

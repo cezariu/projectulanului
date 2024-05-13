@@ -1,0 +1,2 @@
+__GAME_VERSION__: 41139
+root@:/usr/home/sursa/Server/game/src

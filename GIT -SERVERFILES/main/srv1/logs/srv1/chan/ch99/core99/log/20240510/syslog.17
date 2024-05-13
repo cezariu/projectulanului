@@ -1,0 +1,32 @@
+May 10 17:00:02 :: PONG! 239
+May 10 17:00:02 :: Handshake: client_time 8299896 server_time 8479874 name: [DEV]Cezariu
+May 10 17:00:05 :: SAVE: [DEV]Cezariu 960215x273265
+May 10 17:03:02 :: PONG! 239
+May 10 17:03:02 :: Handshake: client_time 8479874 server_time 8659877 name: [DEV]Cezariu
+May 10 17:03:06 :: SAVE: [DEV]Cezariu 960215x273265
+May 10 17:06:02 :: PONG! 239
+May 10 17:06:02 :: Handshake: client_time 8659877 server_time 8839877 name: [DEV]Cezariu
+May 10 17:06:05 :: SAVE: [DEV]Cezariu 960215x273265
+May 10 17:08:38 :: COMMAND: [DEV]Cezariu: ride
+May 10 17:08:38 :: AddAffect [DEV]Cezariu type 533 apply 53 25 flag 0 duration 1030345
+May 10 17:08:38 :: AddAffect [DEV]Cezariu type 533 apply 159 25 flag 0 duration 1030345
+May 10 17:08:38 :: AddAffect [DEV]Cezariu type 533 apply 83 50 flag 0 duration 1030345
+May 10 17:08:38 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 1030345
+May 10 17:08:38 :: AddAffect [DEV]Cezariu type 221 apply 109 20114 flag 0 duration 1030345
+May 10 17:08:39 :: SECTREE DIFFER: [DEV]Cezariu 149x42 was 150x42 dist 1.0m
+May 10 17:08:41 :: SECTREE DIFFER: [DEV]Cezariu 149x41 was 149x42 dist 1.0m
+May 10 17:08:44 :: SECTREE DIFFER: [DEV]Cezariu 149x40 was 149x41 dist 1.0m
+May 10 17:08:46 :: SECTREE DIFFER: [DEV]Cezariu 149x39 was 149x40 dist 1.0m
+May 10 17:09:02 :: PONG! 239
+May 10 17:09:02 :: Handshake: client_time 8839877 server_time 9019917 name: [DEV]Cezariu
+May 10 17:09:05 :: SAVE: [DEV]Cezariu 959331x252913
+May 10 17:12:02 :: PONG! 239
+May 10 17:12:02 :: Handshake: lower than zero -21
+May 10 17:12:03 :: Handshake: client_time 9019917 server_time 9200077 name: [DEV]Cezariu
+May 10 17:12:05 :: SAVE: [DEV]Cezariu 959331x252913
+May 10 17:14:24 :: COMMAND: [DEV]Cezariu: quit
+May 10 17:14:28 :: DISCONNECT: [DEV]Cezariu (DESC::~DESC)
+May 10 17:14:28 :: SAVE: [DEV]Cezariu 959331x252913
+May 10 17:14:28 :: QUEST clear timer 0
+May 10 17:14:28 :: SYSTEM: closing socket. DESC #20
+May 10 18:00:00 :: SYSTEM: LOG ROTATE (2024-05-10 17)

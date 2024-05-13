@@ -1,0 +1,19 @@
+SYSERR: May  5 23:31:42 :: Analyze: Handshake phase does not handle packet 90 (fd 16)
+SYSERR: May  5 23:31:42 :: Process: Failed to analyze header(90) host(167.94.146.62).
+SYSERR: May  7 10:36:15 :: socket_connect: HOST localhost:30051, could not connect.
+SYSERR: May  7 10:36:18 :: socket_connect: HOST localhost:30051, could not connect.
+SYSERR: May  7 10:36:21 :: socket_connect: HOST localhost:30051, could not connect.
+SYSERR: May  7 10:36:24 :: socket_connect: HOST localhost:30051, could not connect.
+SYSERR: May  7 10:36:27 :: socket_connect: HOST localhost:30051, could not connect.
+SYSERR: May  7 10:36:30 :: socket_connect: HOST localhost:30051, could not connect.
+SYSERR: May  7 10:36:33 :: socket_connect: HOST localhost:30051, could not connect.
+SYSERR: May  7 10:36:36 :: socket_connect: HOST localhost:30051, could not connect.
+SYSERR: May  7 10:36:39 :: socket_connect: HOST localhost:30051, could not connect.
+SYSERR: May  7 10:36:42 :: socket_connect: HOST localhost:30051, could not connect.
+SYSERR: May  7 10:37:33 :: socket_connect: HOST localhost:30051, could not connect.
+SYSERR: May  7 10:37:36 :: socket_connect: HOST localhost:30051, could not connect.
+SYSERR: May 12 01:14:34 :: ChildLoop: AsyncSQL: query failed: Table 'account.account' doesn't exist (query: SELECT '*4ACFE3202A5FF5CF467898FC58AAB1D615029441',password,social_id,id,language+0,status,availDt - NOW() > 0,UNIX_TIMESTAMP(silver_expire),UNIX_TIMESTAMP(gold_expire),UNIX_TIMESTAMP(safebox_expire),UNIX_TIMESTAMP(autoloot_expire),UNIX_TIMESTAMP(fish_mind_expire),UNIX_TIMESTAMP(marriage_fast_expire),UNIX_TIMESTAMP(money_drop_rate_expire),UNIX_TIMESTAMP(create_time) FROM account WHERE login='jack' errno: 1146)
+SYSERR: May 12 01:14:36 :: ChildLoop: AsyncSQL: query failed: Table 'account.account' doesn't exist (query: SELECT '*4ACFE3202A5FF5CF467898FC58AAB1D615029441',password,social_id,id,language+0,status,availDt - NOW() > 0,UNIX_TIMESTAMP(silver_expire),UNIX_TIMESTAMP(gold_expire),UNIX_TIMESTAMP(safebox_expire),UNIX_TIMESTAMP(autoloot_expire),UNIX_TIMESTAMP(fish_mind_expire),UNIX_TIMESTAMP(marriage_fast_expire),UNIX_TIMESTAMP(money_drop_rate_expire),UNIX_TIMESTAMP(create_time) FROM account WHERE login='jack' errno: 1146)
+SYSERR: May 12 01:14:39 :: ChildLoop: AsyncSQL: query failed: Table 'account.account' doesn't exist (query: SELECT '*4ACFE3202A5FF5CF467898FC58AAB1D615029441',password,social_id,id,language+0,status,availDt - NOW() > 0,UNIX_TIMESTAMP(silver_expire),UNIX_TIMESTAMP(gold_expire),UNIX_TIMESTAMP(safebox_expire),UNIX_TIMESTAMP(autoloot_expire),UNIX_TIMESTAMP(fish_mind_expire),UNIX_TIMESTAMP(marriage_fast_expire),UNIX_TIMESTAMP(money_drop_rate_expire),UNIX_TIMESTAMP(create_time) FROM account WHERE login='jack' errno: 1146)
+SYSERR: May 12 01:14:43 :: ChildLoop: AsyncSQL: query failed: Table 'account.account' doesn't exist (query: SELECT '*4ACFE3202A5FF5CF467898FC58AAB1D615029441',password,social_id,id,language+0,status,availDt - NOW() > 0,UNIX_TIMESTAMP(silver_expire),UNIX_TIMESTAMP(gold_expire),UNIX_TIMESTAMP(safebox_expire),UNIX_TIMESTAMP(autoloot_expire),UNIX_TIMESTAMP(fish_mind_expire),UNIX_TIMESTAMP(marriage_fast_expire),UNIX_TIMESTAMP(money_drop_rate_expire),UNIX_TIMESTAMP(create_time) FROM account WHERE login='jack' errno: 1146)
+SYSERR: May 12 01:14:47 :: ChildLoop: AsyncSQL: query failed: Table 'account.account' doesn't exist (query: SELECT '*4ACFE3202A5FF5CF467898FC58AAB1D615029441',password,social_id,id,language+0,status,availDt - NOW() > 0,UNIX_TIMESTAMP(silver_expire),UNIX_TIMESTAMP(gold_expire),UNIX_TIMESTAMP(safebox_expire),UNIX_TIMESTAMP(autoloot_expire),UNIX_TIMESTAMP(fish_mind_expire),UNIX_TIMESTAMP(marriage_fast_expire),UNIX_TIMESTAMP(money_drop_rate_expire),UNIX_TIMESTAMP(create_time) FROM account WHERE login='admin' errno: 1146)

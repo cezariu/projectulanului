@@ -1,0 +1,1755 @@
+May 11 01:04:44 :: SIGHUP, SIGINT, SIGTERM signal has been received. shutting down.
+May 11 01:04:44 :: <shutdown> Starting...
+May 11 01:04:44 :: Queries 0
+May 11 01:04:44 :: <shutdown> Destroying CArenaManager...
+May 11 01:04:44 :: <shutdown> Destroying COXEventManager...
+May 11 01:04:44 :: <shutdown> Disabling signal timer...
+May 11 01:04:44 :: <shutdown> Shutting down CHARACTER_MANAGER...
+May 11 01:04:44 :: <shutdown> Shutting down ITEM_MANAGER...
+May 11 01:04:44 :: <shutdown> Flushing db_clientdesc...
+May 11 01:04:44 :: FLUSH START 46
+May 11 01:04:44 :: FLUSH SUCCESS
+May 11 01:04:45 :: <shutdown> Flushing p2p_manager...
+May 11 01:04:45 :: <shutdown> Destroying CShopManager...
+May 11 01:04:45 :: <shutdown> Destroying CHARACTER_MANAGER...
+May 11 01:04:45 :: <shutdown> Destroying ITEM_MANAGER...
+May 11 01:04:45 :: <shutdown> Destroying DESC_MANAGER...
+May 11 01:04:45 :: PARTY Disable
+May 11 01:04:45 :: SYSTEM: closing client socket. DESC #14
+May 11 01:04:45 :: <shutdown> Destroying quest::CQuestManager...
+May 11 01:04:45 :: <shutdown> Destroying building::CManager...
+May 11 01:04:45 :: <shutdown> Canceling ReloadSpamEvent...
+May 11 01:04:45 :: <shutdown> regen_free()...
+May 11 01:04:45 :: <shutdown> Closing sockets...
+May 11 01:04:45 :: <shutdown> fdwatch_delete()...
+May 11 01:04:45 :: <shutdown> event_destroy()...
+May 11 01:04:45 :: <shutdown> CTextFileLoader::DestroySystem()...
+May 11 01:04:45 :: <shutdown> thecore_destroy()...
+May 11 01:04:45 :: 
+End of pid
+
+May 11 01:05:47 :: 
+Start of pid: 36347
+
+May 11 01:05:47 :: SYSTEM: BINDING TCP PORT ON [30052] (fd 12)
+May 11 01:05:47 :: SYSTEM: BINDING TCP PORT ON [30053] (fd 13)
+May 11 01:05:47 :: SYSTEM: Trying to connect to localhost:30051
+May 11 01:05:47 :: SYSTEM: connected to server (fd 14, ptr 0x28975600)
+May 11 01:05:47 :: Initializing Guild
+May 11 01:05:47 :: 	No need for auth server
+May 11 01:05:47 :: FISH: ²Î                       vnum     0 prob 3000 3000 2100 2000 len 0 0 0
+May 11 01:05:47 :: FISH: ±Ý¹ÝÁö                   vnum 50002 prob   50   50  200  200 len 0 0 0
+May 11 01:05:47 :: FISH: ÇÇ¶ó¹Ì                   vnum 27802 prob 2000 1800  800 2200 len 500 550 600
+May 11 01:05:47 :: FISH: ºØ¾î                     vnum 27803 prob 1950 1600  800  700 len 1000 2500 2800
+May 11 01:05:47 :: FISH: ½î°¡¸®                   vnum 27804 prob  900  800  700  600 len 2000 3500 3800
+May 11 01:05:47 :: FISH: ¿ùÃ´ºØ¾î                 vnum 27805 prob  700  700  700  600 len 3030 3500 4300
+May 11 01:05:47 :: FISH: À×¾î                     vnum 27806 prob  200  300  600  800 len 4000 6000 10000
+May 11 01:05:47 :: FISH: ¿¬¾î                     vnum 27807 prob  200  200  500  600 len 6000 8000 10000
+May 11 01:05:47 :: FISH: Çâ¾î                     vnum 27808 prob  100  100  250  200 len 1500 3000 3800
+May 11 01:05:47 :: FISH: ¼Û¾î                     vnum 27809 prob  100  100  250  350 len 5000 7000 8000
+May 11 01:05:47 :: FISH: ¹Î¹°Àå¾î                 vnum 27810 prob    0  100  250  200 len 4000 5000 6000
+May 11 01:05:47 :: FISH: ¹«Áö°³¼Û¾î               vnum 27811 prob    0  100  250  150 len 5000 7000 8000
+May 11 01:05:47 :: FISH: °­¼Û¾î                   vnum 27812 prob    0  100  250  150 len 4000 6000 7000
+May 11 01:05:47 :: FISH: ·¯µå                     vnum 27813 prob    0  100  200  100 len 4000 6000 10000
+May 11 01:05:47 :: FISH: ÆÛÄ¡                     vnum 27814 prob    0  100  200  100 len 3000 4000 5000
+May 11 01:05:47 :: FISH: ÅÙÄ¡                     vnum 27815 prob    0   50  200  100 len 3500 5500 8000
+May 11 01:05:47 :: FISH: ¸Þ±â                     vnum 27816 prob   50   50  200  100 len 3000 5000 10000
+May 11 01:05:47 :: FISH: ¹Ì²Ù¶óÁö                 vnum 27817 prob    0    0    0    0 len 1800 2200 3000
+May 11 01:05:47 :: FISH: ¹é·Ã                     vnum 27818 prob   50   50  200  100 len 5000 8000 10000
+May 11 01:05:47 :: FISH: Àº¾î                     vnum 27819 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:05:47 :: FISH: ºù¾î                     vnum 27820 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:05:47 :: FISH: ½¬¸®                     vnum 27821 prob    0    0    0    0 len 1000 1500 2000
+May 11 01:05:47 :: FISH: ºñ´ÃÀ×¾î                 vnum 27822 prob    0    0    0    0 len 4000 6000 10000
+May 11 01:05:47 :: FISH: È²±ÝºØ¾î                 vnum 27823 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:05:47 :: FISH: "channidae"              vnum 27824 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:05:47 :: FISH: "skygazer"               vnum 27825 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:05:47 :: FISH: "granchio gigante"       vnum 27826 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:05:47 :: FISH: "granchio distruttore"   vnum 27827 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:05:47 :: FISH: Å»»ö¾à                   vnum 70201 prob  100  100    0    0 len 0 0 0
+May 11 01:05:47 :: FISH: ¿°»ö¾à(Èò»ö)             vnum 70202 prob   85   85    0    0 len 0 0 0
+May 11 01:05:47 :: FISH: ¿°»ö¾à(±Ý»ö)             vnum 70203 prob   85   85    0    0 len 0 0 0
+May 11 01:05:47 :: FISH: ¿°»ö¾à(»¡°£»ö)           vnum 70204 prob   85   85    0    0 len 0 0 0
+May 11 01:05:47 :: FISH: ¿°»ö¾à(°¥»ö)             vnum 70205 prob   85   85    0    0 len 0 0 0
+May 11 01:05:47 :: FISH: ¿°»ö¾à(°ËÀº»ö)           vnum 70206 prob   85   85    0    0 len 0 0 0
+May 11 01:05:47 :: FISH: ÀºµÐÀÚÀÇ ¸ÁÅä            vnum 70048 prob   25   25  200  100 len 0 0 0
+May 11 01:05:47 :: FISH: Çà¿îÀÇ ¹ÝÁö              vnum 70049 prob   25   25  200  100 len 0 0 0
+May 11 01:05:47 :: FISH: ¼±¿ÕÀÇ ÁõÇ¥              vnum 70050 prob   25   25  200  100 len 0 0 0
+May 11 01:05:47 :: FISH: prob table 0 9900
+May 11 01:05:47 :: FISH: prob table 1 9900
+May 11 01:05:47 :: FISH: prob table 2 9250
+May 11 01:05:47 :: FISH: prob table 3 9550
+May 11 01:05:47 :: Cube_Init locale/germany/cube.txt
+May 11 01:05:47 :: Blend_Item_init locale/germany/blend.txt 
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 0 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 300 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 800 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 1500 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2500 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 4300 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 7200 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 11000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 17000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 24000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 33001 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 43000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 58000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 76000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 100000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 130000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 169000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 219000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 283000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 365000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 472000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 610000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 705000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 813000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 937000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 1077000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 1237000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 1418000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 1624000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 1857000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2122000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2421000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2761000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 3145000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 3580000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 4073000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 4632000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 5194000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 5717000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 6264000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 6837000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 7600000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 8274000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 8990000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 9753000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 10560000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 11410000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 12320000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 13270000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 14280000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 15340000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 16870000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 18960000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 19980000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 21420000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 22930000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 24530000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 26200000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 27960000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 29800000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 32780000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 36060000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 39670000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 43640000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 48000000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 52800000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 58080000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 63890000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 70280000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 77310000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 85040000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 93540000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 102900000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 113200000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 124500000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 137000000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 150700000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 165700000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 236990000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 260650000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 286780000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 315380000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 346970000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 381680000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 419770000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 461760000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 508040000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 558740000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 614640000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 676130000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 743730000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 1041222000 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 1145344200 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 1259878620 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 1385866482 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 1524453130 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 1676898443 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 1844588288 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2029047116 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:47 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:05:54 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 3366100519 output input_len 0, ptr 0x288c3e00
+May 11 01:05:54 :: Handshake: client_time 0 server_time 7649
+May 11 01:05:54 :: AUTH_PHASE 0x288c3e00
+May 11 01:05:54 :: InputAuth::Login : jack(4) desc 0x288c3e00
+May 11 01:05:54 :: SetLoginKey 866745402
+May 11 01:05:54 :: InputAuth::Login: key (866745402) login (jack)
+May 11 01:05:54 :: QID_AUTH_LOGIN: START 866745402 0x288c3e00
+May 11 01:05:54 :: Create_Time 1896971434 20300210
+May 11 01:05:54 :: Block Time -1 
+May 11 01:05:54 :: SetRemainSecs jack 0
+May 11 01:05:54 :: SendAuthLogin jack key 15
+May 11 01:05:55 :: AuthLogin result 1 key 866745402
+May 11 01:05:55 :: SYSTEM: closing socket. DESC #16
+May 11 01:09:31 :: SIGHUP, SIGINT, SIGTERM signal has been received. shutting down.
+May 11 01:09:31 :: <shutdown> Starting...
+May 11 01:09:31 :: Queries 0
+May 11 01:09:31 :: <shutdown> Destroying CArenaManager...
+May 11 01:09:31 :: <shutdown> Destroying COXEventManager...
+May 11 01:09:31 :: <shutdown> Disabling signal timer...
+May 11 01:09:31 :: <shutdown> Shutting down CHARACTER_MANAGER...
+May 11 01:09:31 :: <shutdown> Shutting down ITEM_MANAGER...
+May 11 01:09:31 :: <shutdown> Flushing db_clientdesc...
+May 11 01:09:31 :: FLUSH START 46
+May 11 01:09:31 :: FLUSH SUCCESS
+May 11 01:09:31 :: <shutdown> Flushing p2p_manager...
+May 11 01:09:31 :: <shutdown> Destroying CShopManager...
+May 11 01:09:31 :: <shutdown> Destroying CHARACTER_MANAGER...
+May 11 01:09:31 :: <shutdown> Destroying ITEM_MANAGER...
+May 11 01:09:31 :: <shutdown> Destroying DESC_MANAGER...
+May 11 01:09:31 :: PARTY Disable
+May 11 01:09:31 :: SYSTEM: closing client socket. DESC #14
+May 11 01:09:31 :: <shutdown> Destroying quest::CQuestManager...
+May 11 01:09:31 :: <shutdown> Destroying building::CManager...
+May 11 01:09:31 :: <shutdown> Canceling ReloadSpamEvent...
+May 11 01:09:31 :: <shutdown> regen_free()...
+May 11 01:09:31 :: <shutdown> Closing sockets...
+May 11 01:09:31 :: <shutdown> fdwatch_delete()...
+May 11 01:09:31 :: <shutdown> event_destroy()...
+May 11 01:09:31 :: <shutdown> CTextFileLoader::DestroySystem()...
+May 11 01:09:31 :: <shutdown> thecore_destroy()...
+May 11 01:09:31 :: 
+End of pid
+
+May 11 01:10:35 :: 
+Start of pid: 36683
+
+May 11 01:10:35 :: SYSTEM: BINDING TCP PORT ON [30052] (fd 12)
+May 11 01:10:35 :: SYSTEM: BINDING TCP PORT ON [30053] (fd 13)
+May 11 01:10:35 :: SYSTEM: Trying to connect to localhost:30051
+May 11 01:10:35 :: SYSTEM: connected to server (fd 14, ptr 0x28975600)
+May 11 01:10:35 :: Initializing Guild
+May 11 01:10:35 :: 	No need for auth server
+May 11 01:10:35 :: FISH: ²Î                       vnum     0 prob 3000 3000 2100 2000 len 0 0 0
+May 11 01:10:35 :: FISH: ±Ý¹ÝÁö                   vnum 50002 prob   50   50  200  200 len 0 0 0
+May 11 01:10:35 :: FISH: ÇÇ¶ó¹Ì                   vnum 27802 prob 2000 1800  800 2200 len 500 550 600
+May 11 01:10:35 :: FISH: ºØ¾î                     vnum 27803 prob 1950 1600  800  700 len 1000 2500 2800
+May 11 01:10:35 :: FISH: ½î°¡¸®                   vnum 27804 prob  900  800  700  600 len 2000 3500 3800
+May 11 01:10:35 :: FISH: ¿ùÃ´ºØ¾î                 vnum 27805 prob  700  700  700  600 len 3030 3500 4300
+May 11 01:10:35 :: FISH: À×¾î                     vnum 27806 prob  200  300  600  800 len 4000 6000 10000
+May 11 01:10:35 :: FISH: ¿¬¾î                     vnum 27807 prob  200  200  500  600 len 6000 8000 10000
+May 11 01:10:35 :: FISH: Çâ¾î                     vnum 27808 prob  100  100  250  200 len 1500 3000 3800
+May 11 01:10:35 :: FISH: ¼Û¾î                     vnum 27809 prob  100  100  250  350 len 5000 7000 8000
+May 11 01:10:35 :: FISH: ¹Î¹°Àå¾î                 vnum 27810 prob    0  100  250  200 len 4000 5000 6000
+May 11 01:10:35 :: FISH: ¹«Áö°³¼Û¾î               vnum 27811 prob    0  100  250  150 len 5000 7000 8000
+May 11 01:10:35 :: FISH: °­¼Û¾î                   vnum 27812 prob    0  100  250  150 len 4000 6000 7000
+May 11 01:10:35 :: FISH: ·¯µå                     vnum 27813 prob    0  100  200  100 len 4000 6000 10000
+May 11 01:10:35 :: FISH: ÆÛÄ¡                     vnum 27814 prob    0  100  200  100 len 3000 4000 5000
+May 11 01:10:35 :: FISH: ÅÙÄ¡                     vnum 27815 prob    0   50  200  100 len 3500 5500 8000
+May 11 01:10:35 :: FISH: ¸Þ±â                     vnum 27816 prob   50   50  200  100 len 3000 5000 10000
+May 11 01:10:35 :: FISH: ¹Ì²Ù¶óÁö                 vnum 27817 prob    0    0    0    0 len 1800 2200 3000
+May 11 01:10:35 :: FISH: ¹é·Ã                     vnum 27818 prob   50   50  200  100 len 5000 8000 10000
+May 11 01:10:35 :: FISH: Àº¾î                     vnum 27819 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:10:35 :: FISH: ºù¾î                     vnum 27820 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:10:35 :: FISH: ½¬¸®                     vnum 27821 prob    0    0    0    0 len 1000 1500 2000
+May 11 01:10:35 :: FISH: ºñ´ÃÀ×¾î                 vnum 27822 prob    0    0    0    0 len 4000 6000 10000
+May 11 01:10:35 :: FISH: È²±ÝºØ¾î                 vnum 27823 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:10:35 :: FISH: "channidae"              vnum 27824 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:10:35 :: FISH: "skygazer"               vnum 27825 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:10:35 :: FISH: "granchio gigante"       vnum 27826 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:10:35 :: FISH: "granchio distruttore"   vnum 27827 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:10:35 :: FISH: Å»»ö¾à                   vnum 70201 prob  100  100    0    0 len 0 0 0
+May 11 01:10:35 :: FISH: ¿°»ö¾à(Èò»ö)             vnum 70202 prob   85   85    0    0 len 0 0 0
+May 11 01:10:35 :: FISH: ¿°»ö¾à(±Ý»ö)             vnum 70203 prob   85   85    0    0 len 0 0 0
+May 11 01:10:35 :: FISH: ¿°»ö¾à(»¡°£»ö)           vnum 70204 prob   85   85    0    0 len 0 0 0
+May 11 01:10:35 :: FISH: ¿°»ö¾à(°¥»ö)             vnum 70205 prob   85   85    0    0 len 0 0 0
+May 11 01:10:35 :: FISH: ¿°»ö¾à(°ËÀº»ö)           vnum 70206 prob   85   85    0    0 len 0 0 0
+May 11 01:10:35 :: FISH: ÀºµÐÀÚÀÇ ¸ÁÅä            vnum 70048 prob   25   25  200  100 len 0 0 0
+May 11 01:10:35 :: FISH: Çà¿îÀÇ ¹ÝÁö              vnum 70049 prob   25   25  200  100 len 0 0 0
+May 11 01:10:35 :: FISH: ¼±¿ÕÀÇ ÁõÇ¥              vnum 70050 prob   25   25  200  100 len 0 0 0
+May 11 01:10:35 :: FISH: prob table 0 9900
+May 11 01:10:35 :: FISH: prob table 1 9900
+May 11 01:10:35 :: FISH: prob table 2 9250
+May 11 01:10:35 :: FISH: prob table 3 9550
+May 11 01:10:35 :: Cube_Init locale/germany/cube.txt
+May 11 01:10:35 :: Blend_Item_init locale/germany/blend.txt 
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 0 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 300 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 800 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 1500 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2500 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 4300 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 7200 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 11000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 17000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 24000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 33001 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 43000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 58000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 76000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 100000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 130000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 169000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 219000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 283000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 365000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 472000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 610000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 705000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 813000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 937000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 1077000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 1237000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 1418000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 1624000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 1857000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2122000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2421000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2761000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 3145000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 3580000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 4073000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 4632000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 5194000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 5717000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 6264000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 6837000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 7600000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 8274000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 8990000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 9753000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 10560000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 11410000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 12320000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 13270000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 14280000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 15340000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 16870000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 18960000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 19980000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 21420000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 22930000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 24530000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 26200000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 27960000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 29800000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 32780000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 36060000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 39670000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 43640000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 48000000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 52800000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 58080000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 63890000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 70280000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 77310000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 85040000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 93540000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 102900000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 113200000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 124500000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 137000000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 150700000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 165700000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 236990000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 260650000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 286780000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 315380000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 346970000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 381680000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 419770000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 461760000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 508040000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 558740000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 614640000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 676130000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 743730000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 1041222000 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 1145344200 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 1259878620 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 1385866482 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 1524453130 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 1676898443 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 1844588288 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2029047116 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:35 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:10:46 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 3297408787 output input_len 0, ptr 0x288c3e00
+May 11 01:10:47 :: Handshake: client_time 0 server_time 12031
+May 11 01:10:47 :: AUTH_PHASE 0x288c3e00
+May 11 01:10:47 :: InputAuth::Login : jack(4) desc 0x288c3e00
+May 11 01:10:47 :: SetLoginKey 740017641
+May 11 01:10:47 :: InputAuth::Login: key (740017641) login (jack)
+May 11 01:10:47 :: QID_AUTH_LOGIN: START 740017641 0x288c3e00
+May 11 01:10:47 :: Create_Time 1896971434 20300210
+May 11 01:10:47 :: Block Time -1 
+May 11 01:10:47 :: SetRemainSecs jack 0
+May 11 01:10:47 :: SendAuthLogin jack key 15
+May 11 01:10:47 :: AuthLogin result 1 key 740017641
+May 11 01:10:47 :: SYSTEM: closing socket. DESC #16
+May 11 01:12:00 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 413831349 output input_len 0, ptr 0x288c3e00
+May 11 01:12:00 :: Handshake: client_time 0 server_time 85565
+May 11 01:12:00 :: AUTH_PHASE 0x288c3e00
+May 11 01:12:00 :: InputAuth::Login : jack(4) desc 0x288c3e00
+May 11 01:12:00 :: SetLoginKey 1464968540
+May 11 01:12:00 :: InputAuth::Login: key (1464968540) login (jack)
+May 11 01:12:00 :: QID_AUTH_LOGIN: START 1464968540 0x288c3e00
+May 11 01:12:00 :: Create_Time 1896971434 20300210
+May 11 01:12:00 :: Block Time -1 
+May 11 01:12:00 :: SetRemainSecs jack 0
+May 11 01:12:00 :: SendAuthLogin jack key 15
+May 11 01:12:00 :: AuthLogin result 1 key 1464968540
+May 11 01:12:01 :: SYSTEM: closing socket. DESC #16
+May 11 01:15:11 :: SIGHUP, SIGINT, SIGTERM signal has been received. shutting down.
+May 11 01:15:11 :: <shutdown> Starting...
+May 11 01:15:11 :: Queries 0
+May 11 01:15:11 :: <shutdown> Destroying CArenaManager...
+May 11 01:15:11 :: <shutdown> Destroying COXEventManager...
+May 11 01:15:11 :: <shutdown> Disabling signal timer...
+May 11 01:15:11 :: <shutdown> Shutting down CHARACTER_MANAGER...
+May 11 01:15:11 :: <shutdown> Shutting down ITEM_MANAGER...
+May 11 01:15:11 :: <shutdown> Flushing db_clientdesc...
+May 11 01:15:11 :: FLUSH START 46
+May 11 01:15:11 :: FLUSH SUCCESS
+May 11 01:15:11 :: <shutdown> Flushing p2p_manager...
+May 11 01:15:11 :: <shutdown> Destroying CShopManager...
+May 11 01:15:11 :: <shutdown> Destroying CHARACTER_MANAGER...
+May 11 01:15:11 :: <shutdown> Destroying ITEM_MANAGER...
+May 11 01:15:11 :: <shutdown> Destroying DESC_MANAGER...
+May 11 01:15:11 :: PARTY Disable
+May 11 01:15:11 :: SYSTEM: closing client socket. DESC #14
+May 11 01:15:11 :: <shutdown> Destroying quest::CQuestManager...
+May 11 01:15:11 :: <shutdown> Destroying building::CManager...
+May 11 01:15:11 :: <shutdown> Canceling ReloadSpamEvent...
+May 11 01:15:11 :: <shutdown> regen_free()...
+May 11 01:15:11 :: <shutdown> Closing sockets...
+May 11 01:15:11 :: <shutdown> fdwatch_delete()...
+May 11 01:15:11 :: <shutdown> event_destroy()...
+May 11 01:15:11 :: <shutdown> CTextFileLoader::DestroySystem()...
+May 11 01:15:11 :: <shutdown> thecore_destroy()...
+May 11 01:15:11 :: 
+End of pid
+
+May 11 01:16:09 :: 
+Start of pid: 36994
+
+May 11 01:16:09 :: SYSTEM: BINDING TCP PORT ON [30052] (fd 12)
+May 11 01:16:09 :: SYSTEM: BINDING TCP PORT ON [30053] (fd 13)
+May 11 01:16:09 :: SYSTEM: Trying to connect to localhost:30051
+May 11 01:16:09 :: SYSTEM: connected to server (fd 14, ptr 0x28975600)
+May 11 01:16:09 :: Initializing Guild
+May 11 01:16:09 :: 	No need for auth server
+May 11 01:16:09 :: FISH: ²Î                       vnum     0 prob 3000 3000 2100 2000 len 0 0 0
+May 11 01:16:09 :: FISH: ±Ý¹ÝÁö                   vnum 50002 prob   50   50  200  200 len 0 0 0
+May 11 01:16:09 :: FISH: ÇÇ¶ó¹Ì                   vnum 27802 prob 2000 1800  800 2200 len 500 550 600
+May 11 01:16:09 :: FISH: ºØ¾î                     vnum 27803 prob 1950 1600  800  700 len 1000 2500 2800
+May 11 01:16:09 :: FISH: ½î°¡¸®                   vnum 27804 prob  900  800  700  600 len 2000 3500 3800
+May 11 01:16:09 :: FISH: ¿ùÃ´ºØ¾î                 vnum 27805 prob  700  700  700  600 len 3030 3500 4300
+May 11 01:16:09 :: FISH: À×¾î                     vnum 27806 prob  200  300  600  800 len 4000 6000 10000
+May 11 01:16:09 :: FISH: ¿¬¾î                     vnum 27807 prob  200  200  500  600 len 6000 8000 10000
+May 11 01:16:09 :: FISH: Çâ¾î                     vnum 27808 prob  100  100  250  200 len 1500 3000 3800
+May 11 01:16:09 :: FISH: ¼Û¾î                     vnum 27809 prob  100  100  250  350 len 5000 7000 8000
+May 11 01:16:09 :: FISH: ¹Î¹°Àå¾î                 vnum 27810 prob    0  100  250  200 len 4000 5000 6000
+May 11 01:16:09 :: FISH: ¹«Áö°³¼Û¾î               vnum 27811 prob    0  100  250  150 len 5000 7000 8000
+May 11 01:16:09 :: FISH: °­¼Û¾î                   vnum 27812 prob    0  100  250  150 len 4000 6000 7000
+May 11 01:16:09 :: FISH: ·¯µå                     vnum 27813 prob    0  100  200  100 len 4000 6000 10000
+May 11 01:16:09 :: FISH: ÆÛÄ¡                     vnum 27814 prob    0  100  200  100 len 3000 4000 5000
+May 11 01:16:09 :: FISH: ÅÙÄ¡                     vnum 27815 prob    0   50  200  100 len 3500 5500 8000
+May 11 01:16:09 :: FISH: ¸Þ±â                     vnum 27816 prob   50   50  200  100 len 3000 5000 10000
+May 11 01:16:09 :: FISH: ¹Ì²Ù¶óÁö                 vnum 27817 prob    0    0    0    0 len 1800 2200 3000
+May 11 01:16:09 :: FISH: ¹é·Ã                     vnum 27818 prob   50   50  200  100 len 5000 8000 10000
+May 11 01:16:09 :: FISH: Àº¾î                     vnum 27819 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:16:09 :: FISH: ºù¾î                     vnum 27820 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:16:09 :: FISH: ½¬¸®                     vnum 27821 prob    0    0    0    0 len 1000 1500 2000
+May 11 01:16:09 :: FISH: ºñ´ÃÀ×¾î                 vnum 27822 prob    0    0    0    0 len 4000 6000 10000
+May 11 01:16:09 :: FISH: È²±ÝºØ¾î                 vnum 27823 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:16:09 :: FISH: "channidae"              vnum 27824 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:16:09 :: FISH: "skygazer"               vnum 27825 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:16:09 :: FISH: "granchio gigante"       vnum 27826 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:16:09 :: FISH: "granchio distruttore"   vnum 27827 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:16:09 :: FISH: Å»»ö¾à                   vnum 70201 prob  100  100    0    0 len 0 0 0
+May 11 01:16:09 :: FISH: ¿°»ö¾à(Èò»ö)             vnum 70202 prob   85   85    0    0 len 0 0 0
+May 11 01:16:09 :: FISH: ¿°»ö¾à(±Ý»ö)             vnum 70203 prob   85   85    0    0 len 0 0 0
+May 11 01:16:09 :: FISH: ¿°»ö¾à(»¡°£»ö)           vnum 70204 prob   85   85    0    0 len 0 0 0
+May 11 01:16:09 :: FISH: ¿°»ö¾à(°¥»ö)             vnum 70205 prob   85   85    0    0 len 0 0 0
+May 11 01:16:09 :: FISH: ¿°»ö¾à(°ËÀº»ö)           vnum 70206 prob   85   85    0    0 len 0 0 0
+May 11 01:16:09 :: FISH: ÀºµÐÀÚÀÇ ¸ÁÅä            vnum 70048 prob   25   25  200  100 len 0 0 0
+May 11 01:16:09 :: FISH: Çà¿îÀÇ ¹ÝÁö              vnum 70049 prob   25   25  200  100 len 0 0 0
+May 11 01:16:09 :: FISH: ¼±¿ÕÀÇ ÁõÇ¥              vnum 70050 prob   25   25  200  100 len 0 0 0
+May 11 01:16:09 :: FISH: prob table 0 9900
+May 11 01:16:09 :: FISH: prob table 1 9900
+May 11 01:16:09 :: FISH: prob table 2 9250
+May 11 01:16:09 :: FISH: prob table 3 9550
+May 11 01:16:09 :: Cube_Init locale/germany/cube.txt
+May 11 01:16:09 :: Blend_Item_init locale/germany/blend.txt 
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 0 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 300 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 800 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 1500 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2500 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 4300 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 7200 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 11000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 17000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 24000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 33001 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 43000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 58000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 76000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 100000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 130000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 169000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 219000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 283000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 365000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 472000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 610000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 705000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 813000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 937000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 1077000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 1237000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 1418000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 1624000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 1857000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2122000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2421000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2761000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 3145000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 3580000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 4073000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 4632000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 5194000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 5717000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 6264000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 6837000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 7600000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 8274000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 8990000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 9753000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 10560000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 11410000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 12320000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 13270000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 14280000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 15340000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 16870000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 18960000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 19980000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 21420000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 22930000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 24530000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 26200000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 27960000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 29800000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 32780000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 36060000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 39670000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 43640000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 48000000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 52800000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 58080000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 63890000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 70280000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 77310000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 85040000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 93540000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 102900000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 113200000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 124500000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 137000000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 150700000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 165700000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 236990000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 260650000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 286780000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 315380000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 346970000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 381680000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 419770000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 461760000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 508040000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 558740000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 614640000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 676130000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 743730000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 1041222000 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 1145344200 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 1259878620 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 1385866482 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 1524453130 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 1676898443 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 1844588288 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2029047116 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:09 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:16:13 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 3322936537 output input_len 0, ptr 0x288c3e00
+May 11 01:16:13 :: Handshake: client_time 0 server_time 4803
+May 11 01:16:13 :: AUTH_PHASE 0x288c3e00
+May 11 01:16:14 :: InputAuth::Login : jack(4) desc 0x288c3e00
+May 11 01:16:14 :: SetLoginKey 328177554
+May 11 01:16:14 :: InputAuth::Login: key (328177554) login (jack)
+May 11 01:16:14 :: QID_AUTH_LOGIN: START 328177554 0x288c3e00
+May 11 01:16:14 :: Create_Time 1896971434 20300210
+May 11 01:16:14 :: Block Time -1 
+May 11 01:16:14 :: SetRemainSecs jack 0
+May 11 01:16:14 :: SendAuthLogin jack key 15
+May 11 01:16:14 :: AuthLogin result 1 key 328177554
+May 11 01:16:14 :: SYSTEM: closing socket. DESC #16
+May 11 01:18:54 :: SIGHUP, SIGINT, SIGTERM signal has been received. shutting down.
+May 11 01:18:54 :: <shutdown> Starting...
+May 11 01:18:54 :: Queries 0
+May 11 01:18:54 :: <shutdown> Destroying CArenaManager...
+May 11 01:18:54 :: <shutdown> Destroying COXEventManager...
+May 11 01:18:54 :: <shutdown> Disabling signal timer...
+May 11 01:18:54 :: <shutdown> Shutting down CHARACTER_MANAGER...
+May 11 01:18:54 :: <shutdown> Shutting down ITEM_MANAGER...
+May 11 01:18:54 :: <shutdown> Flushing db_clientdesc...
+May 11 01:18:54 :: FLUSH START 46
+May 11 01:18:54 :: FLUSH SUCCESS
+May 11 01:18:54 :: <shutdown> Flushing p2p_manager...
+May 11 01:18:54 :: <shutdown> Destroying CShopManager...
+May 11 01:18:54 :: <shutdown> Destroying CHARACTER_MANAGER...
+May 11 01:18:54 :: <shutdown> Destroying ITEM_MANAGER...
+May 11 01:18:54 :: <shutdown> Destroying DESC_MANAGER...
+May 11 01:18:54 :: PARTY Disable
+May 11 01:18:54 :: SYSTEM: closing client socket. DESC #14
+May 11 01:18:54 :: <shutdown> Destroying quest::CQuestManager...
+May 11 01:18:54 :: <shutdown> Destroying building::CManager...
+May 11 01:18:54 :: <shutdown> Canceling ReloadSpamEvent...
+May 11 01:18:54 :: <shutdown> regen_free()...
+May 11 01:18:54 :: <shutdown> Closing sockets...
+May 11 01:18:54 :: <shutdown> fdwatch_delete()...
+May 11 01:18:54 :: <shutdown> event_destroy()...
+May 11 01:18:54 :: <shutdown> CTextFileLoader::DestroySystem()...
+May 11 01:18:54 :: <shutdown> thecore_destroy()...
+May 11 01:18:54 :: 
+End of pid
+
+May 11 01:20:26 :: 
+Start of pid: 37308
+
+May 11 01:20:26 :: SYSTEM: BINDING TCP PORT ON [30052] (fd 12)
+May 11 01:20:26 :: SYSTEM: BINDING TCP PORT ON [30053] (fd 13)
+May 11 01:20:26 :: SYSTEM: Trying to connect to localhost:30051
+May 11 01:20:26 :: SYSTEM: connected to server (fd 14, ptr 0x28975600)
+May 11 01:20:26 :: Initializing Guild
+May 11 01:20:26 :: 	No need for auth server
+May 11 01:20:26 :: FISH: ²Î                       vnum     0 prob 3000 3000 2100 2000 len 0 0 0
+May 11 01:20:26 :: FISH: ±Ý¹ÝÁö                   vnum 50002 prob   50   50  200  200 len 0 0 0
+May 11 01:20:26 :: FISH: ÇÇ¶ó¹Ì                   vnum 27802 prob 2000 1800  800 2200 len 500 550 600
+May 11 01:20:26 :: FISH: ºØ¾î                     vnum 27803 prob 1950 1600  800  700 len 1000 2500 2800
+May 11 01:20:26 :: FISH: ½î°¡¸®                   vnum 27804 prob  900  800  700  600 len 2000 3500 3800
+May 11 01:20:26 :: FISH: ¿ùÃ´ºØ¾î                 vnum 27805 prob  700  700  700  600 len 3030 3500 4300
+May 11 01:20:26 :: FISH: À×¾î                     vnum 27806 prob  200  300  600  800 len 4000 6000 10000
+May 11 01:20:26 :: FISH: ¿¬¾î                     vnum 27807 prob  200  200  500  600 len 6000 8000 10000
+May 11 01:20:26 :: FISH: Çâ¾î                     vnum 27808 prob  100  100  250  200 len 1500 3000 3800
+May 11 01:20:26 :: FISH: ¼Û¾î                     vnum 27809 prob  100  100  250  350 len 5000 7000 8000
+May 11 01:20:26 :: FISH: ¹Î¹°Àå¾î                 vnum 27810 prob    0  100  250  200 len 4000 5000 6000
+May 11 01:20:26 :: FISH: ¹«Áö°³¼Û¾î               vnum 27811 prob    0  100  250  150 len 5000 7000 8000
+May 11 01:20:26 :: FISH: °­¼Û¾î                   vnum 27812 prob    0  100  250  150 len 4000 6000 7000
+May 11 01:20:26 :: FISH: ·¯µå                     vnum 27813 prob    0  100  200  100 len 4000 6000 10000
+May 11 01:20:26 :: FISH: ÆÛÄ¡                     vnum 27814 prob    0  100  200  100 len 3000 4000 5000
+May 11 01:20:26 :: FISH: ÅÙÄ¡                     vnum 27815 prob    0   50  200  100 len 3500 5500 8000
+May 11 01:20:26 :: FISH: ¸Þ±â                     vnum 27816 prob   50   50  200  100 len 3000 5000 10000
+May 11 01:20:26 :: FISH: ¹Ì²Ù¶óÁö                 vnum 27817 prob    0    0    0    0 len 1800 2200 3000
+May 11 01:20:26 :: FISH: ¹é·Ã                     vnum 27818 prob   50   50  200  100 len 5000 8000 10000
+May 11 01:20:26 :: FISH: Àº¾î                     vnum 27819 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:20:26 :: FISH: ºù¾î                     vnum 27820 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:20:26 :: FISH: ½¬¸®                     vnum 27821 prob    0    0    0    0 len 1000 1500 2000
+May 11 01:20:26 :: FISH: ºñ´ÃÀ×¾î                 vnum 27822 prob    0    0    0    0 len 4000 6000 10000
+May 11 01:20:26 :: FISH: È²±ÝºØ¾î                 vnum 27823 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:20:26 :: FISH: "channidae"              vnum 27824 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:20:26 :: FISH: "skygazer"               vnum 27825 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:20:26 :: FISH: "granchio gigante"       vnum 27826 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:20:26 :: FISH: "granchio distruttore"   vnum 27827 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:20:26 :: FISH: Å»»ö¾à                   vnum 70201 prob  100  100    0    0 len 0 0 0
+May 11 01:20:26 :: FISH: ¿°»ö¾à(Èò»ö)             vnum 70202 prob   85   85    0    0 len 0 0 0
+May 11 01:20:26 :: FISH: ¿°»ö¾à(±Ý»ö)             vnum 70203 prob   85   85    0    0 len 0 0 0
+May 11 01:20:26 :: FISH: ¿°»ö¾à(»¡°£»ö)           vnum 70204 prob   85   85    0    0 len 0 0 0
+May 11 01:20:26 :: FISH: ¿°»ö¾à(°¥»ö)             vnum 70205 prob   85   85    0    0 len 0 0 0
+May 11 01:20:26 :: FISH: ¿°»ö¾à(°ËÀº»ö)           vnum 70206 prob   85   85    0    0 len 0 0 0
+May 11 01:20:26 :: FISH: ÀºµÐÀÚÀÇ ¸ÁÅä            vnum 70048 prob   25   25  200  100 len 0 0 0
+May 11 01:20:26 :: FISH: Çà¿îÀÇ ¹ÝÁö              vnum 70049 prob   25   25  200  100 len 0 0 0
+May 11 01:20:26 :: FISH: ¼±¿ÕÀÇ ÁõÇ¥              vnum 70050 prob   25   25  200  100 len 0 0 0
+May 11 01:20:26 :: FISH: prob table 0 9900
+May 11 01:20:26 :: FISH: prob table 1 9900
+May 11 01:20:26 :: FISH: prob table 2 9250
+May 11 01:20:26 :: FISH: prob table 3 9550
+May 11 01:20:26 :: Cube_Init locale/germany/cube.txt
+May 11 01:20:26 :: Blend_Item_init locale/germany/blend.txt 
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 0 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 300 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 800 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 1500 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2500 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 4300 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 7200 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 11000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 17000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 24000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 33001 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 43000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 58000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 76000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 100000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 130000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 169000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 219000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 283000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 365000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 472000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 610000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 705000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 813000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 937000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 1077000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 1237000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 1418000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 1624000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 1857000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2122000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2421000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2761000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 3145000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 3580000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 4073000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 4632000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 5194000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 5717000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 6264000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 6837000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 7600000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 8274000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 8990000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 9753000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 10560000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 11410000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 12320000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 13270000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 14280000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 15340000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 16870000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 18960000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 19980000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 21420000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 22930000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 24530000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 26200000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 27960000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 29800000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 32780000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 36060000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 39670000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 43640000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 48000000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 52800000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 58080000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 63890000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 70280000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 77310000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 85040000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 93540000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 102900000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 113200000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 124500000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 137000000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 150700000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 165700000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 236990000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 260650000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 286780000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 315380000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 346970000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 381680000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 419770000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 461760000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 508040000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 558740000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 614640000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 676130000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 743730000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 1041222000 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 1145344200 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 1259878620 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 1385866482 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 1524453130 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 1676898443 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 1844588288 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2029047116 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:20:26 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:21:15 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 401886386 output input_len 0, ptr 0x288c3e00
+May 11 01:21:15 :: Handshake: client_time 0 server_time 49375
+May 11 01:21:15 :: AUTH_PHASE 0x288c3e00
+May 11 01:21:15 :: InputAuth::Login : jack(4) desc 0x288c3e00
+May 11 01:21:15 :: SetLoginKey 1269513872
+May 11 01:21:15 :: InputAuth::Login: key (1269513872) login (jack)
+May 11 01:21:15 :: QID_AUTH_LOGIN: START 1269513872 0x288c3e00
+May 11 01:21:15 :: Create_Time 1896971434 20300210
+May 11 01:21:15 :: Block Time -1 
+May 11 01:21:15 :: SetRemainSecs jack 0
+May 11 01:21:15 :: SendAuthLogin jack key 15
+May 11 01:21:15 :: AuthLogin result 1 key 1269513872
+May 11 01:21:15 :: SYSTEM: closing socket. DESC #16
+May 11 01:22:57 :: SIGHUP, SIGINT, SIGTERM signal has been received. shutting down.
+May 11 01:22:57 :: <shutdown> Starting...
+May 11 01:22:57 :: Queries 0
+May 11 01:22:57 :: <shutdown> Destroying CArenaManager...
+May 11 01:22:57 :: <shutdown> Destroying COXEventManager...
+May 11 01:22:57 :: <shutdown> Disabling signal timer...
+May 11 01:22:57 :: <shutdown> Shutting down CHARACTER_MANAGER...
+May 11 01:22:57 :: <shutdown> Shutting down ITEM_MANAGER...
+May 11 01:22:57 :: <shutdown> Flushing db_clientdesc...
+May 11 01:22:57 :: FLUSH START 46
+May 11 01:22:57 :: FLUSH SUCCESS
+May 11 01:22:58 :: <shutdown> Flushing p2p_manager...
+May 11 01:22:58 :: <shutdown> Destroying CShopManager...
+May 11 01:22:58 :: <shutdown> Destroying CHARACTER_MANAGER...
+May 11 01:22:58 :: <shutdown> Destroying ITEM_MANAGER...
+May 11 01:22:58 :: <shutdown> Destroying DESC_MANAGER...
+May 11 01:22:58 :: PARTY Disable
+May 11 01:22:58 :: SYSTEM: closing client socket. DESC #14
+May 11 01:22:58 :: <shutdown> Destroying quest::CQuestManager...
+May 11 01:22:58 :: <shutdown> Destroying building::CManager...
+May 11 01:22:58 :: <shutdown> Canceling ReloadSpamEvent...
+May 11 01:22:58 :: <shutdown> regen_free()...
+May 11 01:22:58 :: <shutdown> Closing sockets...
+May 11 01:22:58 :: <shutdown> fdwatch_delete()...
+May 11 01:22:58 :: <shutdown> event_destroy()...
+May 11 01:22:58 :: <shutdown> CTextFileLoader::DestroySystem()...
+May 11 01:22:58 :: <shutdown> thecore_destroy()...
+May 11 01:22:58 :: 
+End of pid
+
+May 11 01:24:02 :: 
+Start of pid: 37647
+
+May 11 01:24:02 :: SYSTEM: BINDING TCP PORT ON [30052] (fd 12)
+May 11 01:24:02 :: SYSTEM: BINDING TCP PORT ON [30053] (fd 13)
+May 11 01:24:02 :: SYSTEM: Trying to connect to localhost:30051
+May 11 01:24:02 :: SYSTEM: connected to server (fd 14, ptr 0x28975600)
+May 11 01:24:02 :: Initializing Guild
+May 11 01:24:02 :: 	No need for auth server
+May 11 01:24:02 :: FISH: ²Î                       vnum     0 prob 3000 3000 2100 2000 len 0 0 0
+May 11 01:24:02 :: FISH: ±Ý¹ÝÁö                   vnum 50002 prob   50   50  200  200 len 0 0 0
+May 11 01:24:02 :: FISH: ÇÇ¶ó¹Ì                   vnum 27802 prob 2000 1800  800 2200 len 500 550 600
+May 11 01:24:02 :: FISH: ºØ¾î                     vnum 27803 prob 1950 1600  800  700 len 1000 2500 2800
+May 11 01:24:02 :: FISH: ½î°¡¸®                   vnum 27804 prob  900  800  700  600 len 2000 3500 3800
+May 11 01:24:02 :: FISH: ¿ùÃ´ºØ¾î                 vnum 27805 prob  700  700  700  600 len 3030 3500 4300
+May 11 01:24:02 :: FISH: À×¾î                     vnum 27806 prob  200  300  600  800 len 4000 6000 10000
+May 11 01:24:02 :: FISH: ¿¬¾î                     vnum 27807 prob  200  200  500  600 len 6000 8000 10000
+May 11 01:24:02 :: FISH: Çâ¾î                     vnum 27808 prob  100  100  250  200 len 1500 3000 3800
+May 11 01:24:02 :: FISH: ¼Û¾î                     vnum 27809 prob  100  100  250  350 len 5000 7000 8000
+May 11 01:24:02 :: FISH: ¹Î¹°Àå¾î                 vnum 27810 prob    0  100  250  200 len 4000 5000 6000
+May 11 01:24:02 :: FISH: ¹«Áö°³¼Û¾î               vnum 27811 prob    0  100  250  150 len 5000 7000 8000
+May 11 01:24:02 :: FISH: °­¼Û¾î                   vnum 27812 prob    0  100  250  150 len 4000 6000 7000
+May 11 01:24:02 :: FISH: ·¯µå                     vnum 27813 prob    0  100  200  100 len 4000 6000 10000
+May 11 01:24:02 :: FISH: ÆÛÄ¡                     vnum 27814 prob    0  100  200  100 len 3000 4000 5000
+May 11 01:24:02 :: FISH: ÅÙÄ¡                     vnum 27815 prob    0   50  200  100 len 3500 5500 8000
+May 11 01:24:02 :: FISH: ¸Þ±â                     vnum 27816 prob   50   50  200  100 len 3000 5000 10000
+May 11 01:24:02 :: FISH: ¹Ì²Ù¶óÁö                 vnum 27817 prob    0    0    0    0 len 1800 2200 3000
+May 11 01:24:02 :: FISH: ¹é·Ã                     vnum 27818 prob   50   50  200  100 len 5000 8000 10000
+May 11 01:24:02 :: FISH: Àº¾î                     vnum 27819 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:24:02 :: FISH: ºù¾î                     vnum 27820 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:24:02 :: FISH: ½¬¸®                     vnum 27821 prob    0    0    0    0 len 1000 1500 2000
+May 11 01:24:02 :: FISH: ºñ´ÃÀ×¾î                 vnum 27822 prob    0    0    0    0 len 4000 6000 10000
+May 11 01:24:02 :: FISH: È²±ÝºØ¾î                 vnum 27823 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:24:02 :: FISH: "channidae"              vnum 27824 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:24:02 :: FISH: "skygazer"               vnum 27825 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:24:02 :: FISH: "granchio gigante"       vnum 27826 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:24:02 :: FISH: "granchio distruttore"   vnum 27827 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:24:02 :: FISH: Å»»ö¾à                   vnum 70201 prob  100  100    0    0 len 0 0 0
+May 11 01:24:02 :: FISH: ¿°»ö¾à(Èò»ö)             vnum 70202 prob   85   85    0    0 len 0 0 0
+May 11 01:24:02 :: FISH: ¿°»ö¾à(±Ý»ö)             vnum 70203 prob   85   85    0    0 len 0 0 0
+May 11 01:24:02 :: FISH: ¿°»ö¾à(»¡°£»ö)           vnum 70204 prob   85   85    0    0 len 0 0 0
+May 11 01:24:02 :: FISH: ¿°»ö¾à(°¥»ö)             vnum 70205 prob   85   85    0    0 len 0 0 0
+May 11 01:24:02 :: FISH: ¿°»ö¾à(°ËÀº»ö)           vnum 70206 prob   85   85    0    0 len 0 0 0
+May 11 01:24:02 :: FISH: ÀºµÐÀÚÀÇ ¸ÁÅä            vnum 70048 prob   25   25  200  100 len 0 0 0
+May 11 01:24:02 :: FISH: Çà¿îÀÇ ¹ÝÁö              vnum 70049 prob   25   25  200  100 len 0 0 0
+May 11 01:24:02 :: FISH: ¼±¿ÕÀÇ ÁõÇ¥              vnum 70050 prob   25   25  200  100 len 0 0 0
+May 11 01:24:02 :: FISH: prob table 0 9900
+May 11 01:24:02 :: FISH: prob table 1 9900
+May 11 01:24:02 :: FISH: prob table 2 9250
+May 11 01:24:02 :: FISH: prob table 3 9550
+May 11 01:24:02 :: Cube_Init locale/germany/cube.txt
+May 11 01:24:02 :: Blend_Item_init locale/germany/blend.txt 
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 0 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 300 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 800 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 1500 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2500 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 4300 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 7200 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 11000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 17000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 24000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 33001 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 43000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 58000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 76000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 100000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 130000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 169000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 219000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 283000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 365000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 472000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 610000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 705000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 813000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 937000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 1077000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 1237000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 1418000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 1624000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 1857000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2122000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2421000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2761000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 3145000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 3580000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 4073000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 4632000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 5194000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 5717000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 6264000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 6837000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 7600000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 8274000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 8990000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 9753000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 10560000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 11410000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 12320000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 13270000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 14280000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 15340000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 16870000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 18960000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 19980000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 21420000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 22930000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 24530000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 26200000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 27960000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 29800000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 32780000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 36060000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 39670000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 43640000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 48000000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 52800000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 58080000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 63890000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 70280000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 77310000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 85040000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 93540000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 102900000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 113200000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 124500000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 137000000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 150700000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 165700000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 236990000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 260650000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 286780000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 315380000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 346970000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 381680000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 419770000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 461760000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 508040000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 558740000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 614640000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 676130000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 743730000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 1041222000 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 1145344200 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 1259878620 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 1385866482 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 1524453130 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 1676898443 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 1844588288 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2029047116 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:02 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:24:18 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 2309759765 output input_len 0, ptr 0x288c3e00
+May 11 01:24:18 :: Handshake: client_time 0 server_time 16510
+May 11 01:24:18 :: AUTH_PHASE 0x288c3e00
+May 11 01:24:18 :: InputAuth::Login : jack(4) desc 0x288c3e00
+May 11 01:24:18 :: SetLoginKey 748790679
+May 11 01:24:18 :: InputAuth::Login: key (748790679) login (jack)
+May 11 01:24:18 :: QID_AUTH_LOGIN: START 748790679 0x288c3e00
+May 11 01:24:18 :: Create_Time 1896971434 20300210
+May 11 01:24:18 :: Block Time -1 
+May 11 01:24:18 :: SetRemainSecs jack 0
+May 11 01:24:18 :: SendAuthLogin jack key 15
+May 11 01:24:18 :: AuthLogin result 1 key 748790679
+May 11 01:24:19 :: SYSTEM: closing socket. DESC #16
+May 11 01:24:33 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 1807016669 output input_len 0, ptr 0x288c3e00
+May 11 01:24:33 :: Handshake: client_time 0 server_time 31770
+May 11 01:24:33 :: AUTH_PHASE 0x288c3e00
+May 11 01:24:34 :: InputAuth::Login : jack(4) desc 0x288c3e00
+May 11 01:24:34 :: SetLoginKey 458873049
+May 11 01:24:34 :: InputAuth::Login: key (458873049) login (jack)
+May 11 01:24:34 :: QID_AUTH_LOGIN: START 458873049 0x288c3e00
+May 11 01:24:34 :: Create_Time 1896971434 20300210
+May 11 01:24:34 :: Block Time -1 
+May 11 01:24:34 :: SetRemainSecs jack 0
+May 11 01:24:34 :: SendAuthLogin jack key 15
+May 11 01:24:34 :: AuthLogin result 1 key 458873049
+May 11 01:24:34 :: SYSTEM: closing socket. DESC #16
+May 11 01:29:43 :: SIGHUP, SIGINT, SIGTERM signal has been received. shutting down.
+May 11 01:29:43 :: <shutdown> Starting...
+May 11 01:29:43 :: Queries 0
+May 11 01:29:43 :: <shutdown> Destroying CArenaManager...
+May 11 01:29:43 :: <shutdown> Destroying COXEventManager...
+May 11 01:29:43 :: <shutdown> Disabling signal timer...
+May 11 01:29:43 :: <shutdown> Shutting down CHARACTER_MANAGER...
+May 11 01:29:43 :: <shutdown> Shutting down ITEM_MANAGER...
+May 11 01:29:43 :: <shutdown> Flushing db_clientdesc...
+May 11 01:29:43 :: FLUSH START 46
+May 11 01:29:43 :: FLUSH SUCCESS
+May 11 01:29:43 :: <shutdown> Flushing p2p_manager...
+May 11 01:29:43 :: <shutdown> Destroying CShopManager...
+May 11 01:29:43 :: <shutdown> Destroying CHARACTER_MANAGER...
+May 11 01:29:43 :: <shutdown> Destroying ITEM_MANAGER...
+May 11 01:29:43 :: <shutdown> Destroying DESC_MANAGER...
+May 11 01:29:43 :: PARTY Disable
+May 11 01:29:43 :: SYSTEM: closing client socket. DESC #14
+May 11 01:29:43 :: <shutdown> Destroying quest::CQuestManager...
+May 11 01:29:43 :: <shutdown> Destroying building::CManager...
+May 11 01:29:43 :: <shutdown> Canceling ReloadSpamEvent...
+May 11 01:29:43 :: <shutdown> regen_free()...
+May 11 01:29:43 :: <shutdown> Closing sockets...
+May 11 01:29:43 :: <shutdown> fdwatch_delete()...
+May 11 01:29:43 :: <shutdown> event_destroy()...
+May 11 01:29:43 :: <shutdown> CTextFileLoader::DestroySystem()...
+May 11 01:29:43 :: <shutdown> thecore_destroy()...
+May 11 01:29:43 :: 
+End of pid
+
+May 11 01:30:46 :: 
+Start of pid: 37976
+
+May 11 01:30:46 :: SYSTEM: BINDING TCP PORT ON [30052] (fd 12)
+May 11 01:30:46 :: SYSTEM: BINDING TCP PORT ON [30053] (fd 13)
+May 11 01:30:46 :: SYSTEM: Trying to connect to localhost:30051
+May 11 01:30:46 :: SYSTEM: connected to server (fd 14, ptr 0x28975600)
+May 11 01:30:46 :: Initializing Guild
+May 11 01:30:46 :: 	No need for auth server
+May 11 01:30:46 :: FISH: ²Î                       vnum     0 prob 3000 3000 2100 2000 len 0 0 0
+May 11 01:30:46 :: FISH: ±Ý¹ÝÁö                   vnum 50002 prob   50   50  200  200 len 0 0 0
+May 11 01:30:46 :: FISH: ÇÇ¶ó¹Ì                   vnum 27802 prob 2000 1800  800 2200 len 500 550 600
+May 11 01:30:46 :: FISH: ºØ¾î                     vnum 27803 prob 1950 1600  800  700 len 1000 2500 2800
+May 11 01:30:46 :: FISH: ½î°¡¸®                   vnum 27804 prob  900  800  700  600 len 2000 3500 3800
+May 11 01:30:46 :: FISH: ¿ùÃ´ºØ¾î                 vnum 27805 prob  700  700  700  600 len 3030 3500 4300
+May 11 01:30:46 :: FISH: À×¾î                     vnum 27806 prob  200  300  600  800 len 4000 6000 10000
+May 11 01:30:46 :: FISH: ¿¬¾î                     vnum 27807 prob  200  200  500  600 len 6000 8000 10000
+May 11 01:30:46 :: FISH: Çâ¾î                     vnum 27808 prob  100  100  250  200 len 1500 3000 3800
+May 11 01:30:46 :: FISH: ¼Û¾î                     vnum 27809 prob  100  100  250  350 len 5000 7000 8000
+May 11 01:30:46 :: FISH: ¹Î¹°Àå¾î                 vnum 27810 prob    0  100  250  200 len 4000 5000 6000
+May 11 01:30:46 :: FISH: ¹«Áö°³¼Û¾î               vnum 27811 prob    0  100  250  150 len 5000 7000 8000
+May 11 01:30:46 :: FISH: °­¼Û¾î                   vnum 27812 prob    0  100  250  150 len 4000 6000 7000
+May 11 01:30:46 :: FISH: ·¯µå                     vnum 27813 prob    0  100  200  100 len 4000 6000 10000
+May 11 01:30:46 :: FISH: ÆÛÄ¡                     vnum 27814 prob    0  100  200  100 len 3000 4000 5000
+May 11 01:30:46 :: FISH: ÅÙÄ¡                     vnum 27815 prob    0   50  200  100 len 3500 5500 8000
+May 11 01:30:46 :: FISH: ¸Þ±â                     vnum 27816 prob   50   50  200  100 len 3000 5000 10000
+May 11 01:30:46 :: FISH: ¹Ì²Ù¶óÁö                 vnum 27817 prob    0    0    0    0 len 1800 2200 3000
+May 11 01:30:46 :: FISH: ¹é·Ã                     vnum 27818 prob   50   50  200  100 len 5000 8000 10000
+May 11 01:30:46 :: FISH: Àº¾î                     vnum 27819 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:30:46 :: FISH: ºù¾î                     vnum 27820 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:30:46 :: FISH: ½¬¸®                     vnum 27821 prob    0    0    0    0 len 1000 1500 2000
+May 11 01:30:46 :: FISH: ºñ´ÃÀ×¾î                 vnum 27822 prob    0    0    0    0 len 4000 6000 10000
+May 11 01:30:46 :: FISH: È²±ÝºØ¾î                 vnum 27823 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:30:46 :: FISH: "channidae"              vnum 27824 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:30:46 :: FISH: "skygazer"               vnum 27825 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:30:46 :: FISH: "granchio gigante"       vnum 27826 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:30:46 :: FISH: "granchio distruttore"   vnum 27827 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:30:46 :: FISH: Å»»ö¾à                   vnum 70201 prob  100  100    0    0 len 0 0 0
+May 11 01:30:46 :: FISH: ¿°»ö¾à(Èò»ö)             vnum 70202 prob   85   85    0    0 len 0 0 0
+May 11 01:30:46 :: FISH: ¿°»ö¾à(±Ý»ö)             vnum 70203 prob   85   85    0    0 len 0 0 0
+May 11 01:30:46 :: FISH: ¿°»ö¾à(»¡°£»ö)           vnum 70204 prob   85   85    0    0 len 0 0 0
+May 11 01:30:46 :: FISH: ¿°»ö¾à(°¥»ö)             vnum 70205 prob   85   85    0    0 len 0 0 0
+May 11 01:30:46 :: FISH: ¿°»ö¾à(°ËÀº»ö)           vnum 70206 prob   85   85    0    0 len 0 0 0
+May 11 01:30:46 :: FISH: ÀºµÐÀÚÀÇ ¸ÁÅä            vnum 70048 prob   25   25  200  100 len 0 0 0
+May 11 01:30:46 :: FISH: Çà¿îÀÇ ¹ÝÁö              vnum 70049 prob   25   25  200  100 len 0 0 0
+May 11 01:30:46 :: FISH: ¼±¿ÕÀÇ ÁõÇ¥              vnum 70050 prob   25   25  200  100 len 0 0 0
+May 11 01:30:46 :: FISH: prob table 0 9900
+May 11 01:30:46 :: FISH: prob table 1 9900
+May 11 01:30:46 :: FISH: prob table 2 9250
+May 11 01:30:46 :: FISH: prob table 3 9550
+May 11 01:30:46 :: Cube_Init locale/germany/cube.txt
+May 11 01:30:46 :: Blend_Item_init locale/germany/blend.txt 
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 0 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 300 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 800 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 1500 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2500 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 4300 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 7200 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 11000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 17000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 24000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 33001 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 43000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 58000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 76000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 100000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 130000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 169000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 219000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 283000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 365000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 472000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 610000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 705000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 813000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 937000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 1077000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 1237000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 1418000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 1624000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 1857000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2122000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2421000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2761000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 3145000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 3580000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 4073000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 4632000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 5194000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 5717000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 6264000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 6837000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 7600000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 8274000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 8990000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 9753000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 10560000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 11410000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 12320000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 13270000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 14280000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 15340000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 16870000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 18960000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 19980000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 21420000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 22930000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 24530000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 26200000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 27960000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 29800000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 32780000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 36060000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 39670000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 43640000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 48000000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 52800000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 58080000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 63890000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 70280000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 77310000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 85040000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 93540000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 102900000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 113200000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 124500000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 137000000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 150700000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 165700000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 236990000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 260650000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 286780000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 315380000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 346970000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 381680000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 419770000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 461760000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 508040000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 558740000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 614640000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 676130000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 743730000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 1041222000 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 1145344200 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 1259878620 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 1385866482 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 1524453130 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 1676898443 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 1844588288 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2029047116 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:30:46 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:31:04 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 1027754466 output input_len 0, ptr 0x288c3e00
+May 11 01:31:05 :: Handshake: client_time 0 server_time 19083
+May 11 01:31:05 :: AUTH_PHASE 0x288c3e00
+May 11 01:31:05 :: InputAuth::Login : jack(4) desc 0x288c3e00
+May 11 01:31:05 :: SetLoginKey 1464882408
+May 11 01:31:05 :: InputAuth::Login: key (1464882408) login (jack)
+May 11 01:31:05 :: QID_AUTH_LOGIN: START 1464882408 0x288c3e00
+May 11 01:31:05 :: Create_Time 1896971434 20300210
+May 11 01:31:05 :: Block Time -1 
+May 11 01:31:05 :: SetRemainSecs jack 0
+May 11 01:31:05 :: SendAuthLogin jack key 15
+May 11 01:31:05 :: AuthLogin result 1 key 1464882408
+May 11 01:31:05 :: SYSTEM: closing socket. DESC #16
+May 11 01:34:34 :: SIGHUP, SIGINT, SIGTERM signal has been received. shutting down.
+May 11 01:34:34 :: <shutdown> Starting...
+May 11 01:34:34 :: Queries 0
+May 11 01:34:34 :: <shutdown> Destroying CArenaManager...
+May 11 01:34:34 :: <shutdown> Destroying COXEventManager...
+May 11 01:34:34 :: <shutdown> Disabling signal timer...
+May 11 01:34:34 :: <shutdown> Shutting down CHARACTER_MANAGER...
+May 11 01:34:34 :: <shutdown> Shutting down ITEM_MANAGER...
+May 11 01:34:34 :: <shutdown> Flushing db_clientdesc...
+May 11 01:34:34 :: FLUSH START 46
+May 11 01:34:34 :: FLUSH SUCCESS
+May 11 01:34:34 :: <shutdown> Flushing p2p_manager...
+May 11 01:34:34 :: <shutdown> Destroying CShopManager...
+May 11 01:34:34 :: <shutdown> Destroying CHARACTER_MANAGER...
+May 11 01:34:34 :: <shutdown> Destroying ITEM_MANAGER...
+May 11 01:34:34 :: <shutdown> Destroying DESC_MANAGER...
+May 11 01:34:34 :: PARTY Disable
+May 11 01:34:34 :: SYSTEM: closing client socket. DESC #14
+May 11 01:34:34 :: <shutdown> Destroying quest::CQuestManager...
+May 11 01:34:34 :: <shutdown> Destroying building::CManager...
+May 11 01:34:34 :: <shutdown> Canceling ReloadSpamEvent...
+May 11 01:34:34 :: <shutdown> regen_free()...
+May 11 01:34:34 :: <shutdown> Closing sockets...
+May 11 01:34:34 :: <shutdown> fdwatch_delete()...
+May 11 01:34:34 :: <shutdown> event_destroy()...
+May 11 01:34:34 :: <shutdown> CTextFileLoader::DestroySystem()...
+May 11 01:34:34 :: <shutdown> thecore_destroy()...
+May 11 01:34:34 :: 
+End of pid
+
+May 11 01:35:45 :: 
+Start of pid: 38310
+
+May 11 01:35:45 :: SYSTEM: BINDING TCP PORT ON [30052] (fd 12)
+May 11 01:35:45 :: SYSTEM: BINDING TCP PORT ON [30053] (fd 13)
+May 11 01:35:45 :: SYSTEM: Trying to connect to localhost:30051
+May 11 01:35:45 :: SYSTEM: connected to server (fd 14, ptr 0x28975600)
+May 11 01:35:45 :: Initializing Guild
+May 11 01:35:45 :: 	No need for auth server
+May 11 01:35:45 :: FISH: ²Î                       vnum     0 prob 3000 3000 2100 2000 len 0 0 0
+May 11 01:35:45 :: FISH: ±Ý¹ÝÁö                   vnum 50002 prob   50   50  200  200 len 0 0 0
+May 11 01:35:45 :: FISH: ÇÇ¶ó¹Ì                   vnum 27802 prob 2000 1800  800 2200 len 500 550 600
+May 11 01:35:45 :: FISH: ºØ¾î                     vnum 27803 prob 1950 1600  800  700 len 1000 2500 2800
+May 11 01:35:45 :: FISH: ½î°¡¸®                   vnum 27804 prob  900  800  700  600 len 2000 3500 3800
+May 11 01:35:45 :: FISH: ¿ùÃ´ºØ¾î                 vnum 27805 prob  700  700  700  600 len 3030 3500 4300
+May 11 01:35:45 :: FISH: À×¾î                     vnum 27806 prob  200  300  600  800 len 4000 6000 10000
+May 11 01:35:45 :: FISH: ¿¬¾î                     vnum 27807 prob  200  200  500  600 len 6000 8000 10000
+May 11 01:35:45 :: FISH: Çâ¾î                     vnum 27808 prob  100  100  250  200 len 1500 3000 3800
+May 11 01:35:45 :: FISH: ¼Û¾î                     vnum 27809 prob  100  100  250  350 len 5000 7000 8000
+May 11 01:35:45 :: FISH: ¹Î¹°Àå¾î                 vnum 27810 prob    0  100  250  200 len 4000 5000 6000
+May 11 01:35:45 :: FISH: ¹«Áö°³¼Û¾î               vnum 27811 prob    0  100  250  150 len 5000 7000 8000
+May 11 01:35:45 :: FISH: °­¼Û¾î                   vnum 27812 prob    0  100  250  150 len 4000 6000 7000
+May 11 01:35:45 :: FISH: ·¯µå                     vnum 27813 prob    0  100  200  100 len 4000 6000 10000
+May 11 01:35:45 :: FISH: ÆÛÄ¡                     vnum 27814 prob    0  100  200  100 len 3000 4000 5000
+May 11 01:35:45 :: FISH: ÅÙÄ¡                     vnum 27815 prob    0   50  200  100 len 3500 5500 8000
+May 11 01:35:45 :: FISH: ¸Þ±â                     vnum 27816 prob   50   50  200  100 len 3000 5000 10000
+May 11 01:35:45 :: FISH: ¹Ì²Ù¶óÁö                 vnum 27817 prob    0    0    0    0 len 1800 2200 3000
+May 11 01:35:45 :: FISH: ¹é·Ã                     vnum 27818 prob   50   50  200  100 len 5000 8000 10000
+May 11 01:35:45 :: FISH: Àº¾î                     vnum 27819 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:35:45 :: FISH: ºù¾î                     vnum 27820 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:35:45 :: FISH: ½¬¸®                     vnum 27821 prob    0    0    0    0 len 1000 1500 2000
+May 11 01:35:45 :: FISH: ºñ´ÃÀ×¾î                 vnum 27822 prob    0    0    0    0 len 4000 6000 10000
+May 11 01:35:45 :: FISH: È²±ÝºØ¾î                 vnum 27823 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:35:45 :: FISH: "channidae"              vnum 27824 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:35:45 :: FISH: "skygazer"               vnum 27825 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:35:45 :: FISH: "granchio gigante"       vnum 27826 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:35:45 :: FISH: "granchio distruttore"   vnum 27827 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:35:45 :: FISH: Å»»ö¾à                   vnum 70201 prob  100  100    0    0 len 0 0 0
+May 11 01:35:45 :: FISH: ¿°»ö¾à(Èò»ö)             vnum 70202 prob   85   85    0    0 len 0 0 0
+May 11 01:35:45 :: FISH: ¿°»ö¾à(±Ý»ö)             vnum 70203 prob   85   85    0    0 len 0 0 0
+May 11 01:35:45 :: FISH: ¿°»ö¾à(»¡°£»ö)           vnum 70204 prob   85   85    0    0 len 0 0 0
+May 11 01:35:45 :: FISH: ¿°»ö¾à(°¥»ö)             vnum 70205 prob   85   85    0    0 len 0 0 0
+May 11 01:35:45 :: FISH: ¿°»ö¾à(°ËÀº»ö)           vnum 70206 prob   85   85    0    0 len 0 0 0
+May 11 01:35:45 :: FISH: ÀºµÐÀÚÀÇ ¸ÁÅä            vnum 70048 prob   25   25  200  100 len 0 0 0
+May 11 01:35:45 :: FISH: Çà¿îÀÇ ¹ÝÁö              vnum 70049 prob   25   25  200  100 len 0 0 0
+May 11 01:35:45 :: FISH: ¼±¿ÕÀÇ ÁõÇ¥              vnum 70050 prob   25   25  200  100 len 0 0 0
+May 11 01:35:45 :: FISH: prob table 0 9900
+May 11 01:35:45 :: FISH: prob table 1 9900
+May 11 01:35:45 :: FISH: prob table 2 9250
+May 11 01:35:45 :: FISH: prob table 3 9550
+May 11 01:35:45 :: Cube_Init locale/germany/cube.txt
+May 11 01:35:45 :: Blend_Item_init locale/germany/blend.txt 
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 0 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 300 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 800 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 1500 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2500 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 4300 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 7200 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 11000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 17000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 24000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 33001 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 43000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 58000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 76000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 100000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 130000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 169000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 219000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 283000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 365000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 472000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 610000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 705000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 813000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 937000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 1077000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 1237000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 1418000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 1624000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 1857000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2122000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2421000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2761000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 3145000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 3580000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 4073000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 4632000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 5194000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 5717000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 6264000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 6837000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 7600000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 8274000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 8990000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 9753000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 10560000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 11410000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 12320000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 13270000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 14280000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 15340000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 16870000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 18960000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 19980000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 21420000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 22930000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 24530000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 26200000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 27960000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 29800000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 32780000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 36060000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 39670000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 43640000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 48000000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 52800000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 58080000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 63890000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 70280000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 77310000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 85040000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 93540000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 102900000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 113200000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 124500000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 137000000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 150700000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 165700000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 236990000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 260650000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 286780000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 315380000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 346970000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 381680000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 419770000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 461760000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 508040000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 558740000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 614640000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 676130000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 743730000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 1041222000 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 1145344200 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 1259878620 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 1385866482 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 1524453130 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 1676898443 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 1844588288 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2029047116 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:35:45 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:36:10 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 704214203 output input_len 0, ptr 0x288c3e00
+May 11 01:36:10 :: Handshake: client_time 0 server_time 25847
+May 11 01:36:10 :: AUTH_PHASE 0x288c3e00
+May 11 01:36:11 :: InputAuth::Login : jack(4) desc 0x288c3e00
+May 11 01:36:11 :: SetLoginKey 669876966
+May 11 01:36:11 :: InputAuth::Login: key (669876966) login (jack)
+May 11 01:36:11 :: QID_AUTH_LOGIN: START 669876966 0x288c3e00
+May 11 01:36:11 :: Create_Time 1896971434 20300210
+May 11 01:36:11 :: Block Time -1 
+May 11 01:36:11 :: SetRemainSecs jack 0
+May 11 01:36:11 :: SendAuthLogin jack key 15
+May 11 01:36:11 :: AuthLogin result 1 key 669876966
+May 11 01:36:11 :: SYSTEM: closing socket. DESC #16
+May 11 01:36:55 :: SIGHUP, SIGINT, SIGTERM signal has been received. shutting down.
+May 11 01:36:55 :: <shutdown> Starting...
+May 11 01:36:55 :: Queries 0
+May 11 01:36:55 :: <shutdown> Destroying CArenaManager...
+May 11 01:36:55 :: <shutdown> Destroying COXEventManager...
+May 11 01:36:55 :: <shutdown> Disabling signal timer...
+May 11 01:36:55 :: <shutdown> Shutting down CHARACTER_MANAGER...
+May 11 01:36:55 :: <shutdown> Shutting down ITEM_MANAGER...
+May 11 01:36:55 :: <shutdown> Flushing db_clientdesc...
+May 11 01:36:55 :: FLUSH START 46
+May 11 01:36:55 :: FLUSH SUCCESS
+May 11 01:36:55 :: <shutdown> Flushing p2p_manager...
+May 11 01:36:55 :: <shutdown> Destroying CShopManager...
+May 11 01:36:55 :: <shutdown> Destroying CHARACTER_MANAGER...
+May 11 01:36:55 :: <shutdown> Destroying ITEM_MANAGER...
+May 11 01:36:55 :: <shutdown> Destroying DESC_MANAGER...
+May 11 01:36:55 :: PARTY Disable
+May 11 01:36:55 :: SYSTEM: closing client socket. DESC #14
+May 11 01:36:55 :: <shutdown> Destroying quest::CQuestManager...
+May 11 01:36:55 :: <shutdown> Destroying building::CManager...
+May 11 01:36:55 :: <shutdown> Canceling ReloadSpamEvent...
+May 11 01:36:55 :: <shutdown> regen_free()...
+May 11 01:36:55 :: <shutdown> Closing sockets...
+May 11 01:36:55 :: <shutdown> fdwatch_delete()...
+May 11 01:36:55 :: <shutdown> event_destroy()...
+May 11 01:36:55 :: <shutdown> CTextFileLoader::DestroySystem()...
+May 11 01:36:55 :: <shutdown> thecore_destroy()...
+May 11 01:36:55 :: 
+End of pid
+
+May 11 01:38:16 :: 
+Start of pid: 38632
+
+May 11 01:38:16 :: SYSTEM: BINDING TCP PORT ON [30052] (fd 12)
+May 11 01:38:16 :: SYSTEM: BINDING TCP PORT ON [30053] (fd 13)
+May 11 01:38:16 :: SYSTEM: Trying to connect to localhost:30051
+May 11 01:38:16 :: SYSTEM: connected to server (fd 14, ptr 0x28975600)
+May 11 01:38:16 :: Initializing Guild
+May 11 01:38:16 :: 	No need for auth server
+May 11 01:38:16 :: FISH: ²Î                       vnum     0 prob 3000 3000 2100 2000 len 0 0 0
+May 11 01:38:16 :: FISH: ±Ý¹ÝÁö                   vnum 50002 prob   50   50  200  200 len 0 0 0
+May 11 01:38:16 :: FISH: ÇÇ¶ó¹Ì                   vnum 27802 prob 2000 1800  800 2200 len 500 550 600
+May 11 01:38:16 :: FISH: ºØ¾î                     vnum 27803 prob 1950 1600  800  700 len 1000 2500 2800
+May 11 01:38:16 :: FISH: ½î°¡¸®                   vnum 27804 prob  900  800  700  600 len 2000 3500 3800
+May 11 01:38:16 :: FISH: ¿ùÃ´ºØ¾î                 vnum 27805 prob  700  700  700  600 len 3030 3500 4300
+May 11 01:38:16 :: FISH: À×¾î                     vnum 27806 prob  200  300  600  800 len 4000 6000 10000
+May 11 01:38:16 :: FISH: ¿¬¾î                     vnum 27807 prob  200  200  500  600 len 6000 8000 10000
+May 11 01:38:16 :: FISH: Çâ¾î                     vnum 27808 prob  100  100  250  200 len 1500 3000 3800
+May 11 01:38:16 :: FISH: ¼Û¾î                     vnum 27809 prob  100  100  250  350 len 5000 7000 8000
+May 11 01:38:16 :: FISH: ¹Î¹°Àå¾î                 vnum 27810 prob    0  100  250  200 len 4000 5000 6000
+May 11 01:38:16 :: FISH: ¹«Áö°³¼Û¾î               vnum 27811 prob    0  100  250  150 len 5000 7000 8000
+May 11 01:38:16 :: FISH: °­¼Û¾î                   vnum 27812 prob    0  100  250  150 len 4000 6000 7000
+May 11 01:38:16 :: FISH: ·¯µå                     vnum 27813 prob    0  100  200  100 len 4000 6000 10000
+May 11 01:38:16 :: FISH: ÆÛÄ¡                     vnum 27814 prob    0  100  200  100 len 3000 4000 5000
+May 11 01:38:16 :: FISH: ÅÙÄ¡                     vnum 27815 prob    0   50  200  100 len 3500 5500 8000
+May 11 01:38:16 :: FISH: ¸Þ±â                     vnum 27816 prob   50   50  200  100 len 3000 5000 10000
+May 11 01:38:16 :: FISH: ¹Ì²Ù¶óÁö                 vnum 27817 prob    0    0    0    0 len 1800 2200 3000
+May 11 01:38:16 :: FISH: ¹é·Ã                     vnum 27818 prob   50   50  200  100 len 5000 8000 10000
+May 11 01:38:16 :: FISH: Àº¾î                     vnum 27819 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:38:16 :: FISH: ºù¾î                     vnum 27820 prob    0    0    0    0 len 1500 3000 3800
+May 11 01:38:16 :: FISH: ½¬¸®                     vnum 27821 prob    0    0    0    0 len 1000 1500 2000
+May 11 01:38:16 :: FISH: ºñ´ÃÀ×¾î                 vnum 27822 prob    0    0    0    0 len 4000 6000 10000
+May 11 01:38:16 :: FISH: È²±ÝºØ¾î                 vnum 27823 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:38:16 :: FISH: "channidae"              vnum 27824 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:38:16 :: FISH: "skygazer"               vnum 27825 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:38:16 :: FISH: "granchio gigante"       vnum 27826 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:38:16 :: FISH: "granchio distruttore"   vnum 27827 prob    0    0    0    0 len 1000 3000 3500
+May 11 01:38:16 :: FISH: Å»»ö¾à                   vnum 70201 prob  100  100    0    0 len 0 0 0
+May 11 01:38:16 :: FISH: ¿°»ö¾à(Èò»ö)             vnum 70202 prob   85   85    0    0 len 0 0 0
+May 11 01:38:16 :: FISH: ¿°»ö¾à(±Ý»ö)             vnum 70203 prob   85   85    0    0 len 0 0 0
+May 11 01:38:16 :: FISH: ¿°»ö¾à(»¡°£»ö)           vnum 70204 prob   85   85    0    0 len 0 0 0
+May 11 01:38:16 :: FISH: ¿°»ö¾à(°¥»ö)             vnum 70205 prob   85   85    0    0 len 0 0 0
+May 11 01:38:16 :: FISH: ¿°»ö¾à(°ËÀº»ö)           vnum 70206 prob   85   85    0    0 len 0 0 0
+May 11 01:38:16 :: FISH: ÀºµÐÀÚÀÇ ¸ÁÅä            vnum 70048 prob   25   25  200  100 len 0 0 0
+May 11 01:38:16 :: FISH: Çà¿îÀÇ ¹ÝÁö              vnum 70049 prob   25   25  200  100 len 0 0 0
+May 11 01:38:16 :: FISH: ¼±¿ÕÀÇ ÁõÇ¥              vnum 70050 prob   25   25  200  100 len 0 0 0
+May 11 01:38:16 :: FISH: prob table 0 9900
+May 11 01:38:16 :: FISH: prob table 1 9900
+May 11 01:38:16 :: FISH: prob table 2 9250
+May 11 01:38:16 :: FISH: prob table 3 9550
+May 11 01:38:16 :: Cube_Init locale/germany/cube.txt
+May 11 01:38:16 :: Blend_Item_init locale/germany/blend.txt 
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 0 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 300 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 800 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 1500 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2500 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 4300 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 7200 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 11000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 17000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 24000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 33001 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 43000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 58000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 76000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 100000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 130000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 169000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 219000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 283000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 365000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 472000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 610000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 705000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 813000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 937000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 1077000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 1237000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 1418000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 1624000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 1857000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2122000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2421000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2761000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 3145000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 3580000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 4073000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 4632000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 5194000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 5717000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 6264000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 6837000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 7600000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 8274000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 8990000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 9753000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 10560000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 11410000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 12320000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 13270000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 14280000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 15340000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 16870000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 18960000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 19980000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 21420000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 22930000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 24530000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 26200000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 27960000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 29800000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 32780000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 36060000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 39670000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 43640000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 48000000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 52800000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 58080000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 63890000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 70280000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 77310000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 85040000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 93540000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 102900000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 113200000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 124500000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 137000000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 150700000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 165700000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 236990000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 260650000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 286780000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 315380000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 346970000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 381680000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 419770000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 461760000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 508040000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 558740000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 614640000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 676130000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 743730000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 1041222000 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 1145344200 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 1259878620 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 1385866482 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 1524453130 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 1676898443 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 1844588288 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2029047116 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:16 :: Livelli Pet caricati da exppettable.txt: 2147483646 !
+May 11 01:38:23 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 2834085737 output input_len 0, ptr 0x288c3e00
+May 11 01:38:24 :: Handshake: client_time 0 server_time 8063
+May 11 01:38:24 :: AUTH_PHASE 0x288c3e00
+May 11 01:38:24 :: InputAuth::Login : jack(4) desc 0x288c3e00
+May 11 01:38:24 :: SetLoginKey 1326280034
+May 11 01:38:24 :: InputAuth::Login: key (1326280034) login (jack)
+May 11 01:38:24 :: QID_AUTH_LOGIN: START 1326280034 0x288c3e00
+May 11 01:38:24 :: Create_Time 1896971434 20300210
+May 11 01:38:24 :: Block Time -1 
+May 11 01:38:24 :: SetRemainSecs jack 0
+May 11 01:38:24 :: SendAuthLogin jack key 15
+May 11 01:38:24 :: AuthLogin result 1 key 1326280034
+May 11 01:38:24 :: SYSTEM: closing socket. DESC #16
+May 11 02:00:00 :: SYSTEM: LOG ROTATE (2024-05-11 1)

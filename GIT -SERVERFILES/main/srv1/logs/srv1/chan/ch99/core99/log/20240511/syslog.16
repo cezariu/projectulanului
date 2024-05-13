@@ -1,0 +1,149 @@
+May 11 16:36:19 :: SYSTEM: new connection from [93.115.44.219] fd: 20 handshake 1304095198 output input_len 0, ptr 0x2bb21c00
+May 11 16:36:19 :: P2P: Logout [DEV]Cezariu
+May 11 16:36:19 :: Handshake: client_time 0 server_time 6155878
+May 11 16:36:20 :: LOGIN_BY_KEY: jack key 79664330
+May 11 16:36:20 :: LoginSuccess
+May 11 16:36:20 :: 	player([DEV]Cezariu).job(0)
+May 11 16:36:20 :: 	player(Test).job(5)
+May 11 16:36:20 :: 	player(Shaorma).job(2)
+May 11 16:36:20 :: 	player(Militari).job(0)
+May 11 16:36:20 :: 	player(redas).job(0)
+May 11 16:36:20 :: success to 81.180.202.36:30070
+May 11 16:36:20 :: success to 81.180.202.36:30070
+May 11 16:36:20 :: success to 81.180.202.36:30070
+May 11 16:36:20 :: success to 81.180.202.36:30070
+May 11 16:36:20 :: success to 81.180.202.36:30054
+May 11 16:36:20 :: InputDB::login_success: jack
+May 11 16:36:20 :: player_select: login: jack index: 0
+May 11 16:36:20 :: GM_NEW_GET_LEVEL : FIND ACCOUNT
+May 11 16:36:20 :: PK_MODE: [DEV]Cezariu 3
+May 11 16:36:20 :: PLAYER_LOAD: [DEV]Cezariu PREMIUM 2062000800 2062000800, LOGGOFF_INTERVAL 1 PTR: 0x40c5b380
+May 11 16:36:20 :: GM_LOGIN(gmlevel=5, name=[DEV]Cezariu(22), pos=(473900, 954600)
+May 11 16:36:20 :: InputDB: player_load [DEV]Cezariu 473900x954600x0 LEVEL 65 MOV_SPEED 200 JOB 0 ATG 0 DFG 142 GMLv 0
+May 11 16:36:20 :: ITEM_LOAD: COUNT [DEV]Cezariu 175
+May 11 16:36:20 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 16:36:20 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 16:36:20 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 16:36:20 :: RegisterRaceNumMap Wolf 20111
+May 11 16:36:20 :: AddAffect [DEV]Cezariu type 533 apply 53 15 flag 0 duration 549013
+May 11 16:36:20 :: AddAffect [DEV]Cezariu type 533 apply 162 5 flag 0 duration 549013
+May 11 16:36:20 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 549013
+May 11 16:36:20 :: AddAffect [DEV]Cezariu type 221 apply 109 20111 flag 0 duration 549013
+May 11 16:36:20 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 16:36:20 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 16:36:20 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 16:36:20 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 16:36:20 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 16:36:20 :: REAL_TIME_EXPIRE: StartRealTimeExpireEvent
+May 11 16:36:20 :: QUEST_LOAD: count 47
+May 11 16:36:20 ::             rune.__status 777843330
+May 11 16:36:20 ::             main_quest_lv10.__status 668443392
+May 11 16:36:20 ::             give_basic_weapon.__status 668443392
+May 11 16:36:20 ::             horse_name.valid_till 1840976028
+May 11 16:36:20 ::             system_gaya.gaya_time_world_4 1715081847
+May 11 16:36:20 ::             pyramide_zone.cooldown 1714872929
+May 11 16:36:20 ::             pyramide_zone.disconnect 1714869973
+May 11 16:36:20 ::             pyramide_zone.idx 3570000
+May 11 16:36:20 ::             hydra_zone.cooldown 1715094472
+May 11 16:36:20 ::             rune.hide_effect 1
+May 11 16:36:20 ::             catacombe.disconnect 1714985953
+May 11 16:36:20 ::             hydra_zone.disconnect 1715091490
+May 11 16:36:20 ::             slime_dungeon.cooldown 1715100926
+May 11 16:36:20 ::             slime_dungeon.disconnect 1715100035
+May 11 16:36:20 ::             slime_dungeon.idx 270000
+May 11 16:36:20 ::             dungeonorchi.cooldown 1715100975
+May 11 16:36:20 ::             dungeonorchi.disconnect 1715100105
+May 11 16:36:20 ::             dungeonorchi.idx 3550000
+May 11 16:36:20 ::             deviltower_zone.cooldown 1714870707
+May 11 16:36:20 ::             training_grandmaster_skill.skill3 2
+May 11 16:36:20 ::             deviltower_zone.disconnect 1714870413
+May 11 16:36:20 ::             deviltower_zone.can_refine 1
+May 11 16:36:20 ::             catacombe.cooldown 1714988033
+May 11 16:36:20 ::             pda_quest.cooldown 1714927218
+May 11 16:36:20 ::             hydra_zone.enter_time 1715091172
+May 11 16:36:20 ::             hydra_zone.idx 3530000
+May 11 16:36:20 ::             hydra_zone.ch 1
+May 11 16:36:20 ::             razador_zone.cooldown 1714873420
+May 11 16:36:20 ::             razador_zone.idx 3510000
+May 11 16:36:20 ::             razador_zone.disconnect 1714870137
+May 11 16:36:20 ::             nemere_zone.cooldown 1714873450
+May 11 16:36:20 ::             nemere_zone.idx 3520000
+May 11 16:36:20 ::             nemere_zone.disconnect 1714870166
+May 11 16:36:20 ::             deviltower_zone.idx 660001
+May 11 16:36:20 ::             catacombe.idx 2160000
+May 11 16:36:20 ::             temple_ochao.cooldown 1715102575
+May 11 16:36:20 ::             enchanted_forest.cooldown 1715102614
+May 11 16:36:20 ::             enchanted_forest.idx 2100001
+May 11 16:36:20 ::             enchanted_forest.disconnect 1715099326
+May 11 16:36:20 ::             rune_zone.cooldown 1715102654
+May 11 16:36:20 ::             temple_ochao.disconnect 1715099284
+May 11 16:36:20 ::             temple_ochao.idx 2090000
+May 11 16:36:20 ::             rune_zone.enter_time 1715099054
+May 11 16:36:20 ::             rune_zone.ch 1
+May 11 16:36:20 ::             rune_zone.disconnect 1715099428
+May 11 16:36:20 ::             rune_zone.idx 2180000
+May 11 16:36:20 ::             main_quest_lv30.__status -596781658
+May 11 16:36:21 :: VERSION: [DEV]Cezariu 1215955205 Hypnotic2.exe
+May 11 16:36:21 :: SHOW: [DEV]Cezariu 473900x954600x0
+May 11 16:36:21 :: AddAffect [DEV]Cezariu type 215 apply 0 0 flag 28 duration 5
+May 11 16:36:21 :: ENTERGAME: [DEV]Cezariu 473900x954600x0 93.115.44.219 map_index 1
+May 11 16:36:21 :: HORSE STAMINA CONSUME EVENT CANCEL 0x0
+May 11 16:36:21 :: HORSE STAMINA REGEN EVENT CREATE 0x2bea85c0
+May 11 16:36:21 :: SendLandList map 1 count 0 elem_size: 0
+May 11 16:36:21 :: AddAffect [DEV]Cezariu type 500 apply 0 0 flag 0 duration 346566219
+May 11 16:36:21 :: PREMIUM: [DEV]Cezariu type 0 346566219min
+May 11 16:36:21 :: AddAffect [DEV]Cezariu type 501 apply 0 0 flag 0 duration 346566219
+May 11 16:36:21 :: PREMIUM: [DEV]Cezariu type 1 346566219min
+May 11 16:36:21 :: AddAffect [DEV]Cezariu type 502 apply 0 0 flag 0 duration 346566219
+May 11 16:36:21 :: PREMIUM: [DEV]Cezariu type 2 346566219min
+May 11 16:36:21 :: AddAffect [DEV]Cezariu type 503 apply 0 0 flag 0 duration 346566219
+May 11 16:36:21 :: PREMIUM: [DEV]Cezariu type 3 346566219min
+May 11 16:36:21 :: AddAffect [DEV]Cezariu type 504 apply 0 0 flag 0 duration 346566219
+May 11 16:36:21 :: PREMIUM: [DEV]Cezariu type 4 346566219min
+May 11 16:36:21 :: AddAffect [DEV]Cezariu type 505 apply 0 0 flag 0 duration 346566219
+May 11 16:36:21 :: PREMIUM: [DEV]Cezariu type 5 346566219min
+May 11 16:36:21 :: AddAffect [DEV]Cezariu type 506 apply 0 0 flag 0 duration 346566219
+May 11 16:36:21 :: PREMIUM: [DEV]Cezariu type 6 346566219min
+May 11 16:36:21 :: VERSION : NO CHECK
+May 11 16:36:21 :: QUEST_LOAD: Login pc 22 by event
+May 11 16:36:21 :: QUEST timer name timer1 cycle 15025 pc 22 npc 4294967295 loop? 0
+May 11 16:36:21 :: QUEST add timer 0x40aef100 1
+May 11 16:36:21 :: AddAffect [DEV]Cezariu type 999 apply 0 0 flag 0 duration 31536000
+May 11 16:36:25 :: COMMAND: [DEV]Cezariu: ride
+May 11 16:36:25 :: RegisterRaceNumMap Wolf 20111
+May 11 16:36:27 :: [DEV]Cezariu: USE_SKILL: 3 pkVictim 0x0
+May 11 16:36:27 :: AddAffect [DEV]Cezariu type 3 apply 19 25 flag 46 duration 3600
+May 11 16:36:27 :: AddAffect [DEV]Cezariu type 3 apply 17 62 flag 15 duration 3600
+May 11 16:36:35 :: [DEV]Cezariu: USE_SKILL: 4 pkVictim 0x0
+May 11 16:36:35 :: AddAffect [DEV]Cezariu type 4 apply 95 391 flag 16 duration 3600
+May 11 16:39:19 :: PONG! 239
+May 11 16:39:19 :: Handshake: client_time 6155878 server_time 6335838 name: [DEV]Cezariu
+May 11 16:39:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 16:42:19 :: PONG! 239
+May 11 16:42:19 :: Handshake: client_time 6335838 server_time 6515838 name: [DEV]Cezariu
+May 11 16:42:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 16:45:19 :: PONG! 239
+May 11 16:45:19 :: Handshake: client_time 6515838 server_time 6695838 name: [DEV]Cezariu
+May 11 16:45:21 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 16:46:22 :: QUEST loading locale/germany/quest/object/timer2/timer/automesaj.start : automesaj [STATE] start
+May 11 16:46:22 :: QUEST timer name timer2 cycle 18025 pc 22 npc 4294967294 loop? 0
+May 11 16:46:22 :: QUEST add timer 0x408e67c0 2
+May 11 16:46:22 :: QUEST remove with no cancel 0x40aef100
+May 11 16:48:19 :: PONG! 239
+May 11 16:48:19 :: Handshake: client_time 6695838 server_time 6875838 name: [DEV]Cezariu
+May 11 16:48:21 :: HORSE STAMINA + 0x2bea85c0
+May 11 16:48:21 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 16:51:19 :: PONG! 239
+May 11 16:51:19 :: Handshake: client_time 6875838 server_time 7055836 name: [DEV]Cezariu
+May 11 16:51:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 16:54:19 :: PONG! 239
+May 11 16:54:19 :: Handshake: client_time 7055836 server_time 7235838 name: [DEV]Cezariu
+May 11 16:54:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 16:57:19 :: PONG! 239
+May 11 16:57:19 :: Handshake: client_time 7235838 server_time 7415836 name: [DEV]Cezariu
+May 11 16:57:22 :: SAVE: [DEV]Cezariu 475975x958390
+May 11 16:58:23 :: QUEST loading locale/germany/quest/object/timer3/timer/automesaj.start : automesaj [STATE] start
+May 11 16:58:23 :: QUEST timer name timer3 cycle 22525 pc 22 npc 4294967293 loop? 0
+May 11 16:58:23 :: QUEST add timer 0x408e6900 2
+May 11 16:58:23 :: QUEST remove with no cancel 0x408e67c0
+May 11 17:00:00 :: SYSTEM: LOG ROTATE (2024-05-11 16)

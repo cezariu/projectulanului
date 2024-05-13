@@ -1,0 +1,21 @@
+May 11 23:36:28 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 854472815 output input_len 0, ptr 0x288c3e00
+May 11 23:36:29 :: Handshake: client_time 0 server_time 31366141
+May 11 23:36:29 :: AUTH_PHASE 0x288c3e00
+May 11 23:36:41 :: SYSTEM: closing socket. DESC #16
+May 11 23:36:41 :: SYSTEM: new connection from [93.115.44.219] fd: 16 handshake 3481234779 output input_len 0, ptr 0x288c3e00
+May 11 23:36:41 :: Handshake: client_time 0 server_time 31378682
+May 11 23:36:41 :: AUTH_PHASE 0x288c3e00
+May 11 23:36:41 :: InputAuth::Login : jack(4) desc 0x288c3e00
+May 11 23:36:41 :: SetLoginKey 747593231
+May 11 23:36:41 :: InputAuth::Login: key (747593231) login (jack)
+May 11 23:36:42 :: QID_AUTH_LOGIN: START 747593231 0x288c3e00
+May 11 23:36:42 :: Create_Time 1896971434 20300210
+May 11 23:36:42 :: Block Time -1 
+May 11 23:36:42 :: MySQL connection was reconnected. querying locale set
+May 11 23:36:42 :: 	--mysql_set_character_set(latin1)
+May 11 23:36:42 :: SetRemainSecs jack 0
+May 11 23:36:42 :: SendAuthLogin jack key 15
+May 11 23:36:42 :: AuthLogin result 1 key 747593231
+May 11 23:36:42 :: SYSTEM: closing socket. DESC #16
+May 12 00:00:00 :: SYSTEM_CMD: rm -rf ./log/20240509
+May 12 00:00:00 :: SYSTEM: LOG ROTATE (2024-05-12 23)

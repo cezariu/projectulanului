@@ -1,0 +1,115 @@
+May 12 00:00:48 :: PONG! 239
+May 12 00:00:49 :: Handshake: client_time 32645621 server_time 32825012 name: [DEV]Cezariu
+May 12 00:00:51 :: SAVE: [DEV]Cezariu 486077x961956
+May 12 00:03:49 :: PONG! 239
+May 12 00:03:49 :: Handshake: lower than zero -140
+May 12 00:03:49 :: Handshake: client_time 32825012 server_time 33005332 name: [DEV]Cezariu
+May 12 00:03:51 :: SAVE: [DEV]Cezariu 486077x961956
+May 12 00:06:48 :: PONG! 239
+May 12 00:06:49 :: Handshake: client_time 33005332 server_time 33185052 name: [DEV]Cezariu
+May 12 00:06:51 :: SAVE: [DEV]Cezariu 486077x961956
+May 12 00:09:48 :: PONG! 239
+May 12 00:09:49 :: Handshake: client_time 33185052 server_time 33365012 name: [DEV]Cezariu
+May 12 00:09:52 :: SAVE: [DEV]Cezariu 486077x961956
+May 12 00:12:48 :: PONG! 239
+May 12 00:12:49 :: Handshake: client_time 33365012 server_time 33545012 name: [DEV]Cezariu
+May 12 00:12:52 :: SAVE: [DEV]Cezariu 486077x961956
+May 12 00:13:55 :: QUEST remove with no cancel 0x2bf36260
+May 12 00:15:48 :: PONG! 239
+May 12 00:15:49 :: Handshake: client_time 33545012 server_time 33725012 name: [DEV]Cezariu
+May 12 00:15:52 :: SAVE: [DEV]Cezariu 486077x961956
+May 12 00:18:48 :: PONG! 239
+May 12 00:18:49 :: Handshake: lower than zero -99
+May 12 00:18:49 :: Handshake: client_time 33725012 server_time 33905693 name: [DEV]Cezariu
+May 12 00:18:51 :: SAVE: [DEV]Cezariu 486077x961956
+May 12 00:21:48 :: PONG! 239
+May 12 00:21:49 :: Handshake: lower than zero -1
+May 12 00:21:49 :: Handshake: client_time 33905693 server_time 34085173 name: [DEV]Cezariu
+May 12 00:21:51 :: SAVE: [DEV]Cezariu 486077x961956
+May 12 00:24:48 :: PONG! 239
+May 12 00:24:49 :: Handshake: client_time 34085173 server_time 34265052 name: [DEV]Cezariu
+May 12 00:24:52 :: SAVE: [DEV]Cezariu 486077x961956
+May 12 00:27:48 :: PONG! 239
+May 12 00:27:49 :: Handshake: client_time 34265052 server_time 34445052 name: [DEV]Cezariu
+May 12 00:27:52 :: SAVE: [DEV]Cezariu 486077x961956
+May 12 00:30:48 :: PONG! 239
+May 12 00:30:49 :: Handshake: client_time 34445052 server_time 34625011 name: [DEV]Cezariu
+May 12 00:30:52 :: SAVE: [DEV]Cezariu 486077x961956
+May 12 00:33:49 :: PONG! 239
+May 12 00:33:49 :: Handshake: lower than zero -159
+May 12 00:33:49 :: Handshake: lower than zero -20
+May 12 00:33:49 :: Handshake: client_time 34625011 server_time 34805532 name: [DEV]Cezariu
+May 12 00:33:52 :: SAVE: [DEV]Cezariu 486077x961956
+May 12 00:35:07 :: [DEV]Cezariu: USE_SKILL: 3 pkVictim 0x0
+May 12 00:35:07 :: AddAffect [DEV]Cezariu type 3 apply 19 25 flag 46 duration 3600
+May 12 00:35:07 :: AddAffect [DEV]Cezariu type 3 apply 17 62 flag 15 duration 3600
+May 12 00:35:51 :: COMMAND: [DEV]Cezariu: ride
+May 12 00:35:51 :: AddAffect [DEV]Cezariu type 533 apply 53 15 flag 0 duration 520242
+May 12 00:35:51 :: AddAffect [DEV]Cezariu type 533 apply 162 5 flag 0 duration 520242
+May 12 00:35:51 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 520242
+May 12 00:35:51 :: AddAffect [DEV]Cezariu type 221 apply 109 20111 flag 0 duration 520242
+May 12 00:35:54 :: SECTREE DIFFER: [DEV]Cezariu 75x149 was 75x150 dist 1.0m
+May 12 00:36:01 :: SECTREE DIFFER: [DEV]Cezariu 74x149 was 75x149 dist 1.0m
+May 12 00:36:06 :: SECTREE DIFFER: [DEV]Cezariu 74x150 was 74x149 dist 1.0m
+May 12 00:36:07 :: SECTREE DIFFER: [DEV]Cezariu 75x150 was 74x150 dist 1.0m
+May 12 00:36:28 :: SECTREE DIFFER: [DEV]Cezariu 75x151 was 75x150 dist 1.0m
+May 12 00:36:30 :: SECTREE DIFFER: [DEV]Cezariu 76x151 was 75x151 dist 1.0m
+May 12 00:36:33 :: SECTREE DIFFER: [DEV]Cezariu 75x151 was 76x151 dist 1.0m
+May 12 00:36:35 :: SECTREE DIFFER: [DEV]Cezariu 75x150 was 75x151 dist 1.0m
+May 12 00:36:39 :: COMMAND: [DEV]Cezariu: ride
+May 12 00:36:39 :: RegisterRaceNumMap Wolf 20111
+May 12 00:36:42 :: [DEV]Cezariu: USE_SKILL: 4 pkVictim 0x0
+May 12 00:36:42 :: AddAffect [DEV]Cezariu type 4 apply 95 391 flag 16 duration 3600
+May 12 00:36:48 :: PONG! 239
+May 12 00:36:49 :: Handshake: lower than zero -19
+May 12 00:36:49 :: Handshake: client_time 34805532 server_time 34985453 name: [DEV]Cezariu
+May 12 00:36:51 :: SAVE: [DEV]Cezariu 485956x961951
+May 12 00:39:48 :: PONG! 239
+May 12 00:39:49 :: Handshake: client_time 34985453 server_time 35165012 name: [DEV]Cezariu
+May 12 00:39:51 :: SAVE: [DEV]Cezariu 485956x961951
+May 12 00:40:29 :: [DEV]Cezariu: USE_SKILL: 3 pkVictim 0x0
+May 12 00:40:29 :: AddAffect [DEV]Cezariu type 3 apply 19 25 flag 46 duration 3600
+May 12 00:40:29 :: AddAffect [DEV]Cezariu type 3 apply 17 62 flag 15 duration 3600
+May 12 00:40:29 :: COMMAND: [DEV]Cezariu: ride
+May 12 00:40:29 :: AddAffect [DEV]Cezariu type 533 apply 53 15 flag 0 duration 519964
+May 12 00:40:29 :: AddAffect [DEV]Cezariu type 533 apply 162 5 flag 0 duration 519964
+May 12 00:40:29 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 519964
+May 12 00:40:29 :: AddAffect [DEV]Cezariu type 221 apply 109 20111 flag 0 duration 519964
+May 12 00:40:30 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 12 00:40:33 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 12 00:40:34 :: SECTREE DIFFER: [DEV]Cezariu 75x151 was 75x150 dist 1.0m
+May 12 00:40:35 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 12 00:40:37 :: SECTREE DIFFER: [DEV]Cezariu 76x151 was 75x151 dist 1.0m
+May 12 00:40:37 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 12 00:40:40 :: SECTREE DIFFER: [DEV]Cezariu 77x151 was 76x151 dist 1.0m
+May 12 00:40:40 :: SECTREE DIFFER: [DEV]Cezariu 77x150 was 77x151 dist 1.0m
+May 12 00:40:40 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 12 00:40:42 :: SECTREE DIFFER: [DEV]Cezariu 76x150 was 77x150 dist 1.0m
+May 12 00:40:43 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 12 00:40:43 :: SECTREE DIFFER: [DEV]Cezariu 76x149 was 76x150 dist 1.0m
+May 12 00:40:45 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 12 00:40:46 :: SECTREE DIFFER: [DEV]Cezariu 76x148 was 76x149 dist 1.0m
+May 12 00:40:47 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 12 00:40:49 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 12 00:40:50 :: SECTREE DIFFER: [DEV]Cezariu 76x147 was 76x148 dist 1.0m
+May 12 00:40:51 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 12 00:40:52 :: SECTREE DIFFER: [DEV]Cezariu 77x147 was 76x147 dist 1.0m
+May 12 00:40:52 :: SECTREE DIFFER: [DEV]Cezariu 77x146 was 77x147 dist 1.0m
+May 12 00:40:53 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 12 00:40:55 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 12 00:40:56 :: SECTREE DIFFER: [DEV]Cezariu 77x145 was 77x146 dist 1.0m
+May 12 00:40:57 :: [DEV]Cezariu: USE_SKILL: 137 pkVictim 0x0
+May 12 00:40:59 :: SECTREE DIFFER: [DEV]Cezariu 77x144 was 77x145 dist 1.0m
+May 12 00:41:00 :: COMMAND: [DEV]Cezariu: quit
+SYSERR: May 12 00:41:04 :: DirectQuery: AsyncSQL::DirectQuery : mysql_query error: Table 'account.antifarm' doesn't exist
+query: DELETE FROM account.antifarm WHERE login='jack'
+May 12 00:41:04 :: DISCONNECT: [DEV]Cezariu (DESC::~DESC)
+May 12 00:41:04 :: SAVE: [DEV]Cezariu 499154x926395
+May 12 00:41:04 :: QUEST clear timer 0
+May 12 00:41:04 :: SYSTEM: closing socket. DESC #20
+SYSERR: May 12 00:41:04 :: ChildLoop: AsyncSQL: query failed: Table 'log.log' doesn't exist (query: INSERT DELAYED INTO log (type, time, who, x, y, what, how, hint, ip) VALUES('CHARACTER', NOW(), 22, 499154, 926395, 0, 'LOGOUT', '', '93.115.44.219') errno: 1146)
+SYSERR: May 12 00:53:40 :: ChildLoop: AsyncSQL: query failed: Table 'log.money_log' doesn't exist (query: INSERT DELAYED INTO money_log VALUES (NOW(), 7, 101, 8) errno: 1146)
+SYSERR: May 12 00:53:40 :: ChildLoop: AsyncSQL: query failed: Table 'log.money_log' doesn't exist (query: INSERT DELAYED INTO money_log VALUES (NOW(), 7, 102, 6) errno: 1146)
+SYSERR: May 12 00:53:40 :: ChildLoop: AsyncSQL: query failed: Table 'log.money_log' doesn't exist (query: INSERT DELAYED INTO money_log VALUES (NOW(), 7, 171, 3) errno: 1146)
+SYSERR: May 12 00:53:40 :: ChildLoop: AsyncSQL: query failed: Table 'log.money_log' doesn't exist (query: INSERT DELAYED INTO money_log VALUES (NOW(), 7, 8003, 1) errno: 1146)
+May 12 01:00:00 :: SYSTEM: LOG ROTATE (2024-05-12 0)

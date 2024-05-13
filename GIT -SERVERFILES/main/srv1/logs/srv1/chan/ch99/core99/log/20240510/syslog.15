@@ -1,0 +1,249 @@
+May 10 15:00:02 :: PONG! 239
+May 10 15:00:02 :: Handshake: client_time 1099922 server_time 1279922 name: [DEV]Cezariu
+May 10 15:00:06 :: SAVE: [DEV]Cezariu 960444x273275
+May 10 15:01:07 :: QUEST loading locale/germany/quest/object/timer3/timer/automesaj.start : automesaj [STATE] start
+May 10 15:01:07 :: QUEST timer name timer3 cycle 22525 pc 22 npc 4294967293 loop? 0
+May 10 15:01:07 :: QUEST add timer 0x2beb0b60 2
+May 10 15:01:07 :: QUEST remove with no cancel 0x2beb0a60
+May 10 15:03:02 :: PONG! 239
+May 10 15:03:02 :: Handshake: client_time 1279922 server_time 1459922 name: [DEV]Cezariu
+May 10 15:03:05 :: SAVE: [DEV]Cezariu 960444x273275
+May 10 15:06:02 :: PONG! 239
+May 10 15:06:02 :: Handshake: client_time 1459922 server_time 1639922 name: [DEV]Cezariu
+May 10 15:06:05 :: SAVE: [DEV]Cezariu 960444x273275
+May 10 15:09:02 :: PONG! 239
+May 10 15:09:02 :: Handshake: client_time 1639922 server_time 1819922 name: [DEV]Cezariu
+May 10 15:09:05 :: SAVE: [DEV]Cezariu 960444x273275
+May 10 15:09:35 :: SECTREE DIFFER: [DEV]Cezariu 149x42 was 150x42 dist 1.0m
+May 10 15:12:02 :: PONG! 239
+May 10 15:12:02 :: Handshake: client_time 1819922 server_time 1999922 name: [DEV]Cezariu
+May 10 15:12:05 :: SAVE: [DEV]Cezariu 959700x273373
+May 10 15:15:02 :: PONG! 239
+May 10 15:15:02 :: Handshake: client_time 1999922 server_time 2179922 name: [DEV]Cezariu
+May 10 15:15:05 :: SAVE: [DEV]Cezariu 959700x273373
+May 10 15:16:08 :: QUEST remove with no cancel 0x2beb0b60
+May 10 15:18:02 :: PONG! 239
+May 10 15:18:02 :: Handshake: client_time 2179922 server_time 2359922 name: [DEV]Cezariu
+May 10 15:18:06 :: SAVE: [DEV]Cezariu 959700x273373
+May 10 15:21:02 :: PONG! 239
+May 10 15:21:02 :: Handshake: client_time 2359922 server_time 2539922 name: [DEV]Cezariu
+May 10 15:21:05 :: SAVE: [DEV]Cezariu 959700x273373
+May 10 15:23:36 :: OnClick Special Merchant[vnum: 20381 vid: 9963] by [DEV]Cezariu
+May 10 15:23:37 :: QUEST ScriptAnswer pid 22 answer 1
+May 10 15:23:37 :: reallocating buffer to 16384, current 1024
+May 10 15:23:37 :: SHOP: START: [DEV]Cezariu
+May 10 15:23:37 :: SHOP: END: [DEV]Cezariu
+May 10 15:23:38 :: OnClick Special Merchant[vnum: 20381 vid: 9963] by [DEV]Cezariu
+May 10 15:23:38 :: QUEST ScriptAnswer pid 22 answer 3
+May 10 15:23:38 :: reallocating buffer to 16384, current 1024
+May 10 15:23:38 :: SHOP: START: [DEV]Cezariu
+May 10 15:23:40 :: SHOP: END: [DEV]Cezariu
+May 10 15:23:41 :: OnClick Special Merchant[vnum: 20381 vid: 9963] by [DEV]Cezariu
+May 10 15:23:41 :: QUEST ScriptAnswer pid 22 answer 2
+May 10 15:23:41 :: reallocating buffer to 16384, current 1024
+May 10 15:23:41 :: SHOP: START: [DEV]Cezariu
+May 10 15:23:42 :: SHOP: END: [DEV]Cezariu
+May 10 15:23:43 :: OnClick Special Merchant[vnum: 20381 vid: 9963] by [DEV]Cezariu
+May 10 15:23:43 :: QUEST ScriptAnswer pid 22 answer 4
+May 10 15:23:43 :: reallocating buffer to 16384, current 1024
+May 10 15:23:43 :: SHOP: START: [DEV]Cezariu
+May 10 15:23:52 :: SHOP: END: [DEV]Cezariu
+May 10 15:23:52 :: OnClick Special Merchant[vnum: 20381 vid: 9963] by [DEV]Cezariu
+May 10 15:23:53 :: QUEST ScriptAnswer pid 22 answer 0
+May 10 15:23:53 :: reallocating buffer to 16384, current 1024
+May 10 15:23:53 :: SHOP: START: [DEV]Cezariu
+May 10 15:23:54 :: SHOP: END: [DEV]Cezariu
+May 10 15:24:02 :: PONG! 239
+May 10 15:24:02 :: Handshake: client_time 2539922 server_time 2719922 name: [DEV]Cezariu
+May 10 15:24:05 :: SAVE: [DEV]Cezariu 959647x273825
+May 10 15:27:02 :: PONG! 239
+May 10 15:27:02 :: Handshake: client_time 2719922 server_time 2899922 name: [DEV]Cezariu
+May 10 15:27:05 :: SAVE: [DEV]Cezariu 959647x273825
+May 10 15:30:00 :: COMMAND: [DEV]Cezariu: ride
+May 10 15:30:00 :: AddAffect [DEV]Cezariu type 533 apply 53 25 flag 0 duration 1036263
+May 10 15:30:00 :: AddAffect [DEV]Cezariu type 533 apply 159 25 flag 0 duration 1036263
+May 10 15:30:00 :: AddAffect [DEV]Cezariu type 533 apply 83 50 flag 0 duration 1036263
+May 10 15:30:00 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 1036263
+May 10 15:30:00 :: AddAffect [DEV]Cezariu type 221 apply 109 20114 flag 0 duration 1036263
+May 10 15:30:02 :: PONG! 239
+May 10 15:30:02 :: SECTREE DIFFER: [DEV]Cezariu 149x41 was 149x42 dist 1.0m
+May 10 15:30:02 :: Handshake: client_time 2899922 server_time 3079922 name: [DEV]Cezariu
+May 10 15:30:02 :: COMMAND: [DEV]Cezariu: ride
+May 10 15:30:02 :: RegisterRaceNumMap white lion 20114
+May 10 15:30:03 :: SECTREE DIFFER: [DEV]Cezariu 149x42 was 149x41 dist 1.0m
+May 10 15:30:05 :: COMMAND: [DEV]Cezariu: user_horse_back
+May 10 15:30:05 :: SAVE: [DEV]Cezariu 957683x268817
+May 10 15:30:06 :: OnClick PvM Refinement[vnum: 20378 vid: 9969] by [DEV]Cezariu
+May 10 15:30:08 :: QUEST ScriptAnswer pid 22 answer 0
+May 10 15:30:08 :: COMMAND: [DEV]Cezariu: cube
+May 10 15:30:08 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:08 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:08 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:08 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:08 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:08 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:08 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:08 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:08 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:08 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:08 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:08 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:10 :: OnClick PvM Refinement[vnum: 20378 vid: 9969] by [DEV]Cezariu
+May 10 15:30:11 :: QUEST ScriptAnswer pid 22 answer 0
+May 10 15:30:11 :: COMMAND: [DEV]Cezariu: cube
+May 10 15:30:11 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:11 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:11 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:11 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:11 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:11 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:11 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:11 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:11 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:11 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:11 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:11 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:14 :: SECTREE DIFFER: [DEV]Cezariu 149x41 was 149x42 dist 1.0m
+May 10 15:30:15 :: SECTREE DIFFER: [DEV]Cezariu 149x42 was 149x41 dist 1.0m
+May 10 15:30:17 :: SECTREE DIFFER: [DEV]Cezariu 149x41 was 149x42 dist 1.0m
+May 10 15:30:17 :: SECTREE DIFFER: [DEV]Cezariu 149x42 was 149x41 dist 1.0m
+May 10 15:30:19 :: [DEV]Cezariu: USE_SKILL: 3 pkVictim 0x0
+May 10 15:30:19 :: AddAffect [DEV]Cezariu type 3 apply 19 25 flag 46 duration 3600
+May 10 15:30:19 :: AddAffect [DEV]Cezariu type 3 apply 17 62 flag 15 duration 3600
+May 10 15:30:28 :: OnClick PvP Refinement[vnum: 20377 vid: 9968] by [DEV]Cezariu
+May 10 15:30:28 :: QUEST ScriptAnswer pid 22 answer 0
+May 10 15:30:28 :: COMMAND: [DEV]Cezariu: cube
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:30:28 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: OnClick PvP Refinement[vnum: 20377 vid: 9968] by [DEV]Cezariu
+May 10 15:31:48 :: QUEST ScriptAnswer pid 22 answer 0
+May 10 15:31:48 :: COMMAND: [DEV]Cezariu: cube
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:31:48 :: Invalid Socket Count 3, set to maximum
+May 10 15:33:00 :: COMMAND: [DEV]Cezariu: ride
+May 10 15:33:00 :: [DEV]Cezariu: USE_ITEM Leul Alb (15 zile) (inven 1, cell: 2)
+May 10 15:33:00 :: RegisterRaceNumMap white lion 20114
+May 10 15:33:01 :: COMMAND: [DEV]Cezariu: ride
+May 10 15:33:01 :: AddAffect [DEV]Cezariu type 533 apply 53 25 flag 0 duration 1036082
+May 10 15:33:01 :: AddAffect [DEV]Cezariu type 533 apply 159 25 flag 0 duration 1036082
+May 10 15:33:01 :: AddAffect [DEV]Cezariu type 533 apply 83 50 flag 0 duration 1036082
+May 10 15:33:01 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 1036082
+May 10 15:33:01 :: AddAffect [DEV]Cezariu type 221 apply 109 20114 flag 0 duration 1036082
+May 10 15:33:02 :: PONG! 239
+May 10 15:33:02 :: Handshake: client_time 3079922 server_time 3259922 name: [DEV]Cezariu
+May 10 15:33:04 :: COMMAND: [DEV]Cezariu: ride
+May 10 15:33:04 :: RegisterRaceNumMap white lion 20114
+May 10 15:33:05 :: SAVE: [DEV]Cezariu 959607x274086
+May 10 15:33:06 :: COMMAND: [DEV]Cezariu: ride
+May 10 15:33:06 :: AddAffect [DEV]Cezariu type 533 apply 53 25 flag 0 duration 1036077
+May 10 15:33:06 :: AddAffect [DEV]Cezariu type 533 apply 159 25 flag 0 duration 1036077
+May 10 15:33:06 :: AddAffect [DEV]Cezariu type 533 apply 83 50 flag 0 duration 1036077
+May 10 15:33:06 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 1036077
+May 10 15:33:06 :: AddAffect [DEV]Cezariu type 221 apply 109 20114 flag 0 duration 1036077
+May 10 15:33:08 :: SECTREE DIFFER: [DEV]Cezariu 150x42 was 149x42 dist 1.0m
+May 10 15:33:16 :: SECTREE DIFFER: [DEV]Cezariu 149x42 was 150x42 dist 1.0m
+May 10 15:33:17 :: COMMAND: [DEV]Cezariu: ride
+May 10 15:33:17 :: RegisterRaceNumMap white lion 20114
+May 10 15:34:46 :: SECTREE DIFFER: [DEV]Cezariu 150x42 was 149x42 dist 1.0m
+May 10 15:34:46 :: SECTREE DIFFER: [DEV]Cezariu 149x42 was 150x42 dist 1.0m
+May 10 15:34:47 :: OnClick [DEV]Cezariu's Mount[vnum: 20114 vid: 10174] by [DEV]Cezariu
+May 10 15:34:47 :: CQuestManager::Click(pid=22, target_npc_name=[DEV]Cezariu's Mount) - NOT EXIST NPC RACE VNUM[20114]
+May 10 15:34:48 :: OnClick Special Merchant[vnum: 20381 vid: 9963] by [DEV]Cezariu
+May 10 15:34:49 :: QUEST ScriptAnswer pid 22 answer 5
+May 10 15:34:50 :: SECTREE DIFFER: [DEV]Cezariu 150x42 was 149x42 dist 1.0m
+May 10 15:34:50 :: OnClick Blacksmith[vnum: 20016 vid: 9967] by [DEV]Cezariu
+May 10 15:34:50 :: CQuestManager::Click(pid=22, target_npc_name=Blacksmith) - NOT EXIST NPC RACE VNUM[20016]
+May 10 15:35:00 :: COMMAND: [DEV]Cezariu: item
+May 10 15:35:04 :: COMMAND: [DEV]Cezariu: item
+May 10 15:35:05 :: REFINE: FIND 32 TRUE
+May 10 15:35:22 :: REFINE: FIND 32 TRUE
+May 10 15:35:24 :: refine_type_noraml
+May 10 15:35:24 :: REFINE: FIND 32 TRUE
+May 10 15:35:26 :: REFINE: FIND 32 TRUE
+May 10 15:36:02 :: PONG! 239
+May 10 15:36:02 :: Handshake: client_time 3259922 server_time 3439922 name: [DEV]Cezariu
+May 10 15:36:06 :: SAVE: [DEV]Cezariu 961040x273729
+May 10 15:39:02 :: PONG! 239
+May 10 15:39:02 :: Handshake: client_time 3439922 server_time 3619922 name: [DEV]Cezariu
+May 10 15:39:05 :: SAVE: [DEV]Cezariu 960215x273265
+May 10 15:42:02 :: PONG! 239
+May 10 15:42:02 :: Handshake: client_time 3619922 server_time 3799922 name: [DEV]Cezariu
+May 10 15:42:05 :: SAVE: [DEV]Cezariu 960215x273265
+May 10 15:45:02 :: PONG! 239
+May 10 15:45:02 :: Handshake: client_time 3799922 server_time 3979922 name: [DEV]Cezariu
+May 10 15:45:05 :: SAVE: [DEV]Cezariu 960215x273265
+May 10 15:48:02 :: PONG! 239
+May 10 15:48:02 :: Handshake: client_time 3979922 server_time 4159922 name: [DEV]Cezariu
+May 10 15:48:05 :: SAVE: [DEV]Cezariu 960215x273265
+May 10 15:51:02 :: PONG! 239
+May 10 15:51:02 :: Handshake: client_time 4159922 server_time 4339922 name: [DEV]Cezariu
+May 10 15:51:05 :: SAVE: [DEV]Cezariu 960215x273265
+May 10 15:54:02 :: PONG! 239
+May 10 15:54:02 :: Handshake: client_time 4339922 server_time 4519922 name: [DEV]Cezariu
+May 10 15:54:06 :: SAVE: [DEV]Cezariu 960215x273265
+May 10 15:57:02 :: PONG! 239
+May 10 15:57:02 :: Handshake: client_time 4519922 server_time 4699922 name: [DEV]Cezariu
+May 10 15:57:05 :: SAVE: [DEV]Cezariu 960215x273265
+May 10 16:00:00 :: SYSTEM: LOG ROTATE (2024-05-10 15)
