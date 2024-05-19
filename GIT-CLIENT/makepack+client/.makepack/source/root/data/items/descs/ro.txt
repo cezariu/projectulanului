@@ -404,7 +404,7 @@
 71106	Redistribuire (DEX)	Reseteaz� dexteritatea la 1 �i ��i permite s� redistribui punctele.
 71107	Fructul Vie�ii	Creste punctele gradului cu 2000 (durata timp: 8 ore).
 71123	Balan�a Dragonului	Balan'a Dragonului este din cele mai grele materiale cunoscute.
-71124	Leul Alb	Animalele cu blan� alb� sunt foarte rare �i mul�i oameni le venereaz�, crez�nd c� acestea au puteri magice.
+71124	Leul Alb	Animalele cu blana alba sunt foarte rare si multi oameni le venereaza, crezand ca acestea au puteri magice.
 71125	Mistre� S�lbatic Lupt�	�mbl�nzirea spiritelor animalelor malefice necesit� ablit��i magice �ns�, rezultatele pot fi uimitoare.
 71126	Lup de Lupt�	�mbl�nzirea spiritelor animalelor malefice necesit� ablit��i magice �ns�, rezultatele pot fi uimitoare.
 71128	Leul Lupt�tor	�mbl�nzirea spiritelor animalelor malefice necesit� ablit��i magice �ns�, rezultatele pot fi uimitoare.
@@ -925,10 +925,10 @@
 50204	Cuf�r Ochao	Acest Cuf�r con�ine ceva valoros.
 50254	Cuf�r de �ntuneric	The weighty chest conceals the believed to be forgotten riches de the Dark Nation.
 50285	Cuf�r Ruler En-Tai	Ruler En-Tai's chest con�ine valuable rewards.
-50333	Cartea For�ei Divine	�mbunat��i�i puterea divin�. Prin Aceast� carte pute�i �mbunat��i standardul abilitatea For�a Divin�.
-50334	Cartea Maestrul Yang	�mbunat��i�i puterea divin�. Prin Aceast� carte pute�i �mbun�t��i standardul abilitatea de a coleta Zang.
-50335	Cartea V�n�tor De Mon�tri	�mbunat��i�i puterea divin�. Prin Aceast� carte pute�i �mbunat��i abilitatea V�n�tor de Mon�tri .
-50336	Cartea For�ei de Via��	�mbun�t��i�i puterea divin�. Prin Aceast� carte pute�i �mbunat��i abilitatea For�� de Via��.
+50333	Cartea For�ei Divine	�mbunat��i�i puterea divin�. Prin Aceast� carte puteti �mbunat��i standardul abilitatea For�a Divin�.
+50334	Cartea Maestrul Yang	�mbunat��i�i puterea divin�. Prin Aceast� carte puteti �mbun�t��i standardul abilitatea de a coleta Zang.
+50335	Cartea V�n�tor De Mon�tri	�mbunat��i�i puterea divin�. Prin Aceast� carte puteti �mbunat��i abilitatea V�n�tor de Mon�tri .
+50336	Cartea For�ei de Via��	�mbun�t��i�i puterea divin�. Prin Aceast� carte puteti �mbunat��i abilitatea For�� de Via��.
 50525	Piatra Sufletului Perfect�	Aceast� piatr� perfect� ��i permite s� ��i urci abilitatea de la G1-P. Piatra dispare dup� utilizare.
 50526	Piatra Sufletului Sprijin	Aceast� piatr� legendar� ��i permite s� ��i urci abilit��ile la Mare-Maestru.  Piatra dispare dup� utilizare.
 50527	Piatra Sufletului Contra-atac	Aceast� piatr� legendar� ��i permite s� ��i urci abilit��ile de contra-atac la  Mare-Maestru.  Piatra dispare dup� utilizare.
@@ -959,18 +959,18 @@
 50689	Turmalin� (Permanent)	Aceast� piatr� pre�ioas� magic� straluce�te cu toate culorile curcubeului. Poate fi inserat �ntr-un accesoriu.	Durat� : permanent
 50690	Kyanit (Permanent)	O piatra pre�ioas� albastr� �i ro�ie cu o croial� unic�. Poate fi inserat �ntr-un accesoriu.	Durat� : permanent
 53025	Pui Leopard	Acest sigiliu evoc� puiul tau leopard.
-53026	Sigiliu Leonidas(15d)	Cu acest sigiliu va pute�i chema puiul de leu Leonidas pentru 15 zile.
-53027	Sigiliu Leonidas(30d)	Cu acest sigiliu va pute�i chema puiul de leu Leonidas pentru 30 zile.
-53028	Sigiliu Leonidas(Permanent)	Cu acest sigiliu va pute�i chema puiul de leu Leonidas permanent.
-53029	Sigiliu Nogai (15d)	Cu acest sigiliu va pute�i chema Nogai pentru 15zile.
-53030	Sigiliu Nogai (30d)	Cu acest sigiliu va pute�i chema  Nogai pentru 30zile.
-53031	Sigiliu Nogai (Permanent)	Cu acest sigiliu va pute�i chema Nogai permanent.
-53248	Donnie (15d)	Cu acest sigiliu va pute�i chema Donnie, anim�lu�ul t�u de co�mar.
-53249	Donnie (30d)	Cu acest sigiliu va pute�i chema Donnie, anim�lu�ul t�u de co�mar.
-53250	Donnie (Permanent)	Cu acest sigiliu va pute�i chema Donnie, anim�lu�ul t�u de co�mar.
-53251	Frank (15d)	Cu acest sigiliu va pute�i chema Frank, anim�lu�ul t�u de co�mar.
-53252	Frank (30d)	Cu acest sigiliu va pute�i chema Frank, anim�lu�ul t�u de co�mar.
-53253	Frank (Permanent)	Cu acest sigiliu va pute�i chema Frank, anim�lu�ul t�u de co�mar.
+53026	Sigiliu Leonidas(15d)	Cu acest sigiliu va puteti chema puiul de leu Leonidas pentru 15 zile.
+53027	Sigiliu Leonidas(30d)	Cu acest sigiliu va puteti chema puiul de leu Leonidas pentru 30 zile.
+53028	Sigiliu Leonidas(Permanent)	Cu acest sigiliu va puteti chema puiul de leu Leonidas permanent.
+53029	Sigiliu Nogai (15d)	Cu acest sigiliu va puteti chema Nogai pentru 15zile.
+53030	Sigiliu Nogai (30d)	Cu acest sigiliu va puteti chema  Nogai pentru 30zile.
+53031	Sigiliu Nogai (Permanent)	Cu acest sigiliu va puteti chema Nogai permanent.
+53248	Donnie (15d)	Cu acest sigiliu va puteti chema Donnie, anim�lu�ul t�u de co�mar.
+53249	Donnie (30d)	Cu acest sigiliu va puteti chema Donnie, anim�lu�ul t�u de co�mar.
+53250	Donnie (Permanent)	Cu acest sigiliu va puteti chema Donnie, anim�lu�ul t�u de co�mar.
+53251	Frank (15d)	Cu acest sigiliu va puteti chema Frank, anim�lu�ul t�u de co�mar.
+53252	Frank (30d)	Cu acest sigiliu va puteti chema Frank, anim�lu�ul t�u de co�mar.
+53253	Frank (Permanent)	Cu acest sigiliu va puteti chema Frank, anim�lu�ul t�u de co�mar.
 53263	Gryph	Acest sigiliu evoc� Griffy, Cheam�-�i petul grifon.
 53264	Nogai	Acest sigiliu evoc� Nogai, Cheam�-�i petul Nogai.
 53282	All-Seeing Flamecat	Cu acest sigiliu evoc� petul 'All-Seeing Flamecat'.
@@ -1009,7 +1009,7 @@
 70612	Diamant Pre�ios	This Prized Diamond is used to purchase Arm� skins, Armur�, and hair from an NPC.
 70613	Po�iune de Frumuse�e	Aceast� po�iune de �nfrumuse�are este utilizat� pentru a cumPara costume de animale de companie de la un NPC.
 70614	Po�iune de Frumuse�e	Aceast� po�iune de �nfrumuse�are este utilizat� pentru a cumPara costume de animale de companie de la un NPC.
-71025	Piatra Fierarului	Cu aceast� piatr� pute�i cumPara cartea fierarului de la fierar.
+71025	Piatra Fierarului	Cu aceast� piatr� puteti cumPara cartea fierarului de la fierar.
 71085	Adauga bonus[P]	Adauga toate cele 5 bonusuri articolului tau.
 71135	Inel Semiluna(7d)	Un inel cu o gravur� artizanal� �n form� de semilun�.
 71136	Acadea N�zdr�van�(7d)	O acadea f�cut� din ingrediente secrete, care ��i ofera bonusuri speciale.
@@ -1112,7 +1112,7 @@
 86058	Perl� Violet	O perl� foarte rar� care este folosit� pentru a evolua animalul de companie.
 86060	Vr�je�te Zodiac	Elimin� bonusurile din arm� �i armur� Zodiac �i aplic� altele noi.
 86062	Vr�je�te Alchemie	Elimin� bonusurile din piatra dragon �i aplic� altele noi.
-86066	Bucat� de piatr� magic�	Cu acest obiect, merg�nd la fierar, pute�i cumPara Piatra Magic�.
+86066	Bucat� de piatr� magic�	Cu acest obiect, merg�nd la fierar, puteti cumPara Piatra Magic�.
 86067	Talisman Brut	Acest element este utilizat pentru �mbun�t��irea talismanelor.
 86071	Snack Proteic (2d)	Cu aceast� mu�c�tur� po�i re�nvia sau cre�te durata de via�� animalului dvs. de companie. Vei primi o nou� durat� de: 2zile. Trage snack-ul peste pictograma animalului de companie pentru a-l utiliza.
 86072	Snack Proteic (4d)	Cu aceast� mu�c�tur� po�i re�nvia sau cre�te durata de via�� animalului dvs. de companie. Vei primi o nou� durat� de: 4zile. Trage snack-ul peste pictograma animalului de companie pentru a-l utiliza.
@@ -1121,7 +1121,7 @@
 86075	Snack special	Prin aceast� mu�c�tur� po�i �mbun�t��i un bonus al animalului dvs. de companie. Trage snack-ul peste pictograma animalului de companie pentru al utiliza.
 86076	Reseteaz� abilitate petului	Acest articol v� permite s� uita�i o abilitate a animalului dvs. de companie. Pentru a-l utiliza, trebuie sa ave�i un animal de companie convocat.
 86077	Reseteaz� abilitatea petului (S)	Acest articol va permite sa uita?i o abilitate a animalului dvs. de companie. Pentru a-l utiliza, trebuie sa ave�i un animal de companie convocat.
-86080	Elimin� Bonus Costum	Prin intermediul acestui element pute�i elimina bonusurile unui costum. Trage�i obiectul peste fura pentru a-i elimina bonusurile.
+86080	Elimin� Bonus Costum	Prin intermediul acestui element puteti elimina bonusurile unui costum. Trage�i obiectul peste fura pentru a-i elimina bonusurile.
 88001	E�arf� Lord Suport Shaman	Acest articol poate fi purtat numai de Suportul Shaman.
 88005	E�arf� Ro�ie Suport Shaman	Acest articol poate fi purtat numai de Suportul Shaman.
 88009	E�arf� Neagr� Suport Shaman	Acest articol poate fi purtat numai de Suportul Shaman.
