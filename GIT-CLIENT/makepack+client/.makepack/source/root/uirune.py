@@ -72,13 +72,13 @@ class wnd(ui.ScriptWindow):
 		self.LoadWindow()
 		if self.status == 2:
 			import chat
-			chat.AppendChat(chat.CHAT_TYPE_INFO, localeinfo.RUNE_IS_UNLOCKED1)
-			chat.AppendChat(chat.CHAT_TYPE_INFO, localeinfo.RUNE_IS_UNLOCKED2)
+			# chat.AppendChat(chat.CHAT_TYPE_INFO, localeinfo.RUNE_IS_UNLOCKED1)
+			# chat.AppendChat(chat.CHAT_TYPE_INFO, localeinfo.RUNE_IS_UNLOCKED2)
 			self.Close()
 			return
 		elif self.status != 1:
 			import chat
-			chat.AppendChat(chat.CHAT_TYPE_INFO, localeinfo.RUNE_LOCKED)
+			# chat.AppendChat(chat.CHAT_TYPE_INFO, localeinfo.RUNE_LOCKED)
 			self.Close()
 			return
 		
