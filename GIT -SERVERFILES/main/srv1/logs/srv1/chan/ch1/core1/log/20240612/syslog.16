@@ -1,0 +1,495 @@
+Jun 12 16:00:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:01:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:02:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:03:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:04:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:05:14 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2935614195 output input_len 0, ptr 0x2bb20100
+Jun 12 16:05:14 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:05:14 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:05:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:06:04 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3045634871 output input_len 0, ptr 0x2bb20100
+Jun 12 16:06:06 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 2422465723 output input_len 0, ptr 0x2bb20600
+Jun 12 16:06:06 :: Handshake: client_time 0 server_time 62498895
+Jun 12 16:06:07 :: LOGIN_BY_KEY: test4 key 2124612944
+Jun 12 16:06:07 :: LoginSuccess
+Jun 12 16:06:07 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:06:07 :: 	player().job(0)
+Jun 12 16:06:07 :: 	player().job(0)
+Jun 12 16:06:07 :: 	player().job(0)
+Jun 12 16:06:07 :: 	player().job(0)
+Jun 12 16:06:07 :: success to 81.180.202.36:30070
+Jun 12 16:06:07 :: InputDB::login_success: test4
+Jun 12 16:06:07 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:06:07 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3841085843 output input_len 0, ptr 0x2bb20100
+Jun 12 16:06:07 :: MARK_SERVER: Login
+Jun 12 16:06:08 :: LargePacket Size 136
+Jun 12 16:06:08 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:06:08 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:06:08 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:06:11 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:06:12 :: P2P: Login [DEV]Cezariu
+Jun 12 16:06:13 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2370851800 output input_len 0, ptr 0x2bb20600
+Jun 12 16:06:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:07:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:08:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:09:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:09:34 :: RegisterRaceNumMap Vein Of Amethyst Ore 20058
+Jun 12 16:10:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:11:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:12:13 :: PING_EVENT: no pong 93.115.44.117
+Jun 12 16:12:13 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:12:16 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2295814886 output input_len 0, ptr 0x2bb20600
+Jun 12 16:12:17 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:12:17 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:12:24 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3057965245 output input_len 0, ptr 0x2bb20600
+Jun 12 16:12:25 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 3961950534 output input_len 0, ptr 0x2bb20100
+Jun 12 16:12:25 :: Handshake: client_time 0 server_time 62877948
+Jun 12 16:12:26 :: LOGIN_BY_KEY: test4 key 752899730
+Jun 12 16:12:26 :: LoginSuccess
+Jun 12 16:12:26 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:12:26 :: 	player().job(0)
+Jun 12 16:12:26 :: 	player().job(0)
+Jun 12 16:12:26 :: 	player().job(0)
+Jun 12 16:12:26 :: 	player().job(0)
+Jun 12 16:12:26 :: success to 81.180.202.36:30070
+Jun 12 16:12:26 :: InputDB::login_success: test4
+Jun 12 16:12:26 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:12:26 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 1276751350 output input_len 0, ptr 0x2bb20600
+Jun 12 16:12:27 :: MARK_SERVER: Login
+Jun 12 16:12:27 :: LargePacket Size 136
+Jun 12 16:12:27 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:12:27 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:12:27 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:12:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:12:30 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:12:31 :: P2P: Login [DEV]Cezariu
+Jun 12 16:12:32 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 759669652 output input_len 0, ptr 0x2bb20100
+Jun 12 16:12:46 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:12:46 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 4124941768 output input_len 0, ptr 0x2bb20100
+Jun 12 16:12:46 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:12:46 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:12:54 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 1166801961 output input_len 0, ptr 0x2bb20100
+Jun 12 16:12:56 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 4291865673 output input_len 0, ptr 0x2bb20600
+Jun 12 16:12:56 :: Handshake: client_time 0 server_time 62908640
+Jun 12 16:12:56 :: LOGIN_BY_KEY: test4 key 1925988334
+Jun 12 16:12:57 :: LoginSuccess
+Jun 12 16:12:57 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:12:57 :: 	player().job(0)
+Jun 12 16:12:57 :: 	player().job(0)
+Jun 12 16:12:57 :: 	player().job(0)
+Jun 12 16:12:57 :: 	player().job(0)
+Jun 12 16:12:57 :: success to 81.180.202.36:30070
+Jun 12 16:12:57 :: InputDB::login_success: test4
+Jun 12 16:12:57 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:12:57 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 284503679 output input_len 0, ptr 0x2bb20100
+Jun 12 16:12:57 :: MARK_SERVER: Login
+Jun 12 16:12:57 :: LargePacket Size 136
+Jun 12 16:12:57 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:12:57 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:12:58 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:12:58 :: RegisterRaceNumMap Heaven's Tear Vein 20059
+Jun 12 16:13:00 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:13:01 :: P2P: Login [DEV]Cezariu
+Jun 12 16:13:02 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 672740436 output input_len 0, ptr 0x2bb20600
+Jun 12 16:13:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:13:38 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:13:38 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2263978753 output input_len 0, ptr 0x2bb20600
+Jun 12 16:13:38 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:13:38 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:13:43 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3500742095 output input_len 0, ptr 0x2bb20600
+Jun 12 16:13:47 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 3230025731 output input_len 0, ptr 0x2bb20100
+Jun 12 16:13:48 :: Handshake: client_time 0 server_time 62960105
+Jun 12 16:13:48 :: LOGIN_BY_KEY: test4 key 119540163
+Jun 12 16:13:48 :: LoginSuccess
+Jun 12 16:13:48 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:13:48 :: 	player().job(0)
+Jun 12 16:13:48 :: 	player().job(0)
+Jun 12 16:13:48 :: 	player().job(0)
+Jun 12 16:13:48 :: 	player().job(0)
+Jun 12 16:13:48 :: success to 81.180.202.36:30070
+Jun 12 16:13:48 :: InputDB::login_success: test4
+Jun 12 16:13:48 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:13:48 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 1762029128 output input_len 0, ptr 0x2bb20600
+Jun 12 16:13:49 :: MARK_SERVER: Login
+Jun 12 16:13:49 :: LargePacket Size 136
+Jun 12 16:13:49 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:13:49 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:13:49 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:13:53 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:13:54 :: P2P: Login [DEV]Cezariu
+Jun 12 16:13:55 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 837165807 output input_len 0, ptr 0x2bb20100
+Jun 12 16:14:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:14:30 :: RegisterRaceNumMap Vein Of Diamond Ore 20047
+Jun 12 16:14:31 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:14:31 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3168693396 output input_len 0, ptr 0x2bb20100
+Jun 12 16:14:31 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:14:31 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:14:35 :: RegisterRaceNumMap Vein Of Amethyst Ore 20058
+Jun 12 16:14:36 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 1823794716 output input_len 0, ptr 0x2bb20100
+Jun 12 16:14:37 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 473586744 output input_len 0, ptr 0x2bb20600
+Jun 12 16:14:38 :: Handshake: client_time 0 server_time 63010074
+Jun 12 16:14:38 :: LOGIN_BY_KEY: test4 key 1251444506
+Jun 12 16:14:38 :: LoginSuccess
+Jun 12 16:14:38 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:14:38 :: 	player().job(0)
+Jun 12 16:14:38 :: 	player().job(0)
+Jun 12 16:14:38 :: 	player().job(0)
+Jun 12 16:14:38 :: 	player().job(0)
+Jun 12 16:14:38 :: success to 81.180.202.36:30070
+Jun 12 16:14:38 :: InputDB::login_success: test4
+Jun 12 16:14:38 :: RegisterRaceNumMap Vein Of Amethyst Ore 20058
+Jun 12 16:14:38 :: SYSTEM: new connection from [93.115.44.117] fd: 22 handshake 1558827396 output input_len 0, ptr 0x2bb20b00
+Jun 12 16:14:38 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:14:39 :: MARK_SERVER: Login
+Jun 12 16:14:39 :: LargePacket Size 136
+Jun 12 16:14:39 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:14:39 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:14:39 :: SYSTEM: closing socket. DESC #22
+Jun 12 16:14:42 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:14:43 :: P2P: Login [DEV]Cezariu
+Jun 12 16:14:44 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 800659695 output input_len 0, ptr 0x2bb20600
+Jun 12 16:15:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:15:37 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:15:37 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2989619824 output input_len 0, ptr 0x2bb20600
+Jun 12 16:15:37 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:15:37 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:15:41 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 933046130 output input_len 0, ptr 0x2bb20600
+Jun 12 16:15:43 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 3818791875 output input_len 0, ptr 0x2bb20100
+Jun 12 16:15:43 :: Handshake: lower than zero -2
+Jun 12 16:15:43 :: Handshake: client_time 0 server_time 63075679
+Jun 12 16:15:43 :: LOGIN_BY_KEY: test4 key 1263121269
+Jun 12 16:15:44 :: LoginSuccess
+Jun 12 16:15:44 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:15:44 :: 	player().job(0)
+Jun 12 16:15:44 :: 	player().job(0)
+Jun 12 16:15:44 :: 	player().job(0)
+Jun 12 16:15:44 :: 	player().job(0)
+Jun 12 16:15:44 :: success to 81.180.202.36:30070
+Jun 12 16:15:44 :: InputDB::login_success: test4
+Jun 12 16:15:44 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:15:44 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2598321845 output input_len 0, ptr 0x2bb20600
+Jun 12 16:15:44 :: MARK_SERVER: Login
+Jun 12 16:15:44 :: LargePacket Size 136
+Jun 12 16:15:44 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:15:45 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:15:45 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:15:48 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:15:49 :: P2P: Login [DEV]Cezariu
+Jun 12 16:15:50 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 4034612598 output input_len 0, ptr 0x2bb20100
+Jun 12 16:16:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:16:47 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 3433140744 output input_len 0, ptr 0x2bb20600
+Jun 12 16:16:47 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:16:47 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:16:47 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:16:51 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2856484988 output input_len 0, ptr 0x2bb20600
+Jun 12 16:16:53 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 720965295 output input_len 0, ptr 0x2bb20100
+Jun 12 16:16:53 :: Handshake: client_time 0 server_time 63145295
+Jun 12 16:16:53 :: LOGIN_BY_KEY: test4 key 1469580899
+Jun 12 16:16:53 :: LoginSuccess
+Jun 12 16:16:53 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:16:53 :: 	player().job(0)
+Jun 12 16:16:53 :: 	player().job(0)
+Jun 12 16:16:53 :: 	player().job(0)
+Jun 12 16:16:53 :: 	player().job(0)
+Jun 12 16:16:53 :: success to 81.180.202.36:30070
+Jun 12 16:16:53 :: InputDB::login_success: test4
+Jun 12 16:16:54 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:16:54 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2556821978 output input_len 0, ptr 0x2bb20600
+Jun 12 16:16:54 :: MARK_SERVER: Login
+Jun 12 16:16:54 :: LargePacket Size 136
+Jun 12 16:16:54 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:16:54 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:16:54 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:16:57 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:16:58 :: P2P: Login [DEV]Cezariu
+Jun 12 16:17:00 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3740011320 output input_len 0, ptr 0x2bb20100
+Jun 12 16:17:22 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 1776127175 output input_len 0, ptr 0x2bb20600
+Jun 12 16:17:22 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:17:22 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:17:22 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:17:26 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2090785982 output input_len 0, ptr 0x2bb20600
+Jun 12 16:17:28 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 1198797510 output input_len 0, ptr 0x2bb20100
+Jun 12 16:17:28 :: Handshake: client_time 0 server_time 63180661
+Jun 12 16:17:28 :: LOGIN_BY_KEY: test4 key 2079385890
+Jun 12 16:17:29 :: LoginSuccess
+Jun 12 16:17:29 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:17:29 :: 	player().job(0)
+Jun 12 16:17:29 :: 	player().job(0)
+Jun 12 16:17:29 :: 	player().job(0)
+Jun 12 16:17:29 :: 	player().job(0)
+Jun 12 16:17:29 :: success to 81.180.202.36:30070
+Jun 12 16:17:29 :: InputDB::login_success: test4
+Jun 12 16:17:29 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:17:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:17:29 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2984377315 output input_len 0, ptr 0x2bb20600
+Jun 12 16:17:29 :: MARK_SERVER: Login
+Jun 12 16:17:29 :: LargePacket Size 136
+Jun 12 16:17:29 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:17:30 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:17:30 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:17:33 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:17:34 :: P2P: Login [DEV]Cezariu
+Jun 12 16:17:35 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2309263732 output input_len 0, ptr 0x2bb20100
+Jun 12 16:17:59 :: SYSTEM: closing socket. DESC #20
+SYSERR: Jun 12 16:17:59 :: socket_accept: accept: Software caused connection abort (fd 12)
+Jun 12 16:17:59 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:18:03 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 4087110654 output input_len 0, ptr 0x2bb20100
+Jun 12 16:18:05 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 2249548451 output input_len 0, ptr 0x2bb20600
+Jun 12 16:18:05 :: Handshake: client_time 0 server_time 63217877
+Jun 12 16:18:06 :: LOGIN_BY_KEY: test4 key 1825610431
+Jun 12 16:18:06 :: LoginSuccess
+Jun 12 16:18:06 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:18:06 :: 	player().job(0)
+Jun 12 16:18:06 :: 	player().job(0)
+Jun 12 16:18:06 :: 	player().job(0)
+Jun 12 16:18:06 :: 	player().job(0)
+Jun 12 16:18:06 :: success to 81.180.202.36:30070
+Jun 12 16:18:06 :: InputDB::login_success: test4
+Jun 12 16:18:06 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:18:06 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 966665891 output input_len 0, ptr 0x2bb20100
+Jun 12 16:18:07 :: MARK_SERVER: Login
+Jun 12 16:18:07 :: LargePacket Size 136
+Jun 12 16:18:07 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:18:07 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:18:07 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:18:13 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:18:14 :: P2P: Login [DEV]Cezariu
+Jun 12 16:18:15 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 1274118564 output input_len 0, ptr 0x2bb20600
+Jun 12 16:18:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:18:41 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:18:41 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:18:42 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3826171590 output input_len 0, ptr 0x2bb20600
+Jun 12 16:18:42 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:18:48 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 4229813088 output input_len 0, ptr 0x2bb20600
+Jun 12 16:18:50 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 354293338 output input_len 0, ptr 0x2bb20100
+Jun 12 16:18:50 :: Handshake: client_time 0 server_time 63262539
+Jun 12 16:18:50 :: LOGIN_BY_KEY: test4 key 964384725
+Jun 12 16:18:51 :: LoginSuccess
+Jun 12 16:18:51 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:18:51 :: 	player().job(0)
+Jun 12 16:18:51 :: 	player().job(0)
+Jun 12 16:18:51 :: 	player().job(0)
+Jun 12 16:18:51 :: 	player().job(0)
+Jun 12 16:18:51 :: success to 81.180.202.36:30070
+Jun 12 16:18:51 :: InputDB::login_success: test4
+Jun 12 16:18:51 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:18:51 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2478970693 output input_len 0, ptr 0x2bb20600
+Jun 12 16:18:51 :: MARK_SERVER: Login
+Jun 12 16:18:51 :: LargePacket Size 136
+Jun 12 16:18:51 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:18:51 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:18:52 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:19:02 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:19:03 :: P2P: Login [DEV]Cezariu
+Jun 12 16:19:04 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2347509246 output input_len 0, ptr 0x2bb20100
+Jun 12 16:19:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:20:02 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 1851523030 output input_len 0, ptr 0x2bb20600
+Jun 12 16:20:02 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:20:02 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:20:03 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:20:07 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2451465912 output input_len 0, ptr 0x2bb20600
+Jun 12 16:20:09 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 954296979 output input_len 0, ptr 0x2bb20100
+Jun 12 16:20:09 :: Handshake: client_time 0 server_time 63341306
+Jun 12 16:20:09 :: LOGIN_BY_KEY: test4 key 532769110
+Jun 12 16:20:09 :: LoginSuccess
+Jun 12 16:20:09 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:20:09 :: 	player().job(0)
+Jun 12 16:20:09 :: 	player().job(0)
+Jun 12 16:20:09 :: 	player().job(0)
+Jun 12 16:20:09 :: 	player().job(0)
+Jun 12 16:20:09 :: success to 81.180.202.36:30070
+Jun 12 16:20:09 :: InputDB::login_success: test4
+Jun 12 16:20:10 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:20:10 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2924381874 output input_len 0, ptr 0x2bb20600
+Jun 12 16:20:10 :: MARK_SERVER: Login
+Jun 12 16:20:10 :: LargePacket Size 136
+Jun 12 16:20:10 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:20:10 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:20:10 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:20:13 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:20:14 :: P2P: Login [DEV]Cezariu
+Jun 12 16:20:15 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 181029700 output input_len 0, ptr 0x2bb20100
+Jun 12 16:20:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:21:15 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:21:15 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2940071267 output input_len 0, ptr 0x2bb20100
+Jun 12 16:21:15 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:21:15 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:21:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:21:36 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 248035304 output input_len 0, ptr 0x2bb20100
+Jun 12 16:21:39 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 1701910507 output input_len 0, ptr 0x2bb20600
+Jun 12 16:21:40 :: Handshake: client_time 0 server_time 63432170
+Jun 12 16:21:40 :: LOGIN_BY_KEY: test4 key 1364733646
+Jun 12 16:21:40 :: LoginSuccess
+Jun 12 16:21:40 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:21:40 :: 	player().job(0)
+Jun 12 16:21:40 :: 	player().job(0)
+Jun 12 16:21:40 :: 	player().job(0)
+Jun 12 16:21:40 :: 	player().job(0)
+Jun 12 16:21:40 :: success to 81.180.202.36:30070
+Jun 12 16:21:40 :: InputDB::login_success: test4
+Jun 12 16:21:40 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:21:41 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3188539053 output input_len 0, ptr 0x2bb20100
+Jun 12 16:21:41 :: MARK_SERVER: Login
+Jun 12 16:21:41 :: LargePacket Size 136
+Jun 12 16:21:41 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:21:41 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:21:41 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:21:45 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:21:46 :: P2P: Login [DEV]Cezariu
+Jun 12 16:21:47 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 56680668 output input_len 0, ptr 0x2bb20600
+Jun 12 16:22:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:23:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:23:41 :: SYSTEM: closing socket. DESC #20
+SYSERR: Jun 12 16:23:41 :: socket_accept: accept: Software caused connection abort (fd 12)
+Jun 12 16:23:41 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:24:01 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 1647478980 output input_len 0, ptr 0x2bb20100
+Jun 12 16:24:03 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 1739747349 output input_len 0, ptr 0x2bb20600
+Jun 12 16:24:03 :: Handshake: client_time 0 server_time 63575614
+Jun 12 16:24:03 :: LOGIN_BY_KEY: test4 key 14055002
+Jun 12 16:24:04 :: LoginSuccess
+Jun 12 16:24:04 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:24:04 :: 	player().job(0)
+Jun 12 16:24:04 :: 	player().job(0)
+Jun 12 16:24:04 :: 	player().job(0)
+Jun 12 16:24:04 :: 	player().job(0)
+Jun 12 16:24:04 :: success to 81.180.202.36:30070
+Jun 12 16:24:04 :: InputDB::login_success: test4
+Jun 12 16:24:04 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:24:04 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3191161094 output input_len 0, ptr 0x2bb20100
+Jun 12 16:24:04 :: MARK_SERVER: Login
+Jun 12 16:24:04 :: LargePacket Size 136
+Jun 12 16:24:04 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:24:04 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:24:05 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:24:07 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:24:09 :: P2P: Login [DEV]Cezariu
+Jun 12 16:24:10 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3764118738 output input_len 0, ptr 0x2bb20600
+Jun 12 16:24:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:25:15 :: SYSTEM: closing socket. DESC #20
+SYSERR: Jun 12 16:25:15 :: socket_accept: accept: Software caused connection abort (fd 12)
+Jun 12 16:25:16 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:25:19 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 530941441 output input_len 0, ptr 0x2bb20600
+Jun 12 16:25:21 :: RegisterRaceNumMap Vein Of Diamond Ore 20047
+Jun 12 16:25:21 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 4019161272 output input_len 0, ptr 0x2bb20100
+Jun 12 16:25:21 :: Handshake: client_time 0 server_time 63653780
+Jun 12 16:25:22 :: LOGIN_BY_KEY: test4 key 1114954141
+Jun 12 16:25:22 :: LoginSuccess
+Jun 12 16:25:22 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:25:22 :: 	player().job(0)
+Jun 12 16:25:22 :: 	player().job(0)
+Jun 12 16:25:22 :: 	player().job(0)
+Jun 12 16:25:22 :: 	player().job(0)
+Jun 12 16:25:22 :: success to 81.180.202.36:30070
+Jun 12 16:25:22 :: InputDB::login_success: test4
+Jun 12 16:25:22 :: SYSTEM: new connection from [93.115.44.117] fd: 22 handshake 3427518550 output input_len 0, ptr 0x2bb20b00
+Jun 12 16:25:22 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:25:22 :: MARK_SERVER: Login
+Jun 12 16:25:22 :: LargePacket Size 136
+Jun 12 16:25:22 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:25:23 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:25:23 :: SYSTEM: closing socket. DESC #22
+Jun 12 16:25:26 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:25:27 :: P2P: Login [DEV]Cezariu
+Jun 12 16:25:28 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 181821777 output input_len 0, ptr 0x2bb20100
+Jun 12 16:25:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:26:20 :: SYSTEM: closing socket. DESC #20
+SYSERR: Jun 12 16:26:20 :: socket_accept: accept: Software caused connection abort (fd 12)
+Jun 12 16:26:20 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:26:23 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2717329930 output input_len 0, ptr 0x2bb20100
+Jun 12 16:26:25 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 2419966340 output input_len 0, ptr 0x2bb20600
+Jun 12 16:26:25 :: Handshake: client_time 0 server_time 63717665
+Jun 12 16:26:25 :: LOGIN_BY_KEY: test4 key 1012303908
+Jun 12 16:26:26 :: LoginSuccess
+Jun 12 16:26:26 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:26:26 :: 	player().job(0)
+Jun 12 16:26:26 :: 	player().job(0)
+Jun 12 16:26:26 :: 	player().job(0)
+Jun 12 16:26:26 :: 	player().job(0)
+Jun 12 16:26:26 :: success to 81.180.202.36:30070
+Jun 12 16:26:26 :: InputDB::login_success: test4
+Jun 12 16:26:26 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:26:26 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 947619072 output input_len 0, ptr 0x2bb20100
+Jun 12 16:26:26 :: MARK_SERVER: Login
+Jun 12 16:26:26 :: LargePacket Size 136
+Jun 12 16:26:26 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:26:27 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:26:27 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:26:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:26:29 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:26:30 :: P2P: Login [DEV]Cezariu
+Jun 12 16:26:32 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3325012027 output input_len 0, ptr 0x2bb20600
+Jun 12 16:27:04 :: RegisterRaceNumMap Heaven's Tear Vein 20059
+Jun 12 16:27:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:28:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:29:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:29:42 :: RegisterRaceNumMap Vein Of Ebony Ore 20054
+Jun 12 16:30:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:30:57 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:30:57 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 837255838 output input_len 0, ptr 0x2bb20600
+Jun 12 16:30:57 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:30:57 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:31:05 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 985055329 output input_len 0, ptr 0x2bb20600
+Jun 12 16:31:07 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 1937708305 output input_len 0, ptr 0x2bb20100
+Jun 12 16:31:07 :: Handshake: client_time 0 server_time 63999593
+Jun 12 16:31:07 :: LOGIN_BY_KEY: test4 key 1851084314
+Jun 12 16:31:08 :: LoginSuccess
+Jun 12 16:31:08 :: 	player([DEV]Cezariu).job(0)
+Jun 12 16:31:08 :: 	player().job(0)
+Jun 12 16:31:08 :: 	player().job(0)
+Jun 12 16:31:08 :: 	player().job(0)
+Jun 12 16:31:08 :: 	player().job(0)
+Jun 12 16:31:08 :: success to 81.180.202.36:30070
+Jun 12 16:31:08 :: InputDB::login_success: test4
+Jun 12 16:31:08 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:31:08 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 1598334173 output input_len 0, ptr 0x2bb20600
+Jun 12 16:31:08 :: MARK_SERVER: Login
+Jun 12 16:31:08 :: LargePacket Size 136
+Jun 12 16:31:08 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 16:31:08 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 16:31:09 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:31:09 :: RegisterRaceNumMap Vein Of Diamond Ore 20047
+Jun 12 16:31:20 :: SYSTEM: closing socket. DESC #21
+Jun 12 16:31:22 :: P2P: Login [DEV]Cezariu
+Jun 12 16:31:23 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3793081917 output input_len 0, ptr 0x2bb20100
+Jun 12 16:31:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:32:14 :: RegisterRaceNumMap Vein Of White Gold Ore 20056
+Jun 12 16:32:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:33:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:34:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:35:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:36:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:37:23 :: PING_EVENT: no pong 93.115.44.117
+Jun 12 16:37:23 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:37:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:38:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:39:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:40:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:41:20 :: RegisterRaceNumMap Vein Of White Gold Ore 20056
+Jun 12 16:41:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:42:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:43:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:44:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:44:30 :: RegisterRaceNumMap Pile Of Clams 20055
+Jun 12 16:45:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:46:27 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 769423087 output input_len 0, ptr 0x2bb20100
+Jun 12 16:46:27 :: SYSTEM: closing socket. DESC #20
+Jun 12 16:46:27 :: P2P: Logout [DEV]Cezariu
+Jun 12 16:46:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:47:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:48:04 :: RegisterRaceNumMap Vein Of Diamond Ore 20047
+Jun 12 16:48:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:49:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:49:42 :: RegisterRaceNumMap Vein Of Amethyst Ore 20058
+Jun 12 16:50:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:51:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:52:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:53:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:54:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:55:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:56:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:57:05 :: RegisterRaceNumMap Vein Of Diamond Ore 20047
+Jun 12 16:57:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:58:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:59:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 16:59:39 :: RegisterRaceNumMap Vein Of Crystal Ore 20057
+Jun 12 17:00:00 :: SYSTEM: LOG ROTATE (2024-06-12 16)

@@ -1,0 +1,14 @@
+Jun 12 11:27:31 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 1416962948 output input_len 0, ptr 0x288c3e00
+Jun 12 11:27:31 :: Handshake: client_time 0 server_time 45783250
+Jun 12 11:27:31 :: AUTH_PHASE 0x288c3e00
+Jun 12 11:27:31 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 11:27:31 :: SetLoginKey 479419262
+Jun 12 11:27:31 :: InputAuth::Login: key (479419262) login (test4)
+Jun 12 11:27:31 :: QID_AUTH_LOGIN: START 479419262 0x288c3e00
+Jun 12 11:27:31 :: Create_Time 1896971434 20300210
+Jun 12 11:27:31 :: Block Time -1 
+Jun 12 11:27:31 :: SetRemainSecs test4 0
+Jun 12 11:27:31 :: SendAuthLogin test4 key 21
+Jun 12 11:27:31 :: AuthLogin result 1 key 479419262
+Jun 12 11:27:31 :: SYSTEM: closing socket. DESC #16
+Jun 12 12:00:00 :: SYSTEM: LOG ROTATE (2024-06-12 11)

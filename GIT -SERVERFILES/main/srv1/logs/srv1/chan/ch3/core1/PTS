@@ -1,2 +1,1 @@
-[  2] event     0/1     idle 41   event 0    heartbeat 0    I/O 0    chrUpate 0    | WRITE: 254     | PULSE: 12
-[ 25] event     0/1     idle 957  event 0    heartbeat 0    I/O 43   chrUpate 0    | WRITE: 13      | PULSE: 37
+[ 20] event     0/1     idle 745  event 0    heartbeat 0    I/O 15   chrUpate 0    | WRITE: 267     | PULSE: 30

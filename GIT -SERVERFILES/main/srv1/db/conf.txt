@@ -1,6 +1,6 @@
-SQL_ACCOUNT = "localhost account e2user! e2pass! 3306"
-SQL_COMMON = "localhost common e2user! e2pass! 3306"
-SQL_PLAYER = "localhost player e2user! e2pass! 3306"
+SQL_ACCOUNT = "localhost account root cezariu 3306"
+SQL_COMMON = "localhost common root cezariu 3306"
+SQL_PLAYER = "localhost player root cezariu 3306"
 TABLE_POSTFIX = ""
 CLIENT_HEART_FPS = 25
 PLAYER_ID_START = 100

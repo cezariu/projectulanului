@@ -315,7 +315,7 @@ WIKI_TITLE	Wiki
 RESTART_TOWN_NEW	Reincepe in oras in %s sec
 RESTART_HERE_NEW	Reincepe aici in %s sec
 BIOLOGO_CONSEGNA_ITEM	Livreaza
-NOTIFICA_BIOLOGO	Activeaza notificarea
+NOTIFICA_BIOLOGO	Notificare
 NOME_BIOLOGO	Biolog
 AUTO_TRANSLATE_DESC	Daca e activat, toate mesajele primite vor fi traduse automat an limba ta.
 AUTO_TRANSLATE	Traducere Auto
@@ -398,12 +398,12 @@ SAVE_POINT	Salveaza Locatia
 TELEPORTER	Harta de teleportare
 SUPPORT_SYSTEM	Suport Shaman [X]
 CLASSIFICA_GIOCATORI	Clasamentul Jucatorilor [F12]
-CLASSIFICA_GILDA	Clasamentul Breslelor [F6]
-SWITCH_BOT	Switchbot [K]
+CLASSIFICA_GILDA	Clasamentul Breslelor
+SWITCH_BOT	Switchbot
 INVENTORY_SEPARATE	Re-ordineaza Inventarul
 INVENTORY_SPECIAL_SEPARATE	Re-ordineaza Inventarul Extra
 Rune	Rune [J]
-EXTRA_INVENTORY	Inventar Extra [F5]
+EXTRA_INVENTORY	Inventar Extra [U]
 HIDE_COSTUME	Ascunde costume
 SELECT_YES_GUILD	Numele breslei: %s
 SUPPORT_SKILL_VALUE	Valoarea abilitatii

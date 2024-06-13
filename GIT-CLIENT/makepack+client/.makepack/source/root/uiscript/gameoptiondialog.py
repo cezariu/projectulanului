@@ -49,7 +49,7 @@ window = {
 					"height" : BOARD_HEIGHT,
 					"children" :
 					[
-						## ÀÌ¸§»ö
+						## ï¿½Ì¸ï¿½ï¿½ï¿½
 						{
 							"name" : "name_color",
 							"type" : "text",

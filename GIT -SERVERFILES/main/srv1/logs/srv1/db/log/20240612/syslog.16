@@ -1,0 +1,2310 @@
+Jun 12 16:00:00 :: [  1553400] return 0/0/1 async 0/0/0
+Jun 12 16:00:02 :: [  1553450] return 0/0/0 async 0/0/0
+Jun 12 16:00:04 :: [  1553500] return 0/0/0 async 0/0/0
+Jun 12 16:00:06 :: [  1553550] return 0/0/0 async 0/0/0
+Jun 12 16:00:08 :: [  1553600] return 0/0/0 async 0/0/0
+Jun 12 16:00:10 :: [  1553650] return 0/0/1 async 0/0/0
+Jun 12 16:00:12 :: [  1553700] return 0/0/0 async 0/0/0
+Jun 12 16:00:14 :: [  1553750] return 0/0/0 async 0/0/0
+Jun 12 16:00:16 :: [  1553800] return 0/0/0 async 0/0/0
+Jun 12 16:00:18 :: [  1553850] return 0/0/0 async 0/0/0
+Jun 12 16:00:20 :: [  1553900] return 0/0/1 async 0/0/0
+Jun 12 16:00:22 :: [  1553950] return 0/0/0 async 0/0/0
+Jun 12 16:00:24 :: [  1554000] return 0/0/0 async 0/0/0
+Jun 12 16:00:26 :: [  1554050] return 0/0/0 async 0/0/0
+Jun 12 16:00:28 :: [  1554100] return 0/0/0 async 0/0/0
+Jun 12 16:00:30 :: [  1554150] return 0/0/1 async 0/0/0
+Jun 12 16:00:32 :: [  1554200] return 0/0/0 async 0/0/0
+Jun 12 16:00:34 :: [  1554250] return 0/0/0 async 0/0/0
+Jun 12 16:00:36 :: [  1554300] return 0/0/0 async 0/0/0
+Jun 12 16:00:38 :: [  1554350] return 0/0/0 async 0/0/0
+Jun 12 16:00:40 :: [  1554400] return 0/0/1 async 0/0/0
+Jun 12 16:00:42 :: [  1554450] return 0/0/0 async 0/0/0
+Jun 12 16:00:44 :: [  1554500] return 0/0/0 async 0/0/0
+Jun 12 16:00:46 :: [  1554550] return 0/0/0 async 0/0/0
+Jun 12 16:00:48 :: [  1554600] return 0/0/0 async 0/0/0
+Jun 12 16:00:50 :: [  1554650] return 0/0/1 async 0/0/0
+Jun 12 16:00:52 :: [  1554700] return 0/0/0 async 0/0/0
+Jun 12 16:00:54 :: [  1554750] return 0/0/0 async 0/0/0
+Jun 12 16:00:56 :: [  1554800] return 0/0/0 async 0/0/0
+Jun 12 16:00:58 :: [  1554850] return 0/0/0 async 0/0/0
+Jun 12 16:01:00 :: [  1554900] return 0/0/1 async 0/0/0
+Jun 12 16:01:02 :: [  1554950] return 0/0/0 async 0/0/0
+Jun 12 16:01:04 :: [  1555000] return 0/0/0 async 0/0/0
+Jun 12 16:01:06 :: [  1555050] return 0/0/0 async 0/0/0
+Jun 12 16:01:08 :: [  1555100] return 0/0/0 async 0/0/0
+Jun 12 16:01:10 :: [  1555150] return 0/0/1 async 0/0/0
+Jun 12 16:01:12 :: [  1555200] return 0/0/0 async 0/0/0
+Jun 12 16:01:14 :: [  1555250] return 0/0/0 async 0/0/0
+Jun 12 16:01:16 :: [  1555300] return 0/0/0 async 0/0/0
+Jun 12 16:01:18 :: [  1555350] return 0/0/0 async 0/0/0
+Jun 12 16:01:20 :: [  1555400] return 0/0/1 async 0/0/0
+Jun 12 16:01:22 :: [  1555450] return 0/0/0 async 0/0/0
+Jun 12 16:01:24 :: [  1555500] return 0/0/0 async 0/0/0
+Jun 12 16:01:26 :: [  1555550] return 0/0/0 async 0/0/0
+Jun 12 16:01:28 :: [  1555600] return 0/0/0 async 0/0/0
+Jun 12 16:01:30 :: [  1555650] return 0/0/1 async 0/0/0
+Jun 12 16:01:32 :: [  1555700] return 0/0/0 async 0/0/0
+Jun 12 16:01:34 :: [  1555750] return 0/0/0 async 0/0/0
+Jun 12 16:01:36 :: [  1555800] return 0/0/0 async 0/0/0
+Jun 12 16:01:38 :: [  1555850] return 0/0/0 async 0/0/0
+Jun 12 16:01:40 :: [  1555900] return 0/0/1 async 0/0/0
+Jun 12 16:01:42 :: [  1555950] return 0/0/0 async 0/0/0
+Jun 12 16:01:44 :: [  1556000] return 0/0/0 async 0/0/0
+Jun 12 16:01:46 :: [  1556050] return 0/0/0 async 0/0/0
+Jun 12 16:01:48 :: [  1556100] return 0/0/0 async 0/0/0
+Jun 12 16:01:50 :: [  1556150] return 0/0/1 async 0/0/0
+Jun 12 16:01:52 :: [  1556200] return 0/0/0 async 0/0/0
+Jun 12 16:01:54 :: [  1556250] return 0/0/0 async 0/0/0
+Jun 12 16:01:56 :: [  1556300] return 0/0/0 async 0/0/0
+Jun 12 16:01:58 :: [  1556350] return 0/0/0 async 0/0/0
+Jun 12 16:02:00 :: [  1556400] return 0/0/1 async 0/0/0
+Jun 12 16:02:02 :: [  1556450] return 0/0/0 async 0/0/0
+Jun 12 16:02:04 :: [  1556500] return 0/0/0 async 0/0/0
+Jun 12 16:02:06 :: [  1556550] return 0/0/0 async 0/0/0
+Jun 12 16:02:08 :: [  1556600] return 0/0/0 async 0/0/0
+Jun 12 16:02:10 :: [  1556650] return 0/0/1 async 0/0/0
+Jun 12 16:02:12 :: [  1556700] return 0/0/0 async 0/0/0
+Jun 12 16:02:14 :: [  1556750] return 0/0/0 async 0/0/0
+Jun 12 16:02:16 :: [  1556800] return 0/0/0 async 0/0/0
+Jun 12 16:02:18 :: [  1556850] return 0/0/0 async 0/0/0
+Jun 12 16:02:20 :: [  1556900] return 0/0/1 async 0/0/0
+Jun 12 16:02:22 :: [  1556950] return 0/0/0 async 0/0/0
+Jun 12 16:02:24 :: [  1557000] return 0/0/0 async 0/0/0
+Jun 12 16:02:26 :: [  1557050] return 0/0/0 async 0/0/0
+Jun 12 16:02:28 :: [  1557100] return 0/0/0 async 0/0/0
+Jun 12 16:02:30 :: [  1557150] return 0/0/1 async 0/0/0
+Jun 12 16:02:32 :: [  1557200] return 0/0/0 async 0/0/0
+Jun 12 16:02:34 :: [  1557250] return 0/0/0 async 0/0/0
+Jun 12 16:02:36 :: [  1557300] return 0/0/0 async 0/0/0
+Jun 12 16:02:38 :: [  1557350] return 0/0/0 async 0/0/0
+Jun 12 16:02:40 :: [  1557400] return 0/0/1 async 0/0/0
+Jun 12 16:02:42 :: [  1557450] return 0/0/0 async 0/0/0
+Jun 12 16:02:44 :: [  1557500] return 0/0/0 async 0/0/0
+Jun 12 16:02:46 :: [  1557550] return 0/0/0 async 0/0/0
+Jun 12 16:02:48 :: [  1557600] return 0/0/0 async 0/0/0
+Jun 12 16:02:50 :: [  1557650] return 0/0/1 async 0/0/0
+Jun 12 16:02:52 :: [  1557700] return 0/0/0 async 0/0/0
+Jun 12 16:02:54 :: [  1557750] return 0/0/0 async 0/0/0
+Jun 12 16:02:56 :: [  1557800] return 0/0/0 async 0/0/0
+Jun 12 16:02:58 :: [  1557850] return 0/0/0 async 0/0/0
+Jun 12 16:03:00 :: [  1557900] return 0/0/1 async 0/0/0
+Jun 12 16:03:02 :: [  1557950] return 0/0/0 async 0/0/0
+Jun 12 16:03:04 :: [  1558000] return 0/0/0 async 0/0/0
+Jun 12 16:03:06 :: [  1558050] return 0/0/0 async 0/0/0
+Jun 12 16:03:08 :: [  1558100] return 0/0/0 async 0/0/0
+Jun 12 16:03:10 :: [  1558150] return 0/0/1 async 0/0/0
+Jun 12 16:03:12 :: [  1558200] return 0/0/0 async 0/0/0
+Jun 12 16:03:14 :: [  1558250] return 0/0/0 async 0/0/0
+Jun 12 16:03:16 :: [  1558300] return 0/0/0 async 0/0/0
+Jun 12 16:03:18 :: [  1558350] return 0/0/0 async 0/0/0
+Jun 12 16:03:20 :: [  1558400] return 0/0/1 async 0/0/0
+Jun 12 16:03:22 :: [  1558450] return 0/0/0 async 0/0/0
+Jun 12 16:03:24 :: [  1558500] return 0/0/0 async 0/0/0
+Jun 12 16:03:26 :: [  1558550] return 0/0/0 async 0/0/0
+Jun 12 16:03:28 :: [  1558600] return 0/0/0 async 0/0/0
+Jun 12 16:03:30 :: [  1558650] return 0/0/1 async 0/0/0
+Jun 12 16:03:32 :: [  1558700] return 0/0/0 async 0/0/0
+Jun 12 16:03:34 :: [  1558750] return 0/0/0 async 0/0/0
+Jun 12 16:03:36 :: [  1558800] return 0/0/0 async 0/0/0
+Jun 12 16:03:38 :: [  1558850] return 0/0/0 async 0/0/0
+Jun 12 16:03:40 :: [  1558900] return 0/0/1 async 0/0/0
+Jun 12 16:03:42 :: [  1558950] return 0/0/0 async 0/0/0
+Jun 12 16:03:44 :: [  1559000] return 0/0/0 async 0/0/0
+Jun 12 16:03:46 :: [  1559050] return 0/0/0 async 0/0/0
+Jun 12 16:03:48 :: [  1559100] return 0/0/0 async 0/0/0
+Jun 12 16:03:50 :: [  1559150] return 0/0/1 async 0/0/0
+Jun 12 16:03:52 :: [  1559200] return 0/0/0 async 0/0/0
+Jun 12 16:03:54 :: [  1559250] return 0/0/0 async 0/0/0
+Jun 12 16:03:56 :: [  1559300] return 0/0/0 async 0/0/0
+Jun 12 16:03:58 :: [  1559350] return 0/0/0 async 0/0/0
+Jun 12 16:04:00 :: [  1559400] return 0/0/1 async 0/0/0
+Jun 12 16:04:02 :: [  1559450] return 0/0/0 async 0/0/0
+Jun 12 16:04:04 :: [  1559500] return 0/0/0 async 0/0/0
+Jun 12 16:04:06 :: [  1559550] return 0/0/0 async 0/0/0
+Jun 12 16:04:08 :: [  1559600] return 0/0/0 async 0/0/0
+Jun 12 16:04:10 :: [  1559650] return 0/0/1 async 0/0/0
+Jun 12 16:04:12 :: [  1559700] return 0/0/0 async 0/0/0
+Jun 12 16:04:14 :: [  1559750] return 0/0/0 async 0/0/0
+Jun 12 16:04:16 :: [  1559800] return 0/0/0 async 0/0/0
+Jun 12 16:04:18 :: [  1559850] return 0/0/0 async 0/0/0
+Jun 12 16:04:20 :: [  1559900] return 0/0/1 async 0/0/0
+Jun 12 16:04:22 :: [  1559950] return 0/0/0 async 0/0/0
+Jun 12 16:04:24 :: [  1560000] return 0/0/0 async 0/0/0
+Jun 12 16:04:26 :: [  1560050] return 0/0/0 async 0/0/0
+Jun 12 16:04:28 :: [  1560100] return 0/0/0 async 0/0/0
+Jun 12 16:04:30 :: [  1560150] return 0/0/1 async 0/0/0
+Jun 12 16:04:32 :: [  1560200] return 0/0/0 async 0/0/0
+Jun 12 16:04:34 :: [  1560250] return 0/0/0 async 0/0/0
+Jun 12 16:04:36 :: [  1560300] return 0/0/0 async 0/0/0
+Jun 12 16:04:38 :: [  1560350] return 0/0/0 async 0/0/0
+Jun 12 16:04:40 :: [  1560400] return 0/0/1 async 0/0/0
+Jun 12 16:04:42 :: [  1560450] return 0/0/0 async 0/0/0
+Jun 12 16:04:44 :: [  1560500] return 0/0/0 async 0/0/0
+Jun 12 16:04:46 :: [  1560550] return 0/0/0 async 0/0/0
+Jun 12 16:04:48 :: [  1560600] return 0/0/0 async 0/0/0
+Jun 12 16:04:50 :: [  1560650] return 0/0/1 async 0/0/0
+Jun 12 16:04:52 :: [  1560700] return 0/0/0 async 0/0/0
+Jun 12 16:04:54 :: [  1560750] return 0/0/0 async 0/0/0
+Jun 12 16:04:56 :: [  1560800] return 0/0/0 async 0/0/0
+Jun 12 16:04:58 :: [  1560850] return 0/0/0 async 0/0/0
+Jun 12 16:05:00 :: [  1560900] return 0/0/1 async 0/0/0
+Jun 12 16:05:02 :: [  1560950] return 0/0/0 async 0/0/0
+Jun 12 16:05:04 :: [  1561000] return 0/0/0 async 0/0/0
+Jun 12 16:05:06 :: [  1561050] return 0/0/0 async 0/0/0
+Jun 12 16:05:08 :: [  1561100] return 0/0/0 async 0/0/0
+Jun 12 16:05:10 :: [  1561150] return 0/0/1 async 0/0/0
+Jun 12 16:05:12 :: [  1561200] return 0/0/0 async 0/0/0
+Jun 12 16:05:14 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:05:14 :: ITEM_CACHE: save 45 id 90001141
+Jun 12 16:05:14 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:05:14 :: LOGOUT: Insert player pid(45)
+Jun 12 16:05:14 :: SetPlay off 678669102 test4
+Jun 12 16:05:14 :: LOGOUT test4 
+Jun 12 16:05:14 :: [  1561250] return 0/0/0 async 0/0/12
+Jun 12 16:05:16 :: [  1561300] return 0/0/0 async 0/0/0
+Jun 12 16:05:18 :: [  1561350] return 0/0/0 async 0/0/0
+Jun 12 16:05:20 :: [  1561400] return 0/0/1 async 0/0/0
+Jun 12 16:05:22 :: [  1561450] return 0/0/0 async 0/0/0
+Jun 12 16:05:24 :: [  1561500] return 0/0/0 async 0/0/0
+Jun 12 16:05:26 :: [  1561550] return 0/0/0 async 0/0/0
+Jun 12 16:05:28 :: [  1561600] return 0/0/0 async 0/0/0
+Jun 12 16:05:30 :: [  1561650] return 0/0/1 async 0/0/0
+Jun 12 16:05:32 :: [  1561700] return 0/0/0 async 0/0/0
+Jun 12 16:05:34 :: [  1561750] return 0/0/0 async 0/0/0
+Jun 12 16:05:36 :: [  1561800] return 0/0/0 async 0/0/0
+Jun 12 16:05:38 :: [  1561850] return 0/0/0 async 0/0/0
+Jun 12 16:05:40 :: [  1561900] return 0/0/1 async 0/0/0
+Jun 12 16:05:42 :: [  1561950] return 0/0/0 async 0/0/0
+Jun 12 16:05:44 :: [  1562000] return 0/0/0 async 0/0/0
+Jun 12 16:05:46 :: [  1562050] return 0/0/0 async 0/0/0
+Jun 12 16:05:48 :: [  1562100] return 0/0/0 async 0/0/0
+Jun 12 16:05:50 :: [  1562150] return 0/0/1 async 0/0/0
+Jun 12 16:05:52 :: [  1562200] return 0/0/0 async 0/0/0
+Jun 12 16:05:54 :: [  1562250] return 0/0/0 async 0/0/0
+Jun 12 16:05:56 :: [  1562300] return 0/0/0 async 0/0/0
+Jun 12 16:05:58 :: [  1562350] return 0/0/0 async 0/0/0
+Jun 12 16:06:00 :: [  1562400] return 0/0/1 async 0/0/0
+Jun 12 16:06:02 :: [  1562450] return 0/0/0 async 0/0/0
+Jun 12 16:06:04 :: [  1562500] return 0/0/0 async 0/0/0
+Jun 12 16:06:06 :: AUTH_PEER_READ: size 185
+Jun 12 16:06:06 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(2124612944), client_key(510335965 166877637 98802077 561649008)
+Jun 12 16:06:06 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:06:06 :: [  1562550] return 0/0/0 async 0/0/0
+Jun 12 16:06:07 :: LOGIN_BY_KEY success test4 2124612944 93.115.44.117
+Jun 12 16:06:07 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:06:07 :: [DEV]Cezariu 57525 166197 hair 530
+Jun 12 16:06:08 :: [  1562600] return 0/0/0 async 0/0/0
+Jun 12 16:06:10 :: [  1562650] return 0/0/1 async 0/0/0
+Jun 12 16:06:11 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:06:11 :: LOGOUT: Update player time pid(45)
+Jun 12 16:06:11 :: LOGOUT test4 
+Jun 12 16:06:11 :: LOGIN_BY_KEY success test4 2124612944 93.115.44.117
+Jun 12 16:06:11 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:06:11 :: [DEV]Cezariu 57525 166197 hair 530
+Jun 12 16:06:12 :: SetPlay on 2124612944 test4
+Jun 12 16:06:12 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:06:12 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:06:12 :: QID_QUEST 18
+Jun 12 16:06:12 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:06:12 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:06:12 :: QID_AFFECT 18
+Jun 12 16:06:12 :: AFFECT_LOAD: count 6 PID 45
+Jun 12 16:06:12 :: QID_EXT_BATTLE_PASS 18
+Jun 12 16:06:12 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:06:12 :: QID_SKILL_COLOR 18 45
+Jun 12 16:06:12 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:06:12 :: [  1562700] return 0/0/6 async 0/0/4
+Jun 12 16:06:14 :: [  1562750] return 0/0/0 async 0/0/3
+Jun 12 16:06:16 :: [  1562800] return 0/0/0 async 0/0/0
+Jun 12 16:06:16 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:06:16 :: ITEM_CACHE: save 45 id 90001141
+Jun 12 16:06:16 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:06:16 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:06:18 :: [  1562850] return 0/0/1 async 0/0/1
+Jun 12 16:06:20 :: [  1562900] return 0/0/1 async 0/0/0
+Jun 12 16:06:22 :: [  1562950] return 0/0/0 async 0/0/0
+Jun 12 16:06:24 :: [  1563000] return 0/0/0 async 0/0/0
+Jun 12 16:06:26 :: [  1563050] return 0/0/0 async 0/0/0
+Jun 12 16:06:28 :: [  1563100] return 0/0/0 async 0/0/0
+Jun 12 16:06:30 :: [  1563150] return 0/0/1 async 0/0/0
+Jun 12 16:06:32 :: [  1563200] return 0/0/0 async 0/0/0
+Jun 12 16:06:34 :: [  1563250] return 0/0/0 async 0/0/0
+Jun 12 16:06:36 :: [  1563300] return 0/0/0 async 0/0/1
+Jun 12 16:06:37 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:06:37 :: ITEM_CACHE: save 45 id 90001141
+Jun 12 16:06:38 :: [  1563350] return 0/0/0 async 0/0/0
+Jun 12 16:06:40 :: [  1563400] return 0/0/1 async 0/0/0
+Jun 12 16:06:42 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:06:42 :: ITEM_CACHE: save 45 id 90001141
+Jun 12 16:06:42 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:06:42 :: ITEM_CACHE: save 45 id 90001138
+Jun 12 16:06:42 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:06:42 :: ITEM_CACHE: save 45 id 90001048
+Jun 12 16:06:42 :: [  1563450] return 0/0/0 async 0/0/0
+Jun 12 16:06:44 :: [  1563500] return 0/0/0 async 0/0/0
+Jun 12 16:06:46 :: [  1563550] return 0/0/0 async 0/0/0
+Jun 12 16:06:48 :: [  1563600] return 0/0/0 async 0/0/0
+Jun 12 16:06:50 :: [  1563650] return 0/0/1 async 0/0/0
+Jun 12 16:06:52 :: [  1563700] return 0/0/0 async 0/0/0
+Jun 12 16:06:54 :: [  1563750] return 0/0/0 async 0/0/0
+Jun 12 16:06:56 :: [  1563800] return 0/0/0 async 0/0/0
+Jun 12 16:06:58 :: [  1563850] return 0/0/0 async 0/0/0
+Jun 12 16:07:00 :: [  1563900] return 0/0/1 async 0/0/0
+Jun 12 16:07:02 :: [  1563950] return 0/0/0 async 0/0/0
+Jun 12 16:07:04 :: [  1564000] return 0/0/0 async 0/0/0
+Jun 12 16:07:06 :: [  1564050] return 0/0/0 async 0/0/0
+Jun 12 16:07:08 :: [  1564100] return 0/0/0 async 0/0/0
+Jun 12 16:07:10 :: [  1564150] return 0/0/1 async 0/0/0
+Jun 12 16:07:12 :: [  1564200] return 0/0/0 async 0/0/0
+Jun 12 16:07:14 :: [  1564250] return 0/0/0 async 0/0/0
+Jun 12 16:07:16 :: [  1564300] return 0/0/0 async 0/0/0
+Jun 12 16:07:18 :: [  1564350] return 0/0/0 async 0/0/3
+Jun 12 16:07:20 :: [  1564400] return 0/0/1 async 0/0/0
+Jun 12 16:07:22 :: [  1564450] return 0/0/0 async 0/0/0
+Jun 12 16:07:22 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:07:22 :: ITEM_CACHE: save 45 id 90001047
+Jun 12 16:07:24 :: [  1564500] return 0/0/1 async 0/0/2
+Jun 12 16:07:26 :: [  1564550] return 0/0/0 async 0/0/0
+Jun 12 16:07:28 :: [  1564600] return 0/0/0 async 0/0/0
+Jun 12 16:07:30 :: [  1564650] return 0/0/1 async 0/0/0
+Jun 12 16:07:32 :: [  1564700] return 0/0/0 async 0/0/0
+Jun 12 16:07:34 :: [  1564750] return 0/0/1 async 0/0/0
+Jun 12 16:07:36 :: [  1564800] return 0/0/0 async 0/0/0
+Jun 12 16:07:38 :: [  1564850] return 0/0/0 async 0/0/0
+Jun 12 16:07:40 :: [  1564900] return 0/0/1 async 0/0/0
+Jun 12 16:07:42 :: [  1564950] return 0/0/0 async 0/0/0
+Jun 12 16:07:44 :: [  1565000] return 0/0/0 async 0/0/0
+Jun 12 16:07:46 :: [  1565050] return 0/0/0 async 0/0/0
+Jun 12 16:07:48 :: [  1565100] return 0/0/0 async 0/0/0
+Jun 12 16:07:50 :: [  1565150] return 0/0/1 async 0/0/0
+Jun 12 16:07:52 :: [  1565200] return 0/0/0 async 0/0/0
+Jun 12 16:07:54 :: [  1565250] return 0/0/0 async 0/0/0
+Jun 12 16:07:56 :: [  1565300] return 0/0/0 async 0/0/0
+Jun 12 16:07:58 :: [  1565350] return 0/0/0 async 0/0/0
+Jun 12 16:08:00 :: [  1565400] return 0/0/1 async 0/0/0
+Jun 12 16:08:02 :: [  1565450] return 0/0/0 async 0/0/0
+Jun 12 16:08:04 :: [  1565500] return 0/0/0 async 0/0/0
+Jun 12 16:08:06 :: [  1565550] return 0/0/0 async 0/0/0
+Jun 12 16:08:08 :: [  1565600] return 0/0/0 async 0/0/0
+Jun 12 16:08:10 :: [  1565650] return 0/0/1 async 0/0/0
+Jun 12 16:08:12 :: [  1565700] return 0/0/0 async 0/0/0
+Jun 12 16:08:14 :: [  1565750] return 0/0/0 async 0/0/0
+Jun 12 16:08:16 :: [  1565800] return 0/0/0 async 0/0/0
+Jun 12 16:08:18 :: [  1565850] return 0/0/0 async 0/0/4
+Jun 12 16:08:18 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:08:18 :: ITEM_CACHE: save 45 id 90001047
+Jun 12 16:08:20 :: [  1565900] return 0/0/1 async 0/0/0
+Jun 12 16:08:22 :: [  1565950] return 0/0/0 async 0/0/0
+Jun 12 16:08:24 :: [  1566000] return 0/0/0 async 0/0/0
+Jun 12 16:08:26 :: [  1566050] return 0/0/0 async 0/0/0
+Jun 12 16:08:28 :: [  1566100] return 0/0/0 async 0/0/0
+Jun 12 16:08:30 :: [  1566150] return 0/0/1 async 0/0/0
+Jun 12 16:08:32 :: [  1566200] return 0/0/0 async 0/0/0
+Jun 12 16:08:34 :: [  1566250] return 0/0/0 async 0/0/0
+Jun 12 16:08:36 :: [  1566300] return 0/0/0 async 0/0/0
+Jun 12 16:08:38 :: [  1566350] return 0/0/0 async 0/0/0
+Jun 12 16:08:40 :: [  1566400] return 0/0/1 async 0/0/0
+Jun 12 16:08:42 :: [  1566450] return 0/0/0 async 0/0/0
+Jun 12 16:08:44 :: [  1566500] return 0/0/0 async 0/0/0
+Jun 12 16:08:46 :: [  1566550] return 0/0/0 async 0/0/0
+Jun 12 16:08:48 :: [  1566600] return 0/0/0 async 0/0/0
+Jun 12 16:08:50 :: [  1566650] return 0/0/1 async 0/0/0
+Jun 12 16:08:52 :: [  1566700] return 0/0/0 async 0/0/0
+Jun 12 16:08:54 :: [  1566750] return 0/0/0 async 0/0/0
+Jun 12 16:08:56 :: [  1566800] return 0/0/0 async 0/0/0
+Jun 12 16:08:58 :: [  1566850] return 0/0/0 async 0/0/0
+Jun 12 16:09:00 :: [  1566900] return 0/0/1 async 0/0/0
+Jun 12 16:09:02 :: [  1566950] return 0/0/0 async 0/0/0
+Jun 12 16:09:04 :: [  1567000] return 0/0/0 async 0/0/0
+Jun 12 16:09:06 :: [  1567050] return 0/0/0 async 0/0/0
+Jun 12 16:09:08 :: [  1567100] return 0/0/0 async 0/0/0
+Jun 12 16:09:10 :: [  1567150] return 0/0/1 async 0/0/0
+Jun 12 16:09:12 :: [  1567200] return 0/0/0 async 0/0/0
+Jun 12 16:09:14 :: [  1567250] return 0/0/6 async 0/0/0
+Jun 12 16:09:16 :: [  1567300] return 0/0/0 async 0/0/0
+Jun 12 16:09:18 :: [  1567350] return 0/0/0 async 0/0/0
+Jun 12 16:09:20 :: [  1567400] return 0/0/1 async 0/0/0
+Jun 12 16:09:22 :: [  1567450] return 0/0/0 async 0/0/0
+Jun 12 16:09:24 :: [  1567500] return 0/0/0 async 0/0/0
+Jun 12 16:09:26 :: [  1567550] return 0/0/0 async 0/0/0
+Jun 12 16:09:28 :: [  1567600] return 0/0/0 async 0/0/0
+Jun 12 16:09:30 :: [  1567650] return 0/0/1 async 0/0/0
+Jun 12 16:09:32 :: [  1567700] return 0/0/0 async 0/0/0
+Jun 12 16:09:34 :: [  1567750] return 0/0/0 async 0/0/0
+Jun 12 16:09:36 :: [  1567800] return 0/0/0 async 0/0/0
+Jun 12 16:09:38 :: [  1567850] return 0/0/0 async 0/0/0
+Jun 12 16:09:40 :: [  1567900] return 0/0/1 async 0/0/0
+Jun 12 16:09:42 :: [  1567950] return 0/0/0 async 0/0/0
+Jun 12 16:09:44 :: [  1568000] return 0/0/0 async 0/0/0
+Jun 12 16:09:46 :: [  1568050] return 0/0/0 async 0/0/0
+Jun 12 16:09:48 :: [  1568100] return 0/0/0 async 0/0/0
+Jun 12 16:09:50 :: [  1568150] return 0/0/1 async 0/0/0
+Jun 12 16:09:52 :: [  1568200] return 0/0/0 async 0/0/0
+Jun 12 16:09:54 :: [  1568250] return 0/0/0 async 0/0/0
+Jun 12 16:09:56 :: [  1568300] return 0/0/0 async 0/0/0
+Jun 12 16:09:58 :: [  1568350] return 0/0/0 async 0/0/0
+Jun 12 16:10:00 :: [  1568400] return 0/0/1 async 0/0/0
+Jun 12 16:10:02 :: [  1568450] return 0/0/0 async 0/0/0
+Jun 12 16:10:04 :: [  1568500] return 0/0/0 async 0/0/0
+Jun 12 16:10:06 :: [  1568550] return 0/0/0 async 0/0/0
+Jun 12 16:10:08 :: [  1568600] return 0/0/0 async 0/0/0
+Jun 12 16:10:10 :: [  1568650] return 0/0/1 async 0/0/0
+Jun 12 16:10:12 :: [  1568700] return 0/0/0 async 0/0/0
+Jun 12 16:10:14 :: [  1568750] return 0/0/0 async 0/0/0
+Jun 12 16:10:16 :: [  1568800] return 0/0/1 async 0/0/0
+Jun 12 16:10:18 :: [  1568850] return 0/0/0 async 0/0/0
+Jun 12 16:10:20 :: [  1568900] return 0/0/1 async 0/0/0
+Jun 12 16:10:22 :: [  1568950] return 0/0/0 async 0/0/0
+Jun 12 16:10:24 :: [  1569000] return 0/0/0 async 0/0/0
+Jun 12 16:10:26 :: [  1569050] return 0/0/0 async 0/0/0
+Jun 12 16:10:28 :: [  1569100] return 0/0/0 async 0/0/0
+Jun 12 16:10:30 :: [  1569150] return 0/0/1 async 0/0/0
+Jun 12 16:10:32 :: [  1569200] return 0/0/0 async 0/0/0
+Jun 12 16:10:34 :: [  1569250] return 0/0/0 async 0/0/0
+Jun 12 16:10:36 :: [  1569300] return 0/0/0 async 0/0/0
+Jun 12 16:10:38 :: [  1569350] return 0/0/0 async 0/0/0
+Jun 12 16:10:40 :: [  1569400] return 0/0/1 async 0/0/0
+Jun 12 16:10:42 :: [  1569450] return 0/0/0 async 0/0/0
+Jun 12 16:10:44 :: [  1569500] return 0/0/0 async 0/0/0
+Jun 12 16:10:46 :: [  1569550] return 0/0/0 async 0/0/0
+Jun 12 16:10:48 :: [  1569600] return 0/0/0 async 0/0/0
+Jun 12 16:10:50 :: [  1569650] return 0/0/1 async 0/0/0
+Jun 12 16:10:52 :: [  1569700] return 0/0/0 async 0/0/0
+Jun 12 16:10:54 :: [  1569750] return 0/0/0 async 0/0/0
+Jun 12 16:10:56 :: [  1569800] return 0/0/0 async 0/0/0
+Jun 12 16:10:58 :: [  1569850] return 0/0/0 async 0/0/0
+Jun 12 16:11:00 :: [  1569900] return 0/0/1 async 0/0/0
+Jun 12 16:11:02 :: [  1569950] return 0/0/0 async 0/0/0
+Jun 12 16:11:04 :: [  1570000] return 0/0/0 async 0/0/0
+Jun 12 16:11:06 :: [  1570050] return 0/0/0 async 0/0/0
+Jun 12 16:11:08 :: [  1570100] return 0/0/0 async 0/0/0
+Jun 12 16:11:10 :: [  1570150] return 0/0/1 async 0/0/0
+Jun 12 16:11:12 :: [  1570200] return 0/0/0 async 0/0/0
+Jun 12 16:11:14 :: [  1570250] return 0/0/0 async 0/0/0
+Jun 12 16:11:16 :: [  1570300] return 0/0/0 async 0/0/0
+Jun 12 16:11:18 :: [  1570350] return 0/0/0 async 0/0/0
+Jun 12 16:11:20 :: [  1570400] return 0/0/1 async 0/0/0
+Jun 12 16:11:22 :: [  1570450] return 0/0/0 async 0/0/0
+Jun 12 16:11:24 :: [  1570500] return 0/0/0 async 0/0/0
+Jun 12 16:11:26 :: [  1570550] return 0/0/0 async 0/0/0
+Jun 12 16:11:28 :: [  1570600] return 0/0/0 async 0/0/0
+Jun 12 16:11:30 :: [  1570650] return 0/0/1 async 0/0/0
+Jun 12 16:11:32 :: [  1570700] return 0/0/0 async 0/0/0
+Jun 12 16:11:34 :: [  1570750] return 0/0/0 async 0/0/0
+Jun 12 16:11:36 :: [  1570800] return 0/0/0 async 0/0/0
+Jun 12 16:11:38 :: [  1570850] return 0/0/0 async 0/0/0
+Jun 12 16:11:40 :: [  1570900] return 0/0/1 async 0/0/0
+Jun 12 16:11:42 :: [  1570950] return 0/0/0 async 0/0/0
+Jun 12 16:11:44 :: [  1571000] return 0/0/0 async 0/0/0
+Jun 12 16:11:46 :: [  1571050] return 0/0/0 async 0/0/0
+Jun 12 16:11:48 :: [  1571100] return 0/0/0 async 0/0/0
+Jun 12 16:11:50 :: [  1571150] return 0/0/1 async 0/0/0
+Jun 12 16:11:52 :: [  1571200] return 0/0/0 async 0/0/0
+Jun 12 16:11:54 :: [  1571250] return 0/0/0 async 0/0/0
+Jun 12 16:11:56 :: [  1571300] return 0/0/0 async 0/0/0
+Jun 12 16:11:58 :: [  1571350] return 0/0/0 async 0/0/0
+Jun 12 16:12:00 :: [  1571400] return 0/0/1 async 0/0/0
+Jun 12 16:12:02 :: [  1571450] return 0/0/0 async 0/0/0
+Jun 12 16:12:04 :: [  1571500] return 0/0/0 async 0/0/0
+Jun 12 16:12:06 :: [  1571550] return 0/0/0 async 0/0/0
+Jun 12 16:12:08 :: [  1571600] return 0/0/0 async 0/0/0
+Jun 12 16:12:10 :: [  1571650] return 0/0/1 async 0/0/0
+Jun 12 16:12:12 :: [  1571700] return 0/0/0 async 0/0/0
+Jun 12 16:12:14 :: [  1571750] return 0/0/0 async 0/0/0
+Jun 12 16:12:16 :: [  1571800] return 0/0/0 async 0/0/0
+Jun 12 16:12:17 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:12:17 :: LOGOUT: Insert player pid(45)
+Jun 12 16:12:17 :: SetPlay off 2124612944 test4
+Jun 12 16:12:17 :: LOGOUT test4 
+Jun 12 16:12:18 :: [  1571850] return 0/0/0 async 0/0/0
+Jun 12 16:12:20 :: [  1571900] return 0/0/1 async 0/0/0
+Jun 12 16:12:22 :: [  1571950] return 0/0/0 async 0/0/0
+Jun 12 16:12:24 :: [  1572000] return 0/0/0 async 0/0/0
+Jun 12 16:12:25 :: AUTH_PEER_READ: size 185
+Jun 12 16:12:25 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(752899730), client_key(476748235 446098688 715237539 1531345714)
+Jun 12 16:12:25 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:12:26 :: LOGIN_BY_KEY success test4 752899730 93.115.44.117
+Jun 12 16:12:26 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:12:26 :: [DEV]Cezariu 55932 156360 hair 530
+Jun 12 16:12:26 :: [  1572050] return 0/0/2 async 0/0/0
+Jun 12 16:12:28 :: [  1572100] return 0/0/0 async 0/0/0
+Jun 12 16:12:30 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:12:30 :: LOGOUT: Update player time pid(45)
+Jun 12 16:12:30 :: LOGOUT test4 
+Jun 12 16:12:30 :: [  1572150] return 0/0/1 async 0/0/0
+Jun 12 16:12:30 :: LOGIN_BY_KEY success test4 752899730 93.115.44.117
+Jun 12 16:12:30 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:12:30 :: [DEV]Cezariu 55932 156360 hair 530
+Jun 12 16:12:31 :: SetPlay on 752899730 test4
+Jun 12 16:12:31 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:12:31 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:12:31 :: QID_QUEST 19
+Jun 12 16:12:31 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:12:31 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:12:31 :: QID_AFFECT 19
+Jun 12 16:12:31 :: AFFECT_LOAD: count 8 PID 45
+Jun 12 16:12:31 :: QID_EXT_BATTLE_PASS 19
+Jun 12 16:12:31 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:12:31 :: QID_SKILL_COLOR 19 45
+Jun 12 16:12:31 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:12:32 :: [  1572200] return 0/0/0 async 0/0/0
+Jun 12 16:12:32 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:12:32 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:12:34 :: [  1572250] return 0/0/1 async 0/0/0
+Jun 12 16:12:36 :: [  1572300] return 0/0/0 async 0/0/0
+Jun 12 16:12:38 :: [  1572350] return 0/0/0 async 0/0/0
+Jun 12 16:12:40 :: [  1572400] return 0/0/1 async 0/0/0
+Jun 12 16:12:42 :: [  1572450] return 0/0/0 async 0/0/0
+Jun 12 16:12:44 :: [  1572500] return 0/0/0 async 0/0/0
+Jun 12 16:12:46 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:12:46 :: LOGOUT: Insert player pid(45)
+Jun 12 16:12:46 :: SetPlay off 752899730 test4
+Jun 12 16:12:46 :: LOGOUT test4 
+Jun 12 16:12:46 :: [  1572550] return 0/0/6 async 0/0/14
+Jun 12 16:12:48 :: [  1572600] return 0/0/0 async 0/0/0
+Jun 12 16:12:50 :: [  1572650] return 0/0/1 async 0/0/0
+Jun 12 16:12:52 :: [  1572700] return 0/0/0 async 0/0/0
+Jun 12 16:12:54 :: [  1572750] return 0/0/0 async 0/0/0
+Jun 12 16:12:56 :: AUTH_PEER_READ: size 185
+Jun 12 16:12:56 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(1925988334), client_key(643546366 1356127070 1183719879 491500545)
+Jun 12 16:12:56 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:12:56 :: [  1572800] return 0/0/0 async 0/0/0
+Jun 12 16:12:56 :: LOGIN_BY_KEY success test4 1925988334 93.115.44.117
+Jun 12 16:12:57 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:12:57 :: [DEV]Cezariu 55932 156360 hair 530
+Jun 12 16:12:58 :: [  1572850] return 0/0/0 async 0/0/0
+Jun 12 16:13:00 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:13:00 :: LOGOUT: Update player time pid(45)
+Jun 12 16:13:00 :: LOGOUT test4 
+Jun 12 16:13:00 :: [  1572900] return 0/0/1 async 0/0/0
+Jun 12 16:13:01 :: LOGIN_BY_KEY success test4 1925988334 93.115.44.117
+Jun 12 16:13:01 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:13:01 :: [DEV]Cezariu 55932 156360 hair 530
+Jun 12 16:13:01 :: SetPlay on 1925988334 test4
+Jun 12 16:13:01 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:13:01 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:13:01 :: QID_QUEST 20
+Jun 12 16:13:01 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:13:01 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:13:01 :: QID_AFFECT 20
+Jun 12 16:13:01 :: AFFECT_LOAD: count 8 PID 45
+Jun 12 16:13:01 :: QID_EXT_BATTLE_PASS 20
+Jun 12 16:13:01 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:13:01 :: QID_SKILL_COLOR 20 45
+Jun 12 16:13:01 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:13:02 :: [  1572950] return 0/0/0 async 0/0/0
+Jun 12 16:13:03 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:13:03 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:13:04 :: [  1573000] return 0/0/0 async 0/0/0
+Jun 12 16:13:06 :: [  1573050] return 0/0/0 async 0/0/0
+Jun 12 16:13:08 :: [  1573100] return 0/0/0 async 0/0/0
+Jun 12 16:13:10 :: [  1573150] return 0/0/1 async 0/0/0
+Jun 12 16:13:12 :: [  1573200] return 0/0/0 async 0/0/0
+Jun 12 16:13:14 :: [  1573250] return 0/0/0 async 0/0/0
+Jun 12 16:13:16 :: [  1573300] return 0/0/0 async 0/0/0
+Jun 12 16:13:18 :: [  1573350] return 0/0/0 async 0/0/0
+Jun 12 16:13:20 :: [  1573400] return 0/0/1 async 0/0/0
+Jun 12 16:13:22 :: [  1573450] return 0/0/0 async 0/0/0
+Jun 12 16:13:24 :: [  1573500] return 0/0/0 async 0/0/0
+Jun 12 16:13:26 :: [  1573550] return 0/0/0 async 0/0/0
+Jun 12 16:13:28 :: [  1573600] return 0/0/0 async 0/0/0
+Jun 12 16:13:30 :: [  1573650] return 0/0/1 async 0/0/0
+Jun 12 16:13:32 :: [  1573700] return 0/0/0 async 0/0/0
+Jun 12 16:13:34 :: [  1573750] return 0/0/0 async 0/0/0
+Jun 12 16:13:36 :: [  1573800] return 0/0/0 async 0/0/0
+Jun 12 16:13:38 :: [  1573850] return 0/0/0 async 0/0/0
+Jun 12 16:13:38 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:13:38 :: LOGOUT: Insert player pid(45)
+Jun 12 16:13:38 :: SetPlay off 1925988334 test4
+Jun 12 16:13:38 :: LOGOUT test4 
+Jun 12 16:13:40 :: [  1573900] return 0/0/1 async 0/0/0
+Jun 12 16:13:42 :: [  1573950] return 0/0/0 async 0/0/0
+Jun 12 16:13:44 :: [  1574000] return 0/0/0 async 0/0/0
+Jun 12 16:13:46 :: [  1574050] return 0/0/0 async 0/0/0
+Jun 12 16:13:47 :: AUTH_PEER_READ: size 185
+Jun 12 16:13:47 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(119540163), client_key(1317456436 1933919282 1216375229 1721638010)
+Jun 12 16:13:47 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:13:48 :: LOGIN_BY_KEY success test4 119540163 93.115.44.117
+Jun 12 16:13:48 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:13:48 :: [DEV]Cezariu 63609 157024 hair 530
+Jun 12 16:13:48 :: [  1574100] return 0/0/2 async 0/0/0
+Jun 12 16:13:50 :: [  1574150] return 0/0/1 async 0/0/0
+Jun 12 16:13:52 :: [  1574200] return 0/0/0 async 0/0/0
+Jun 12 16:13:53 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:13:53 :: LOGOUT: Update player time pid(45)
+Jun 12 16:13:53 :: LOGOUT test4 
+Jun 12 16:13:53 :: LOGIN_BY_KEY success test4 119540163 93.115.44.117
+Jun 12 16:13:53 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:13:53 :: [DEV]Cezariu 63609 157024 hair 530
+Jun 12 16:13:54 :: SetPlay on 119540163 test4
+Jun 12 16:13:54 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:13:54 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:13:54 :: QID_QUEST 21
+Jun 12 16:13:54 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:13:54 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:13:54 :: QID_AFFECT 21
+Jun 12 16:13:54 :: AFFECT_LOAD: count 8 PID 45
+Jun 12 16:13:54 :: QID_EXT_BATTLE_PASS 21
+Jun 12 16:13:54 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:13:54 :: QID_SKILL_COLOR 21 45
+Jun 12 16:13:54 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:13:54 :: [  1574250] return 0/0/4 async 0/0/4
+Jun 12 16:13:56 :: [  1574300] return 0/0/0 async 0/0/3
+Jun 12 16:13:58 :: [  1574350] return 0/0/0 async 0/0/0
+Jun 12 16:13:59 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:13:59 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:14:00 :: [  1574400] return 0/0/1 async 0/0/1
+Jun 12 16:14:02 :: [  1574450] return 0/0/0 async 0/0/0
+Jun 12 16:14:04 :: [  1574500] return 0/0/0 async 0/0/0
+Jun 12 16:14:06 :: [  1574550] return 0/0/0 async 0/0/0
+Jun 12 16:14:08 :: [  1574600] return 0/0/0 async 0/0/0
+Jun 12 16:14:10 :: [  1574650] return 0/0/1 async 0/0/0
+Jun 12 16:14:12 :: [  1574700] return 0/0/0 async 0/0/0
+Jun 12 16:14:14 :: [  1574750] return 0/0/0 async 0/0/0
+Jun 12 16:14:16 :: [  1574800] return 0/0/0 async 0/0/0
+Jun 12 16:14:18 :: [  1574850] return 0/0/0 async 0/0/0
+Jun 12 16:14:20 :: [  1574900] return 0/0/1 async 0/0/0
+Jun 12 16:14:22 :: [  1574950] return 0/0/0 async 0/0/0
+Jun 12 16:14:24 :: [  1575000] return 0/0/0 async 0/0/0
+Jun 12 16:14:26 :: [  1575050] return 0/0/0 async 0/0/0
+Jun 12 16:14:28 :: [  1575100] return 0/0/0 async 0/0/0
+Jun 12 16:14:30 :: [  1575150] return 0/0/1 async 0/0/0
+Jun 12 16:14:31 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:14:31 :: LOGOUT: Insert player pid(45)
+Jun 12 16:14:31 :: SetPlay off 119540163 test4
+Jun 12 16:14:31 :: LOGOUT test4 
+Jun 12 16:14:32 :: [  1575200] return 0/0/0 async 0/0/0
+Jun 12 16:14:34 :: [  1575250] return 0/0/0 async 0/0/0
+Jun 12 16:14:36 :: [  1575300] return 0/0/0 async 0/0/0
+Jun 12 16:14:37 :: AUTH_PEER_READ: size 185
+Jun 12 16:14:37 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(1251444506), client_key(1256259104 2035027271 1878781575 82385537)
+Jun 12 16:14:37 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:14:38 :: LOGIN_BY_KEY success test4 1251444506 93.115.44.117
+Jun 12 16:14:38 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:14:38 :: [DEV]Cezariu 63610 157016 hair 530
+Jun 12 16:14:38 :: [  1575350] return 0/0/2 async 0/0/0
+Jun 12 16:14:40 :: [  1575400] return 0/0/1 async 0/0/0
+Jun 12 16:14:42 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:14:42 :: LOGOUT: Update player time pid(45)
+Jun 12 16:14:42 :: LOGOUT test4 
+Jun 12 16:14:42 :: [  1575450] return 0/0/0 async 0/0/0
+Jun 12 16:14:43 :: LOGIN_BY_KEY success test4 1251444506 93.115.44.117
+Jun 12 16:14:43 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:14:43 :: [DEV]Cezariu 63610 157016 hair 530
+Jun 12 16:14:43 :: SetPlay on 1251444506 test4
+Jun 12 16:14:43 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:14:43 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:14:43 :: QID_QUEST 22
+Jun 12 16:14:43 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:14:43 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:14:43 :: QID_AFFECT 22
+Jun 12 16:14:43 :: AFFECT_LOAD: count 8 PID 45
+Jun 12 16:14:43 :: QID_EXT_BATTLE_PASS 22
+Jun 12 16:14:43 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:14:43 :: QID_SKILL_COLOR 22 45
+Jun 12 16:14:43 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:14:44 :: [  1575500] return 0/0/0 async 0/0/0
+Jun 12 16:14:44 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:14:44 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:14:46 :: [  1575550] return 0/0/0 async 0/0/0
+Jun 12 16:14:48 :: [  1575600] return 0/0/0 async 0/0/0
+Jun 12 16:14:50 :: [  1575650] return 0/0/1 async 0/0/0
+Jun 12 16:14:52 :: [  1575700] return 0/0/0 async 0/0/0
+Jun 12 16:14:54 :: [  1575750] return 0/0/0 async 0/0/3
+Jun 12 16:14:54 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:14:54 :: ITEM_CACHE: save 45 id 90001047
+Jun 12 16:14:56 :: [  1575800] return 0/0/0 async 0/0/0
+Jun 12 16:14:58 :: [  1575850] return 0/0/0 async 0/0/0
+Jun 12 16:15:00 :: [  1575900] return 0/0/1 async 0/0/0
+Jun 12 16:15:02 :: [  1575950] return 0/0/0 async 0/0/0
+Jun 12 16:15:04 :: [  1576000] return 0/0/0 async 0/0/0
+Jun 12 16:15:06 :: [  1576050] return 0/0/0 async 0/0/0
+Jun 12 16:15:08 :: [  1576100] return 0/0/0 async 0/0/0
+Jun 12 16:15:10 :: [  1576150] return 0/0/1 async 0/0/0
+Jun 12 16:15:12 :: [  1576200] return 0/0/0 async 0/0/0
+Jun 12 16:15:14 :: [  1576250] return 0/0/0 async 0/0/0
+Jun 12 16:15:16 :: [  1576300] return 0/0/0 async 0/0/0
+Jun 12 16:15:18 :: [  1576350] return 0/0/0 async 0/0/0
+Jun 12 16:15:20 :: [  1576400] return 0/0/1 async 0/0/0
+Jun 12 16:15:22 :: [  1576450] return 0/0/0 async 0/0/0
+Jun 12 16:15:24 :: [  1576500] return 0/0/0 async 0/0/0
+Jun 12 16:15:26 :: [  1576550] return 0/0/0 async 0/0/0
+Jun 12 16:15:28 :: [  1576600] return 0/0/0 async 0/0/0
+Jun 12 16:15:30 :: [  1576650] return 0/0/1 async 0/0/0
+Jun 12 16:15:32 :: [  1576700] return 0/0/0 async 0/0/0
+Jun 12 16:15:34 :: [  1576750] return 0/0/0 async 0/0/0
+Jun 12 16:15:36 :: [  1576800] return 0/0/0 async 0/0/0
+Jun 12 16:15:37 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:15:37 :: LOGOUT: Insert player pid(45)
+Jun 12 16:15:37 :: SetPlay off 1251444506 test4
+Jun 12 16:15:37 :: LOGOUT test4 
+Jun 12 16:15:38 :: [  1576850] return 0/0/6 async 0/0/8
+Jun 12 16:15:40 :: [  1576900] return 0/0/1 async 0/0/0
+Jun 12 16:15:42 :: [  1576950] return 0/0/0 async 0/0/0
+Jun 12 16:15:43 :: AUTH_PEER_READ: size 185
+Jun 12 16:15:43 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(1263121269), client_key(572272715 1755749739 313069946 431647272)
+Jun 12 16:15:43 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:15:44 :: LOGIN_BY_KEY success test4 1263121269 93.115.44.117
+Jun 12 16:15:44 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:15:44 :: [DEV]Cezariu 64670 147263 hair 530
+Jun 12 16:15:44 :: [  1577000] return 0/0/2 async 0/0/0
+Jun 12 16:15:46 :: [  1577050] return 0/0/0 async 0/0/0
+Jun 12 16:15:48 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:15:48 :: LOGOUT: Update player time pid(45)
+Jun 12 16:15:48 :: LOGOUT test4 
+Jun 12 16:15:48 :: [  1577100] return 0/0/0 async 0/0/0
+Jun 12 16:15:48 :: LOGIN_BY_KEY success test4 1263121269 93.115.44.117
+Jun 12 16:15:48 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:15:48 :: [DEV]Cezariu 64670 147263 hair 530
+Jun 12 16:15:49 :: SetPlay on 1263121269 test4
+Jun 12 16:15:49 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:15:49 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:15:49 :: QID_QUEST 23
+Jun 12 16:15:49 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:15:49 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:15:49 :: QID_AFFECT 23
+Jun 12 16:15:49 :: AFFECT_LOAD: count 8 PID 45
+Jun 12 16:15:49 :: QID_EXT_BATTLE_PASS 23
+Jun 12 16:15:49 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:15:49 :: QID_SKILL_COLOR 23 45
+Jun 12 16:15:49 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:15:50 :: [  1577150] return 0/0/1 async 0/0/0
+Jun 12 16:15:50 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:15:50 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:15:52 :: [  1577200] return 0/0/0 async 0/0/0
+Jun 12 16:15:54 :: [  1577250] return 0/0/0 async 0/0/0
+Jun 12 16:15:56 :: [  1577300] return 0/0/0 async 0/0/0
+Jun 12 16:15:58 :: [  1577350] return 0/0/0 async 0/0/0
+Jun 12 16:16:00 :: [  1577400] return 0/0/1 async 0/0/0
+Jun 12 16:16:02 :: [  1577450] return 0/0/0 async 0/0/0
+Jun 12 16:16:04 :: [  1577500] return 0/0/0 async 0/0/0
+Jun 12 16:16:06 :: [  1577550] return 0/0/0 async 0/0/0
+Jun 12 16:16:08 :: [  1577600] return 0/0/0 async 0/0/0
+Jun 12 16:16:10 :: [  1577650] return 0/0/1 async 0/0/0
+Jun 12 16:16:12 :: [  1577700] return 0/0/0 async 0/0/0
+Jun 12 16:16:14 :: [  1577750] return 0/0/0 async 0/0/0
+Jun 12 16:16:16 :: [  1577800] return 0/0/0 async 0/0/0
+Jun 12 16:16:18 :: [  1577850] return 0/0/0 async 0/0/0
+Jun 12 16:16:20 :: [  1577900] return 0/0/1 async 0/0/0
+Jun 12 16:16:22 :: [  1577950] return 0/0/0 async 0/0/0
+Jun 12 16:16:24 :: [  1578000] return 0/0/0 async 0/0/0
+Jun 12 16:16:26 :: [  1578050] return 0/0/0 async 0/0/0
+Jun 12 16:16:28 :: [  1578100] return 0/0/0 async 0/0/0
+Jun 12 16:16:30 :: [  1578150] return 0/0/1 async 0/0/0
+Jun 12 16:16:32 :: [  1578200] return 0/0/0 async 0/0/0
+Jun 12 16:16:34 :: [  1578250] return 0/0/0 async 0/0/0
+Jun 12 16:16:36 :: [  1578300] return 0/0/0 async 0/0/0
+Jun 12 16:16:38 :: [  1578350] return 0/0/0 async 0/0/0
+Jun 12 16:16:40 :: [  1578400] return 0/0/1 async 0/0/0
+Jun 12 16:16:42 :: [  1578450] return 0/0/0 async 0/0/0
+Jun 12 16:16:44 :: [  1578500] return 0/0/0 async 0/0/0
+Jun 12 16:16:46 :: [  1578550] return 0/0/0 async 0/0/0
+Jun 12 16:16:47 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:16:47 :: LOGOUT: Insert player pid(45)
+Jun 12 16:16:47 :: SetPlay off 1263121269 test4
+Jun 12 16:16:47 :: LOGOUT test4 
+Jun 12 16:16:48 :: [  1578600] return 0/0/0 async 0/0/0
+Jun 12 16:16:50 :: [  1578650] return 0/0/1 async 0/0/0
+Jun 12 16:16:52 :: [  1578700] return 0/0/0 async 0/0/0
+Jun 12 16:16:52 :: AUTH_PEER_READ: size 185
+Jun 12 16:16:52 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(1469580899), client_key(1018187322 1524621558 539649302 1062377433)
+Jun 12 16:16:52 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:16:53 :: LOGIN_BY_KEY success test4 1469580899 93.115.44.117
+Jun 12 16:16:53 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:16:53 :: [DEV]Cezariu 65500 150265 hair 530
+Jun 12 16:16:54 :: [  1578750] return 0/0/0 async 0/0/0
+Jun 12 16:16:56 :: [  1578800] return 0/0/0 async 0/0/0
+Jun 12 16:16:57 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:16:57 :: LOGOUT: Update player time pid(45)
+Jun 12 16:16:57 :: LOGOUT test4 
+Jun 12 16:16:58 :: LOGIN_BY_KEY success test4 1469580899 93.115.44.117
+Jun 12 16:16:58 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:16:58 :: [DEV]Cezariu 65500 150265 hair 530
+Jun 12 16:16:58 :: SetPlay on 1469580899 test4
+Jun 12 16:16:58 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:16:58 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:16:58 :: QID_QUEST 24
+Jun 12 16:16:58 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:16:58 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:16:58 :: QID_AFFECT 24
+Jun 12 16:16:58 :: AFFECT_LOAD: count 8 PID 45
+Jun 12 16:16:58 :: QID_EXT_BATTLE_PASS 24
+Jun 12 16:16:58 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:16:58 :: QID_SKILL_COLOR 24 45
+Jun 12 16:16:58 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:16:58 :: [  1578850] return 0/0/6 async 0/0/0
+Jun 12 16:17:00 :: [  1578900] return 0/0/1 async 0/0/0
+Jun 12 16:17:01 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:17:01 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:17:02 :: [  1578950] return 0/0/0 async 0/0/0
+Jun 12 16:17:04 :: [  1579000] return 0/0/0 async 0/0/0
+Jun 12 16:17:06 :: [  1579050] return 0/0/0 async 0/0/0
+Jun 12 16:17:08 :: [  1579100] return 0/0/0 async 0/0/0
+Jun 12 16:17:10 :: [  1579150] return 0/0/1 async 0/0/0
+Jun 12 16:17:12 :: [  1579200] return 0/0/0 async 0/0/0
+Jun 12 16:17:14 :: [  1579250] return 0/0/0 async 0/0/0
+Jun 12 16:17:16 :: [  1579300] return 0/0/0 async 0/0/0
+Jun 12 16:17:18 :: [  1579350] return 0/0/0 async 0/0/0
+Jun 12 16:17:20 :: [  1579400] return 0/0/1 async 0/0/0
+Jun 12 16:17:22 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:17:22 :: LOGOUT: Insert player pid(45)
+Jun 12 16:17:22 :: SetPlay off 1469580899 test4
+Jun 12 16:17:22 :: LOGOUT test4 
+Jun 12 16:17:22 :: [  1579450] return 0/0/6 async 0/0/8
+Jun 12 16:17:24 :: [  1579500] return 0/0/0 async 0/0/0
+Jun 12 16:17:26 :: [  1579550] return 0/0/1 async 0/0/0
+Jun 12 16:17:28 :: AUTH_PEER_READ: size 185
+Jun 12 16:17:28 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(2079385890), client_key(2032411200 860149218 1815478969 1307375407)
+Jun 12 16:17:28 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:17:28 :: [  1579600] return 0/0/0 async 0/0/0
+Jun 12 16:17:28 :: LOGIN_BY_KEY success test4 2079385890 93.115.44.117
+Jun 12 16:17:29 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:17:29 :: [DEV]Cezariu 66001 146891 hair 530
+Jun 12 16:17:30 :: [  1579650] return 0/0/1 async 0/0/0
+Jun 12 16:17:32 :: [  1579700] return 0/0/0 async 0/0/0
+Jun 12 16:17:33 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:17:33 :: LOGOUT: Update player time pid(45)
+Jun 12 16:17:33 :: LOGOUT test4 
+Jun 12 16:17:33 :: LOGIN_BY_KEY success test4 2079385890 93.115.44.117
+Jun 12 16:17:33 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:17:33 :: [DEV]Cezariu 66001 146891 hair 530
+Jun 12 16:17:33 :: SetPlay on 2079385890 test4
+Jun 12 16:17:33 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:17:33 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:17:33 :: QID_QUEST 25
+Jun 12 16:17:33 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:17:33 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:17:33 :: QID_AFFECT 25
+Jun 12 16:17:33 :: AFFECT_LOAD: count 8 PID 45
+Jun 12 16:17:33 :: QID_EXT_BATTLE_PASS 25
+Jun 12 16:17:33 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:17:33 :: QID_SKILL_COLOR 25 45
+Jun 12 16:17:33 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:17:34 :: [  1579750] return 0/0/4 async 0/0/0
+Jun 12 16:17:36 :: [  1579800] return 0/0/1 async 0/0/2
+Jun 12 16:17:37 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:17:37 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:17:38 :: [  1579850] return 0/0/0 async 0/0/0
+Jun 12 16:17:40 :: [  1579900] return 0/0/1 async 0/0/1
+Jun 12 16:17:42 :: [  1579950] return 0/0/0 async 0/0/0
+Jun 12 16:17:44 :: [  1580000] return 0/0/0 async 0/0/0
+Jun 12 16:17:46 :: [  1580050] return 0/0/0 async 0/0/0
+Jun 12 16:17:48 :: [  1580100] return 0/0/0 async 0/0/0
+Jun 12 16:17:50 :: [  1580150] return 0/0/1 async 0/0/0
+Jun 12 16:17:52 :: [  1580200] return 0/0/0 async 0/0/0
+Jun 12 16:17:54 :: [  1580250] return 0/0/0 async 0/0/0
+Jun 12 16:17:56 :: [  1580300] return 0/0/0 async 0/0/0
+Jun 12 16:17:58 :: [  1580350] return 0/0/0 async 0/0/0
+Jun 12 16:17:59 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:17:59 :: LOGOUT: Insert player pid(45)
+Jun 12 16:17:59 :: SetPlay off 2079385890 test4
+Jun 12 16:17:59 :: LOGOUT test4 
+Jun 12 16:18:00 :: [  1580400] return 0/0/1 async 0/0/0
+Jun 12 16:18:02 :: [  1580450] return 0/0/0 async 0/0/0
+Jun 12 16:18:04 :: [  1580500] return 0/0/0 async 0/0/0
+Jun 12 16:18:05 :: AUTH_PEER_READ: size 185
+Jun 12 16:18:05 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(1825610431), client_key(2029052427 243826229 588632327 1833841807)
+Jun 12 16:18:05 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:18:06 :: LOGIN_BY_KEY success test4 1825610431 93.115.44.117
+Jun 12 16:18:06 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:18:06 :: [DEV]Cezariu 64205 145440 hair 530
+Jun 12 16:18:06 :: [  1580550] return 0/0/2 async 0/0/0
+Jun 12 16:18:08 :: [  1580600] return 0/0/0 async 0/0/0
+Jun 12 16:18:10 :: [  1580650] return 0/0/1 async 0/0/0
+Jun 12 16:18:12 :: [  1580700] return 0/0/0 async 0/0/0
+Jun 12 16:18:13 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:18:13 :: LOGOUT: Update player time pid(45)
+Jun 12 16:18:13 :: LOGOUT test4 
+Jun 12 16:18:13 :: LOGIN_BY_KEY success test4 1825610431 93.115.44.117
+Jun 12 16:18:14 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:18:14 :: [DEV]Cezariu 64205 145440 hair 530
+Jun 12 16:18:14 :: SetPlay on 1825610431 test4
+Jun 12 16:18:14 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:18:14 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:18:14 :: QID_QUEST 26
+Jun 12 16:18:14 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:18:14 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:18:14 :: QID_AFFECT 26
+Jun 12 16:18:14 :: AFFECT_LOAD: count 8 PID 45
+Jun 12 16:18:14 :: QID_EXT_BATTLE_PASS 26
+Jun 12 16:18:14 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:18:14 :: QID_SKILL_COLOR 26 45
+Jun 12 16:18:14 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:18:14 :: [  1580750] return 0/0/6 async 0/0/0
+Jun 12 16:18:16 :: [  1580800] return 0/0/0 async 0/0/2
+Jun 12 16:18:18 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:18:18 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:18:18 :: [  1580850] return 0/0/0 async 0/0/0
+Jun 12 16:18:20 :: [  1580900] return 0/0/1 async 0/0/0
+Jun 12 16:18:22 :: [  1580950] return 0/0/0 async 0/0/0
+Jun 12 16:18:24 :: [  1581000] return 0/0/0 async 0/0/0
+Jun 12 16:18:26 :: [  1581050] return 0/0/0 async 0/0/0
+Jun 12 16:18:28 :: [  1581100] return 0/0/0 async 0/0/0
+Jun 12 16:18:30 :: [  1581150] return 0/0/1 async 0/0/0
+Jun 12 16:18:32 :: [  1581200] return 0/0/0 async 0/0/0
+Jun 12 16:18:34 :: [  1581250] return 0/0/0 async 0/0/0
+Jun 12 16:18:36 :: [  1581300] return 0/0/0 async 0/0/0
+Jun 12 16:18:38 :: [  1581350] return 0/0/0 async 0/0/0
+Jun 12 16:18:40 :: [  1581400] return 0/0/1 async 0/0/0
+Jun 12 16:18:41 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:18:41 :: LOGOUT: Insert player pid(45)
+Jun 12 16:18:41 :: SetPlay off 1825610431 test4
+Jun 12 16:18:41 :: LOGOUT test4 
+Jun 12 16:18:42 :: [  1581450] return 0/0/6 async 0/0/8
+Jun 12 16:18:44 :: [  1581500] return 0/0/0 async 0/0/0
+Jun 12 16:18:46 :: [  1581550] return 0/0/0 async 0/0/0
+Jun 12 16:18:48 :: [  1581600] return 0/0/0 async 0/0/0
+Jun 12 16:18:50 :: AUTH_PEER_READ: size 185
+Jun 12 16:18:50 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(964384725), client_key(1855536750 248635516 1961423997 1779136129)
+Jun 12 16:18:50 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:18:50 :: [  1581650] return 0/0/1 async 0/0/0
+Jun 12 16:18:50 :: LOGIN_BY_KEY success test4 964384725 93.115.44.117
+Jun 12 16:18:50 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:18:50 :: [DEV]Cezariu 64126 148701 hair 530
+Jun 12 16:18:52 :: [  1581700] return 0/0/0 async 0/0/0
+Jun 12 16:18:54 :: [  1581750] return 0/0/0 async 0/0/0
+Jun 12 16:18:56 :: [  1581800] return 0/0/0 async 0/0/0
+Jun 12 16:18:58 :: [  1581850] return 0/0/0 async 0/0/0
+Jun 12 16:19:00 :: [  1581900] return 0/0/1 async 0/0/0
+Jun 12 16:19:02 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:19:02 :: LOGOUT: Update player time pid(45)
+Jun 12 16:19:02 :: LOGOUT test4 
+Jun 12 16:19:02 :: [  1581950] return 0/0/0 async 0/0/0
+Jun 12 16:19:03 :: LOGIN_BY_KEY success test4 964384725 93.115.44.117
+Jun 12 16:19:03 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:19:03 :: [DEV]Cezariu 64126 148701 hair 530
+Jun 12 16:19:03 :: SetPlay on 964384725 test4
+Jun 12 16:19:03 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:19:03 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:19:03 :: QID_QUEST 27
+Jun 12 16:19:03 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:19:03 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:19:03 :: QID_AFFECT 27
+Jun 12 16:19:03 :: AFFECT_LOAD: count 8 PID 45
+Jun 12 16:19:03 :: QID_EXT_BATTLE_PASS 27
+Jun 12 16:19:03 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:19:03 :: QID_SKILL_COLOR 27 45
+Jun 12 16:19:03 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:19:03 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:19:03 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:19:04 :: [  1582000] return 0/0/0 async 0/0/0
+Jun 12 16:19:06 :: [  1582050] return 0/0/0 async 0/0/0
+Jun 12 16:19:08 :: [  1582100] return 0/0/0 async 0/0/0
+Jun 12 16:19:10 :: [  1582150] return 0/0/1 async 0/0/1
+Jun 12 16:19:12 :: [  1582200] return 0/0/0 async 0/0/0
+Jun 12 16:19:14 :: [  1582250] return 0/0/0 async 0/0/0
+Jun 12 16:19:16 :: [  1582300] return 0/0/0 async 0/0/0
+Jun 12 16:19:18 :: [  1582350] return 0/0/0 async 0/0/0
+Jun 12 16:19:20 :: [  1582400] return 0/0/1 async 0/0/0
+Jun 12 16:19:22 :: [  1582450] return 0/0/0 async 0/0/0
+Jun 12 16:19:24 :: [  1582500] return 0/0/0 async 0/0/0
+Jun 12 16:19:26 :: [  1582550] return 0/0/0 async 0/0/0
+Jun 12 16:19:28 :: [  1582600] return 0/0/0 async 0/0/0
+Jun 12 16:19:30 :: [  1582650] return 0/0/1 async 0/0/0
+Jun 12 16:19:32 :: [  1582700] return 0/0/0 async 0/0/0
+Jun 12 16:19:34 :: [  1582750] return 0/0/0 async 0/0/0
+Jun 12 16:19:36 :: [  1582800] return 0/0/0 async 0/0/0
+Jun 12 16:19:38 :: [  1582850] return 0/0/0 async 0/0/0
+Jun 12 16:19:40 :: [  1582900] return 0/0/1 async 0/0/0
+Jun 12 16:19:42 :: [  1582950] return 0/0/0 async 0/0/0
+Jun 12 16:19:44 :: [  1583000] return 0/0/0 async 0/0/0
+Jun 12 16:19:46 :: [  1583050] return 0/0/0 async 0/0/0
+Jun 12 16:19:48 :: [  1583100] return 0/0/0 async 0/0/0
+Jun 12 16:19:50 :: [  1583150] return 0/0/1 async 0/0/0
+Jun 12 16:19:52 :: [  1583200] return 0/0/0 async 0/0/0
+Jun 12 16:19:54 :: [  1583250] return 0/0/0 async 0/0/0
+Jun 12 16:19:56 :: [  1583300] return 0/0/0 async 0/0/0
+Jun 12 16:19:58 :: [  1583350] return 0/0/0 async 0/0/0
+Jun 12 16:20:00 :: [  1583400] return 0/0/1 async 0/0/0
+Jun 12 16:20:02 :: [  1583450] return 0/0/0 async 0/0/0
+Jun 12 16:20:03 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:20:03 :: LOGOUT: Insert player pid(45)
+Jun 12 16:20:03 :: SetPlay off 964384725 test4
+Jun 12 16:20:03 :: LOGOUT test4 
+Jun 12 16:20:04 :: [  1583500] return 0/0/0 async 0/0/0
+Jun 12 16:20:06 :: [  1583550] return 0/0/0 async 0/0/0
+Jun 12 16:20:08 :: [  1583600] return 0/0/0 async 0/0/0
+Jun 12 16:20:08 :: AUTH_PEER_READ: size 185
+Jun 12 16:20:08 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(532769110), client_key(266286055 113806037 1477618029 825319495)
+Jun 12 16:20:08 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:20:09 :: LOGIN_BY_KEY success test4 532769110 93.115.44.117
+Jun 12 16:20:09 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:20:09 :: [DEV]Cezariu 63967 149970 hair 530
+Jun 12 16:20:10 :: [  1583650] return 0/0/1 async 0/0/0
+Jun 12 16:20:12 :: [  1583700] return 0/0/0 async 0/0/0
+Jun 12 16:20:13 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:20:13 :: LOGOUT: Update player time pid(45)
+Jun 12 16:20:13 :: LOGOUT test4 
+Jun 12 16:20:14 :: LOGIN_BY_KEY success test4 532769110 93.115.44.117
+Jun 12 16:20:14 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:20:14 :: [DEV]Cezariu 63967 149970 hair 530
+Jun 12 16:20:14 :: SetPlay on 532769110 test4
+Jun 12 16:20:14 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:20:14 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:20:14 :: QID_QUEST 28
+Jun 12 16:20:14 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:20:14 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:20:14 :: QID_AFFECT 28
+Jun 12 16:20:14 :: AFFECT_LOAD: count 8 PID 45
+Jun 12 16:20:14 :: QID_EXT_BATTLE_PASS 28
+Jun 12 16:20:14 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:20:14 :: QID_SKILL_COLOR 28 45
+Jun 12 16:20:14 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:20:14 :: [  1583750] return 0/0/6 async 0/0/0
+Jun 12 16:20:14 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:20:14 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:20:16 :: [  1583800] return 0/0/0 async 0/0/2
+Jun 12 16:20:18 :: [  1583850] return 0/0/0 async 0/0/0
+Jun 12 16:20:20 :: [  1583900] return 0/0/1 async 0/0/0
+Jun 12 16:20:22 :: [  1583950] return 0/0/0 async 0/0/0
+Jun 12 16:20:24 :: [  1584000] return 0/0/0 async 0/0/0
+Jun 12 16:20:26 :: [  1584050] return 0/0/0 async 0/0/0
+Jun 12 16:20:28 :: [  1584100] return 0/0/0 async 0/0/0
+Jun 12 16:20:30 :: [  1584150] return 0/0/1 async 0/0/0
+Jun 12 16:20:32 :: [  1584200] return 0/0/0 async 0/0/0
+Jun 12 16:20:34 :: [  1584250] return 0/0/0 async 0/0/0
+Jun 12 16:20:36 :: [  1584300] return 0/0/0 async 0/0/0
+Jun 12 16:20:38 :: [  1584350] return 0/0/0 async 0/0/0
+Jun 12 16:20:40 :: [  1584400] return 0/0/1 async 0/0/0
+Jun 12 16:20:42 :: [  1584450] return 0/0/0 async 0/0/0
+Jun 12 16:20:44 :: [  1584500] return 0/0/0 async 0/0/0
+Jun 12 16:20:46 :: [  1584550] return 0/0/0 async 0/0/0
+Jun 12 16:20:48 :: [  1584600] return 0/0/0 async 0/0/0
+Jun 12 16:20:50 :: [  1584650] return 0/0/1 async 0/0/0
+Jun 12 16:20:52 :: [  1584700] return 0/0/0 async 0/0/0
+Jun 12 16:20:54 :: [  1584750] return 0/0/0 async 0/0/0
+Jun 12 16:20:56 :: [  1584800] return 0/0/0 async 0/0/0
+Jun 12 16:20:58 :: [  1584850] return 0/0/0 async 0/0/0
+Jun 12 16:21:00 :: [  1584900] return 0/0/1 async 0/0/0
+Jun 12 16:21:02 :: [  1584950] return 0/0/0 async 0/0/0
+Jun 12 16:21:04 :: [  1585000] return 0/0/0 async 0/0/0
+Jun 12 16:21:06 :: [  1585050] return 0/0/0 async 0/0/0
+Jun 12 16:21:08 :: [  1585100] return 0/0/0 async 0/0/0
+Jun 12 16:21:10 :: [  1585150] return 0/0/1 async 0/0/0
+Jun 12 16:21:12 :: [  1585200] return 0/0/0 async 0/0/0
+Jun 12 16:21:14 :: [  1585250] return 0/0/0 async 0/0/0
+Jun 12 16:21:15 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:21:15 :: LOGOUT: Insert player pid(45)
+Jun 12 16:21:15 :: SetPlay off 532769110 test4
+Jun 12 16:21:15 :: LOGOUT test4 
+Jun 12 16:21:16 :: [  1585300] return 0/0/0 async 0/0/0
+Jun 12 16:21:18 :: [  1585350] return 0/0/0 async 0/0/0
+Jun 12 16:21:20 :: [  1585400] return 0/0/1 async 0/0/0
+Jun 12 16:21:22 :: [  1585450] return 0/0/0 async 0/0/0
+Jun 12 16:21:24 :: [  1585500] return 0/0/0 async 0/0/0
+Jun 12 16:21:26 :: [  1585550] return 0/0/0 async 0/0/0
+Jun 12 16:21:28 :: [  1585600] return 0/0/0 async 0/0/0
+Jun 12 16:21:30 :: [  1585650] return 0/0/1 async 0/0/0
+Jun 12 16:21:32 :: [  1585700] return 0/0/0 async 0/0/0
+Jun 12 16:21:34 :: [  1585750] return 0/0/0 async 0/0/0
+Jun 12 16:21:36 :: [  1585800] return 0/0/0 async 0/0/0
+Jun 12 16:21:38 :: [  1585850] return 0/0/0 async 0/0/0
+Jun 12 16:21:39 :: AUTH_PEER_READ: size 185
+Jun 12 16:21:39 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(1364733646), client_key(2066738348 123424611 2075717722 715908139)
+Jun 12 16:21:39 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:21:40 :: LOGIN_BY_KEY success test4 1364733646 93.115.44.117
+Jun 12 16:21:40 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:21:40 :: [DEV]Cezariu 64217 152480 hair 530
+Jun 12 16:21:40 :: [  1585900] return 0/0/3 async 0/0/0
+Jun 12 16:21:42 :: [  1585950] return 0/0/0 async 0/0/0
+Jun 12 16:21:44 :: [  1586000] return 0/0/0 async 0/0/0
+Jun 12 16:21:45 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:21:45 :: LOGOUT: Update player time pid(45)
+Jun 12 16:21:45 :: LOGOUT test4 
+Jun 12 16:21:45 :: LOGIN_BY_KEY success test4 1364733646 93.115.44.117
+Jun 12 16:21:45 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:21:45 :: [DEV]Cezariu 64217 152480 hair 530
+Jun 12 16:21:45 :: SetPlay on 1364733646 test4
+Jun 12 16:21:45 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:21:45 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:21:46 :: QID_QUEST 29
+Jun 12 16:21:46 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:21:46 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:21:46 :: QID_AFFECT 29
+Jun 12 16:21:46 :: AFFECT_LOAD: count 8 PID 45
+Jun 12 16:21:46 :: QID_EXT_BATTLE_PASS 29
+Jun 12 16:21:46 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:21:46 :: QID_SKILL_COLOR 29 45
+Jun 12 16:21:46 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:21:46 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:21:46 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:21:46 :: [  1586050] return 0/0/4 async 0/0/0
+Jun 12 16:21:48 :: [  1586100] return 0/0/0 async 0/0/2
+Jun 12 16:21:50 :: [  1586150] return 0/0/1 async 0/0/0
+Jun 12 16:21:52 :: [  1586200] return 0/0/0 async 0/0/1
+Jun 12 16:21:54 :: [  1586250] return 0/0/0 async 0/0/0
+Jun 12 16:21:56 :: [  1586300] return 0/0/0 async 0/0/0
+Jun 12 16:21:58 :: [  1586350] return 0/0/0 async 0/0/0
+Jun 12 16:22:00 :: [  1586400] return 0/0/1 async 0/0/0
+Jun 12 16:22:02 :: [  1586450] return 0/0/0 async 0/0/0
+Jun 12 16:22:04 :: [  1586500] return 0/0/0 async 0/0/0
+Jun 12 16:22:06 :: [  1586550] return 0/0/0 async 0/0/0
+Jun 12 16:22:08 :: [  1586600] return 0/0/0 async 0/0/0
+Jun 12 16:22:10 :: [  1586650] return 0/0/1 async 0/0/0
+Jun 12 16:22:12 :: [  1586700] return 0/0/0 async 0/0/0
+Jun 12 16:22:14 :: [  1586750] return 0/0/0 async 0/0/0
+Jun 12 16:22:16 :: [  1586800] return 0/0/0 async 0/0/0
+Jun 12 16:22:18 :: [  1586850] return 0/0/0 async 0/0/0
+Jun 12 16:22:20 :: [  1586900] return 0/0/1 async 0/0/0
+Jun 12 16:22:22 :: [  1586950] return 0/0/0 async 0/0/0
+Jun 12 16:22:24 :: [  1587000] return 0/0/0 async 0/0/0
+Jun 12 16:22:26 :: [  1587050] return 0/0/0 async 0/0/0
+Jun 12 16:22:28 :: [  1587100] return 0/0/0 async 0/0/0
+Jun 12 16:22:30 :: [  1587150] return 0/0/1 async 0/0/0
+Jun 12 16:22:32 :: [  1587200] return 0/0/0 async 0/0/0
+Jun 12 16:22:34 :: [  1587250] return 0/0/0 async 0/0/0
+Jun 12 16:22:36 :: [  1587300] return 0/0/1 async 0/0/0
+Jun 12 16:22:38 :: [  1587350] return 0/0/0 async 0/0/0
+Jun 12 16:22:40 :: [  1587400] return 0/0/1 async 0/0/0
+Jun 12 16:22:42 :: [  1587450] return 0/0/0 async 0/0/0
+Jun 12 16:22:44 :: [  1587500] return 0/0/0 async 0/0/0
+Jun 12 16:22:46 :: [  1587550] return 0/0/0 async 0/0/0
+Jun 12 16:22:48 :: [  1587600] return 0/0/0 async 0/0/0
+Jun 12 16:22:50 :: [  1587650] return 0/0/1 async 0/0/0
+Jun 12 16:22:52 :: [  1587700] return 0/0/0 async 0/0/0
+Jun 12 16:22:54 :: [  1587750] return 0/0/0 async 0/0/0
+Jun 12 16:22:56 :: [  1587800] return 0/0/0 async 0/0/0
+Jun 12 16:22:58 :: [  1587850] return 0/0/0 async 0/0/0
+Jun 12 16:23:00 :: [  1587900] return 0/0/1 async 0/0/0
+Jun 12 16:23:02 :: [  1587950] return 0/0/0 async 0/0/0
+Jun 12 16:23:04 :: [  1588000] return 0/0/0 async 0/0/0
+Jun 12 16:23:06 :: [  1588050] return 0/0/0 async 0/0/0
+Jun 12 16:23:08 :: [  1588100] return 0/0/0 async 0/0/0
+Jun 12 16:23:10 :: [  1588150] return 0/0/1 async 0/0/0
+Jun 12 16:23:12 :: [  1588200] return 0/0/0 async 0/0/0
+Jun 12 16:23:14 :: [  1588250] return 0/0/0 async 0/0/0
+Jun 12 16:23:16 :: [  1588300] return 0/0/0 async 0/0/0
+Jun 12 16:23:18 :: [  1588350] return 0/0/0 async 0/0/0
+Jun 12 16:23:20 :: [  1588400] return 0/0/1 async 0/0/0
+Jun 12 16:23:22 :: [  1588450] return 0/0/0 async 0/0/0
+Jun 12 16:23:24 :: [  1588500] return 0/0/0 async 0/0/0
+Jun 12 16:23:26 :: [  1588550] return 0/0/0 async 0/0/0
+Jun 12 16:23:28 :: [  1588600] return 0/0/0 async 0/0/0
+Jun 12 16:23:30 :: [  1588650] return 0/0/1 async 0/0/0
+Jun 12 16:23:32 :: [  1588700] return 0/0/0 async 0/0/0
+Jun 12 16:23:34 :: [  1588750] return 0/0/0 async 0/0/0
+Jun 12 16:23:36 :: [  1588800] return 0/0/0 async 0/0/0
+Jun 12 16:23:38 :: [  1588850] return 0/0/0 async 0/0/0
+Jun 12 16:23:40 :: [  1588900] return 0/0/1 async 0/0/0
+Jun 12 16:23:41 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:23:41 :: LOGOUT: Insert player pid(45)
+Jun 12 16:23:41 :: SetPlay off 1364733646 test4
+Jun 12 16:23:41 :: LOGOUT test4 
+Jun 12 16:23:42 :: [  1588950] return 0/0/0 async 0/0/0
+Jun 12 16:23:44 :: [  1589000] return 0/0/0 async 0/0/0
+Jun 12 16:23:46 :: [  1589050] return 0/0/0 async 0/0/0
+Jun 12 16:23:48 :: [  1589100] return 0/0/0 async 0/0/0
+Jun 12 16:23:50 :: [  1589150] return 0/0/1 async 0/0/0
+Jun 12 16:23:52 :: [  1589200] return 0/0/0 async 0/0/0
+Jun 12 16:23:54 :: [  1589250] return 0/0/0 async 0/0/0
+Jun 12 16:23:56 :: [  1589300] return 0/0/0 async 0/0/0
+Jun 12 16:23:58 :: [  1589350] return 0/0/0 async 0/0/0
+Jun 12 16:24:00 :: [  1589400] return 0/0/1 async 0/0/0
+Jun 12 16:24:02 :: [  1589450] return 0/0/0 async 0/0/0
+Jun 12 16:24:03 :: AUTH_PEER_READ: size 185
+Jun 12 16:24:03 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(14055002), client_key(75976513 1331967673 1011143783 1255462170)
+Jun 12 16:24:03 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:24:03 :: LOGIN_BY_KEY success test4 14055002 93.115.44.117
+Jun 12 16:24:03 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:24:03 :: [DEV]Cezariu 63997 155139 hair 530
+Jun 12 16:24:04 :: [  1589500] return 0/0/2 async 0/0/0
+Jun 12 16:24:06 :: [  1589550] return 0/0/0 async 0/0/0
+Jun 12 16:24:07 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:24:07 :: LOGOUT: Update player time pid(45)
+Jun 12 16:24:07 :: LOGOUT test4 
+Jun 12 16:24:08 :: LOGIN_BY_KEY success test4 14055002 93.115.44.117
+Jun 12 16:24:08 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:24:08 :: [DEV]Cezariu 63997 155139 hair 530
+Jun 12 16:24:08 :: [  1589600] return 0/0/2 async 0/0/0
+Jun 12 16:24:08 :: SetPlay on 14055002 test4
+Jun 12 16:24:08 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:24:08 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:24:09 :: QID_QUEST 30
+Jun 12 16:24:09 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:24:09 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:24:09 :: QID_AFFECT 30
+Jun 12 16:24:09 :: AFFECT_LOAD: count 8 PID 45
+Jun 12 16:24:09 :: QID_EXT_BATTLE_PASS 30
+Jun 12 16:24:09 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:24:09 :: QID_SKILL_COLOR 30 45
+Jun 12 16:24:09 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:24:10 :: [  1589650] return 0/0/1 async 0/0/0
+Jun 12 16:24:12 :: [  1589700] return 0/0/0 async 0/0/0
+Jun 12 16:24:13 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:24:13 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:24:14 :: [  1589750] return 0/0/0 async 0/0/0
+Jun 12 16:24:16 :: [  1589800] return 0/0/0 async 0/0/0
+Jun 12 16:24:18 :: [  1589850] return 0/0/0 async 0/0/0
+Jun 12 16:24:20 :: [  1589900] return 0/0/1 async 0/0/0
+Jun 12 16:24:22 :: [  1589950] return 0/0/0 async 0/0/0
+Jun 12 16:24:24 :: [  1590000] return 0/0/0 async 0/0/0
+Jun 12 16:24:26 :: [  1590050] return 0/0/0 async 0/0/0
+Jun 12 16:24:28 :: [  1590100] return 0/0/0 async 0/0/0
+Jun 12 16:24:30 :: [  1590150] return 0/0/1 async 0/0/0
+Jun 12 16:24:32 :: [  1590200] return 0/0/0 async 0/0/0
+Jun 12 16:24:34 :: [  1590250] return 0/0/0 async 0/0/0
+Jun 12 16:24:36 :: [  1590300] return 0/0/0 async 0/0/0
+Jun 12 16:24:38 :: [  1590350] return 0/0/0 async 0/0/0
+Jun 12 16:24:40 :: [  1590400] return 0/0/1 async 0/0/0
+Jun 12 16:24:42 :: [  1590450] return 0/0/0 async 0/0/0
+Jun 12 16:24:44 :: [  1590500] return 0/0/0 async 0/0/0
+Jun 12 16:24:46 :: [  1590550] return 0/0/0 async 0/0/0
+Jun 12 16:24:48 :: [  1590600] return 0/0/0 async 0/0/0
+Jun 12 16:24:50 :: [  1590650] return 0/0/1 async 0/0/0
+Jun 12 16:24:52 :: [  1590700] return 0/0/0 async 0/0/0
+Jun 12 16:24:54 :: [  1590750] return 0/0/0 async 0/0/0
+Jun 12 16:24:56 :: [  1590800] return 0/0/0 async 0/0/0
+Jun 12 16:24:58 :: [  1590850] return 0/0/0 async 0/0/0
+Jun 12 16:25:00 :: [  1590900] return 0/0/1 async 0/0/0
+Jun 12 16:25:02 :: [  1590950] return 0/0/0 async 0/0/0
+Jun 12 16:25:04 :: [  1591000] return 0/0/0 async 0/0/0
+Jun 12 16:25:06 :: [  1591050] return 0/0/0 async 0/0/0
+Jun 12 16:25:08 :: [  1591100] return 0/0/0 async 0/0/0
+Jun 12 16:25:10 :: [  1591150] return 0/0/1 async 0/0/0
+Jun 12 16:25:12 :: [  1591200] return 0/0/0 async 0/0/0
+Jun 12 16:25:14 :: [  1591250] return 0/0/0 async 0/0/0
+Jun 12 16:25:15 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:25:15 :: LOGOUT: Insert player pid(45)
+Jun 12 16:25:15 :: SetPlay off 14055002 test4
+Jun 12 16:25:15 :: LOGOUT test4 
+Jun 12 16:25:16 :: [  1591300] return 0/0/6 async 0/0/8
+Jun 12 16:25:18 :: [  1591350] return 0/0/0 async 0/0/0
+Jun 12 16:25:20 :: [  1591400] return 0/0/1 async 0/0/0
+Jun 12 16:25:21 :: AUTH_PEER_READ: size 185
+Jun 12 16:25:21 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(1114954141), client_key(634209465 1197138194 527337815 301645536)
+Jun 12 16:25:21 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:25:22 :: LOGIN_BY_KEY success test4 1114954141 93.115.44.117
+Jun 12 16:25:22 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:25:22 :: [DEV]Cezariu 64188 157800 hair 530
+Jun 12 16:25:22 :: [  1591450] return 0/0/2 async 0/0/0
+Jun 12 16:25:24 :: [  1591500] return 0/0/0 async 0/0/0
+Jun 12 16:25:26 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:25:26 :: LOGOUT: Update player time pid(45)
+Jun 12 16:25:26 :: LOGOUT test4 
+Jun 12 16:25:26 :: LOGIN_BY_KEY success test4 1114954141 93.115.44.117
+Jun 12 16:25:26 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:25:26 :: [DEV]Cezariu 64188 157800 hair 530
+Jun 12 16:25:26 :: [  1591550] return 0/0/2 async 0/0/0
+Jun 12 16:25:26 :: SetPlay on 1114954141 test4
+Jun 12 16:25:26 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:25:26 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:25:27 :: QID_QUEST 31
+Jun 12 16:25:27 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:25:27 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:25:27 :: QID_AFFECT 31
+Jun 12 16:25:27 :: AFFECT_LOAD: count 8 PID 45
+Jun 12 16:25:27 :: QID_EXT_BATTLE_PASS 31
+Jun 12 16:25:27 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:25:27 :: QID_SKILL_COLOR 31 45
+Jun 12 16:25:27 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:25:28 :: [  1591600] return 0/0/0 async 0/0/0
+Jun 12 16:25:29 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:25:29 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:25:30 :: [  1591650] return 0/0/1 async 0/0/0
+Jun 12 16:25:32 :: [  1591700] return 0/0/0 async 0/0/0
+Jun 12 16:25:34 :: [  1591750] return 0/0/0 async 0/0/0
+Jun 12 16:25:36 :: [  1591800] return 0/0/0 async 0/0/0
+Jun 12 16:25:38 :: [  1591850] return 0/0/0 async 0/0/0
+Jun 12 16:25:40 :: [  1591900] return 0/0/1 async 0/0/0
+Jun 12 16:25:42 :: [  1591950] return 0/0/0 async 0/0/0
+Jun 12 16:25:44 :: [  1592000] return 0/0/0 async 0/0/0
+Jun 12 16:25:46 :: [  1592050] return 0/0/0 async 0/0/0
+Jun 12 16:25:48 :: [  1592100] return 0/0/0 async 0/0/0
+Jun 12 16:25:50 :: [  1592150] return 0/0/1 async 0/0/0
+Jun 12 16:25:52 :: [  1592200] return 0/0/0 async 0/0/0
+Jun 12 16:25:54 :: [  1592250] return 0/0/0 async 0/0/0
+Jun 12 16:25:56 :: [  1592300] return 0/0/0 async 0/0/0
+Jun 12 16:25:58 :: [  1592350] return 0/0/0 async 0/0/0
+Jun 12 16:26:00 :: [  1592400] return 0/0/1 async 0/0/0
+Jun 12 16:26:02 :: [  1592450] return 0/0/0 async 0/0/0
+Jun 12 16:26:04 :: [  1592500] return 0/0/0 async 0/0/0
+Jun 12 16:26:06 :: [  1592550] return 0/0/0 async 0/0/0
+Jun 12 16:26:08 :: [  1592600] return 0/0/0 async 0/0/0
+Jun 12 16:26:10 :: [  1592650] return 0/0/1 async 0/0/0
+Jun 12 16:26:12 :: [  1592700] return 0/0/0 async 0/0/0
+Jun 12 16:26:14 :: [  1592750] return 0/0/0 async 0/0/0
+Jun 12 16:26:16 :: [  1592800] return 0/0/0 async 0/0/0
+Jun 12 16:26:18 :: [  1592850] return 0/0/0 async 0/0/0
+Jun 12 16:26:20 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:26:20 :: LOGOUT: Insert player pid(45)
+Jun 12 16:26:20 :: SetPlay off 1114954141 test4
+Jun 12 16:26:20 :: LOGOUT test4 
+Jun 12 16:26:20 :: [  1592900] return 0/0/7 async 0/0/8
+Jun 12 16:26:22 :: [  1592950] return 0/0/0 async 0/0/0
+Jun 12 16:26:24 :: [  1593000] return 0/0/0 async 0/0/0
+Jun 12 16:26:25 :: AUTH_PEER_READ: size 185
+Jun 12 16:26:25 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(1012303908), client_key(1532756225 1967527810 1286706164 510173058)
+Jun 12 16:26:25 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:26:25 :: LOGIN_BY_KEY success test4 1012303908 93.115.44.117
+Jun 12 16:26:26 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:26:26 :: [DEV]Cezariu 64358 157782 hair 530
+Jun 12 16:26:26 :: [  1593050] return 0/0/2 async 0/0/0
+Jun 12 16:26:28 :: [  1593100] return 0/0/0 async 0/0/0
+Jun 12 16:26:29 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:26:29 :: LOGOUT: Update player time pid(45)
+Jun 12 16:26:29 :: LOGOUT test4 
+Jun 12 16:26:30 :: LOGIN_BY_KEY success test4 1012303908 93.115.44.117
+Jun 12 16:26:30 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:26:30 :: [DEV]Cezariu 64358 157782 hair 530
+Jun 12 16:26:30 :: [  1593150] return 0/0/3 async 0/0/0
+Jun 12 16:26:30 :: SetPlay on 1012303908 test4
+Jun 12 16:26:30 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:26:30 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:26:30 :: QID_QUEST 32
+Jun 12 16:26:30 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:26:30 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:26:30 :: QID_AFFECT 32
+Jun 12 16:26:30 :: AFFECT_LOAD: count 8 PID 45
+Jun 12 16:26:30 :: QID_EXT_BATTLE_PASS 32
+Jun 12 16:26:30 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:26:30 :: QID_SKILL_COLOR 32 45
+Jun 12 16:26:30 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:26:32 :: [  1593200] return 0/0/0 async 0/0/0
+Jun 12 16:26:34 :: [  1593250] return 0/0/0 async 0/0/0
+Jun 12 16:26:35 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:26:35 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:26:36 :: [  1593300] return 0/0/0 async 0/0/0
+Jun 12 16:26:38 :: [  1593350] return 0/0/0 async 0/0/0
+Jun 12 16:26:40 :: [  1593400] return 0/0/1 async 0/0/0
+Jun 12 16:26:42 :: [  1593450] return 0/0/0 async 0/0/0
+Jun 12 16:26:44 :: [  1593500] return 0/0/0 async 0/0/0
+Jun 12 16:26:46 :: [  1593550] return 0/0/0 async 0/0/0
+Jun 12 16:26:48 :: [  1593600] return 0/0/0 async 0/0/0
+Jun 12 16:26:50 :: [  1593650] return 0/0/1 async 0/0/0
+Jun 12 16:26:52 :: [  1593700] return 0/0/0 async 0/0/0
+Jun 12 16:26:54 :: [  1593750] return 0/0/0 async 0/0/0
+Jun 12 16:26:56 :: [  1593800] return 0/0/0 async 0/0/0
+Jun 12 16:26:58 :: [  1593850] return 0/0/0 async 0/0/0
+Jun 12 16:27:00 :: [  1593900] return 0/0/1 async 0/0/0
+Jun 12 16:27:02 :: [  1593950] return 0/0/0 async 0/0/0
+Jun 12 16:27:04 :: [  1594000] return 0/0/0 async 0/0/0
+Jun 12 16:27:06 :: [  1594050] return 0/0/0 async 0/0/0
+Jun 12 16:27:08 :: [  1594100] return 0/0/0 async 0/0/0
+Jun 12 16:27:10 :: [  1594150] return 0/0/1 async 0/0/0
+Jun 12 16:27:12 :: [  1594200] return 0/0/0 async 0/0/0
+Jun 12 16:27:14 :: [  1594250] return 0/0/0 async 0/0/0
+Jun 12 16:27:16 :: [  1594300] return 0/0/0 async 0/0/0
+Jun 12 16:27:18 :: [  1594350] return 0/0/0 async 0/0/0
+Jun 12 16:27:20 :: [  1594400] return 0/0/1 async 0/0/0
+Jun 12 16:27:22 :: [  1594450] return 0/0/0 async 0/0/0
+Jun 12 16:27:24 :: [  1594500] return 0/0/0 async 0/0/0
+Jun 12 16:27:26 :: [  1594550] return 0/0/0 async 0/0/0
+Jun 12 16:27:28 :: [  1594600] return 0/0/0 async 0/0/0
+Jun 12 16:27:30 :: [  1594650] return 0/0/1 async 0/0/0
+Jun 12 16:27:32 :: [  1594700] return 0/0/0 async 0/0/0
+Jun 12 16:27:34 :: [  1594750] return 0/0/0 async 0/0/0
+Jun 12 16:27:36 :: [  1594800] return 0/0/0 async 0/0/0
+Jun 12 16:27:38 :: [  1594850] return 0/0/1 async 0/0/0
+Jun 12 16:27:40 :: [  1594900] return 0/0/1 async 0/0/0
+Jun 12 16:27:42 :: [  1594950] return 0/0/0 async 0/0/0
+Jun 12 16:27:44 :: [  1595000] return 0/0/0 async 0/0/0
+Jun 12 16:27:46 :: [  1595050] return 0/0/0 async 0/0/0
+Jun 12 16:27:48 :: [  1595100] return 0/0/0 async 0/0/0
+Jun 12 16:27:50 :: [  1595150] return 0/0/1 async 0/0/0
+Jun 12 16:27:52 :: [  1595200] return 0/0/0 async 0/0/0
+Jun 12 16:27:54 :: [  1595250] return 0/0/0 async 0/0/0
+Jun 12 16:27:56 :: [  1595300] return 0/0/0 async 0/0/0
+Jun 12 16:27:58 :: [  1595350] return 0/0/0 async 0/0/0
+Jun 12 16:28:00 :: [  1595400] return 0/0/1 async 0/0/0
+Jun 12 16:28:02 :: [  1595450] return 0/0/0 async 0/0/0
+Jun 12 16:28:04 :: [  1595500] return 0/0/0 async 0/0/0
+Jun 12 16:28:06 :: [  1595550] return 0/0/0 async 0/0/0
+Jun 12 16:28:08 :: [  1595600] return 0/0/0 async 0/0/0
+Jun 12 16:28:10 :: [  1595650] return 0/0/1 async 0/0/0
+Jun 12 16:28:12 :: [  1595700] return 0/0/0 async 0/0/0
+Jun 12 16:28:14 :: [  1595750] return 0/0/0 async 0/0/0
+Jun 12 16:28:16 :: [  1595800] return 0/0/0 async 0/0/0
+Jun 12 16:28:18 :: [  1595850] return 0/0/0 async 0/0/0
+Jun 12 16:28:20 :: [  1595900] return 0/0/1 async 0/0/0
+Jun 12 16:28:22 :: [  1595950] return 0/0/0 async 0/0/0
+Jun 12 16:28:24 :: [  1596000] return 0/0/0 async 0/0/0
+Jun 12 16:28:26 :: [  1596050] return 0/0/0 async 0/0/0
+Jun 12 16:28:28 :: [  1596100] return 0/0/0 async 0/0/0
+Jun 12 16:28:30 :: [  1596150] return 0/0/1 async 0/0/0
+Jun 12 16:28:32 :: [  1596200] return 0/0/0 async 0/0/0
+Jun 12 16:28:34 :: [  1596250] return 0/0/0 async 0/0/0
+Jun 12 16:28:36 :: [  1596300] return 0/0/0 async 0/0/0
+Jun 12 16:28:38 :: [  1596350] return 0/0/0 async 0/0/0
+Jun 12 16:28:40 :: [  1596400] return 0/0/1 async 0/0/0
+Jun 12 16:28:42 :: [  1596450] return 0/0/0 async 0/0/0
+Jun 12 16:28:44 :: [  1596500] return 0/0/0 async 0/0/0
+Jun 12 16:28:46 :: [  1596550] return 0/0/0 async 0/0/0
+Jun 12 16:28:48 :: [  1596600] return 0/0/0 async 0/0/0
+Jun 12 16:28:50 :: [  1596650] return 0/0/1 async 0/0/0
+Jun 12 16:28:52 :: [  1596700] return 0/0/0 async 0/0/0
+Jun 12 16:28:54 :: [  1596750] return 0/0/0 async 0/0/0
+Jun 12 16:28:56 :: [  1596800] return 0/0/0 async 0/0/0
+Jun 12 16:28:58 :: [  1596850] return 0/0/0 async 0/0/0
+Jun 12 16:29:00 :: [  1596900] return 0/0/1 async 0/0/0
+Jun 12 16:29:02 :: [  1596950] return 0/0/0 async 0/0/0
+Jun 12 16:29:04 :: [  1597000] return 0/0/0 async 0/0/0
+Jun 12 16:29:06 :: [  1597050] return 0/0/0 async 0/0/0
+Jun 12 16:29:08 :: [  1597100] return 0/0/0 async 0/0/0
+Jun 12 16:29:10 :: [  1597150] return 0/0/1 async 0/0/0
+Jun 12 16:29:12 :: [  1597200] return 0/0/0 async 0/0/0
+Jun 12 16:29:14 :: [  1597250] return 0/0/0 async 0/0/0
+Jun 12 16:29:16 :: [  1597300] return 0/0/0 async 0/0/0
+Jun 12 16:29:18 :: [  1597350] return 0/0/0 async 0/0/0
+Jun 12 16:29:20 :: [  1597400] return 0/0/1 async 0/0/0
+Jun 12 16:29:22 :: [  1597450] return 0/0/0 async 0/0/0
+Jun 12 16:29:24 :: [  1597500] return 0/0/0 async 0/0/0
+Jun 12 16:29:26 :: [  1597550] return 0/0/0 async 0/0/0
+Jun 12 16:29:28 :: [  1597600] return 0/0/0 async 0/0/0
+Jun 12 16:29:30 :: [  1597650] return 0/0/1 async 0/0/0
+Jun 12 16:29:32 :: [  1597700] return 0/0/6 async 0/0/0
+Jun 12 16:29:34 :: [  1597750] return 0/0/0 async 0/0/0
+Jun 12 16:29:36 :: [  1597800] return 0/0/0 async 0/0/0
+Jun 12 16:29:38 :: [  1597850] return 0/0/0 async 0/0/0
+Jun 12 16:29:40 :: [  1597900] return 0/0/1 async 0/0/0
+Jun 12 16:29:42 :: [  1597950] return 0/0/0 async 0/0/0
+Jun 12 16:29:44 :: [  1598000] return 0/0/0 async 0/0/0
+Jun 12 16:29:46 :: [  1598050] return 0/0/0 async 0/0/0
+Jun 12 16:29:48 :: [  1598100] return 0/0/0 async 0/0/0
+Jun 12 16:29:50 :: [  1598150] return 0/0/1 async 0/0/0
+Jun 12 16:29:52 :: [  1598200] return 0/0/0 async 0/0/0
+Jun 12 16:29:54 :: [  1598250] return 0/0/0 async 0/0/0
+Jun 12 16:29:56 :: [  1598300] return 0/0/0 async 0/0/0
+Jun 12 16:29:58 :: [  1598350] return 0/0/0 async 0/0/0
+Jun 12 16:30:00 :: [  1598400] return 0/0/1 async 0/0/0
+Jun 12 16:30:02 :: [  1598450] return 0/0/0 async 0/0/0
+Jun 12 16:30:04 :: [  1598500] return 0/0/0 async 0/0/0
+Jun 12 16:30:06 :: [  1598550] return 0/0/0 async 0/0/0
+Jun 12 16:30:08 :: [  1598600] return 0/0/0 async 0/0/0
+Jun 12 16:30:10 :: [  1598650] return 0/0/1 async 0/0/0
+Jun 12 16:30:12 :: [  1598700] return 0/0/0 async 0/0/0
+Jun 12 16:30:14 :: [  1598750] return 0/0/0 async 0/0/0
+Jun 12 16:30:16 :: [  1598800] return 0/0/0 async 0/0/0
+Jun 12 16:30:18 :: [  1598850] return 0/0/0 async 0/0/0
+Jun 12 16:30:20 :: [  1598900] return 0/0/1 async 0/0/0
+Jun 12 16:30:22 :: [  1598950] return 0/0/0 async 0/0/0
+Jun 12 16:30:24 :: [  1599000] return 0/0/0 async 0/0/0
+Jun 12 16:30:26 :: [  1599050] return 0/0/0 async 0/0/0
+Jun 12 16:30:28 :: [  1599100] return 0/0/0 async 0/0/0
+Jun 12 16:30:30 :: [  1599150] return 0/0/1 async 0/0/0
+Jun 12 16:30:32 :: [  1599200] return 0/0/0 async 0/0/0
+Jun 12 16:30:34 :: [  1599250] return 0/0/0 async 0/0/0
+Jun 12 16:30:36 :: [  1599300] return 0/0/0 async 0/0/0
+Jun 12 16:30:38 :: [  1599350] return 0/0/0 async 0/0/0
+Jun 12 16:30:40 :: [  1599400] return 0/0/1 async 0/0/0
+Jun 12 16:30:42 :: [  1599450] return 0/0/0 async 0/0/0
+Jun 12 16:30:44 :: [  1599500] return 0/0/0 async 0/0/0
+Jun 12 16:30:46 :: [  1599550] return 0/0/0 async 0/0/0
+Jun 12 16:30:48 :: [  1599600] return 0/0/0 async 0/0/0
+Jun 12 16:30:50 :: [  1599650] return 0/0/1 async 0/0/0
+Jun 12 16:30:52 :: [  1599700] return 0/0/0 async 0/0/0
+Jun 12 16:30:54 :: [  1599750] return 0/0/0 async 0/0/0
+Jun 12 16:30:56 :: [  1599800] return 0/0/0 async 0/0/0
+Jun 12 16:30:57 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:30:57 :: LOGOUT: Insert player pid(45)
+Jun 12 16:30:57 :: SetPlay off 1012303908 test4
+Jun 12 16:30:57 :: LOGOUT test4 
+Jun 12 16:30:58 :: [  1599850] return 0/0/0 async 0/0/0
+Jun 12 16:31:00 :: [  1599900] return 0/0/1 async 0/0/0
+Jun 12 16:31:02 :: [  1599950] return 0/0/0 async 0/0/0
+Jun 12 16:31:04 :: [  1600000] return 0/0/0 async 0/0/0
+Jun 12 16:31:06 :: [  1600050] return 0/0/0 async 0/0/0
+Jun 12 16:31:07 :: AUTH_PEER_READ: size 185
+Jun 12 16:31:07 :: AUTH_LOGIN id(21) login(test4) social_id(1234567) login_key(1851084314), client_key(1451406255 518181512 1030483599 2029718985)
+Jun 12 16:31:07 :: AUTH_PEER_WRITE: size 10
+Jun 12 16:31:07 :: LOGIN_BY_KEY success test4 1851084314 93.115.44.117
+Jun 12 16:31:07 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:31:07 :: [DEV]Cezariu 64099 158061 hair 530
+Jun 12 16:31:08 :: [  1600100] return 0/0/2 async 0/0/0
+Jun 12 16:31:10 :: [  1600150] return 0/0/1 async 0/0/0
+Jun 12 16:31:12 :: [  1600200] return 0/0/0 async 0/0/0
+Jun 12 16:31:14 :: [  1600250] return 0/0/0 async 0/0/0
+Jun 12 16:31:16 :: [  1600300] return 0/0/0 async 0/0/0
+Jun 12 16:31:18 :: [  1600350] return 0/0/0 async 0/0/0
+Jun 12 16:31:20 :: [  1600400] return 0/0/1 async 0/0/0
+Jun 12 16:31:21 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:31:21 :: LOGOUT: Update player time pid(45)
+Jun 12 16:31:21 :: LOGOUT test4 
+Jun 12 16:31:21 :: LOGIN_BY_KEY success test4 1851084314 93.115.44.117
+Jun 12 16:31:21 :: RESULT_LOGIN: login success test4 rows: 1
+Jun 12 16:31:21 :: [DEV]Cezariu 64099 158061 hair 530
+Jun 12 16:31:21 :: SetPlay on 1851084314 test4
+Jun 12 16:31:21 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gold 660956426 
+Jun 12 16:31:21 :: [PLAYER_LOAD] ID [DEV]Cezariu pid 45 gaya 0 
+Jun 12 16:31:21 :: QID_QUEST 33
+Jun 12 16:31:21 :: QUEST_LOAD: count 6 PID 45
+Jun 12 16:31:21 :: info of pLoginData1 before call ItemAwardfunction 692060160
+Jun 12 16:31:21 :: QID_AFFECT 33
+Jun 12 16:31:21 :: AFFECT_LOAD: count 8 PID 45
+Jun 12 16:31:21 :: QID_EXT_BATTLE_PASS 33
+Jun 12 16:31:21 :: EXT_BATTLE_PASS_LOAD: count 3 PID 45
+Jun 12 16:31:21 :: QID_SKILL_COLOR 33 45
+Jun 12 16:31:21 :: SKILL_COLOR_LOAD 0, 0, 0, 0,
+Jun 12 16:31:22 :: [  1600450] return 0/0/4 async 0/0/0
+Jun 12 16:31:24 :: [  1600500] return 0/0/0 async 0/0/2
+Jun 12 16:31:25 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:31:25 :: ITEM_CACHE: save 45 id 90001140
+Jun 12 16:31:26 :: [  1600550] return 0/0/0 async 0/0/0
+Jun 12 16:31:28 :: [  1600600] return 0/0/0 async 0/0/1
+Jun 12 16:31:30 :: [  1600650] return 0/0/1 async 0/0/0
+Jun 12 16:31:32 :: [  1600700] return 0/0/0 async 0/0/0
+Jun 12 16:31:34 :: [  1600750] return 0/0/0 async 0/0/0
+Jun 12 16:31:36 :: [  1600800] return 0/0/0 async 0/0/0
+Jun 12 16:31:38 :: [  1600850] return 0/0/0 async 0/0/0
+Jun 12 16:31:40 :: [  1600900] return 0/0/1 async 0/0/0
+Jun 12 16:31:42 :: [  1600950] return 0/0/0 async 0/0/0
+Jun 12 16:31:44 :: [  1601000] return 0/0/0 async 0/0/0
+Jun 12 16:31:46 :: [  1601050] return 0/0/0 async 0/0/0
+Jun 12 16:31:48 :: [  1601100] return 0/0/0 async 0/0/0
+Jun 12 16:31:50 :: [  1601150] return 0/0/1 async 0/0/0
+Jun 12 16:31:52 :: [  1601200] return 0/0/0 async 0/0/0
+Jun 12 16:31:54 :: [  1601250] return 0/0/0 async 0/0/0
+Jun 12 16:31:56 :: [  1601300] return 0/0/0 async 0/0/0
+Jun 12 16:31:58 :: [  1601350] return 0/0/0 async 0/0/0
+Jun 12 16:32:00 :: [  1601400] return 0/0/1 async 0/0/0
+Jun 12 16:32:02 :: [  1601450] return 0/0/0 async 0/0/0
+Jun 12 16:32:04 :: [  1601500] return 0/0/0 async 0/0/0
+Jun 12 16:32:06 :: [  1601550] return 0/0/0 async 0/0/0
+Jun 12 16:32:08 :: [  1601600] return 0/0/0 async 0/0/1
+Jun 12 16:32:10 :: [  1601650] return 0/0/1 async 0/0/0
+Jun 12 16:32:12 :: [  1601700] return 0/0/0 async 0/0/4
+Jun 12 16:32:14 :: [  1601750] return 0/0/0 async 0/0/0
+Jun 12 16:32:16 :: [  1601800] return 0/0/0 async 0/0/1
+Jun 12 16:32:18 :: [  1601850] return 0/0/0 async 0/0/0
+Jun 12 16:32:20 :: [  1601900] return 0/0/1 async 0/0/0
+Jun 12 16:32:22 :: [  1601950] return 0/0/0 async 0/0/0
+Jun 12 16:32:24 :: [  1602000] return 0/0/0 async 0/0/0
+Jun 12 16:32:26 :: [  1602050] return 0/0/0 async 0/0/0
+Jun 12 16:32:28 :: [  1602100] return 0/0/0 async 0/0/0
+Jun 12 16:32:30 :: [  1602150] return 0/0/1 async 0/0/0
+Jun 12 16:32:32 :: [  1602200] return 0/0/0 async 0/0/0
+Jun 12 16:32:34 :: [  1602250] return 0/0/0 async 0/0/0
+Jun 12 16:32:36 :: [  1602300] return 0/0/0 async 0/0/0
+Jun 12 16:32:38 :: [  1602350] return 0/0/1 async 0/0/0
+Jun 12 16:32:40 :: [  1602400] return 0/0/1 async 0/0/0
+Jun 12 16:32:42 :: [  1602450] return 0/0/0 async 0/0/0
+Jun 12 16:32:44 :: [  1602500] return 0/0/0 async 0/0/0
+Jun 12 16:32:46 :: [  1602550] return 0/0/0 async 0/0/0
+Jun 12 16:32:48 :: [  1602600] return 0/0/0 async 0/0/0
+Jun 12 16:32:50 :: [  1602650] return 0/0/1 async 0/0/0
+Jun 12 16:32:52 :: [  1602700] return 0/0/0 async 0/0/0
+Jun 12 16:32:54 :: [  1602750] return 0/0/0 async 0/0/0
+Jun 12 16:32:56 :: [  1602800] return 0/0/0 async 0/0/0
+Jun 12 16:32:58 :: [  1602850] return 0/0/0 async 0/0/0
+Jun 12 16:33:00 :: [  1602900] return 0/0/1 async 0/0/0
+Jun 12 16:33:02 :: [  1602950] return 0/0/0 async 0/0/0
+Jun 12 16:33:04 :: [  1603000] return 0/0/0 async 0/0/0
+Jun 12 16:33:06 :: [  1603050] return 0/0/0 async 0/0/0
+Jun 12 16:33:08 :: [  1603100] return 0/0/0 async 0/0/0
+Jun 12 16:33:10 :: [  1603150] return 0/0/1 async 0/0/0
+Jun 12 16:33:12 :: [  1603200] return 0/0/0 async 0/0/0
+Jun 12 16:33:14 :: [  1603250] return 0/0/0 async 0/0/0
+Jun 12 16:33:16 :: [  1603300] return 0/0/0 async 0/0/0
+Jun 12 16:33:18 :: [  1603350] return 0/0/0 async 0/0/0
+Jun 12 16:33:20 :: [  1603400] return 0/0/1 async 0/0/0
+Jun 12 16:33:22 :: [  1603450] return 0/0/0 async 0/0/0
+Jun 12 16:33:24 :: [  1603500] return 0/0/0 async 0/0/0
+Jun 12 16:33:26 :: [  1603550] return 0/0/0 async 0/0/0
+Jun 12 16:33:28 :: [  1603600] return 0/0/0 async 0/0/0
+Jun 12 16:33:30 :: [  1603650] return 0/0/1 async 0/0/0
+Jun 12 16:33:32 :: [  1603700] return 0/0/0 async 0/0/0
+Jun 12 16:33:34 :: [  1603750] return 0/0/0 async 0/0/0
+Jun 12 16:33:36 :: [  1603800] return 0/0/0 async 0/0/0
+Jun 12 16:33:38 :: [  1603850] return 0/0/0 async 0/0/0
+Jun 12 16:33:40 :: [  1603900] return 0/0/1 async 0/0/0
+Jun 12 16:33:42 :: [  1603950] return 0/0/0 async 0/0/0
+Jun 12 16:33:44 :: [  1604000] return 0/0/0 async 0/0/0
+Jun 12 16:33:46 :: [  1604050] return 0/0/0 async 0/0/0
+Jun 12 16:33:48 :: [  1604100] return 0/0/0 async 0/0/0
+Jun 12 16:33:50 :: [  1604150] return 0/0/1 async 0/0/0
+Jun 12 16:33:52 :: [  1604200] return 0/0/0 async 0/0/0
+Jun 12 16:33:54 :: [  1604250] return 0/0/0 async 0/0/0
+Jun 12 16:33:56 :: [  1604300] return 0/0/0 async 0/0/0
+Jun 12 16:33:58 :: [  1604350] return 0/0/0 async 0/0/0
+Jun 12 16:34:00 :: [  1604400] return 0/0/1 async 0/0/0
+Jun 12 16:34:02 :: [  1604450] return 0/0/0 async 0/0/0
+Jun 12 16:34:04 :: [  1604500] return 0/0/0 async 0/0/0
+Jun 12 16:34:06 :: [  1604550] return 0/0/0 async 0/0/0
+Jun 12 16:34:08 :: [  1604600] return 0/0/0 async 0/0/0
+Jun 12 16:34:10 :: [  1604650] return 0/0/1 async 0/0/0
+Jun 12 16:34:12 :: [  1604700] return 0/0/0 async 0/0/0
+Jun 12 16:34:14 :: [  1604750] return 0/0/0 async 0/0/0
+Jun 12 16:34:16 :: [  1604800] return 0/0/0 async 0/0/0
+Jun 12 16:34:18 :: [  1604850] return 0/0/0 async 0/0/0
+Jun 12 16:34:20 :: [  1604900] return 0/0/1 async 0/0/0
+Jun 12 16:34:22 :: [  1604950] return 0/0/0 async 0/0/0
+Jun 12 16:34:24 :: [  1605000] return 0/0/6 async 0/0/0
+Jun 12 16:34:26 :: [  1605050] return 0/0/0 async 0/0/0
+Jun 12 16:34:28 :: [  1605100] return 0/0/0 async 0/0/0
+Jun 12 16:34:30 :: [  1605150] return 0/0/1 async 0/0/0
+Jun 12 16:34:32 :: [  1605200] return 0/0/0 async 0/0/0
+Jun 12 16:34:34 :: [  1605250] return 0/0/0 async 0/0/0
+Jun 12 16:34:36 :: [  1605300] return 0/0/0 async 0/0/0
+Jun 12 16:34:38 :: [  1605350] return 0/0/0 async 0/0/0
+Jun 12 16:34:40 :: [  1605400] return 0/0/1 async 0/0/0
+Jun 12 16:34:42 :: [  1605450] return 0/0/0 async 0/0/0
+Jun 12 16:34:44 :: [  1605500] return 0/0/0 async 0/0/0
+Jun 12 16:34:46 :: [  1605550] return 0/0/0 async 0/0/0
+Jun 12 16:34:48 :: [  1605600] return 0/0/0 async 0/0/0
+Jun 12 16:34:50 :: [  1605650] return 0/0/1 async 0/0/0
+Jun 12 16:34:52 :: [  1605700] return 0/0/0 async 0/0/0
+Jun 12 16:34:54 :: [  1605750] return 0/0/0 async 0/0/0
+Jun 12 16:34:56 :: [  1605800] return 0/0/0 async 0/0/0
+Jun 12 16:34:58 :: [  1605850] return 0/0/0 async 0/0/0
+Jun 12 16:35:00 :: [  1605900] return 0/0/1 async 0/0/0
+Jun 12 16:35:02 :: [  1605950] return 0/0/0 async 0/0/0
+Jun 12 16:35:04 :: [  1606000] return 0/0/0 async 0/0/0
+Jun 12 16:35:06 :: [  1606050] return 0/0/0 async 0/0/0
+Jun 12 16:35:08 :: [  1606100] return 0/0/0 async 0/0/0
+Jun 12 16:35:10 :: [  1606150] return 0/0/1 async 0/0/0
+Jun 12 16:35:12 :: [  1606200] return 0/0/0 async 0/0/0
+Jun 12 16:35:14 :: [  1606250] return 0/0/0 async 0/0/0
+Jun 12 16:35:16 :: [  1606300] return 0/0/0 async 0/0/0
+Jun 12 16:35:18 :: [  1606350] return 0/0/0 async 0/0/0
+Jun 12 16:35:20 :: [  1606400] return 0/0/1 async 0/0/0
+Jun 12 16:35:22 :: [  1606450] return 0/0/0 async 0/0/0
+Jun 12 16:35:24 :: [  1606500] return 0/0/0 async 0/0/0
+Jun 12 16:35:26 :: [  1606550] return 0/0/0 async 0/0/0
+Jun 12 16:35:28 :: [  1606600] return 0/0/0 async 0/0/0
+Jun 12 16:35:30 :: [  1606650] return 0/0/1 async 0/0/0
+Jun 12 16:35:32 :: [  1606700] return 0/0/0 async 0/0/0
+Jun 12 16:35:34 :: [  1606750] return 0/0/0 async 0/0/0
+Jun 12 16:35:36 :: [  1606800] return 0/0/0 async 0/0/0
+Jun 12 16:35:38 :: [  1606850] return 0/0/0 async 0/0/0
+Jun 12 16:35:40 :: [  1606900] return 0/0/1 async 0/0/0
+Jun 12 16:35:42 :: [  1606950] return 0/0/0 async 0/0/0
+Jun 12 16:35:44 :: [  1607000] return 0/0/0 async 0/0/0
+Jun 12 16:35:46 :: [  1607050] return 0/0/0 async 0/0/0
+Jun 12 16:35:48 :: [  1607100] return 0/0/0 async 0/0/0
+Jun 12 16:35:50 :: [  1607150] return 0/0/1 async 0/0/0
+Jun 12 16:35:52 :: [  1607200] return 0/0/0 async 0/0/0
+Jun 12 16:35:54 :: [  1607250] return 0/0/0 async 0/0/0
+Jun 12 16:35:56 :: [  1607300] return 0/0/0 async 0/0/0
+Jun 12 16:35:58 :: [  1607350] return 0/0/0 async 0/0/0
+Jun 12 16:36:00 :: [  1607400] return 0/0/1 async 0/0/0
+Jun 12 16:36:02 :: [  1607450] return 0/0/0 async 0/0/0
+Jun 12 16:36:04 :: [  1607500] return 0/0/0 async 0/0/0
+Jun 12 16:36:06 :: [  1607550] return 0/0/0 async 0/0/0
+Jun 12 16:36:08 :: [  1607600] return 0/0/0 async 0/0/0
+Jun 12 16:36:10 :: [  1607650] return 0/0/1 async 0/0/0
+Jun 12 16:36:12 :: [  1607700] return 0/0/0 async 0/0/0
+Jun 12 16:36:14 :: [  1607750] return 0/0/0 async 0/0/0
+Jun 12 16:36:16 :: [  1607800] return 0/0/0 async 0/0/0
+Jun 12 16:36:18 :: [  1607850] return 0/0/0 async 0/0/0
+Jun 12 16:36:20 :: [  1607900] return 0/0/1 async 0/0/0
+Jun 12 16:36:22 :: [  1607950] return 0/0/0 async 0/0/0
+Jun 12 16:36:24 :: [  1608000] return 0/0/0 async 0/0/0
+Jun 12 16:36:26 :: [  1608050] return 0/0/0 async 0/0/0
+Jun 12 16:36:28 :: [  1608100] return 0/0/0 async 0/0/0
+Jun 12 16:36:30 :: [  1608150] return 0/0/1 async 0/0/0
+Jun 12 16:36:32 :: [  1608200] return 0/0/0 async 0/0/0
+Jun 12 16:36:34 :: [  1608250] return 0/0/0 async 0/0/0
+Jun 12 16:36:36 :: [  1608300] return 0/0/0 async 0/0/0
+Jun 12 16:36:38 :: [  1608350] return 0/0/0 async 0/0/0
+Jun 12 16:36:40 :: [  1608400] return 0/0/1 async 0/0/0
+Jun 12 16:36:42 :: [  1608450] return 0/0/0 async 0/0/0
+Jun 12 16:36:44 :: [  1608500] return 0/0/0 async 0/0/0
+Jun 12 16:36:46 :: [  1608550] return 0/0/0 async 0/0/0
+Jun 12 16:36:48 :: [  1608600] return 0/0/0 async 0/0/0
+Jun 12 16:36:50 :: [  1608650] return 0/0/1 async 0/0/0
+Jun 12 16:36:52 :: [  1608700] return 0/0/0 async 0/0/0
+Jun 12 16:36:54 :: [  1608750] return 0/0/0 async 0/0/0
+Jun 12 16:36:56 :: [  1608800] return 0/0/0 async 0/0/0
+Jun 12 16:36:58 :: [  1608850] return 0/0/0 async 0/0/0
+Jun 12 16:37:00 :: [  1608900] return 0/0/1 async 0/0/0
+Jun 12 16:37:02 :: [  1608950] return 0/0/0 async 0/0/0
+Jun 12 16:37:04 :: [  1609000] return 0/0/0 async 0/0/0
+Jun 12 16:37:06 :: [  1609050] return 0/0/0 async 0/0/0
+Jun 12 16:37:08 :: [  1609100] return 0/0/0 async 0/0/0
+Jun 12 16:37:10 :: [  1609150] return 0/0/1 async 0/0/0
+Jun 12 16:37:12 :: [  1609200] return 0/0/0 async 0/0/0
+Jun 12 16:37:14 :: [  1609250] return 0/0/0 async 0/0/0
+Jun 12 16:37:16 :: [  1609300] return 0/0/0 async 0/0/0
+Jun 12 16:37:18 :: [  1609350] return 0/0/0 async 0/0/0
+Jun 12 16:37:20 :: [  1609400] return 0/0/1 async 0/0/0
+Jun 12 16:37:22 :: [  1609450] return 0/0/0 async 0/0/0
+Jun 12 16:37:24 :: [  1609500] return 0/0/0 async 0/0/0
+Jun 12 16:37:26 :: [  1609550] return 0/0/0 async 0/0/0
+Jun 12 16:37:28 :: [  1609600] return 0/0/0 async 0/0/0
+Jun 12 16:37:30 :: [  1609650] return 0/0/1 async 0/0/0
+Jun 12 16:37:32 :: [  1609700] return 0/0/0 async 0/0/0
+Jun 12 16:37:34 :: [  1609750] return 0/0/0 async 0/0/0
+Jun 12 16:37:36 :: [  1609800] return 0/0/0 async 0/0/0
+Jun 12 16:37:38 :: [  1609850] return 0/0/0 async 0/0/0
+Jun 12 16:37:40 :: [  1609900] return 0/0/2 async 0/0/0
+Jun 12 16:37:42 :: [  1609950] return 0/0/0 async 0/0/0
+Jun 12 16:37:44 :: [  1610000] return 0/0/0 async 0/0/0
+Jun 12 16:37:46 :: [  1610050] return 0/0/0 async 0/0/0
+Jun 12 16:37:48 :: [  1610100] return 0/0/0 async 0/0/0
+Jun 12 16:37:50 :: [  1610150] return 0/0/1 async 0/0/0
+Jun 12 16:37:52 :: [  1610200] return 0/0/0 async 0/0/0
+Jun 12 16:37:54 :: [  1610250] return 0/0/0 async 0/0/0
+Jun 12 16:37:56 :: [  1610300] return 0/0/0 async 0/0/0
+Jun 12 16:37:58 :: [  1610350] return 0/0/0 async 0/0/0
+Jun 12 16:38:00 :: [  1610400] return 0/0/1 async 0/0/0
+Jun 12 16:38:02 :: [  1610450] return 0/0/0 async 0/0/0
+Jun 12 16:38:04 :: [  1610500] return 0/0/0 async 0/0/0
+Jun 12 16:38:06 :: [  1610550] return 0/0/0 async 0/0/0
+Jun 12 16:38:08 :: [  1610600] return 0/0/0 async 0/0/0
+Jun 12 16:38:10 :: [  1610650] return 0/0/1 async 0/0/0
+Jun 12 16:38:12 :: [  1610700] return 0/0/0 async 0/0/0
+Jun 12 16:38:14 :: [  1610750] return 0/0/0 async 0/0/0
+Jun 12 16:38:16 :: [  1610800] return 0/0/0 async 0/0/0
+Jun 12 16:38:18 :: [  1610850] return 0/0/0 async 0/0/0
+Jun 12 16:38:20 :: [  1610900] return 0/0/1 async 0/0/0
+Jun 12 16:38:22 :: [  1610950] return 0/0/0 async 0/0/0
+Jun 12 16:38:24 :: [  1611000] return 0/0/0 async 0/0/0
+Jun 12 16:38:26 :: [  1611050] return 0/0/0 async 0/0/0
+Jun 12 16:38:28 :: [  1611100] return 0/0/0 async 0/0/0
+Jun 12 16:38:30 :: [  1611150] return 0/0/1 async 0/0/0
+Jun 12 16:38:32 :: [  1611200] return 0/0/0 async 0/0/0
+Jun 12 16:38:34 :: [  1611250] return 0/0/0 async 0/0/0
+Jun 12 16:38:36 :: [  1611300] return 0/0/0 async 0/0/0
+Jun 12 16:38:38 :: [  1611350] return 0/0/0 async 0/0/0
+Jun 12 16:38:40 :: [  1611400] return 0/0/1 async 0/0/0
+Jun 12 16:38:42 :: [  1611450] return 0/0/0 async 0/0/0
+Jun 12 16:38:44 :: [  1611500] return 0/0/0 async 0/0/0
+Jun 12 16:38:46 :: [  1611550] return 0/0/0 async 0/0/0
+Jun 12 16:38:48 :: [  1611600] return 0/0/0 async 0/0/0
+Jun 12 16:38:50 :: [  1611650] return 0/0/1 async 0/0/0
+Jun 12 16:38:52 :: [  1611700] return 0/0/0 async 0/0/0
+Jun 12 16:38:54 :: [  1611750] return 0/0/0 async 0/0/0
+Jun 12 16:38:56 :: [  1611800] return 0/0/0 async 0/0/0
+Jun 12 16:38:58 :: [  1611850] return 0/0/0 async 0/0/0
+Jun 12 16:39:00 :: [  1611900] return 0/0/1 async 0/0/0
+Jun 12 16:39:02 :: [  1611950] return 0/0/0 async 0/0/0
+Jun 12 16:39:04 :: [  1612000] return 0/0/0 async 0/0/0
+Jun 12 16:39:06 :: [  1612050] return 0/0/0 async 0/0/0
+Jun 12 16:39:08 :: [  1612100] return 0/0/0 async 0/0/0
+Jun 12 16:39:10 :: [  1612150] return 0/0/1 async 0/0/0
+Jun 12 16:39:12 :: [  1612200] return 0/0/0 async 0/0/0
+Jun 12 16:39:14 :: [  1612250] return 0/0/0 async 0/0/0
+Jun 12 16:39:16 :: [  1612300] return 0/0/0 async 0/0/0
+Jun 12 16:39:18 :: [  1612350] return 0/0/0 async 0/0/0
+Jun 12 16:39:20 :: [  1612400] return 0/0/1 async 0/0/0
+Jun 12 16:39:22 :: [  1612450] return 0/0/0 async 0/0/0
+Jun 12 16:39:24 :: [  1612500] return 0/0/0 async 0/0/0
+Jun 12 16:39:26 :: [  1612550] return 0/0/0 async 0/0/0
+Jun 12 16:39:28 :: [  1612600] return 0/0/0 async 0/0/0
+Jun 12 16:39:30 :: [  1612650] return 0/0/1 async 0/0/0
+Jun 12 16:39:32 :: [  1612700] return 0/0/0 async 0/0/0
+Jun 12 16:39:34 :: [  1612750] return 0/0/0 async 0/0/0
+Jun 12 16:39:36 :: [  1612800] return 0/0/0 async 0/0/0
+Jun 12 16:39:38 :: [  1612850] return 0/0/0 async 0/0/0
+Jun 12 16:39:40 :: [  1612900] return 0/0/1 async 0/0/0
+Jun 12 16:39:42 :: [  1612950] return 0/0/0 async 0/0/0
+Jun 12 16:39:44 :: [  1613000] return 0/0/0 async 0/0/0
+Jun 12 16:39:46 :: [  1613050] return 0/0/0 async 0/0/0
+Jun 12 16:39:48 :: [  1613100] return 0/0/0 async 0/0/0
+Jun 12 16:39:50 :: [  1613150] return 0/0/1 async 0/0/0
+Jun 12 16:39:52 :: [  1613200] return 0/0/0 async 0/0/0
+Jun 12 16:39:54 :: [  1613250] return 0/0/0 async 0/0/0
+Jun 12 16:39:56 :: [  1613300] return 0/0/0 async 0/0/0
+Jun 12 16:39:58 :: [  1613350] return 0/0/0 async 0/0/0
+Jun 12 16:40:00 :: [  1613400] return 0/0/1 async 0/0/0
+Jun 12 16:40:02 :: [  1613450] return 0/0/0 async 0/0/0
+Jun 12 16:40:04 :: [  1613500] return 0/0/0 async 0/0/0
+Jun 12 16:40:06 :: [  1613550] return 0/0/0 async 0/0/0
+Jun 12 16:40:08 :: [  1613600] return 0/0/0 async 0/0/0
+Jun 12 16:40:10 :: [  1613650] return 0/0/1 async 0/0/0
+Jun 12 16:40:12 :: [  1613700] return 0/0/0 async 0/0/0
+Jun 12 16:40:14 :: [  1613750] return 0/0/0 async 0/0/0
+Jun 12 16:40:16 :: [  1613800] return 0/0/0 async 0/0/0
+Jun 12 16:40:18 :: [  1613850] return 0/0/0 async 0/0/0
+Jun 12 16:40:20 :: [  1613900] return 0/0/1 async 0/0/0
+Jun 12 16:40:22 :: [  1613950] return 0/0/0 async 0/0/0
+Jun 12 16:40:24 :: [  1614000] return 0/0/0 async 0/0/0
+Jun 12 16:40:26 :: [  1614050] return 0/0/0 async 0/0/0
+Jun 12 16:40:28 :: [  1614100] return 0/0/0 async 0/0/0
+Jun 12 16:40:30 :: [  1614150] return 0/0/1 async 0/0/0
+Jun 12 16:40:32 :: [  1614200] return 0/0/0 async 0/0/0
+Jun 12 16:40:34 :: [  1614250] return 0/0/0 async 0/0/0
+Jun 12 16:40:36 :: [  1614300] return 0/0/0 async 0/0/0
+Jun 12 16:40:38 :: [  1614350] return 0/0/0 async 0/0/0
+Jun 12 16:40:40 :: [  1614400] return 0/0/1 async 0/0/0
+Jun 12 16:40:42 :: [  1614450] return 0/0/0 async 0/0/0
+Jun 12 16:40:44 :: [  1614500] return 0/0/0 async 0/0/0
+Jun 12 16:40:46 :: [  1614550] return 0/0/0 async 0/0/0
+Jun 12 16:40:48 :: [  1614600] return 0/0/0 async 0/0/0
+Jun 12 16:40:50 :: [  1614650] return 0/0/1 async 0/0/0
+Jun 12 16:40:52 :: [  1614700] return 0/0/0 async 0/0/0
+Jun 12 16:40:54 :: [  1614750] return 0/0/0 async 0/0/0
+Jun 12 16:40:56 :: [  1614800] return 0/0/0 async 0/0/0
+Jun 12 16:40:58 :: [  1614850] return 0/0/0 async 0/0/0
+Jun 12 16:41:00 :: [  1614900] return 0/0/1 async 0/0/0
+Jun 12 16:41:02 :: [  1614950] return 0/0/0 async 0/0/0
+Jun 12 16:41:04 :: [  1615000] return 0/0/0 async 0/0/0
+Jun 12 16:41:06 :: [  1615050] return 0/0/0 async 0/0/0
+Jun 12 16:41:08 :: [  1615100] return 0/0/0 async 0/0/0
+Jun 12 16:41:10 :: [  1615150] return 0/0/1 async 0/0/0
+Jun 12 16:41:12 :: [  1615200] return 0/0/0 async 0/0/0
+Jun 12 16:41:14 :: [  1615250] return 0/0/0 async 0/0/0
+Jun 12 16:41:16 :: [  1615300] return 0/0/0 async 0/0/0
+Jun 12 16:41:18 :: [  1615350] return 0/0/0 async 0/0/0
+Jun 12 16:41:20 :: [  1615400] return 0/0/1 async 0/0/0
+Jun 12 16:41:22 :: [  1615450] return 0/0/0 async 0/0/0
+Jun 12 16:41:24 :: [  1615500] return 0/0/0 async 0/0/0
+Jun 12 16:41:26 :: [  1615550] return 0/0/0 async 0/0/0
+Jun 12 16:41:28 :: [  1615600] return 0/0/0 async 0/0/0
+Jun 12 16:41:30 :: [  1615650] return 0/0/1 async 0/0/0
+Jun 12 16:41:32 :: [  1615700] return 0/0/0 async 0/0/0
+Jun 12 16:41:34 :: [  1615750] return 0/0/0 async 0/0/0
+Jun 12 16:41:36 :: [  1615800] return 0/0/0 async 0/0/0
+Jun 12 16:41:38 :: [  1615850] return 0/0/0 async 0/0/0
+Jun 12 16:41:40 :: [  1615900] return 0/0/1 async 0/0/0
+Jun 12 16:41:42 :: [  1615950] return 0/0/0 async 0/0/0
+Jun 12 16:41:44 :: [  1616000] return 0/0/0 async 0/0/0
+Jun 12 16:41:46 :: [  1616050] return 0/0/0 async 0/0/0
+Jun 12 16:41:48 :: [  1616100] return 0/0/0 async 0/0/0
+Jun 12 16:41:50 :: [  1616150] return 0/0/1 async 0/0/0
+Jun 12 16:41:52 :: [  1616200] return 0/0/0 async 0/0/0
+Jun 12 16:41:54 :: [  1616250] return 0/0/0 async 0/0/0
+Jun 12 16:41:56 :: [  1616300] return 0/0/0 async 0/0/0
+Jun 12 16:41:58 :: [  1616350] return 0/0/0 async 0/0/0
+Jun 12 16:42:00 :: [  1616400] return 0/0/1 async 0/0/0
+Jun 12 16:42:02 :: [  1616450] return 0/0/0 async 0/0/0
+Jun 12 16:42:04 :: [  1616500] return 0/0/0 async 0/0/0
+Jun 12 16:42:06 :: [  1616550] return 0/0/0 async 0/0/0
+Jun 12 16:42:08 :: [  1616600] return 0/0/0 async 0/0/0
+Jun 12 16:42:10 :: [  1616650] return 0/0/1 async 0/0/0
+Jun 12 16:42:12 :: [  1616700] return 0/0/0 async 0/0/0
+Jun 12 16:42:14 :: [  1616750] return 0/0/0 async 0/0/0
+Jun 12 16:42:16 :: [  1616800] return 0/0/0 async 0/0/0
+Jun 12 16:42:18 :: [  1616850] return 0/0/0 async 0/0/0
+Jun 12 16:42:20 :: [  1616900] return 0/0/1 async 0/0/0
+Jun 12 16:42:22 :: [  1616950] return 0/0/0 async 0/0/0
+Jun 12 16:42:24 :: [  1617000] return 0/0/0 async 0/0/0
+Jun 12 16:42:26 :: [  1617050] return 0/0/0 async 0/0/0
+Jun 12 16:42:28 :: [  1617100] return 0/0/0 async 0/0/0
+Jun 12 16:42:30 :: [  1617150] return 0/0/1 async 0/0/0
+Jun 12 16:42:32 :: [  1617200] return 0/0/0 async 0/0/0
+Jun 12 16:42:34 :: [  1617250] return 0/0/0 async 0/0/0
+Jun 12 16:42:36 :: [  1617300] return 0/0/0 async 0/0/0
+Jun 12 16:42:38 :: [  1617350] return 0/0/0 async 0/0/0
+Jun 12 16:42:40 :: [  1617400] return 0/0/1 async 0/0/0
+Jun 12 16:42:42 :: [  1617450] return 0/0/0 async 0/0/0
+Jun 12 16:42:44 :: [  1617500] return 0/0/0 async 0/0/0
+Jun 12 16:42:46 :: [  1617550] return 0/0/0 async 0/0/0
+Jun 12 16:42:48 :: [  1617600] return 0/0/0 async 0/0/0
+Jun 12 16:42:50 :: [  1617650] return 0/0/1 async 0/0/0
+Jun 12 16:42:52 :: [  1617700] return 0/0/0 async 0/0/0
+Jun 12 16:42:54 :: [  1617750] return 0/0/0 async 0/0/0
+Jun 12 16:42:56 :: [  1617800] return 0/0/0 async 0/0/0
+Jun 12 16:42:58 :: [  1617850] return 0/0/0 async 0/0/0
+Jun 12 16:43:00 :: [  1617900] return 0/0/1 async 0/0/0
+Jun 12 16:43:02 :: [  1617950] return 0/0/0 async 0/0/0
+Jun 12 16:43:04 :: [  1618000] return 0/0/0 async 0/0/0
+Jun 12 16:43:06 :: [  1618050] return 0/0/0 async 0/0/0
+Jun 12 16:43:08 :: [  1618100] return 0/0/0 async 0/0/0
+Jun 12 16:43:10 :: [  1618150] return 0/0/1 async 0/0/0
+Jun 12 16:43:12 :: [  1618200] return 0/0/0 async 0/0/0
+Jun 12 16:43:14 :: [  1618250] return 0/0/0 async 0/0/0
+Jun 12 16:43:16 :: [  1618300] return 0/0/0 async 0/0/0
+Jun 12 16:43:18 :: [  1618350] return 0/0/0 async 0/0/0
+Jun 12 16:43:20 :: [  1618400] return 0/0/1 async 0/0/0
+Jun 12 16:43:22 :: [  1618450] return 0/0/0 async 0/0/0
+Jun 12 16:43:24 :: [  1618500] return 0/0/0 async 0/0/0
+Jun 12 16:43:26 :: [  1618550] return 0/0/0 async 0/0/0
+Jun 12 16:43:28 :: [  1618600] return 0/0/0 async 0/0/0
+Jun 12 16:43:30 :: [  1618650] return 0/0/1 async 0/0/0
+Jun 12 16:43:32 :: [  1618700] return 0/0/0 async 0/0/0
+Jun 12 16:43:34 :: [  1618750] return 0/0/0 async 0/0/0
+Jun 12 16:43:36 :: [  1618800] return 0/0/0 async 0/0/0
+Jun 12 16:43:38 :: [  1618850] return 0/0/0 async 0/0/0
+Jun 12 16:43:40 :: [  1618900] return 0/0/1 async 0/0/0
+Jun 12 16:43:42 :: [  1618950] return 0/0/0 async 0/0/0
+Jun 12 16:43:44 :: [  1619000] return 0/0/0 async 0/0/0
+Jun 12 16:43:46 :: [  1619050] return 0/0/0 async 0/0/0
+Jun 12 16:43:48 :: [  1619100] return 0/0/0 async 0/0/0
+Jun 12 16:43:50 :: [  1619150] return 0/0/1 async 0/0/0
+Jun 12 16:43:52 :: [  1619200] return 0/0/0 async 0/0/0
+Jun 12 16:43:54 :: [  1619250] return 0/0/0 async 0/0/0
+Jun 12 16:43:56 :: [  1619300] return 0/0/0 async 0/0/0
+Jun 12 16:43:58 :: [  1619350] return 0/0/0 async 0/0/0
+Jun 12 16:44:00 :: [  1619400] return 0/0/1 async 0/0/0
+Jun 12 16:44:02 :: [  1619450] return 0/0/0 async 0/0/0
+Jun 12 16:44:04 :: [  1619500] return 0/0/0 async 0/0/0
+Jun 12 16:44:06 :: [  1619550] return 0/0/0 async 0/0/0
+Jun 12 16:44:08 :: [  1619600] return 0/0/0 async 0/0/0
+Jun 12 16:44:10 :: [  1619650] return 0/0/1 async 0/0/0
+Jun 12 16:44:12 :: [  1619700] return 0/0/0 async 0/0/0
+Jun 12 16:44:14 :: [  1619750] return 0/0/0 async 0/0/0
+Jun 12 16:44:16 :: [  1619800] return 0/0/0 async 0/0/0
+Jun 12 16:44:18 :: [  1619850] return 0/0/0 async 0/0/0
+Jun 12 16:44:20 :: [  1619900] return 0/0/1 async 0/0/0
+Jun 12 16:44:22 :: [  1619950] return 0/0/0 async 0/0/0
+Jun 12 16:44:24 :: [  1620000] return 0/0/0 async 0/0/0
+Jun 12 16:44:26 :: [  1620050] return 0/0/0 async 0/0/0
+Jun 12 16:44:28 :: [  1620100] return 0/0/0 async 0/0/0
+Jun 12 16:44:30 :: [  1620150] return 0/0/1 async 0/0/0
+Jun 12 16:44:32 :: [  1620200] return 0/0/0 async 0/0/0
+Jun 12 16:44:34 :: [  1620250] return 0/0/0 async 0/0/0
+Jun 12 16:44:36 :: [  1620300] return 0/0/0 async 0/0/0
+Jun 12 16:44:38 :: [  1620350] return 0/0/0 async 0/0/0
+Jun 12 16:44:40 :: [  1620400] return 0/0/1 async 0/0/0
+Jun 12 16:44:42 :: [  1620450] return 0/0/0 async 0/0/0
+Jun 12 16:44:44 :: [  1620500] return 0/0/0 async 0/0/0
+Jun 12 16:44:46 :: [  1620550] return 0/0/0 async 0/0/0
+Jun 12 16:44:48 :: [  1620600] return 0/0/0 async 0/0/0
+Jun 12 16:44:50 :: [  1620650] return 0/0/1 async 0/0/0
+Jun 12 16:44:52 :: [  1620700] return 0/0/0 async 0/0/0
+Jun 12 16:44:54 :: [  1620750] return 0/0/0 async 0/0/0
+Jun 12 16:44:56 :: [  1620800] return 0/0/0 async 0/0/0
+Jun 12 16:44:58 :: [  1620850] return 0/0/0 async 0/0/0
+Jun 12 16:45:00 :: [  1620900] return 0/0/1 async 0/0/0
+Jun 12 16:45:02 :: [  1620950] return 0/0/0 async 0/0/0
+Jun 12 16:45:04 :: [  1621000] return 0/0/0 async 0/0/0
+Jun 12 16:45:06 :: [  1621050] return 0/0/0 async 0/0/0
+Jun 12 16:45:08 :: [  1621100] return 0/0/0 async 0/0/0
+Jun 12 16:45:10 :: [  1621150] return 0/0/1 async 0/0/0
+Jun 12 16:45:12 :: [  1621200] return 0/0/0 async 0/0/0
+Jun 12 16:45:14 :: [  1621250] return 0/0/0 async 0/0/0
+Jun 12 16:45:16 :: [  1621300] return 0/0/0 async 0/0/0
+Jun 12 16:45:18 :: [  1621350] return 0/0/0 async 0/0/0
+Jun 12 16:45:20 :: [  1621400] return 0/0/1 async 0/0/0
+Jun 12 16:45:22 :: [  1621450] return 0/0/0 async 0/0/0
+Jun 12 16:45:24 :: [  1621500] return 0/0/0 async 0/0/0
+Jun 12 16:45:26 :: [  1621550] return 0/0/0 async 0/0/0
+Jun 12 16:45:28 :: [  1621600] return 0/0/0 async 0/0/0
+Jun 12 16:45:30 :: [  1621650] return 0/0/1 async 0/0/0
+Jun 12 16:45:32 :: [  1621700] return 0/0/0 async 0/0/0
+Jun 12 16:45:34 :: [  1621750] return 0/0/0 async 0/0/0
+Jun 12 16:45:36 :: [  1621800] return 0/0/0 async 0/0/0
+Jun 12 16:45:38 :: [  1621850] return 0/0/0 async 0/0/0
+Jun 12 16:45:40 :: [  1621900] return 0/0/1 async 0/0/0
+Jun 12 16:45:42 :: [  1621950] return 0/0/0 async 0/0/0
+Jun 12 16:45:44 :: [  1622000] return 0/0/0 async 0/0/0
+Jun 12 16:45:46 :: [  1622050] return 0/0/0 async 0/0/0
+Jun 12 16:45:48 :: [  1622100] return 0/0/0 async 0/0/0
+Jun 12 16:45:50 :: [  1622150] return 0/0/1 async 0/0/0
+Jun 12 16:45:52 :: [  1622200] return 0/0/0 async 0/0/0
+Jun 12 16:45:54 :: [  1622250] return 0/0/0 async 0/0/0
+Jun 12 16:45:56 :: [  1622300] return 0/0/0 async 0/0/0
+Jun 12 16:45:58 :: [  1622350] return 0/0/0 async 0/0/0
+Jun 12 16:46:00 :: [  1622400] return 0/0/1 async 0/0/0
+Jun 12 16:46:02 :: [  1622450] return 0/0/0 async 0/0/0
+Jun 12 16:46:04 :: [  1622500] return 0/0/0 async 0/0/0
+Jun 12 16:46:06 :: [  1622550] return 0/0/0 async 0/0/0
+Jun 12 16:46:08 :: [  1622600] return 0/0/0 async 0/0/0
+Jun 12 16:46:10 :: [  1622650] return 0/0/1 async 0/0/0
+Jun 12 16:46:12 :: [  1622700] return 0/0/0 async 0/0/0
+Jun 12 16:46:14 :: [  1622750] return 0/0/0 async 0/0/0
+Jun 12 16:46:16 :: [  1622800] return 0/0/0 async 0/0/0
+Jun 12 16:46:18 :: [  1622850] return 0/0/0 async 0/0/6
+Jun 12 16:46:19 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:46:19 :: ITEM_CACHE: save 45 id 90001047
+Jun 12 16:46:20 :: [  1622900] return 0/0/2 async 0/0/24
+Jun 12 16:46:22 :: [  1622950] return 0/0/0 async 0/0/24
+Jun 12 16:46:23 :: ITEM_CACHE: PutItemCache ==> Have Cache
+Jun 12 16:46:23 :: ITEM_CACHE: save 45 id 90001047
+Jun 12 16:46:24 :: [  1623000] return 0/0/0 async 0/0/0
+Jun 12 16:46:26 :: [  1623050] return 0/0/0 async 0/0/0
+Jun 12 16:46:27 :: LOGOUT InsertLogoutPlayer test4 45
+Jun 12 16:46:27 :: LOGOUT: Insert player pid(45)
+Jun 12 16:46:27 :: SetPlay off 1851084314 test4
+Jun 12 16:46:27 :: LOGOUT test4 
+Jun 12 16:46:28 :: [  1623100] return 0/0/0 async 0/0/0
+Jun 12 16:46:30 :: [  1623150] return 0/0/1 async 0/0/0
+Jun 12 16:46:32 :: [  1623200] return 0/0/0 async 0/0/0
+Jun 12 16:46:34 :: [  1623250] return 0/0/0 async 0/0/0
+Jun 12 16:46:36 :: [  1623300] return 0/0/0 async 0/0/0
+Jun 12 16:46:38 :: [  1623350] return 0/0/0 async 0/0/0
+Jun 12 16:46:40 :: [  1623400] return 0/0/1 async 0/0/0
+Jun 12 16:46:42 :: [  1623450] return 0/0/0 async 0/0/0
+Jun 12 16:46:44 :: [  1623500] return 0/0/0 async 0/0/0
+Jun 12 16:46:46 :: [  1623550] return 0/0/0 async 0/0/0
+Jun 12 16:46:48 :: [  1623600] return 0/0/0 async 0/0/0
+Jun 12 16:46:50 :: [  1623650] return 0/0/1 async 0/0/0
+Jun 12 16:46:52 :: [  1623700] return 0/0/0 async 0/0/0
+Jun 12 16:46:54 :: [  1623750] return 0/0/0 async 0/0/0
+Jun 12 16:46:56 :: [  1623800] return 0/0/0 async 0/0/0
+Jun 12 16:46:58 :: [  1623850] return 0/0/0 async 0/0/0
+Jun 12 16:47:00 :: [  1623900] return 0/0/1 async 0/0/0
+Jun 12 16:47:02 :: [  1623950] return 0/0/0 async 0/0/0
+Jun 12 16:47:04 :: [  1624000] return 0/0/0 async 0/0/0
+Jun 12 16:47:06 :: [  1624050] return 0/0/0 async 0/0/0
+Jun 12 16:47:08 :: [  1624100] return 0/0/0 async 0/0/0
+Jun 12 16:47:10 :: [  1624150] return 0/0/1 async 0/0/0
+Jun 12 16:47:12 :: [  1624200] return 0/0/0 async 0/0/0
+Jun 12 16:47:14 :: [  1624250] return 0/0/0 async 0/0/0
+Jun 12 16:47:16 :: [  1624300] return 0/0/0 async 0/0/0
+Jun 12 16:47:18 :: [  1624350] return 0/0/0 async 0/0/0
+Jun 12 16:47:20 :: [  1624400] return 0/0/1 async 0/0/0
+Jun 12 16:47:22 :: [  1624450] return 0/0/0 async 0/0/0
+Jun 12 16:47:24 :: [  1624500] return 0/0/0 async 0/0/0
+Jun 12 16:47:26 :: [  1624550] return 0/0/0 async 0/0/0
+Jun 12 16:47:28 :: [  1624600] return 0/0/0 async 0/0/0
+Jun 12 16:47:30 :: [  1624650] return 0/0/1 async 0/0/0
+Jun 12 16:47:32 :: [  1624700] return 0/0/0 async 0/0/0
+Jun 12 16:47:34 :: [  1624750] return 0/0/0 async 0/0/0
+Jun 12 16:47:36 :: [  1624800] return 0/0/0 async 0/0/0
+Jun 12 16:47:38 :: [  1624850] return 0/0/0 async 0/0/0
+Jun 12 16:47:40 :: [  1624900] return 0/0/1 async 0/0/0
+Jun 12 16:47:42 :: [  1624950] return 0/0/1 async 0/0/0
+Jun 12 16:47:44 :: [  1625000] return 0/0/0 async 0/0/0
+Jun 12 16:47:46 :: [  1625050] return 0/0/0 async 0/0/0
+Jun 12 16:47:48 :: [  1625100] return 0/0/0 async 0/0/0
+Jun 12 16:47:50 :: [  1625150] return 0/0/1 async 0/0/0
+Jun 12 16:47:52 :: [  1625200] return 0/0/0 async 0/0/0
+Jun 12 16:47:54 :: [  1625250] return 0/0/0 async 0/0/0
+Jun 12 16:47:56 :: [  1625300] return 0/0/0 async 0/0/0
+Jun 12 16:47:58 :: [  1625350] return 0/0/0 async 0/0/0
+Jun 12 16:48:00 :: [  1625400] return 0/0/1 async 0/0/0
+Jun 12 16:48:02 :: [  1625450] return 0/0/0 async 0/0/0
+Jun 12 16:48:04 :: [  1625500] return 0/0/0 async 0/0/0
+Jun 12 16:48:06 :: [  1625550] return 0/0/0 async 0/0/0
+Jun 12 16:48:08 :: [  1625600] return 0/0/0 async 0/0/0
+Jun 12 16:48:10 :: [  1625650] return 0/0/1 async 0/0/0
+Jun 12 16:48:12 :: [  1625700] return 0/0/0 async 0/0/0
+Jun 12 16:48:14 :: [  1625750] return 0/0/0 async 0/0/0
+Jun 12 16:48:16 :: [  1625800] return 0/0/0 async 0/0/0
+Jun 12 16:48:18 :: [  1625850] return 0/0/0 async 0/0/0
+Jun 12 16:48:20 :: [  1625900] return 0/0/1 async 0/0/0
+Jun 12 16:48:22 :: [  1625950] return 0/0/0 async 0/0/0
+Jun 12 16:48:24 :: [  1626000] return 0/0/0 async 0/0/0
+Jun 12 16:48:26 :: [  1626050] return 0/0/0 async 0/0/0
+Jun 12 16:48:28 :: [  1626100] return 0/0/0 async 0/0/0
+Jun 12 16:48:30 :: [  1626150] return 0/0/1 async 0/0/0
+Jun 12 16:48:32 :: [  1626200] return 0/0/0 async 0/0/0
+Jun 12 16:48:34 :: [  1626250] return 0/0/0 async 0/0/0
+Jun 12 16:48:36 :: [  1626300] return 0/0/0 async 0/0/0
+Jun 12 16:48:38 :: [  1626350] return 0/0/0 async 0/0/0
+Jun 12 16:48:40 :: [  1626400] return 0/0/1 async 0/0/0
+Jun 12 16:48:42 :: [  1626450] return 0/0/0 async 0/0/0
+Jun 12 16:48:44 :: [  1626500] return 0/0/0 async 0/0/0
+Jun 12 16:48:46 :: [  1626550] return 0/0/0 async 0/0/0
+Jun 12 16:48:48 :: [  1626600] return 0/0/0 async 0/0/0
+Jun 12 16:48:50 :: [  1626650] return 0/0/1 async 0/0/0
+Jun 12 16:48:52 :: [  1626700] return 0/0/0 async 0/0/0
+Jun 12 16:48:54 :: [  1626750] return 0/0/0 async 0/0/0
+Jun 12 16:48:56 :: [  1626800] return 0/0/0 async 0/0/0
+Jun 12 16:48:58 :: [  1626850] return 0/0/0 async 0/0/0
+Jun 12 16:49:00 :: [  1626900] return 0/0/1 async 0/0/0
+Jun 12 16:49:02 :: [  1626950] return 0/0/0 async 0/0/0
+Jun 12 16:49:04 :: [  1627000] return 0/0/0 async 0/0/0
+Jun 12 16:49:06 :: [  1627050] return 0/0/0 async 0/0/0
+Jun 12 16:49:08 :: [  1627100] return 0/0/0 async 0/0/0
+Jun 12 16:49:10 :: [  1627150] return 0/0/1 async 0/0/0
+Jun 12 16:49:12 :: [  1627200] return 0/0/0 async 0/0/0
+Jun 12 16:49:14 :: [  1627250] return 0/0/0 async 0/0/0
+Jun 12 16:49:16 :: [  1627300] return 0/0/0 async 0/0/0
+Jun 12 16:49:18 :: [  1627350] return 0/0/0 async 0/0/0
+Jun 12 16:49:20 :: [  1627400] return 0/0/1 async 0/0/0
+Jun 12 16:49:22 :: [  1627450] return 0/0/0 async 0/0/0
+Jun 12 16:49:24 :: [  1627500] return 0/0/0 async 0/0/0
+Jun 12 16:49:26 :: [  1627550] return 0/0/0 async 0/0/0
+Jun 12 16:49:28 :: [  1627600] return 0/0/0 async 0/0/0
+Jun 12 16:49:30 :: [  1627650] return 0/0/1 async 0/0/0
+Jun 12 16:49:32 :: [  1627700] return 0/0/0 async 0/0/0
+Jun 12 16:49:34 :: [  1627750] return 0/0/0 async 0/0/0
+Jun 12 16:49:36 :: [  1627800] return 0/0/0 async 0/0/0
+Jun 12 16:49:38 :: [  1627850] return 0/0/0 async 0/0/0
+Jun 12 16:49:40 :: [  1627900] return 0/0/1 async 0/0/0
+Jun 12 16:49:42 :: [  1627950] return 0/0/0 async 0/0/0
+Jun 12 16:49:44 :: [  1628000] return 0/0/0 async 0/0/0
+Jun 12 16:49:46 :: [  1628050] return 0/0/0 async 0/0/0
+Jun 12 16:49:48 :: [  1628100] return 0/0/0 async 0/0/0
+Jun 12 16:49:50 :: [  1628150] return 0/0/1 async 0/0/0
+Jun 12 16:49:52 :: [  1628200] return 0/0/0 async 0/0/0
+Jun 12 16:49:54 :: [  1628250] return 0/0/0 async 0/0/0
+Jun 12 16:49:56 :: [  1628300] return 0/0/0 async 0/0/0
+Jun 12 16:49:58 :: [  1628350] return 0/0/0 async 0/0/0
+Jun 12 16:50:00 :: [  1628400] return 0/0/1 async 0/0/0
+Jun 12 16:50:02 :: [  1628450] return 0/0/0 async 0/0/0
+Jun 12 16:50:04 :: [  1628500] return 0/0/0 async 0/0/0
+Jun 12 16:50:06 :: [  1628550] return 0/0/0 async 0/0/0
+Jun 12 16:50:08 :: [  1628600] return 0/0/0 async 0/0/0
+Jun 12 16:50:10 :: [  1628650] return 0/0/1 async 0/0/0
+Jun 12 16:50:12 :: [  1628700] return 0/0/0 async 0/0/0
+Jun 12 16:50:14 :: [  1628750] return 0/0/0 async 0/0/0
+Jun 12 16:50:16 :: [  1628800] return 0/0/0 async 0/0/0
+Jun 12 16:50:18 :: [  1628850] return 0/0/0 async 0/0/0
+Jun 12 16:50:20 :: [  1628900] return 0/0/1 async 0/0/0
+Jun 12 16:50:22 :: [  1628950] return 0/0/0 async 0/0/0
+Jun 12 16:50:24 :: [  1629000] return 0/0/0 async 0/0/0
+Jun 12 16:50:26 :: [  1629050] return 0/0/0 async 0/0/0
+Jun 12 16:50:28 :: [  1629100] return 0/0/0 async 0/0/0
+Jun 12 16:50:30 :: [  1629150] return 0/0/1 async 0/0/0
+Jun 12 16:50:32 :: [  1629200] return 0/0/0 async 0/0/0
+Jun 12 16:50:34 :: [  1629250] return 0/0/0 async 0/0/0
+Jun 12 16:50:36 :: [  1629300] return 0/0/0 async 0/0/0
+Jun 12 16:50:38 :: [  1629350] return 0/0/0 async 0/0/0
+Jun 12 16:50:40 :: [  1629400] return 0/0/1 async 0/0/0
+Jun 12 16:50:42 :: [  1629450] return 0/0/0 async 0/0/0
+Jun 12 16:50:44 :: [  1629500] return 0/0/0 async 0/0/0
+Jun 12 16:50:46 :: [  1629550] return 0/0/0 async 0/0/0
+Jun 12 16:50:48 :: [  1629600] return 0/0/0 async 0/0/0
+Jun 12 16:50:50 :: [  1629650] return 0/0/1 async 0/0/0
+Jun 12 16:50:52 :: [  1629700] return 0/0/0 async 0/0/0
+Jun 12 16:50:54 :: [  1629750] return 0/0/0 async 0/0/0
+Jun 12 16:50:56 :: [  1629800] return 0/0/0 async 0/0/0
+Jun 12 16:50:58 :: [  1629850] return 0/0/0 async 0/0/0
+Jun 12 16:51:00 :: [  1629900] return 0/0/1 async 0/0/0
+Jun 12 16:51:02 :: [  1629950] return 0/0/0 async 0/0/0
+Jun 12 16:51:04 :: [  1630000] return 0/0/0 async 0/0/0
+Jun 12 16:51:06 :: [  1630050] return 0/0/0 async 0/0/0
+Jun 12 16:51:08 :: [  1630100] return 0/0/0 async 0/0/0
+Jun 12 16:51:10 :: [  1630150] return 0/0/1 async 0/0/0
+Jun 12 16:51:12 :: [  1630200] return 0/0/0 async 0/0/0
+Jun 12 16:51:14 :: [  1630250] return 0/0/0 async 0/0/0
+Jun 12 16:51:16 :: [  1630300] return 0/0/0 async 0/0/0
+Jun 12 16:51:18 :: [  1630350] return 0/0/0 async 0/0/0
+Jun 12 16:51:20 :: [  1630400] return 0/0/1 async 0/0/0
+Jun 12 16:51:22 :: [  1630450] return 0/0/0 async 0/0/0
+Jun 12 16:51:24 :: [  1630500] return 0/0/0 async 0/0/0
+Jun 12 16:51:26 :: [  1630550] return 0/0/0 async 0/0/0
+Jun 12 16:51:28 :: [  1630600] return 0/0/0 async 0/0/0
+Jun 12 16:51:28 :: UPDATE : UpdatePlayerCache() ==> FlushPlayerCache 45 [DEV]Cezariu 
+Jun 12 16:51:28 :: UPDATE_ITEMCACHESET : UpdateItemCachsSet pid(45)
+Jun 12 16:51:30 :: [  1630650] return 0/0/1 async 0/0/0
+Jun 12 16:51:32 :: [  1630700] return 0/0/0 async 0/0/0
+Jun 12 16:51:34 :: [  1630750] return 0/0/0 async 0/0/0
+Jun 12 16:51:36 :: [  1630800] return 0/0/0 async 0/0/0
+Jun 12 16:51:38 :: [  1630850] return 0/0/0 async 0/0/0
+Jun 12 16:51:40 :: [  1630900] return 0/0/1 async 0/0/0
+Jun 12 16:51:42 :: [  1630950] return 0/0/0 async 0/0/0
+Jun 12 16:51:44 :: [  1631000] return 0/0/0 async 0/0/0
+Jun 12 16:51:46 :: [  1631050] return 0/0/0 async 0/0/0
+Jun 12 16:51:48 :: [  1631100] return 0/0/0 async 0/0/0
+Jun 12 16:51:50 :: [  1631150] return 0/0/1 async 0/0/0
+Jun 12 16:51:52 :: [  1631200] return 0/0/0 async 0/0/0
+Jun 12 16:51:54 :: [  1631250] return 0/0/0 async 0/0/0
+Jun 12 16:51:56 :: [  1631300] return 0/0/0 async 0/0/0
+Jun 12 16:51:58 :: [  1631350] return 0/0/0 async 0/0/0
+Jun 12 16:52:00 :: [  1631400] return 0/0/1 async 0/0/0
+Jun 12 16:52:02 :: [  1631450] return 0/0/0 async 0/0/0
+Jun 12 16:52:04 :: [  1631500] return 0/0/0 async 0/0/0
+Jun 12 16:52:06 :: [  1631550] return 0/0/0 async 0/0/0
+Jun 12 16:52:08 :: [  1631600] return 0/0/0 async 0/0/0
+Jun 12 16:52:10 :: [  1631650] return 0/0/1 async 0/0/0
+Jun 12 16:52:12 :: [  1631700] return 0/0/0 async 0/0/0
+Jun 12 16:52:14 :: [  1631750] return 0/0/0 async 0/0/0
+Jun 12 16:52:16 :: [  1631800] return 0/0/0 async 0/0/0
+Jun 12 16:52:18 :: [  1631850] return 0/0/0 async 0/0/0
+Jun 12 16:52:20 :: [  1631900] return 0/0/1 async 0/0/0
+Jun 12 16:52:22 :: [  1631950] return 0/0/0 async 0/0/0
+Jun 12 16:52:24 :: [  1632000] return 0/0/0 async 0/0/0
+Jun 12 16:52:26 :: [  1632050] return 0/0/0 async 0/0/0
+Jun 12 16:52:28 :: [  1632100] return 0/0/0 async 0/0/0
+Jun 12 16:52:30 :: [  1632150] return 0/0/1 async 0/0/0
+Jun 12 16:52:32 :: [  1632200] return 0/0/0 async 0/0/0
+Jun 12 16:52:34 :: [  1632250] return 0/0/0 async 0/0/0
+Jun 12 16:52:36 :: [  1632300] return 0/0/0 async 0/0/0
+Jun 12 16:52:38 :: [  1632350] return 0/0/0 async 0/0/0
+Jun 12 16:52:40 :: [  1632400] return 0/0/1 async 0/0/0
+Jun 12 16:52:42 :: [  1632450] return 0/0/0 async 0/0/0
+Jun 12 16:52:44 :: [  1632500] return 0/0/0 async 0/0/0
+Jun 12 16:52:46 :: [  1632550] return 0/0/0 async 0/0/0
+Jun 12 16:52:48 :: [  1632600] return 0/0/0 async 0/0/0
+Jun 12 16:52:50 :: [  1632650] return 0/0/1 async 0/0/0
+Jun 12 16:52:52 :: [  1632700] return 0/0/0 async 0/0/0
+Jun 12 16:52:54 :: [  1632750] return 0/0/0 async 0/0/0
+Jun 12 16:52:56 :: [  1632800] return 0/0/0 async 0/0/0
+Jun 12 16:52:58 :: [  1632850] return 0/0/0 async 0/0/0
+Jun 12 16:53:00 :: [  1632900] return 0/0/1 async 0/0/0
+Jun 12 16:53:02 :: [  1632950] return 0/0/0 async 0/0/0
+Jun 12 16:53:04 :: [  1633000] return 0/0/0 async 0/0/0
+Jun 12 16:53:06 :: [  1633050] return 0/0/0 async 0/0/0
+Jun 12 16:53:08 :: [  1633100] return 0/0/0 async 0/0/0
+Jun 12 16:53:10 :: [  1633150] return 0/0/1 async 0/0/0
+Jun 12 16:53:12 :: [  1633200] return 0/0/0 async 0/0/0
+Jun 12 16:53:14 :: [  1633250] return 0/0/0 async 0/0/0
+Jun 12 16:53:16 :: [  1633300] return 0/0/0 async 0/0/0
+Jun 12 16:53:18 :: [  1633350] return 0/0/0 async 0/0/0
+Jun 12 16:53:20 :: [  1633400] return 0/0/1 async 0/0/0
+Jun 12 16:53:22 :: [  1633450] return 0/0/0 async 0/0/0
+Jun 12 16:53:24 :: [  1633500] return 0/0/0 async 0/0/0
+Jun 12 16:53:26 :: [  1633550] return 0/0/0 async 0/0/0
+Jun 12 16:53:28 :: [  1633600] return 0/0/0 async 0/0/0
+Jun 12 16:53:30 :: [  1633650] return 0/0/1 async 0/0/0
+Jun 12 16:53:32 :: [  1633700] return 0/0/0 async 0/0/0
+Jun 12 16:53:34 :: [  1633750] return 0/0/0 async 0/0/0
+Jun 12 16:53:36 :: [  1633800] return 0/0/0 async 0/0/0
+Jun 12 16:53:38 :: [  1633850] return 0/0/0 async 0/0/0
+Jun 12 16:53:40 :: [  1633900] return 0/0/1 async 0/0/0
+Jun 12 16:53:42 :: [  1633950] return 0/0/0 async 0/0/0
+Jun 12 16:53:44 :: [  1634000] return 0/0/0 async 0/0/0
+Jun 12 16:53:46 :: [  1634050] return 0/0/0 async 0/0/0
+Jun 12 16:53:48 :: [  1634100] return 0/0/0 async 0/0/0
+Jun 12 16:53:50 :: [  1634150] return 0/0/1 async 0/0/0
+Jun 12 16:53:52 :: [  1634200] return 0/0/0 async 0/0/0
+Jun 12 16:53:54 :: [  1634250] return 0/0/0 async 0/0/0
+Jun 12 16:53:56 :: [  1634300] return 0/0/0 async 0/0/0
+Jun 12 16:53:58 :: [  1634350] return 0/0/0 async 0/0/0
+Jun 12 16:54:00 :: [  1634400] return 0/0/1 async 0/0/0
+Jun 12 16:54:02 :: [  1634450] return 0/0/0 async 0/0/0
+Jun 12 16:54:04 :: [  1634500] return 0/0/0 async 0/0/0
+Jun 12 16:54:06 :: [  1634550] return 0/0/0 async 0/0/0
+Jun 12 16:54:08 :: [  1634600] return 0/0/0 async 0/0/0
+Jun 12 16:54:10 :: [  1634650] return 0/0/1 async 0/0/0
+Jun 12 16:54:12 :: [  1634700] return 0/0/0 async 0/0/0
+Jun 12 16:54:14 :: [  1634750] return 0/0/0 async 0/0/0
+Jun 12 16:54:16 :: [  1634800] return 0/0/0 async 0/0/0
+Jun 12 16:54:18 :: [  1634850] return 0/0/0 async 0/0/0
+Jun 12 16:54:20 :: [  1634900] return 0/0/1 async 0/0/0
+Jun 12 16:54:22 :: [  1634950] return 0/0/0 async 0/0/0
+Jun 12 16:54:24 :: [  1635000] return 0/0/0 async 0/0/0
+Jun 12 16:54:26 :: [  1635050] return 0/0/0 async 0/0/0
+Jun 12 16:54:28 :: [  1635100] return 0/0/0 async 0/0/0
+Jun 12 16:54:30 :: [  1635150] return 0/0/1 async 0/0/0
+Jun 12 16:54:32 :: [  1635200] return 0/0/0 async 0/0/0
+Jun 12 16:54:34 :: [  1635250] return 0/0/0 async 0/0/0
+Jun 12 16:54:36 :: [  1635300] return 0/0/0 async 0/0/0
+Jun 12 16:54:38 :: [  1635350] return 0/0/0 async 0/0/0
+Jun 12 16:54:40 :: [  1635400] return 0/0/1 async 0/0/0
+Jun 12 16:54:42 :: [  1635450] return 0/0/0 async 0/0/0
+Jun 12 16:54:44 :: [  1635500] return 0/0/0 async 0/0/0
+Jun 12 16:54:46 :: [  1635550] return 0/0/0 async 0/0/0
+Jun 12 16:54:48 :: [  1635600] return 0/0/0 async 0/0/0
+Jun 12 16:54:50 :: [  1635650] return 0/0/1 async 0/0/0
+Jun 12 16:54:52 :: [  1635700] return 0/0/0 async 0/0/0
+Jun 12 16:54:54 :: [  1635750] return 0/0/0 async 0/0/0
+Jun 12 16:54:56 :: [  1635800] return 0/0/0 async 0/0/0
+Jun 12 16:54:58 :: [  1635850] return 0/0/0 async 0/0/0
+Jun 12 16:55:00 :: [  1635900] return 0/0/1 async 0/0/0
+Jun 12 16:55:02 :: [  1635950] return 0/0/0 async 0/0/0
+Jun 12 16:55:04 :: [  1636000] return 0/0/0 async 0/0/0
+Jun 12 16:55:06 :: [  1636050] return 0/0/0 async 0/0/0
+Jun 12 16:55:08 :: [  1636100] return 0/0/0 async 0/0/0
+Jun 12 16:55:10 :: [  1636150] return 0/0/1 async 0/0/0
+Jun 12 16:55:12 :: [  1636200] return 0/0/0 async 0/0/0
+Jun 12 16:55:14 :: [  1636250] return 0/0/0 async 0/0/0
+Jun 12 16:55:16 :: [  1636300] return 0/0/0 async 0/0/0
+Jun 12 16:55:18 :: [  1636350] return 0/0/0 async 0/0/0
+Jun 12 16:55:20 :: [  1636400] return 0/0/1 async 0/0/0
+Jun 12 16:55:22 :: [  1636450] return 0/0/0 async 0/0/0
+Jun 12 16:55:24 :: [  1636500] return 0/0/0 async 0/0/0
+Jun 12 16:55:26 :: [  1636550] return 0/0/0 async 0/0/0
+Jun 12 16:55:28 :: [  1636600] return 0/0/0 async 0/0/0
+Jun 12 16:55:30 :: [  1636650] return 0/0/1 async 0/0/0
+Jun 12 16:55:32 :: [  1636700] return 0/0/0 async 0/0/0
+Jun 12 16:55:34 :: [  1636750] return 0/0/0 async 0/0/0
+Jun 12 16:55:36 :: [  1636800] return 0/0/0 async 0/0/0
+Jun 12 16:55:38 :: [  1636850] return 0/0/0 async 0/0/0
+Jun 12 16:55:40 :: [  1636900] return 0/0/1 async 0/0/0
+Jun 12 16:55:42 :: [  1636950] return 0/0/0 async 0/0/0
+Jun 12 16:55:44 :: [  1637000] return 0/0/0 async 0/0/0
+Jun 12 16:55:46 :: [  1637050] return 0/0/0 async 0/0/0
+Jun 12 16:55:48 :: [  1637100] return 0/0/0 async 0/0/0
+Jun 12 16:55:50 :: [  1637150] return 0/0/1 async 0/0/0
+Jun 12 16:55:52 :: [  1637200] return 0/0/0 async 0/0/0
+Jun 12 16:55:54 :: [  1637250] return 0/0/0 async 0/0/0
+Jun 12 16:55:56 :: [  1637300] return 0/0/0 async 0/0/0
+Jun 12 16:55:58 :: [  1637350] return 0/0/0 async 0/0/0
+Jun 12 16:56:00 :: [  1637400] return 0/0/1 async 0/0/0
+Jun 12 16:56:02 :: [  1637450] return 0/0/0 async 0/0/0
+Jun 12 16:56:04 :: [  1637500] return 0/0/0 async 0/0/0
+Jun 12 16:56:06 :: [  1637550] return 0/0/0 async 0/0/0
+Jun 12 16:56:08 :: [  1637600] return 0/0/0 async 0/0/0
+Jun 12 16:56:10 :: [  1637650] return 0/0/1 async 0/0/0
+Jun 12 16:56:12 :: [  1637700] return 0/0/0 async 0/0/0
+Jun 12 16:56:14 :: [  1637750] return 0/0/0 async 0/0/0
+Jun 12 16:56:16 :: [  1637800] return 0/0/0 async 0/0/0
+Jun 12 16:56:18 :: [  1637850] return 0/0/0 async 0/0/0
+Jun 12 16:56:20 :: [  1637900] return 0/0/1 async 0/0/0
+Jun 12 16:56:22 :: [  1637950] return 0/0/0 async 0/0/0
+Jun 12 16:56:24 :: [  1638000] return 0/0/0 async 0/0/0
+Jun 12 16:56:26 :: [  1638050] return 0/0/0 async 0/0/0
+Jun 12 16:56:28 :: [  1638100] return 0/0/0 async 0/0/0
+Jun 12 16:56:28 :: FLUSH_ITEMCACHESET : Deleted pid(45)
+Jun 12 16:56:30 :: [  1638150] return 0/0/1 async 0/0/0
+Jun 12 16:56:32 :: [  1638200] return 0/0/0 async 0/0/0
+Jun 12 16:56:34 :: [  1638250] return 0/0/0 async 0/0/0
+Jun 12 16:56:36 :: [  1638300] return 0/0/0 async 0/0/0
+Jun 12 16:56:38 :: [  1638350] return 0/0/0 async 0/0/0
+Jun 12 16:56:40 :: [  1638400] return 0/0/1 async 0/0/0
+Jun 12 16:56:42 :: [  1638450] return 0/0/0 async 0/0/0
+Jun 12 16:56:44 :: [  1638500] return 0/0/0 async 0/0/0
+Jun 12 16:56:46 :: [  1638550] return 0/0/0 async 0/0/0
+Jun 12 16:56:48 :: [  1638600] return 0/0/0 async 0/0/0
+Jun 12 16:56:50 :: [  1638650] return 0/0/1 async 0/0/0
+Jun 12 16:56:52 :: [  1638700] return 0/0/0 async 0/0/0
+Jun 12 16:56:54 :: [  1638750] return 0/0/0 async 0/0/0
+Jun 12 16:56:56 :: [  1638800] return 0/0/0 async 0/0/0
+Jun 12 16:56:58 :: [  1638850] return 0/0/0 async 0/0/0
+Jun 12 16:57:00 :: [  1638900] return 0/0/1 async 0/0/0
+Jun 12 16:57:02 :: [  1638950] return 0/0/0 async 0/0/0
+Jun 12 16:57:04 :: [  1639000] return 0/0/0 async 0/0/0
+Jun 12 16:57:06 :: [  1639050] return 0/0/0 async 0/0/0
+Jun 12 16:57:08 :: [  1639100] return 0/0/0 async 0/0/0
+Jun 12 16:57:10 :: [  1639150] return 0/0/1 async 0/0/0
+Jun 12 16:57:12 :: [  1639200] return 0/0/0 async 0/0/0
+Jun 12 16:57:14 :: [  1639250] return 0/0/0 async 0/0/0
+Jun 12 16:57:16 :: [  1639300] return 0/0/0 async 0/0/0
+Jun 12 16:57:18 :: [  1639350] return 0/0/0 async 0/0/0
+Jun 12 16:57:20 :: [  1639400] return 0/0/1 async 0/0/0
+Jun 12 16:57:22 :: [  1639450] return 0/0/0 async 0/0/0
+Jun 12 16:57:24 :: [  1639500] return 0/0/0 async 0/0/0
+Jun 12 16:57:26 :: [  1639550] return 0/0/0 async 0/0/0
+Jun 12 16:57:28 :: [  1639600] return 0/0/0 async 0/0/0
+Jun 12 16:57:30 :: [  1639650] return 0/0/1 async 0/0/0
+Jun 12 16:57:32 :: [  1639700] return 0/0/0 async 0/0/0
+Jun 12 16:57:34 :: [  1639750] return 0/0/0 async 0/0/0
+Jun 12 16:57:36 :: [  1639800] return 0/0/0 async 0/0/0
+Jun 12 16:57:38 :: [  1639850] return 0/0/0 async 0/0/0
+Jun 12 16:57:40 :: [  1639900] return 0/0/1 async 0/0/0
+Jun 12 16:57:42 :: [  1639950] return 0/0/0 async 0/0/0
+Jun 12 16:57:44 :: [  1640000] return 0/0/0 async 0/0/0
+Jun 12 16:57:46 :: [  1640050] return 0/0/0 async 0/0/0
+Jun 12 16:57:48 :: [  1640100] return 0/0/0 async 0/0/0
+Jun 12 16:57:50 :: [  1640150] return 0/0/1 async 0/0/0
+Jun 12 16:57:52 :: [  1640200] return 0/0/0 async 0/0/0
+Jun 12 16:57:54 :: [  1640250] return 0/0/0 async 0/0/0
+Jun 12 16:57:56 :: [  1640300] return 0/0/0 async 0/0/0
+Jun 12 16:57:58 :: [  1640350] return 0/0/0 async 0/0/0
+Jun 12 16:58:00 :: [  1640400] return 0/0/1 async 0/0/0
+Jun 12 16:58:02 :: [  1640450] return 0/0/0 async 0/0/0
+Jun 12 16:58:04 :: [  1640500] return 0/0/0 async 0/0/0
+Jun 12 16:58:06 :: [  1640550] return 0/0/0 async 0/0/0
+Jun 12 16:58:08 :: [  1640600] return 0/0/0 async 0/0/0
+Jun 12 16:58:10 :: [  1640650] return 0/0/1 async 0/0/0
+Jun 12 16:58:12 :: [  1640700] return 0/0/0 async 0/0/0
+Jun 12 16:58:14 :: [  1640750] return 0/0/0 async 0/0/0
+Jun 12 16:58:16 :: [  1640800] return 0/0/0 async 0/0/0
+Jun 12 16:58:18 :: [  1640850] return 0/0/0 async 0/0/0
+Jun 12 16:58:20 :: [  1640900] return 0/0/1 async 0/0/0
+Jun 12 16:58:22 :: [  1640950] return 0/0/0 async 0/0/0
+Jun 12 16:58:24 :: [  1641000] return 0/0/0 async 0/0/0
+Jun 12 16:58:26 :: [  1641050] return 0/0/0 async 0/0/0
+Jun 12 16:58:28 :: [  1641100] return 0/0/0 async 0/0/0
+Jun 12 16:58:30 :: [  1641150] return 0/0/1 async 0/0/0
+Jun 12 16:58:32 :: [  1641200] return 0/0/0 async 0/0/0
+Jun 12 16:58:34 :: [  1641250] return 0/0/0 async 0/0/0
+Jun 12 16:58:36 :: [  1641300] return 0/0/0 async 0/0/0
+Jun 12 16:58:38 :: [  1641350] return 0/0/0 async 0/0/0
+Jun 12 16:58:40 :: [  1641400] return 0/0/1 async 0/0/0
+Jun 12 16:58:42 :: [  1641450] return 0/0/0 async 0/0/0
+Jun 12 16:58:44 :: [  1641500] return 0/0/0 async 0/0/0
+Jun 12 16:58:46 :: [  1641550] return 0/0/0 async 0/0/0
+Jun 12 16:58:48 :: [  1641600] return 0/0/0 async 0/0/0
+Jun 12 16:58:50 :: [  1641650] return 0/0/1 async 0/0/0
+Jun 12 16:58:52 :: [  1641700] return 0/0/0 async 0/0/0
+Jun 12 16:58:54 :: [  1641750] return 0/0/0 async 0/0/0
+Jun 12 16:58:56 :: [  1641800] return 0/0/0 async 0/0/0
+Jun 12 16:58:58 :: [  1641850] return 0/0/0 async 0/0/0
+Jun 12 16:59:00 :: [  1641900] return 0/0/1 async 0/0/0
+Jun 12 16:59:02 :: [  1641950] return 0/0/0 async 0/0/0
+Jun 12 16:59:04 :: [  1642000] return 0/0/0 async 0/0/0
+Jun 12 16:59:06 :: [  1642050] return 0/0/0 async 0/0/0
+Jun 12 16:59:08 :: [  1642100] return 0/0/0 async 0/0/0
+Jun 12 16:59:10 :: [  1642150] return 0/0/1 async 0/0/0
+Jun 12 16:59:12 :: [  1642200] return 0/0/0 async 0/0/0
+Jun 12 16:59:14 :: [  1642250] return 0/0/0 async 0/0/0
+Jun 12 16:59:16 :: [  1642300] return 0/0/0 async 0/0/0
+Jun 12 16:59:18 :: [  1642350] return 0/0/0 async 0/0/0
+Jun 12 16:59:20 :: [  1642400] return 0/0/1 async 0/0/0
+Jun 12 16:59:22 :: [  1642450] return 0/0/0 async 0/0/0
+Jun 12 16:59:24 :: [  1642500] return 0/0/0 async 0/0/0
+Jun 12 16:59:26 :: [  1642550] return 0/0/0 async 0/0/0
+Jun 12 16:59:28 :: [  1642600] return 0/0/0 async 0/0/0
+Jun 12 16:59:30 :: [  1642650] return 0/0/1 async 0/0/0
+Jun 12 16:59:32 :: [  1642700] return 0/0/0 async 0/0/0
+Jun 12 16:59:34 :: [  1642750] return 0/0/0 async 0/0/0
+Jun 12 16:59:36 :: [  1642800] return 0/0/0 async 0/0/0
+Jun 12 16:59:38 :: [  1642850] return 0/0/0 async 0/0/0
+Jun 12 16:59:40 :: [  1642900] return 0/0/1 async 0/0/0
+Jun 12 16:59:42 :: [  1642950] return 0/0/0 async 0/0/0
+Jun 12 16:59:44 :: [  1643000] return 0/0/0 async 0/0/0
+Jun 12 16:59:46 :: [  1643050] return 0/0/0 async 0/0/0
+Jun 12 16:59:48 :: [  1643100] return 0/0/0 async 0/0/0
+Jun 12 16:59:50 :: [  1643150] return 0/0/1 async 0/0/0
+Jun 12 16:59:52 :: [  1643200] return 0/0/0 async 0/0/0
+Jun 12 16:59:54 :: [  1643250] return 0/0/0 async 0/0/0
+Jun 12 16:59:56 :: [  1643300] return 0/0/0 async 0/0/0
+Jun 12 16:59:58 :: [  1643350] return 0/0/0 async 0/0/0
+Jun 12 17:00:00 :: SYSTEM: LOG ROTATE (2024-06-12 16)

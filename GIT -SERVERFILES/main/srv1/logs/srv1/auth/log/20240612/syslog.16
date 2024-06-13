@@ -1,0 +1,210 @@
+Jun 12 16:06:05 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 3064509451 output input_len 0, ptr 0x288c3e00
+Jun 12 16:06:06 :: Handshake: client_time 0 server_time 62498117
+Jun 12 16:06:06 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:06:06 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:06:06 :: SetLoginKey 2124612944
+Jun 12 16:06:06 :: InputAuth::Login: key (2124612944) login (test4)
+Jun 12 16:06:06 :: QID_AUTH_LOGIN: START 2124612944 0x288c3e00
+Jun 12 16:06:06 :: Create_Time 1896971434 20300210
+Jun 12 16:06:06 :: Block Time -1 
+Jun 12 16:06:06 :: SetRemainSecs test4 0
+Jun 12 16:06:06 :: SendAuthLogin test4 key 21
+Jun 12 16:06:06 :: AuthLogin result 1 key 2124612944
+Jun 12 16:06:06 :: SYSTEM: closing socket. DESC #16
+Jun 12 16:12:24 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 1143496282 output input_len 0, ptr 0x288c3e00
+Jun 12 16:12:25 :: Handshake: client_time 0 server_time 62877142
+Jun 12 16:12:25 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:12:25 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:12:25 :: SetLoginKey 752899730
+Jun 12 16:12:25 :: InputAuth::Login: key (752899730) login (test4)
+Jun 12 16:12:25 :: QID_AUTH_LOGIN: START 752899730 0x288c3e00
+Jun 12 16:12:25 :: Create_Time 1896971434 20300210
+Jun 12 16:12:25 :: Block Time -1 
+Jun 12 16:12:25 :: SetRemainSecs test4 0
+Jun 12 16:12:25 :: SendAuthLogin test4 key 21
+Jun 12 16:12:25 :: AuthLogin result 1 key 752899730
+Jun 12 16:12:25 :: SYSTEM: closing socket. DESC #16
+Jun 12 16:12:55 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 2756208347 output input_len 0, ptr 0x288c3e00
+Jun 12 16:12:55 :: Handshake: client_time 0 server_time 62907843
+Jun 12 16:12:55 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:12:56 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:12:56 :: SetLoginKey 1925988334
+Jun 12 16:12:56 :: InputAuth::Login: key (1925988334) login (test4)
+Jun 12 16:12:56 :: QID_AUTH_LOGIN: START 1925988334 0x288c3e00
+Jun 12 16:12:56 :: Create_Time 1896971434 20300210
+Jun 12 16:12:56 :: Block Time -1 
+Jun 12 16:12:56 :: SetRemainSecs test4 0
+Jun 12 16:12:56 :: SendAuthLogin test4 key 21
+Jun 12 16:12:56 :: AuthLogin result 1 key 1925988334
+Jun 12 16:12:56 :: SYSTEM: closing socket. DESC #16
+Jun 12 16:13:47 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 1771525182 output input_len 0, ptr 0x288c3e00
+Jun 12 16:13:47 :: Handshake: client_time 0 server_time 62959325
+Jun 12 16:13:47 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:13:47 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:13:47 :: SetLoginKey 119540163
+Jun 12 16:13:47 :: InputAuth::Login: key (119540163) login (test4)
+Jun 12 16:13:47 :: QID_AUTH_LOGIN: START 119540163 0x288c3e00
+Jun 12 16:13:47 :: Create_Time 1896971434 20300210
+Jun 12 16:13:47 :: Block Time -1 
+Jun 12 16:13:47 :: SetRemainSecs test4 0
+Jun 12 16:13:47 :: SendAuthLogin test4 key 21
+Jun 12 16:13:47 :: AuthLogin result 1 key 119540163
+Jun 12 16:13:47 :: SYSTEM: closing socket. DESC #16
+Jun 12 16:14:37 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 4097342609 output input_len 0, ptr 0x288c3e00
+Jun 12 16:14:37 :: Handshake: client_time 0 server_time 63009293
+Jun 12 16:14:37 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:14:37 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:14:37 :: SetLoginKey 1251444506
+Jun 12 16:14:37 :: InputAuth::Login: key (1251444506) login (test4)
+Jun 12 16:14:37 :: QID_AUTH_LOGIN: START 1251444506 0x288c3e00
+Jun 12 16:14:37 :: Create_Time 1896971434 20300210
+Jun 12 16:14:37 :: Block Time -1 
+Jun 12 16:14:37 :: SetRemainSecs test4 0
+Jun 12 16:14:37 :: SendAuthLogin test4 key 21
+Jun 12 16:14:37 :: AuthLogin result 1 key 1251444506
+Jun 12 16:14:37 :: SYSTEM: closing socket. DESC #16
+Jun 12 16:15:42 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 467172315 output input_len 0, ptr 0x288c3e00
+Jun 12 16:15:42 :: Handshake: client_time 0 server_time 63074780
+Jun 12 16:15:42 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:15:43 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:15:43 :: SetLoginKey 1263121269
+Jun 12 16:15:43 :: InputAuth::Login: key (1263121269) login (test4)
+Jun 12 16:15:43 :: QID_AUTH_LOGIN: START 1263121269 0x288c3e00
+Jun 12 16:15:43 :: Create_Time 1896971434 20300210
+Jun 12 16:15:43 :: Block Time -1 
+Jun 12 16:15:43 :: SetRemainSecs test4 0
+Jun 12 16:15:43 :: SendAuthLogin test4 key 21
+Jun 12 16:15:43 :: AuthLogin result 1 key 1263121269
+Jun 12 16:15:43 :: SYSTEM: closing socket. DESC #16
+Jun 12 16:16:52 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 3644010917 output input_len 0, ptr 0x288c3e00
+Jun 12 16:16:52 :: Handshake: client_time 0 server_time 63144546
+Jun 12 16:16:52 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:16:52 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:16:52 :: SetLoginKey 1469580899
+Jun 12 16:16:52 :: InputAuth::Login: key (1469580899) login (test4)
+Jun 12 16:16:52 :: QID_AUTH_LOGIN: START 1469580899 0x288c3e00
+Jun 12 16:16:52 :: Create_Time 1896971434 20300210
+Jun 12 16:16:52 :: Block Time -1 
+Jun 12 16:16:52 :: SetRemainSecs test4 0
+Jun 12 16:16:52 :: SendAuthLogin test4 key 21
+Jun 12 16:16:52 :: AuthLogin result 1 key 1469580899
+Jun 12 16:16:53 :: SYSTEM: closing socket. DESC #16
+Jun 12 16:17:27 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 390803953 output input_len 0, ptr 0x288c3e00
+Jun 12 16:17:27 :: Handshake: client_time 0 server_time 63179878
+Jun 12 16:17:28 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:17:28 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:17:28 :: SetLoginKey 2079385890
+Jun 12 16:17:28 :: InputAuth::Login: key (2079385890) login (test4)
+Jun 12 16:17:28 :: QID_AUTH_LOGIN: START 2079385890 0x288c3e00
+Jun 12 16:17:28 :: Create_Time 1896971434 20300210
+Jun 12 16:17:28 :: Block Time -1 
+Jun 12 16:17:28 :: SetRemainSecs test4 0
+Jun 12 16:17:28 :: SendAuthLogin test4 key 21
+Jun 12 16:17:28 :: AuthLogin result 1 key 2079385890
+Jun 12 16:17:28 :: SYSTEM: closing socket. DESC #16
+Jun 12 16:18:04 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 308728271 output input_len 0, ptr 0x288c3e00
+Jun 12 16:18:05 :: Handshake: client_time 0 server_time 63217097
+Jun 12 16:18:05 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:18:05 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:18:05 :: SetLoginKey 1825610431
+Jun 12 16:18:05 :: InputAuth::Login: key (1825610431) login (test4)
+Jun 12 16:18:05 :: QID_AUTH_LOGIN: START 1825610431 0x288c3e00
+Jun 12 16:18:05 :: Create_Time 1896971434 20300210
+Jun 12 16:18:05 :: Block Time -1 
+Jun 12 16:18:05 :: SetRemainSecs test4 0
+Jun 12 16:18:05 :: SendAuthLogin test4 key 21
+Jun 12 16:18:05 :: AuthLogin result 1 key 1825610431
+Jun 12 16:18:05 :: SYSTEM: closing socket. DESC #16
+Jun 12 16:18:49 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 1660776050 output input_len 0, ptr 0x288c3e00
+Jun 12 16:18:49 :: Handshake: client_time 0 server_time 63261768
+Jun 12 16:18:49 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:18:50 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:18:50 :: SetLoginKey 964384725
+Jun 12 16:18:50 :: InputAuth::Login: key (964384725) login (test4)
+Jun 12 16:18:50 :: QID_AUTH_LOGIN: START 964384725 0x288c3e00
+Jun 12 16:18:50 :: Create_Time 1896971434 20300210
+Jun 12 16:18:50 :: Block Time -1 
+Jun 12 16:18:50 :: SetRemainSecs test4 0
+Jun 12 16:18:50 :: SendAuthLogin test4 key 21
+Jun 12 16:18:50 :: AuthLogin result 1 key 964384725
+Jun 12 16:18:50 :: SYSTEM: closing socket. DESC #16
+Jun 12 16:20:08 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 539908374 output input_len 0, ptr 0x288c3e00
+Jun 12 16:20:08 :: Handshake: client_time 0 server_time 63340502
+Jun 12 16:20:08 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:20:08 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:20:08 :: SetLoginKey 532769110
+Jun 12 16:20:08 :: InputAuth::Login: key (532769110) login (test4)
+Jun 12 16:20:08 :: QID_AUTH_LOGIN: START 532769110 0x288c3e00
+Jun 12 16:20:08 :: Create_Time 1896971434 20300210
+Jun 12 16:20:08 :: Block Time -1 
+Jun 12 16:20:08 :: SetRemainSecs test4 0
+Jun 12 16:20:08 :: SendAuthLogin test4 key 21
+Jun 12 16:20:08 :: AuthLogin result 1 key 532769110
+Jun 12 16:20:09 :: SYSTEM: closing socket. DESC #16
+Jun 12 16:21:39 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 2499743351 output input_len 0, ptr 0x288c3e00
+Jun 12 16:21:39 :: Handshake: client_time 0 server_time 63431330
+Jun 12 16:21:39 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:21:39 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:21:39 :: SetLoginKey 1364733646
+Jun 12 16:21:39 :: InputAuth::Login: key (1364733646) login (test4)
+Jun 12 16:21:39 :: QID_AUTH_LOGIN: START 1364733646 0x288c3e00
+Jun 12 16:21:39 :: Create_Time 1896971434 20300210
+Jun 12 16:21:39 :: Block Time -1 
+Jun 12 16:21:39 :: SetRemainSecs test4 0
+Jun 12 16:21:39 :: SendAuthLogin test4 key 21
+Jun 12 16:21:39 :: AuthLogin result 1 key 1364733646
+Jun 12 16:21:39 :: SYSTEM: closing socket. DESC #16
+Jun 12 16:24:02 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 3665687799 output input_len 0, ptr 0x288c3e00
+Jun 12 16:24:02 :: Handshake: lower than zero -3
+Jun 12 16:24:02 :: Handshake: client_time 0 server_time 63574837
+Jun 12 16:24:02 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:24:03 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:24:03 :: SetLoginKey 14055002
+Jun 12 16:24:03 :: InputAuth::Login: key (14055002) login (test4)
+Jun 12 16:24:03 :: QID_AUTH_LOGIN: START 14055002 0x288c3e00
+Jun 12 16:24:03 :: Create_Time 1896971434 20300210
+Jun 12 16:24:03 :: Block Time -1 
+Jun 12 16:24:03 :: SetRemainSecs test4 0
+Jun 12 16:24:03 :: SendAuthLogin test4 key 21
+Jun 12 16:24:03 :: AuthLogin result 1 key 14055002
+Jun 12 16:24:03 :: SYSTEM: closing socket. DESC #16
+Jun 12 16:25:20 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 58204032 output input_len 0, ptr 0x288c3e00
+Jun 12 16:25:20 :: Handshake: client_time 0 server_time 63652963
+Jun 12 16:25:21 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:25:21 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:25:21 :: SetLoginKey 1114954141
+Jun 12 16:25:21 :: InputAuth::Login: key (1114954141) login (test4)
+Jun 12 16:25:21 :: QID_AUTH_LOGIN: START 1114954141 0x288c3e00
+Jun 12 16:25:21 :: Create_Time 1896971434 20300210
+Jun 12 16:25:21 :: Block Time -1 
+Jun 12 16:25:21 :: SetRemainSecs test4 0
+Jun 12 16:25:21 :: SendAuthLogin test4 key 21
+Jun 12 16:25:21 :: AuthLogin result 1 key 1114954141
+Jun 12 16:25:21 :: SYSTEM: closing socket. DESC #16
+Jun 12 16:26:24 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 3906837908 output input_len 0, ptr 0x288c3e00
+Jun 12 16:26:24 :: Handshake: client_time 0 server_time 63716902
+Jun 12 16:26:25 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:26:25 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:26:25 :: SetLoginKey 1012303908
+Jun 12 16:26:25 :: InputAuth::Login: key (1012303908) login (test4)
+Jun 12 16:26:25 :: QID_AUTH_LOGIN: START 1012303908 0x288c3e00
+Jun 12 16:26:25 :: Create_Time 1896971434 20300210
+Jun 12 16:26:25 :: Block Time -1 
+Jun 12 16:26:25 :: SetRemainSecs test4 0
+Jun 12 16:26:25 :: SendAuthLogin test4 key 21
+Jun 12 16:26:25 :: AuthLogin result 1 key 1012303908
+Jun 12 16:26:25 :: SYSTEM: closing socket. DESC #16
+Jun 12 16:31:06 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 3929704539 output input_len 0, ptr 0x288c3e00
+Jun 12 16:31:06 :: Handshake: client_time 0 server_time 63998802
+Jun 12 16:31:06 :: AUTH_PHASE 0x288c3e00
+Jun 12 16:31:07 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 16:31:07 :: SetLoginKey 1851084314
+Jun 12 16:31:07 :: InputAuth::Login: key (1851084314) login (test4)
+Jun 12 16:31:07 :: QID_AUTH_LOGIN: START 1851084314 0x288c3e00
+Jun 12 16:31:07 :: Create_Time 1896971434 20300210
+Jun 12 16:31:07 :: Block Time -1 
+Jun 12 16:31:07 :: SetRemainSecs test4 0
+Jun 12 16:31:07 :: SendAuthLogin test4 key 21
+Jun 12 16:31:07 :: AuthLogin result 1 key 1851084314
+Jun 12 16:31:07 :: SYSTEM: closing socket. DESC #16
+Jun 12 17:00:00 :: SYSTEM: LOG ROTATE (2024-06-12 16)

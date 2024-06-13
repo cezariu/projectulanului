@@ -1,0 +1,103 @@
+Jun 12 11:00:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:01:20 :: RegisterRaceNumMap Vein Of White Gold Ore 20056
+Jun 12 11:01:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:02:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:03:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:04:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:04:38 :: RegisterRaceNumMap Vein Of Amethyst Ore 20058
+Jun 12 11:05:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:06:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:07:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:08:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:09:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:10:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:11:09 :: RegisterRaceNumMap Vein Of White Gold Ore 20056
+Jun 12 11:11:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:12:05 :: RegisterRaceNumMap Heaven's Tear Vein 20059
+Jun 12 11:12:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:13:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:14:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:14:34 :: RegisterRaceNumMap Vein Of Amethyst Ore 20058
+Jun 12 11:14:35 :: RegisterRaceNumMap Pile Of Clams 20055
+Jun 12 11:15:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:16:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:17:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:18:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:19:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:20:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:21:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:22:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:22:58 :: RegisterRaceNumMap Heaven's Tear Vein 20059
+Jun 12 11:23:04 :: RegisterRaceNumMap Vein Of Ebony Ore 20054
+Jun 12 11:23:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:24:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:25:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:26:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:27:14 :: RegisterRaceNumMap Heaven's Tear Vein 20059
+Jun 12 11:27:15 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 1154334781 output input_len 0, ptr 0x2bb20100
+Jun 12 11:27:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:27:31 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 3548875394 output input_len 0, ptr 0x2bb20600
+Jun 12 11:27:32 :: Handshake: lower than zero -2
+Jun 12 11:27:32 :: Handshake: client_time 0 server_time 45784630
+Jun 12 11:27:32 :: LOGIN_BY_KEY: test4 key 479419262
+Jun 12 11:27:33 :: LoginSuccess
+Jun 12 11:27:33 :: 	player([DEV]Cezariu).job(7)
+Jun 12 11:27:33 :: 	player().job(0)
+Jun 12 11:27:33 :: 	player().job(0)
+Jun 12 11:27:33 :: 	player().job(0)
+Jun 12 11:27:33 :: 	player().job(0)
+Jun 12 11:27:33 :: success to 81.180.202.36:30070
+Jun 12 11:27:33 :: InputDB::login_success: test4
+Jun 12 11:27:33 :: SYSTEM: closing socket. DESC #20
+Jun 12 11:27:33 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 1407754435 output input_len 0, ptr 0x2bb20100
+Jun 12 11:27:33 :: MARK_SERVER: Login
+Jun 12 11:27:33 :: LargePacket Size 136
+Jun 12 11:27:33 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 11:27:33 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 11:27:34 :: SYSTEM: closing socket. DESC #20
+Jun 12 11:27:37 :: SYSTEM: closing socket. DESC #21
+Jun 12 11:27:38 :: P2P: Login [DEV]Cezariu
+Jun 12 11:27:39 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3808669040 output input_len 0, ptr 0x2bb20600
+Jun 12 11:28:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:29:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:30:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:31:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:32:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:33:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:33:39 :: PING_EVENT: no pong 93.115.44.117
+Jun 12 11:33:39 :: SYSTEM: closing socket. DESC #20
+Jun 12 11:33:52 :: RegisterRaceNumMap Heaven's Tear Vein 20059
+Jun 12 11:34:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:34:34 :: RegisterRaceNumMap Vein Of Amethyst Ore 20058
+Jun 12 11:35:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:36:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:37:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:38:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:39:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:39:42 :: RegisterRaceNumMap Vein Of Diamond Ore 20047
+Jun 12 11:40:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:41:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:42:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:43:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:44:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:44:30 :: RegisterRaceNumMap Heaven's Tear Vein 20059
+Jun 12 11:45:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:46:11 :: RegisterRaceNumMap Vein Of Diamond Ore 20047
+Jun 12 11:46:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:47:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:48:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:49:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:50:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:51:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:52:00 :: RegisterRaceNumMap Vein Of White Gold Ore 20056
+Jun 12 11:52:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:53:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:54:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:55:29 :: RegisterRaceNumMap Vein Of Ebony Ore 20054
+Jun 12 11:55:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:56:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:57:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:58:00 :: RegisterRaceNumMap Vein Of Ebony Ore 20054
+Jun 12 11:58:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 11:59:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 12:00:00 :: SYSTEM: LOG ROTATE (2024-06-12 11)

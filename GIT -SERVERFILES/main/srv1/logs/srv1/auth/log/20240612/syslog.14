@@ -1,0 +1,40 @@
+Jun 12 14:24:04 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 1758087715 output input_len 0, ptr 0x288c3e00
+Jun 12 14:24:04 :: Handshake: client_time 0 server_time 56376966
+Jun 12 14:24:05 :: AUTH_PHASE 0x288c3e00
+Jun 12 14:24:05 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 14:24:05 :: SetLoginKey 216048960
+Jun 12 14:24:05 :: InputAuth::Login: key (216048960) login (test4)
+Jun 12 14:24:05 :: QID_AUTH_LOGIN: START 216048960 0x288c3e00
+Jun 12 14:24:05 :: Create_Time 1896971434 20300210
+Jun 12 14:24:05 :: Block Time -1 
+Jun 12 14:24:05 :: SetRemainSecs test4 0
+Jun 12 14:24:05 :: SendAuthLogin test4 key 21
+Jun 12 14:24:05 :: AuthLogin result 1 key 216048960
+Jun 12 14:24:05 :: SYSTEM: closing socket. DESC #16
+Jun 12 14:31:44 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 3198837652 output input_len 0, ptr 0x288c3e00
+Jun 12 14:31:44 :: Handshake: client_time 0 server_time 56836727
+Jun 12 14:31:44 :: AUTH_PHASE 0x288c3e00
+Jun 12 14:31:45 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 14:31:45 :: SetLoginKey 31403680
+Jun 12 14:31:45 :: InputAuth::Login: key (31403680) login (test4)
+Jun 12 14:31:45 :: QID_AUTH_LOGIN: START 31403680 0x288c3e00
+Jun 12 14:31:45 :: Create_Time 1896971434 20300210
+Jun 12 14:31:45 :: Block Time -1 
+Jun 12 14:31:45 :: SetRemainSecs test4 0
+Jun 12 14:31:45 :: SendAuthLogin test4 key 21
+Jun 12 14:31:45 :: AuthLogin result 1 key 31403680
+Jun 12 14:31:45 :: SYSTEM: closing socket. DESC #16
+Jun 12 14:42:11 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 1693111392 output input_len 0, ptr 0x288c3e00
+Jun 12 14:42:11 :: Handshake: client_time 0 server_time 57463625
+Jun 12 14:42:11 :: AUTH_PHASE 0x288c3e00
+Jun 12 14:42:11 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 14:42:11 :: SetLoginKey 1838668049
+Jun 12 14:42:11 :: InputAuth::Login: key (1838668049) login (test4)
+Jun 12 14:42:12 :: QID_AUTH_LOGIN: START 1838668049 0x288c3e00
+Jun 12 14:42:12 :: Create_Time 1896971434 20300210
+Jun 12 14:42:12 :: Block Time -1 
+Jun 12 14:42:12 :: SetRemainSecs test4 0
+Jun 12 14:42:12 :: SendAuthLogin test4 key 21
+Jun 12 14:42:12 :: AuthLogin result 1 key 1838668049
+Jun 12 14:42:12 :: SYSTEM: closing socket. DESC #16
+Jun 12 15:00:00 :: SYSTEM: LOG ROTATE (2024-06-12 14)

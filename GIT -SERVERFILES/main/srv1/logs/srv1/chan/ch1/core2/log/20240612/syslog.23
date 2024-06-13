@@ -1,0 +1,4 @@
+Jun 11 23:37:14 :: SYSTEM: new connection from [206.168.34.35] fd: 20 handshake 3778723852 output input_len 0, ptr 0x2bb20600
+Jun 11 23:37:17 :: SYSTEM: closing socket. DESC #20
+Jun 12 00:00:00 :: SYSTEM_CMD: rm -rf ./log/20240609
+Jun 12 00:00:00 :: SYSTEM: LOG ROTATE (2024-06-12 23)

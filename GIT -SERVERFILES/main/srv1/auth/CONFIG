@@ -3,8 +3,8 @@ PASSES_PER_SEC: 25
 SAVE_EVENT_SECOND_CYCLE: 180
 PING_EVENT_SECOND_CYCLE: 180
 DB_ADDR: localhost
-COMMON_SQL: localhost e2user! e2pass! common 3306
-LOG_SQL: localhost e2user! e2pass! log 3306
+COMMON_SQL: localhost root cezariu common 3306
+LOG_SQL: localhost root cezariu log 3306
 TEST_SERVER: 0
 ADMINPAGE_IP1: 141.94.141.162
 ADMINPAGE_PASSWORD: FASHF2jbdAFSAAA
@@ -21,7 +21,7 @@ SHOUT_LIMIT_LEVEL: 15
 DB_LOG_LEVEL: 1
 EMPIRE_LANGUAGE_CHECK: 0
 AUTH_SERVER: master
-PLAYER_SQL: localhost e2user! e2pass! account 3306
+PLAYER_SQL: localhost root cezariu account 3306
 define_client_version: 523759847
 HOSTNAME: srv1-auth
 CHANNEL: 1

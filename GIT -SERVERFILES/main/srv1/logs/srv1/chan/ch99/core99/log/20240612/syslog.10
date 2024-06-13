@@ -1,0 +1,75 @@
+Jun 12 10:40:26 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 942811532 output input_len 0, ptr 0x40a96500
+Jun 12 10:40:26 :: Handshake: client_time 0 server_time 42958530
+Jun 12 10:40:26 :: LOGIN_BY_KEY: test4 key 1200205819
+Jun 12 10:40:27 :: LoginSuccess
+Jun 12 10:40:27 :: 	player([DEV]Cezariu).job(7)
+Jun 12 10:40:27 :: 	player().job(0)
+Jun 12 10:40:27 :: 	player().job(0)
+Jun 12 10:40:27 :: 	player().job(0)
+Jun 12 10:40:27 :: 	player().job(0)
+Jun 12 10:40:27 :: success to 81.180.202.36:30070
+Jun 12 10:40:27 :: MySQL connection was reconnected. querying locale set
+Jun 12 10:40:27 :: 	--mysql_set_character_set(latin1)
+Jun 12 10:40:27 :: InputDB::login_success: test4
+Jun 12 10:40:27 :: player_select: login: test4 index: 0
+Jun 12 10:40:27 :: GM_NEW_GET_LEVEL : FIND ACCOUNT
+Jun 12 10:40:27 :: PK_MODE: [DEV]Cezariu 3
+Jun 12 10:40:27 :: PLAYER_LOAD: [DEV]Cezariu PREMIUM 2062000800 2062000800, LOGGOFF_INTERVAL 42136 PTR: 0x40db3640
+Jun 12 10:40:27 :: GM_LOGIN(gmlevel=5, name=[DEV]Cezariu(45), pos=(954073, 277240)
+Jun 12 10:40:27 :: InputDB: player_load [DEV]Cezariu 954073x277240x0 LEVEL 90 MOV_SPEED 200 JOB 0 ATG 3 DFG 190 GMLv 0
+Jun 12 10:40:27 :: MySQL connection was reconnected. querying locale set
+Jun 12 10:40:27 :: 	--mysql_set_character_set(latin1)
+Jun 12 10:40:27 :: ITEM_LOAD: COUNT [DEV]Cezariu 29
+Jun 12 10:40:27 :: RegisterRaceNumMap white lion 20114
+Jun 12 10:40:27 :: AddAffect [DEV]Cezariu type 533 apply 53 25 flag 0 duration 86400
+Jun 12 10:40:27 :: AddAffect [DEV]Cezariu type 533 apply 159 25 flag 0 duration 86400
+Jun 12 10:40:27 :: AddAffect [DEV]Cezariu type 533 apply 83 50 flag 0 duration 86400
+Jun 12 10:40:27 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 86400
+Jun 12 10:40:27 :: AddAffect [DEV]Cezariu type 221 apply 109 20114 flag 0 duration 86400
+Jun 12 10:40:27 :: QUEST_LOAD: count 5
+Jun 12 10:40:27 ::             give_basic_weapon.__status 668443392
+Jun 12 10:40:27 ::             rune.__status -1544680505
+Jun 12 10:40:27 ::             horse_name.valid_till 1842885420
+Jun 12 10:40:27 ::             main_quest_lv10.__status -596781658
+Jun 12 10:40:27 ::             kamp.spawned 1717147914
+Jun 12 10:40:28 :: VERSION: [DEV]Cezariu 1215955205 Hypnotic2.exe
+Jun 12 10:40:29 :: SHOW: [DEV]Cezariu 954073x277240x0
+Jun 12 10:40:29 :: AddAffect [DEV]Cezariu type 215 apply 0 0 flag 28 duration 5
+Jun 12 10:40:29 :: ENTERGAME: [DEV]Cezariu 954073x277240x0 93.115.44.117 map_index 41
+Jun 12 10:40:29 :: HORSE STAMINA CONSUME EVENT CANCEL 0x0
+Jun 12 10:40:29 :: HORSE STAMINA REGEN EVENT CREATE 0x2892a140
+Jun 12 10:40:29 :: SendLandList map 41 count 0 elem_size: 0
+Jun 12 10:40:29 :: AddAffect [DEV]Cezariu type 500 apply 0 0 flag 0 duration 343822771
+Jun 12 10:40:29 :: PREMIUM: [DEV]Cezariu type 0 343822771min
+Jun 12 10:40:29 :: AddAffect [DEV]Cezariu type 501 apply 0 0 flag 0 duration 343822771
+Jun 12 10:40:29 :: PREMIUM: [DEV]Cezariu type 1 343822771min
+Jun 12 10:40:29 :: AddAffect [DEV]Cezariu type 502 apply 0 0 flag 0 duration 343822771
+Jun 12 10:40:29 :: PREMIUM: [DEV]Cezariu type 2 343822771min
+Jun 12 10:40:29 :: AddAffect [DEV]Cezariu type 503 apply 0 0 flag 0 duration 343822771
+Jun 12 10:40:29 :: PREMIUM: [DEV]Cezariu type 3 343822771min
+Jun 12 10:40:29 :: AddAffect [DEV]Cezariu type 504 apply 0 0 flag 0 duration 343822771
+Jun 12 10:40:29 :: PREMIUM: [DEV]Cezariu type 4 343822771min
+Jun 12 10:40:29 :: AddAffect [DEV]Cezariu type 505 apply 0 0 flag 0 duration 343822771
+Jun 12 10:40:29 :: PREMIUM: [DEV]Cezariu type 5 343822771min
+Jun 12 10:40:29 :: AddAffect [DEV]Cezariu type 506 apply 0 0 flag 0 duration 343822771
+Jun 12 10:40:29 :: PREMIUM: [DEV]Cezariu type 6 343822771min
+Jun 12 10:40:29 :: VERSION : NO CHECK
+Jun 12 10:40:29 :: MySQL connection was reconnected. querying locale set
+Jun 12 10:40:29 :: 	--mysql_set_character_set(latin1)
+Jun 12 10:40:29 :: QUEST_LOAD: Login pc 45 by event
+Jun 12 10:40:29 :: QUEST loading locale/germany/quest/object/timer1/timer/automesaj.start : automesaj [STATE] start
+Jun 12 10:40:29 :: QUEST timer name timer1 cycle 15025 pc 45 npc 4294967295 loop? 0
+Jun 12 10:40:29 :: QUEST add timer 0x2892af60 1
+Jun 12 10:40:29 :: AddAffect [DEV]Cezariu type 999 apply 0 0 flag 0 duration 31536000
+Jun 12 10:40:47 :: P2P: Login Inceputul
+Jun 12 10:40:53 :: InputP2P::Relay : [DEV]Cezariu size 32
+Jun 12 10:41:19 :: P2P: Logout Inceputul
+Jun 12 10:41:20 :: SECTREE DIFFER: [DEV]Cezariu 149x42 was 149x43 dist 1.0m
+Jun 12 10:41:24 :: SECTREE DIFFER: [DEV]Cezariu 150x42 was 149x42 dist 1.0m
+Jun 12 10:41:24 :: SECTREE DIFFER: [DEV]Cezariu 150x41 was 150x42 dist 1.0m
+Jun 12 10:41:26 :: COMMAND: [DEV]Cezariu: quit
+Jun 12 10:41:30 :: DISCONNECT: [DEV]Cezariu (DESC::~DESC)
+Jun 12 10:41:30 :: SAVE: [DEV]Cezariu 960630x268090
+Jun 12 10:41:30 :: QUEST clear timer 1
+Jun 12 10:41:30 :: SYSTEM: closing socket. DESC #20
+Jun 12 11:00:00 :: SYSTEM: LOG ROTATE (2024-06-12 10)

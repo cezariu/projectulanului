@@ -4,7 +4,7 @@ LOGIN_INTERFACE_PASTE_ID	Bitte gib eine ID ein!
 LOGIN_INTERFACE_PASTE_PW	Bitte gib ein PW ein!
 LOGIN_INTERFACE_NO_SLOT_FREE	Es ist kein Slot zum speichern frei!
 LOGIN_INTERFACE_SAVED	Deine Login-Daten wurden gespeichert!
-LOGIN_INTERFACE_DELETED	gelöscht.
+LOGIN_INTERFACE_DELETED	gelï¿½scht.
 LOGIN_INTERFACE_ALREADY_EMPTY	ist bereits leer!
 OPEN_REBORN	[i] Open Reborn
 METIN_SIZE	Metin Stone Size
@@ -66,33 +66,33 @@ EXTENDET_BATTLE_PASS_TYPENAME_2_DESC_1	Kill %s Players. Players can be from any 
 EXTENDET_BATTLE_PASS_TYPENAME_2_DESC_2	Kill %s Players. Players can be from any kingdom. There is no level-limit!
 EXTENDET_BATTLE_PASS_TYPENAME_3	Total damage to monsters
 EXTENDET_BATTLE_PASS_TYPENAME_3_DESC_1	Erreiche einen Gesamten Schaden von %s bei %s.
-EXTENDET_BATTLE_PASS_TYPENAME_3_DESC_2	Erreiche einen Gesamten Schaden von %s. Es wird bei jedem Monster gezählt!
+EXTENDET_BATTLE_PASS_TYPENAME_3_DESC_2	Erreiche einen Gesamten Schaden von %s. Es wird bei jedem Monster gezï¿½hlt!
 EXTENDET_BATTLE_PASS_TYPENAME_4	Gesamtschaden an Spielern
-EXTENDET_BATTLE_PASS_TYPENAME_4_DESC_1	Erreiche einen Gesamten Schaden von %s bei Spielern mit Min-Lv %d. Spieler aus jedem Reich zählen.
-EXTENDET_BATTLE_PASS_TYPENAME_4_DESC_2	Erreiche einen Gesamten Schaden von %s bei Spielern. Spieler aus jedem Reich zählen.
+EXTENDET_BATTLE_PASS_TYPENAME_4_DESC_1	Erreiche einen Gesamten Schaden von %s bei Spielern mit Min-Lv %d. Spieler aus jedem Reich zï¿½hlen.
+EXTENDET_BATTLE_PASS_TYPENAME_4_DESC_2	Erreiche einen Gesamten Schaden von %s bei Spielern. Spieler aus jedem Reich zï¿½hlen.
 EXTENDET_BATTLE_PASS_TYPENAME_5	Use %s
 EXTENDET_BATTLE_PASS_TYPENAME_5_DESC_1	Use %sx %s in order to complete the mission.
 EXTENDET_BATTLE_PASS_TYPENAME_5_DESC_2	Use or open %sx in order to complete the mission.
 EXTENDET_BATTLE_PASS_TYPENAME_6	Sell %s
-EXTENDET_BATTLE_PASS_TYPENAME_6_DESC_1	Verkaufe %sx %s bei NPC's um diese Mission zu erfüllen.
-EXTENDET_BATTLE_PASS_TYPENAME_6_DESC_2	Verkaufe %sx ein Gegenstand bei NPC's um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_6_DESC_1	Verkaufe %sx %s bei NPC's um diese Mission zu erfï¿½llen.
+EXTENDET_BATTLE_PASS_TYPENAME_6_DESC_2	Verkaufe %sx ein Gegenstand bei NPC's um diese Mission zu erfï¿½llen.
 EXTENDET_BATTLE_PASS_TYPENAME_7	Craft %s
-EXTENDET_BATTLE_PASS_TYPENAME_7_DESC_1	Crafte %sx %s um diese Mission zu erfüllen.
-EXTENDET_BATTLE_PASS_TYPENAME_7_DESC_2	Crafte %sx ein Gegenstand um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_7_DESC_1	Crafte %sx %s um diese Mission zu erfï¿½llen.
+EXTENDET_BATTLE_PASS_TYPENAME_7_DESC_2	Crafte %sx ein Gegenstand um diese Mission zu erfï¿½llen.
 EXTENDET_BATTLE_PASS_TYPENAME_8	Upgrade %s
 EXTENDET_BATTLE_PASS_TYPENAME_8_DESC_1	Upgrade %sx %s in order to complete the mission.
 EXTENDET_BATTLE_PASS_TYPENAME_8_DESC_2	Upgrade %s to the next level in order to complet the mission.
-EXTENDET_BATTLE_PASS_TYPENAME_9	Zerstöre %s
-EXTENDET_BATTLE_PASS_TYPENAME_9_DESC_1	Zerstöre %sx %s um diese Mission zu erfüllen.
-EXTENDET_BATTLE_PASS_TYPENAME_9_DESC_2	Zerstöre %s Gegenstände um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_9	Zerstï¿½re %s
+EXTENDET_BATTLE_PASS_TYPENAME_9_DESC_1	Zerstï¿½re %sx %s um diese Mission zu erfï¿½llen.
+EXTENDET_BATTLE_PASS_TYPENAME_9_DESC_2	Zerstï¿½re %s Gegenstï¿½nde um diese Mission zu erfï¿½llen.
 EXTENDET_BATTLE_PASS_TYPENAME_10_1	Erbeute %s
 EXTENDET_BATTLE_PASS_TYPENAME_10_2	Baue %s ab
-EXTENDET_BATTLE_PASS_TYPENAME_10_1_DESC_1	Erbeute %sx %s von Monstern um diese Mission zu erfüllen.
-EXTENDET_BATTLE_PASS_TYPENAME_10_2_DESC_1	Baue %sx %s ab um diese Mission zu erfüllen
-EXTENDET_BATTLE_PASS_TYPENAME_10_DESC_2	Erbeute %s verschiedene Gegenstände um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_10_1_DESC_1	Erbeute %sx %s von Monstern um diese Mission zu erfï¿½llen.
+EXTENDET_BATTLE_PASS_TYPENAME_10_2_DESC_1	Baue %sx %s ab um diese Mission zu erfï¿½llen
+EXTENDET_BATTLE_PASS_TYPENAME_10_DESC_2	Erbeute %s verschiedene Gegenstï¿½nde um diese Mission zu erfï¿½llen.
 EXTENDET_BATTLE_PASS_TYPENAME_11	Angel %s
-EXTENDET_BATTLE_PASS_TYPENAME_11_DESC_1	Ziehe %sx %s aus dem Wasser um diese Mission zu erfüllen.
-EXTENDET_BATTLE_PASS_TYPENAME_11_DESC_2	Ziehe %sx einen beliebigen Fisch aus dem Wasser um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_11_DESC_1	Ziehe %sx %s aus dem Wasser um diese Mission zu erfï¿½llen.
+EXTENDET_BATTLE_PASS_TYPENAME_11_DESC_2	Ziehe %sx einen beliebigen Fisch aus dem Wasser um diese Mission zu erfï¿½llen.
 EXTENDET_BATTLE_PASS_TYPENAME_12	Grill %s
 EXTENDET_BATTLE_PASS_TYPENAME_12_DESC_1	Grill %sx %s to complete this mission.
 EXTENDET_BATTLE_PASS_TYPENAME_12_DESC_2	Grill %sx fish to complete the mission.
@@ -100,11 +100,11 @@ EXTENDET_BATTLE_PASS_TYPENAME_13	Catch&Kill %s
 EXTENDET_BATTLE_PASS_TYPENAME_13_DESC_1	Kill %sx %s to complete this mission.
 EXTENDET_BATTLE_PASS_TYPENAME_13_DESC_2	Catch and Kill %s fish to complete the mission.
 EXTENDET_BATTLE_PASS_TYPENAME_14	Sammle %s EXP
-EXTENDET_BATTLE_PASS_TYPENAME_14_DESC_1	Sammle %s EXP von %s um diese Mission zu erfüllen. Es zählt die Basis EXP (Levelunabhängig)!
-EXTENDET_BATTLE_PASS_TYPENAME_14_DESC_2	Sammle %s EXP von beliebigen Monstern um diese Mission zu erfüllen. Es zählt die Basis EXP (Levelunabhängig)!
+EXTENDET_BATTLE_PASS_TYPENAME_14_DESC_1	Sammle %s EXP von %s um diese Mission zu erfï¿½llen. Es zï¿½hlt die Basis EXP (Levelunabhï¿½ngig)!
+EXTENDET_BATTLE_PASS_TYPENAME_14_DESC_2	Sammle %s EXP von beliebigen Monstern um diese Mission zu erfï¿½llen. Es zï¿½hlt die Basis EXP (Levelunabhï¿½ngig)!
 EXTENDET_BATTLE_PASS_TYPENAME_15	Sammle %s Yang
-EXTENDET_BATTLE_PASS_TYPENAME_15_DESC_1	Sammle %s Yang von Monstern auf der Map %s um diese Mission zu erfüllen.
-EXTENDET_BATTLE_PASS_TYPENAME_15_DESC_2	Sammle %s Yang von Monstern um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_15_DESC_1	Sammle %s Yang von Monstern auf der Map %s um diese Mission zu erfï¿½llen.
+EXTENDET_BATTLE_PASS_TYPENAME_15_DESC_2	Sammle %s Yang von Monstern um diese Mission zu erfï¿½llen.
 EXTENDET_BATTLE_PASS_TYPENAME_16	Spiele Gildenkriege
 EXTENDET_BATTLE_PASS_TYPENAME_16_DESC_1	Beende %sx einen Gildenkrieg des Typs %s.
 EXTENDET_BATTLE_PASS_TYPENAME_16_DESC_2	Beende %sx einen Gildenkrieg eines Beliebigen Typs.
@@ -115,7 +115,7 @@ EXTENDET_BATTLE_PASS_TYPENAME_18_DESC_1	Craft %s Gaya.
 EXTENDET_BATTLE_PASS_TYPENAME_19	Spend Gaya
 EXTENDET_BATTLE_PASS_TYPENAME_19_DESC_1	Use the gaya-shop to spend %s Gaya.
 EXTENDET_BATTLE_PASS_TYPENAME_21	Complete %s dungeons
-EXTENDET_BATTLE_PASS_TYPENAME_21_DESC_1	%s: Beende %sx diesen Dungeon um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_21_DESC_1	%s: Beende %sx diesen Dungeon um diese Mission zu erfï¿½llen.
 EXTENDET_BATTLE_PASS_TYPENAME_21_DESC_2	Complete %sx dungeons in order to complete the mission.
 EXTENDET_BATTLE_PASS_MAP_NAME_BY_IDX_64	Tal von Seugryong
 EXTENDET_BATTLE_PASS_MAP_NAME_BY_IDX_65	Hwang-Tempel
@@ -123,7 +123,7 @@ EXTENDET_BATTLE_PASS_MAP_NAME_BY_IDX_72	Grotte 1
 EXTENDET_BATTLE_PASS_GUILDWAR_TYPE_NAME_1	Feld-Gildenkrieg
 EXTENDET_BATTLE_PASS_GUILDWAR_TYPE_NAME_2	Arena-Gildenkrieg
 EXTENDET_BATTLE_PASS_GUILDWAR_TYPE_NAME_3	Flaggen-Gildenkrieg
-EXTENDET_BATTLE_PASS_DUNGEON_NAME_1	Der Dämonenturm
+EXTENDET_BATTLE_PASS_DUNGEON_NAME_1	Der Dï¿½monenturm
 EXTENDET_BATTLE_PASS_DUNGEON_NAME_2	Der Drachenraum
 EXTENDET_BATTLE_PASS_DUNGEON_NAME_3	Der Devil's Catacomb
 EXTENDET_BATTLE_PASS_DUNGEON_NAME_4	Die Rotdrachenfestung
@@ -131,7 +131,7 @@ EXTENDET_BATTLE_PASS_DUNGEON_NAME_5	Die Nemere Warte
 EXTENDET_BATTLE_PASS_DUNGEON_NAME_6	Die Spinnenbaroness
 EXTENDET_BATTLE_PASS_DUNGEON_NAME_7	Der Meleys Hort
 EXTENDET_BATTLE_PASS_MINIGAME_NAME_1	Okey-Karten-Spiel
-EXTENDET_BATTLE_PASS_MINIGAME_NAME_2	Schnapp den König
+EXTENDET_BATTLE_PASS_MINIGAME_NAME_2	Schnapp den Kï¿½nig
 EXTENDET_BATTLE_PASS_MINIGAME_NAME_3	Yutnori
 EXTENDET_BATTLE_PASS_MINIGAME_NAME_4	Seherkartenspiel
 EXTENDET_BATTLE_PASS_MINIGAME_NAME_5	Fischpuzzlespiel
@@ -897,7 +897,7 @@ PASSWORD_DESC_3	Already changed your password?
 PASSWORD_DESC_4	If not, your password will be '000000'.
 PASSWORD_DESC_5	Change your password in storage.
 PASSWORD_TITLE	Saving Password
-PET_AGE_TEXT	Pet’s Age
+PET_AGE_TEXT	Petï¿½s Age
 PET_ATTR_CHANGE_ITEM_TEXT	Enchant Pet
 PET_ATTR_CHANGE_TITLE	Change Pet Type
 PET_ATTR_CONFIRMATION	Change
@@ -1305,7 +1305,7 @@ TELEPORTER	Teleport Map
 SUPPORT_SYSTEM	Support Shamy [X]
 CLASSIFICA_GIOCATORI	Player Ranking [F12]
 CLASSIFICA_GILDA	Guild Ranking [F6]
-SWITCH_BOT	Switch_bot [K]
+SWITCH_BOT	Switch_bot
 INVENTORY_SEPARATE	Sort Inventory
 INVENTORY_SPECIAL_SEPARATE	Sort Special Inventory
 Rune	Rune [J]

@@ -1,0 +1,31 @@
+Jun 12 10:40:19 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 3106017848 output input_len 0, ptr 0x288c3e00
+Jun 12 10:40:19 :: Handshake: client_time 0 server_time 42951792
+Jun 12 10:40:19 :: AUTH_PHASE 0x288c3e00
+Jun 12 10:40:20 :: InputAuth::Login : test4(5) desc 0x288c3e00
+Jun 12 10:40:20 :: SetLoginKey 1200205819
+Jun 12 10:40:20 :: InputAuth::Login: key (1200205819) login (test4)
+Jun 12 10:40:20 :: QID_AUTH_LOGIN: START 1200205819 0x288c3e00
+Jun 12 10:40:20 :: Create_Time 1896971434 20300210
+Jun 12 10:40:20 :: Block Time -1 
+Jun 12 10:40:20 :: MySQL connection was reconnected. querying locale set
+Jun 12 10:40:20 :: 	--mysql_set_character_set(latin1)
+Jun 12 10:40:20 :: SetRemainSecs test4 0
+Jun 12 10:40:20 :: SendAuthLogin test4 key 21
+Jun 12 10:40:20 :: AuthLogin result 1 key 1200205819
+Jun 12 10:40:20 :: SYSTEM: closing socket. DESC #16
+Jun 12 10:40:22 :: SYSTEM: new connection from [93.115.44.117] fd: 16 handshake 567160425 output input_len 0, ptr 0x288c3e00
+Jun 12 10:40:22 :: Handshake: client_time 0 server_time 42954727
+Jun 12 10:40:22 :: AUTH_PHASE 0x288c3e00
+Jun 12 10:40:23 :: InputAuth::Login : test2(5) desc 0x288c3e00
+Jun 12 10:40:23 :: SetLoginKey 1212620358
+Jun 12 10:40:23 :: InputAuth::Login: key (1212620358) login (test2)
+Jun 12 10:40:23 :: MySQL connection was reconnected. querying locale set
+Jun 12 10:40:23 :: 	--mysql_set_character_set(latin1)
+Jun 12 10:40:23 :: QID_AUTH_LOGIN: START 1212620358 0x288c3e00
+Jun 12 10:40:23 :: Create_Time 1896971434 20300210
+Jun 12 10:40:23 :: Block Time -1 
+Jun 12 10:40:23 :: SetRemainSecs test2 0
+Jun 12 10:40:23 :: SendAuthLogin test2 key 20
+Jun 12 10:40:23 :: AuthLogin result 1 key 1212620358
+Jun 12 10:40:23 :: SYSTEM: closing socket. DESC #16
+Jun 12 11:00:00 :: SYSTEM: LOG ROTATE (2024-06-12 10)

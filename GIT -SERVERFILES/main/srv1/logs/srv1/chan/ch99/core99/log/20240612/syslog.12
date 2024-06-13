@@ -1,0 +1,463 @@
+Jun 12 12:00:37 :: PONG! 239
+Jun 12 12:00:37 :: Handshake: client_time 47589416 server_time 47769409 name: [DEV]Cezariu
+Jun 12 12:00:40 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 12:03:37 :: PONG! 239
+Jun 12 12:03:37 :: Handshake: client_time 47769409 server_time 47949409 name: [DEV]Cezariu
+Jun 12 12:03:39 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 12:04:43 :: QUEST remove with no cancel 0x4103f3e0
+Jun 12 12:06:37 :: PONG! 239
+Jun 12 12:06:37 :: Handshake: client_time 47949409 server_time 48129409 name: [DEV]Cezariu
+Jun 12 12:06:39 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 12:09:37 :: PONG! 239
+Jun 12 12:09:37 :: Handshake: client_time 48129409 server_time 48309407 name: [DEV]Cezariu
+Jun 12 12:09:40 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 12:12:37 :: PONG! 239
+Jun 12 12:12:37 :: Handshake: lower than zero -20
+Jun 12 12:12:37 :: Handshake: client_time 48309407 server_time 48489489 name: [DEV]Cezariu
+Jun 12 12:12:40 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 12:15:37 :: PONG! 239
+Jun 12 12:15:37 :: Handshake: client_time 48489489 server_time 48669409 name: [DEV]Cezariu
+Jun 12 12:15:40 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 12:18:37 :: PONG! 239
+Jun 12 12:18:37 :: Handshake: client_time 48669409 server_time 48849409 name: [DEV]Cezariu
+Jun 12 12:18:40 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 12:21:37 :: PONG! 239
+Jun 12 12:21:37 :: Handshake: client_time 48849409 server_time 49029407 name: [DEV]Cezariu
+Jun 12 12:21:39 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 12:24:37 :: PONG! 239
+Jun 12 12:24:37 :: Handshake: client_time 49029407 server_time 49209409 name: [DEV]Cezariu
+Jun 12 12:24:40 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 12:27:37 :: PONG! 239
+Jun 12 12:27:37 :: Handshake: client_time 49209409 server_time 49389409 name: [DEV]Cezariu
+Jun 12 12:27:40 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 12:30:37 :: PONG! 239
+Jun 12 12:30:37 :: Handshake: client_time 49389409 server_time 49569409 name: [DEV]Cezariu
+Jun 12 12:30:40 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 12:33:30 :: COMMAND: [DEV]Cezariu: ride
+Jun 12 12:33:30 :: AddAffect [DEV]Cezariu type 533 apply 53 10 flag 0 duration 86400
+Jun 12 12:33:30 :: AddAffect [DEV]Cezariu type 533 apply 159 5 flag 0 duration 86400
+Jun 12 12:33:30 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 86400
+Jun 12 12:33:30 :: AddAffect [DEV]Cezariu type 221 apply 109 20114 flag 0 duration 86400
+Jun 12 12:33:33 ::       in same sectree
+Jun 12 12:33:34 :: SECTREE DIFFER: [DEV]Cezariu 146x44 was 145x44 dist 1.0m
+Jun 12 12:33:36 :: SECTREE DIFFER: [DEV]Cezariu 146x45 was 146x44 dist 1.0m
+Jun 12 12:33:37 :: PONG! 239
+Jun 12 12:33:37 :: Handshake: client_time 49569409 server_time 49749409 name: [DEV]Cezariu
+Jun 12 12:33:38 :: COMMAND: [DEV]Cezariu: ride
+Jun 12 12:33:38 :: RegisterRaceNumMap white lion 20114
+Jun 12 12:33:39 :: COMMAND: [DEV]Cezariu: user_horse_back
+Jun 12 12:33:40 :: SAVE: [DEV]Cezariu 939362x294258
+Jun 12 12:34:01 :: COMMAND: [DEV]Cezariu: doctrine_choose
+Jun 12 12:34:02 :: SECTREE DIFFER: [DEV]Cezariu 146x46 was 146x45 dist 1.0m
+Jun 12 12:34:36 :: [DEV]Cezariu: USE_ITEM Leul Alb[P] (inven 1, cell: 8)
+Jun 12 12:34:36 :: RegisterRaceNumMap white lion 20114
+Jun 12 12:36:37 :: PONG! 239
+Jun 12 12:36:37 :: Handshake: client_time 49749409 server_time 49929409 name: [DEV]Cezariu
+Jun 12 12:36:40 :: SAVE: [DEV]Cezariu 938468x294433
+Jun 12 12:39:37 :: PONG! 239
+Jun 12 12:39:37 :: Handshake: client_time 49929409 server_time 50109567 name: [DEV]Cezariu
+Jun 12 12:39:39 :: SAVE: [DEV]Cezariu 938468x294433
+Jun 12 12:40:18 :: COMMAND: [DEV]Cezariu: quit
+Jun 12 12:40:28 :: DISCONNECT: [DEV]Cezariu (DESC::~DESC)
+Jun 12 12:40:28 :: SAVE: [DEV]Cezariu 938468x294433
+Jun 12 12:40:28 :: QUEST clear timer 0
+Jun 12 12:40:28 :: SYSTEM: closing socket. DESC #20
+Jun 12 12:40:46 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2791503392 output input_len 0, ptr 0x40a96500
+Jun 12 12:40:47 :: Handshake: client_time 0 server_time 50179007
+Jun 12 12:40:47 :: LOGIN_BY_KEY: test4 key 1084741052
+Jun 12 12:40:47 :: LoginSuccess
+Jun 12 12:40:47 :: 	player([DEV]Cezariu).job(0)
+Jun 12 12:40:47 :: 	player().job(0)
+Jun 12 12:40:47 :: 	player().job(0)
+Jun 12 12:40:47 :: 	player().job(0)
+Jun 12 12:40:47 :: 	player().job(0)
+Jun 12 12:40:47 :: success to 81.180.202.36:30070
+Jun 12 12:40:47 :: InputDB::login_success: test4
+Jun 12 12:40:47 :: player_select: login: test4 index: 0
+Jun 12 12:40:47 :: GM_NEW_GET_LEVEL : FIND ACCOUNT
+Jun 12 12:40:47 :: PK_MODE: [DEV]Cezariu 3
+Jun 12 12:40:47 :: PLAYER_LOAD: [DEV]Cezariu PREMIUM 2062000800 2062000800, LOGGOFF_INTERVAL 19 PTR: 0x41046540
+Jun 12 12:40:47 :: GM_LOGIN(gmlevel=5, name=[DEV]Cezariu(45), pos=(938468, 294433)
+Jun 12 12:40:47 :: InputDB: player_load [DEV]Cezariu 938468x294433x0 LEVEL 90 MOV_SPEED 200 JOB 0 ATG 0 DFG 192 GMLv 0
+Jun 12 12:40:47 :: ITEM_LOAD: COUNT [DEV]Cezariu 33
+Jun 12 12:40:47 :: RegisterRaceNumMap white lion 20114
+Jun 12 12:40:47 :: QUEST_LOAD: count 6
+Jun 12 12:40:47 ::             give_basic_weapon.__status 668443392
+Jun 12 12:40:47 ::             rune.__status -1544680505
+Jun 12 12:40:47 ::             horse_name.valid_till 1842885420
+Jun 12 12:40:47 ::             main_quest_lv10.__status -596781658
+Jun 12 12:40:47 ::             kamp.spawned 1717147914
+Jun 12 12:40:47 ::             costume_option.hide_hair 1
+Jun 12 12:40:48 :: VERSION: [DEV]Cezariu 1215955205 Hypnotic2.exe
+Jun 12 12:40:49 :: SHOW: [DEV]Cezariu 938468x294433x0
+Jun 12 12:40:49 :: AddAffect [DEV]Cezariu type 215 apply 0 0 flag 28 duration 5
+Jun 12 12:40:49 :: ENTERGAME: [DEV]Cezariu 938468x294433x0 93.115.44.117 map_index 41
+Jun 12 12:40:49 :: HORSE STAMINA CONSUME EVENT CANCEL 0x0
+Jun 12 12:40:49 :: HORSE STAMINA REGEN EVENT CREATE 0x295fe440
+Jun 12 12:40:49 :: SendLandList map 41 count 0 elem_size: 0
+Jun 12 12:40:49 :: AddAffect [DEV]Cezariu type 500 apply 0 0 flag 0 duration 343815551
+Jun 12 12:40:49 :: PREMIUM: [DEV]Cezariu type 0 343815551min
+Jun 12 12:40:49 :: AddAffect [DEV]Cezariu type 501 apply 0 0 flag 0 duration 343815551
+Jun 12 12:40:49 :: PREMIUM: [DEV]Cezariu type 1 343815551min
+Jun 12 12:40:49 :: AddAffect [DEV]Cezariu type 502 apply 0 0 flag 0 duration 343815551
+Jun 12 12:40:49 :: PREMIUM: [DEV]Cezariu type 2 343815551min
+Jun 12 12:40:49 :: AddAffect [DEV]Cezariu type 503 apply 0 0 flag 0 duration 343815551
+Jun 12 12:40:49 :: PREMIUM: [DEV]Cezariu type 3 343815551min
+Jun 12 12:40:49 :: AddAffect [DEV]Cezariu type 504 apply 0 0 flag 0 duration 343815551
+Jun 12 12:40:49 :: PREMIUM: [DEV]Cezariu type 4 343815551min
+Jun 12 12:40:49 :: AddAffect [DEV]Cezariu type 505 apply 0 0 flag 0 duration 343815551
+Jun 12 12:40:49 :: PREMIUM: [DEV]Cezariu type 5 343815551min
+Jun 12 12:40:49 :: AddAffect [DEV]Cezariu type 506 apply 0 0 flag 0 duration 343815551
+Jun 12 12:40:49 :: PREMIUM: [DEV]Cezariu type 6 343815551min
+Jun 12 12:40:49 :: VERSION : NO CHECK
+Jun 12 12:40:49 :: QUEST_LOAD: Login pc 45 by event
+Jun 12 12:40:49 :: QUEST timer name timer1 cycle 15025 pc 45 npc 4294967295 loop? 0
+Jun 12 12:40:49 :: QUEST add timer 0x295fe500 1
+Jun 12 12:40:49 :: AddAffect [DEV]Cezariu type 999 apply 0 0 flag 0 duration 31536000
+Jun 12 12:40:50 :: RegisterRaceNumMap Leonidas 34008
+Jun 12 12:40:50 :: AddAffect [DEV]Cezariu type 587 apply 0 0 flag 90001141 duration 1892160000
+Jun 12 12:41:05 :: COMMAND: [DEV]Cezariu: quit
+Jun 12 12:41:08 :: DISCONNECT: [DEV]Cezariu (DESC::~DESC)
+Jun 12 12:41:08 :: SAVE: [DEV]Cezariu 938468x294433
+Jun 12 12:41:08 :: QUEST clear timer 1
+Jun 12 12:41:08 :: SYSTEM: closing socket. DESC #20
+Jun 12 12:41:31 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 165933668 output input_len 0, ptr 0x40a96500
+Jun 12 12:41:31 :: Handshake: client_time 0 server_time 50223260
+Jun 12 12:41:31 :: LOGIN_BY_KEY: test4 key 1308588250
+Jun 12 12:41:31 :: LoginSuccess
+Jun 12 12:41:31 :: 	player([DEV]Cezariu).job(0)
+Jun 12 12:41:31 :: 	player().job(0)
+Jun 12 12:41:31 :: 	player().job(0)
+Jun 12 12:41:31 :: 	player().job(0)
+Jun 12 12:41:31 :: 	player().job(0)
+Jun 12 12:41:31 :: success to 81.180.202.36:30070
+Jun 12 12:41:31 :: InputDB::login_success: test4
+Jun 12 12:41:31 :: player_select: login: test4 index: 0
+Jun 12 12:41:32 :: GM_NEW_GET_LEVEL : FIND ACCOUNT
+Jun 12 12:41:32 :: PK_MODE: [DEV]Cezariu 3
+Jun 12 12:41:32 :: PLAYER_LOAD: [DEV]Cezariu PREMIUM 2062000800 2062000800, LOGGOFF_INTERVAL 23 PTR: 0x41052380
+Jun 12 12:41:32 :: GM_LOGIN(gmlevel=5, name=[DEV]Cezariu(45), pos=(938468, 294433)
+Jun 12 12:41:32 :: InputDB: player_load [DEV]Cezariu 938468x294433x0 LEVEL 90 MOV_SPEED 200 JOB 0 ATG 0 DFG 192 GMLv 0
+Jun 12 12:41:32 :: ITEM_LOAD: COUNT [DEV]Cezariu 33
+Jun 12 12:41:32 :: RegisterRaceNumMap white lion 20114
+Jun 12 12:41:32 :: QUEST_LOAD: count 6
+Jun 12 12:41:32 ::             give_basic_weapon.__status 668443392
+Jun 12 12:41:32 ::             rune.__status -1544680505
+Jun 12 12:41:32 ::             horse_name.valid_till 1842885420
+Jun 12 12:41:32 ::             main_quest_lv10.__status -596781658
+Jun 12 12:41:32 ::             kamp.spawned 1717147914
+Jun 12 12:41:32 ::             costume_option.hide_hair 1
+Jun 12 12:41:32 :: VERSION: [DEV]Cezariu 1215955205 Hypnotic2.exe
+Jun 12 12:41:33 :: SHOW: [DEV]Cezariu 938468x294433x0
+Jun 12 12:41:33 :: AddAffect [DEV]Cezariu type 215 apply 0 0 flag 28 duration 5
+Jun 12 12:41:33 :: ENTERGAME: [DEV]Cezariu 938468x294433x0 93.115.44.117 map_index 41
+Jun 12 12:41:33 :: HORSE STAMINA CONSUME EVENT CANCEL 0x0
+Jun 12 12:41:33 :: HORSE STAMINA REGEN EVENT CREATE 0x4103f500
+Jun 12 12:41:33 :: SendLandList map 41 count 0 elem_size: 0
+Jun 12 12:41:33 :: AddAffect [DEV]Cezariu type 500 apply 0 0 flag 0 duration 343815507
+Jun 12 12:41:33 :: PREMIUM: [DEV]Cezariu type 0 343815507min
+Jun 12 12:41:33 :: AddAffect [DEV]Cezariu type 501 apply 0 0 flag 0 duration 343815507
+Jun 12 12:41:33 :: PREMIUM: [DEV]Cezariu type 1 343815507min
+Jun 12 12:41:33 :: AddAffect [DEV]Cezariu type 502 apply 0 0 flag 0 duration 343815507
+Jun 12 12:41:33 :: PREMIUM: [DEV]Cezariu type 2 343815507min
+Jun 12 12:41:33 :: AddAffect [DEV]Cezariu type 503 apply 0 0 flag 0 duration 343815507
+Jun 12 12:41:33 :: PREMIUM: [DEV]Cezariu type 3 343815507min
+Jun 12 12:41:33 :: AddAffect [DEV]Cezariu type 504 apply 0 0 flag 0 duration 343815507
+Jun 12 12:41:33 :: PREMIUM: [DEV]Cezariu type 4 343815507min
+Jun 12 12:41:33 :: AddAffect [DEV]Cezariu type 505 apply 0 0 flag 0 duration 343815507
+Jun 12 12:41:33 :: PREMIUM: [DEV]Cezariu type 5 343815507min
+Jun 12 12:41:33 :: AddAffect [DEV]Cezariu type 506 apply 0 0 flag 0 duration 343815507
+Jun 12 12:41:33 :: PREMIUM: [DEV]Cezariu type 6 343815507min
+Jun 12 12:41:33 :: VERSION : NO CHECK
+Jun 12 12:41:34 :: QUEST_LOAD: Login pc 45 by event
+Jun 12 12:41:34 :: QUEST timer name timer1 cycle 15025 pc 45 npc 4294967295 loop? 0
+Jun 12 12:41:34 :: QUEST add timer 0x4103f5c0 1
+Jun 12 12:41:34 :: AddAffect [DEV]Cezariu type 999 apply 0 0 flag 0 duration 31536000
+Jun 12 12:41:34 :: RegisterRaceNumMap Leonidas 34008
+Jun 12 12:41:34 :: AddAffect [DEV]Cezariu type 587 apply 0 0 flag 90001141 duration 1892160000
+Jun 12 12:42:15 :: COMMAND: [DEV]Cezariu: quit
+Jun 12 12:42:18 :: DISCONNECT: [DEV]Cezariu (DESC::~DESC)
+Jun 12 12:42:18 :: SAVE: [DEV]Cezariu 938468x294433
+Jun 12 12:42:18 :: QUEST clear timer 1
+Jun 12 12:42:18 :: SYSTEM: closing socket. DESC #20
+Jun 12 12:42:33 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 4068622756 output input_len 0, ptr 0x40a96500
+Jun 12 12:42:34 :: Handshake: client_time 0 server_time 50286068
+Jun 12 12:42:34 :: LOGIN_BY_KEY: test4 key 783625246
+Jun 12 12:42:34 :: LoginSuccess
+Jun 12 12:42:34 :: 	player([DEV]Cezariu).job(0)
+Jun 12 12:42:34 :: 	player().job(0)
+Jun 12 12:42:34 :: 	player().job(0)
+Jun 12 12:42:34 :: 	player().job(0)
+Jun 12 12:42:34 :: 	player().job(0)
+Jun 12 12:42:34 :: success to 81.180.202.36:30070
+Jun 12 12:42:34 :: InputDB::login_success: test4
+Jun 12 12:42:34 :: player_select: login: test4 index: 0
+Jun 12 12:42:34 :: GM_NEW_GET_LEVEL : FIND ACCOUNT
+Jun 12 12:42:34 :: PK_MODE: [DEV]Cezariu 3
+Jun 12 12:42:34 :: PLAYER_LOAD: [DEV]Cezariu PREMIUM 2062000800 2062000800, LOGGOFF_INTERVAL 16 PTR: 0x410620c0
+Jun 12 12:42:34 :: GM_LOGIN(gmlevel=5, name=[DEV]Cezariu(45), pos=(938468, 294433)
+Jun 12 12:42:34 :: InputDB: player_load [DEV]Cezariu 938468x294433x0 LEVEL 90 MOV_SPEED 200 JOB 0 ATG 0 DFG 192 GMLv 0
+Jun 12 12:42:34 :: ITEM_LOAD: COUNT [DEV]Cezariu 33
+Jun 12 12:42:34 :: RegisterRaceNumMap white lion 20114
+Jun 12 12:42:34 :: QUEST_LOAD: count 6
+Jun 12 12:42:34 ::             give_basic_weapon.__status 668443392
+Jun 12 12:42:34 ::             rune.__status -1544680505
+Jun 12 12:42:34 ::             horse_name.valid_till 1842885420
+Jun 12 12:42:34 ::             main_quest_lv10.__status -596781658
+Jun 12 12:42:34 ::             kamp.spawned 1717147914
+Jun 12 12:42:34 ::             costume_option.hide_hair 1
+Jun 12 12:42:35 :: VERSION: [DEV]Cezariu 1215955205 Hypnotic2.exe
+Jun 12 12:42:36 :: SHOW: [DEV]Cezariu 938468x294433x0
+Jun 12 12:42:36 :: AddAffect [DEV]Cezariu type 215 apply 0 0 flag 28 duration 5
+Jun 12 12:42:36 :: ENTERGAME: [DEV]Cezariu 938468x294433x0 93.115.44.117 map_index 41
+Jun 12 12:42:36 :: HORSE STAMINA CONSUME EVENT CANCEL 0x0
+Jun 12 12:42:36 :: HORSE STAMINA REGEN EVENT CREATE 0x4103f620
+Jun 12 12:42:36 :: SendLandList map 41 count 0 elem_size: 0
+Jun 12 12:42:36 :: AddAffect [DEV]Cezariu type 500 apply 0 0 flag 0 duration 343815444
+Jun 12 12:42:36 :: PREMIUM: [DEV]Cezariu type 0 343815444min
+Jun 12 12:42:36 :: AddAffect [DEV]Cezariu type 501 apply 0 0 flag 0 duration 343815444
+Jun 12 12:42:36 :: PREMIUM: [DEV]Cezariu type 1 343815444min
+Jun 12 12:42:36 :: AddAffect [DEV]Cezariu type 502 apply 0 0 flag 0 duration 343815444
+Jun 12 12:42:36 :: PREMIUM: [DEV]Cezariu type 2 343815444min
+Jun 12 12:42:36 :: AddAffect [DEV]Cezariu type 503 apply 0 0 flag 0 duration 343815444
+Jun 12 12:42:36 :: PREMIUM: [DEV]Cezariu type 3 343815444min
+Jun 12 12:42:36 :: AddAffect [DEV]Cezariu type 504 apply 0 0 flag 0 duration 343815444
+Jun 12 12:42:36 :: PREMIUM: [DEV]Cezariu type 4 343815444min
+Jun 12 12:42:36 :: AddAffect [DEV]Cezariu type 505 apply 0 0 flag 0 duration 343815444
+Jun 12 12:42:36 :: PREMIUM: [DEV]Cezariu type 5 343815444min
+Jun 12 12:42:36 :: AddAffect [DEV]Cezariu type 506 apply 0 0 flag 0 duration 343815444
+Jun 12 12:42:36 :: PREMIUM: [DEV]Cezariu type 6 343815444min
+Jun 12 12:42:36 :: VERSION : NO CHECK
+Jun 12 12:42:36 :: QUEST_LOAD: Login pc 45 by event
+Jun 12 12:42:36 :: QUEST timer name timer1 cycle 15025 pc 45 npc 4294967295 loop? 0
+Jun 12 12:42:36 :: QUEST add timer 0x4103f6e0 1
+Jun 12 12:42:36 :: AddAffect [DEV]Cezariu type 999 apply 0 0 flag 0 duration 31536000
+Jun 12 12:42:37 :: RegisterRaceNumMap Leonidas 34008
+Jun 12 12:42:37 :: AddAffect [DEV]Cezariu type 587 apply 0 0 flag 90001141 duration 1892160000
+Jun 12 12:42:39 :: COMMAND: [DEV]Cezariu: quit
+Jun 12 12:42:42 :: DISCONNECT: [DEV]Cezariu (DESC::~DESC)
+Jun 12 12:42:42 :: SAVE: [DEV]Cezariu 938468x294433
+Jun 12 12:42:42 :: QUEST clear timer 1
+Jun 12 12:42:42 :: SYSTEM: closing socket. DESC #20
+Jun 12 12:43:15 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 607815466 output input_len 0, ptr 0x40a96500
+Jun 12 12:43:15 :: Handshake: client_time 0 server_time 50327761
+Jun 12 12:43:16 :: LOGIN_BY_KEY: test4 key 446189752
+Jun 12 12:43:16 :: LoginSuccess
+Jun 12 12:43:16 :: 	player([DEV]Cezariu).job(0)
+Jun 12 12:43:16 :: 	player().job(0)
+Jun 12 12:43:16 :: 	player().job(0)
+Jun 12 12:43:16 :: 	player().job(0)
+Jun 12 12:43:16 :: 	player().job(0)
+Jun 12 12:43:16 :: success to 81.180.202.36:30070
+Jun 12 12:43:16 :: InputDB::login_success: test4
+Jun 12 12:43:16 :: player_select: login: test4 index: 0
+Jun 12 12:43:16 :: GM_NEW_GET_LEVEL : FIND ACCOUNT
+Jun 12 12:43:16 :: PK_MODE: [DEV]Cezariu 3
+Jun 12 12:43:16 :: PLAYER_LOAD: [DEV]Cezariu PREMIUM 2062000800 2062000800, LOGGOFF_INTERVAL 34 PTR: 0x410621c0
+Jun 12 12:43:16 :: GM_LOGIN(gmlevel=5, name=[DEV]Cezariu(45), pos=(938468, 294433)
+Jun 12 12:43:16 :: InputDB: player_load [DEV]Cezariu 938468x294433x0 LEVEL 90 MOV_SPEED 200 JOB 0 ATG 0 DFG 192 GMLv 0
+Jun 12 12:43:16 :: ITEM_LOAD: COUNT [DEV]Cezariu 33
+Jun 12 12:43:16 :: RegisterRaceNumMap white lion 20114
+Jun 12 12:43:16 :: QUEST_LOAD: count 6
+Jun 12 12:43:16 ::             give_basic_weapon.__status 668443392
+Jun 12 12:43:16 ::             rune.__status -1544680505
+Jun 12 12:43:16 ::             horse_name.valid_till 1842885420
+Jun 12 12:43:16 ::             main_quest_lv10.__status -596781658
+Jun 12 12:43:16 ::             kamp.spawned 1717147914
+Jun 12 12:43:16 ::             costume_option.hide_hair 1
+Jun 12 12:43:17 :: VERSION: [DEV]Cezariu 1215955205 Hypnotic2.exe
+Jun 12 12:43:17 :: SHOW: [DEV]Cezariu 938468x294433x0
+Jun 12 12:43:17 :: AddAffect [DEV]Cezariu type 215 apply 0 0 flag 28 duration 5
+Jun 12 12:43:17 :: ENTERGAME: [DEV]Cezariu 938468x294433x0 93.115.44.117 map_index 41
+Jun 12 12:43:17 :: HORSE STAMINA CONSUME EVENT CANCEL 0x0
+Jun 12 12:43:17 :: HORSE STAMINA REGEN EVENT CREATE 0x4103f720
+Jun 12 12:43:17 :: SendLandList map 41 count 0 elem_size: 0
+Jun 12 12:43:17 :: AddAffect [DEV]Cezariu type 500 apply 0 0 flag 0 duration 343815403
+Jun 12 12:43:17 :: PREMIUM: [DEV]Cezariu type 0 343815403min
+Jun 12 12:43:17 :: AddAffect [DEV]Cezariu type 501 apply 0 0 flag 0 duration 343815403
+Jun 12 12:43:17 :: PREMIUM: [DEV]Cezariu type 1 343815403min
+Jun 12 12:43:17 :: AddAffect [DEV]Cezariu type 502 apply 0 0 flag 0 duration 343815403
+Jun 12 12:43:17 :: PREMIUM: [DEV]Cezariu type 2 343815403min
+Jun 12 12:43:17 :: AddAffect [DEV]Cezariu type 503 apply 0 0 flag 0 duration 343815403
+Jun 12 12:43:17 :: PREMIUM: [DEV]Cezariu type 3 343815403min
+Jun 12 12:43:17 :: AddAffect [DEV]Cezariu type 504 apply 0 0 flag 0 duration 343815403
+Jun 12 12:43:17 :: PREMIUM: [DEV]Cezariu type 4 343815403min
+Jun 12 12:43:17 :: AddAffect [DEV]Cezariu type 505 apply 0 0 flag 0 duration 343815403
+Jun 12 12:43:17 :: PREMIUM: [DEV]Cezariu type 5 343815403min
+Jun 12 12:43:17 :: AddAffect [DEV]Cezariu type 506 apply 0 0 flag 0 duration 343815403
+Jun 12 12:43:17 :: PREMIUM: [DEV]Cezariu type 6 343815403min
+Jun 12 12:43:17 :: VERSION : NO CHECK
+Jun 12 12:43:18 :: QUEST_LOAD: Login pc 45 by event
+Jun 12 12:43:18 :: QUEST timer name timer1 cycle 15025 pc 45 npc 4294967295 loop? 0
+Jun 12 12:43:18 :: QUEST add timer 0x4103f7e0 1
+Jun 12 12:43:18 :: AddAffect [DEV]Cezariu type 999 apply 0 0 flag 0 duration 31536000
+Jun 12 12:43:18 :: RegisterRaceNumMap Leonidas 34008
+Jun 12 12:43:18 :: AddAffect [DEV]Cezariu type 587 apply 0 0 flag 90001141 duration 1892160000
+Jun 12 12:44:30 :: SECTREE DIFFER: [DEV]Cezariu 146x47 was 146x46 dist 1.0m
+Jun 12 12:44:31 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=105)
+Jun 12 12:44:31 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=177)
+Jun 12 12:44:31 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=177)
+Jun 12 12:44:31 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=108)
+Jun 12 12:44:32 :: COMMAND: [DEV]Cezariu: all_skill_master
+Jun 12 12:44:35 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=108)
+Jun 12 12:44:36 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=177)
+Jun 12 12:44:36 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=179)
+Jun 12 12:44:36 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=105)
+Jun 12 12:44:36 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=108)
+Jun 12 12:44:38 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=108)
+Jun 12 12:44:39 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=179)
+Jun 12 12:44:42 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=179)
+Jun 12 12:44:58 :: AddAffect Alpha Blue Wolf type 209 apply 0 0 flag 4 duration 31
+Jun 12 12:44:58 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=105)
+Jun 12 12:44:58 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=105)
+Jun 12 12:45:02 :: AddAffect Alpha Blue Wolf type 209 apply 0 0 flag 4 duration 31
+Jun 12 12:45:02 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=105)
+Jun 12 12:45:03 :: COMMAND: [DEV]Cezariu: ride
+Jun 12 12:45:03 :: AddAffect [DEV]Cezariu type 533 apply 53 10 flag 0 duration 86400
+Jun 12 12:45:03 :: AddAffect [DEV]Cezariu type 533 apply 159 5 flag 0 duration 86400
+Jun 12 12:45:03 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 86400
+Jun 12 12:45:03 :: AddAffect [DEV]Cezariu type 221 apply 109 20114 flag 0 duration 86400
+Jun 12 12:45:04 :: COMMAND: [DEV]Cezariu: ride
+Jun 12 12:45:04 :: RegisterRaceNumMap white lion 20114
+Jun 12 12:45:04 :: SECTREE DIFFER: [DEV]Cezariu 146x46 was 146x47 dist 1.0m
+Jun 12 12:45:05 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=178)
+Jun 12 12:45:05 :: AddAffect Hungry Wild Boar type 209 apply 0 0 flag 4 duration 31
+Jun 12 12:45:05 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=178)
+Jun 12 12:45:05 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=178)
+Jun 12 12:45:06 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=104)
+Jun 12 12:45:07 :: AddAffect Wild Boar type 209 apply 0 0 flag 4 duration 31
+Jun 12 12:45:07 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=108)
+Jun 12 12:45:09 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=104)
+Jun 12 12:45:10 :: COMMAND: [DEV]Cezariu: ride
+Jun 12 12:45:10 :: AddAffect [DEV]Cezariu type 533 apply 53 10 flag 0 duration 86400
+Jun 12 12:45:10 :: AddAffect [DEV]Cezariu type 533 apply 159 5 flag 0 duration 86400
+Jun 12 12:45:10 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 86400
+Jun 12 12:45:10 :: AddAffect [DEV]Cezariu type 221 apply 109 20114 flag 0 duration 86400
+Jun 12 12:45:17 :: SECTREE DIFFER: [DEV]Cezariu 146x45 was 146x46 dist 1.0m
+Jun 12 12:45:20 :: SECTREE DIFFER: [DEV]Cezariu 146x44 was 146x45 dist 1.0m
+Jun 12 12:45:20 :: SECTREE DIFFER: [DEV]Cezariu 147x44 was 146x44 dist 1.0m
+Jun 12 12:45:22 ::       in same sectree
+Jun 12 12:45:23 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=103)
+Jun 12 12:45:24 :: SECTREE DIFFER: [DEV]Cezariu 147x43 was 147x44 dist 1.0m
+Jun 12 12:45:26 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=174)
+Jun 12 12:45:26 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=102)
+Jun 12 12:45:26 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=103)
+Jun 12 12:45:31 :: SECTREE DIFFER: [DEV]Cezariu 148x43 was 147x43 dist 1.0m
+Jun 12 12:45:34 :: COMMAND: [DEV]Cezariu: ride
+Jun 12 12:45:34 :: RegisterRaceNumMap white lion 20114
+Jun 12 12:45:34 :: SECTREE DIFFER: [DEV]Cezariu 148x42 was 148x43 dist 1.0m
+Jun 12 12:45:38 :: OnClick Battlepass Shop[vnum: 20093 vid: 9995] by [DEV]Cezariu
+Jun 12 12:45:39 :: QUEST ScriptAnswer pid 45 answer 0
+Jun 12 12:45:55 :: COMMAND: [DEV]Cezariu: open_biologist
+Jun 12 12:45:56 :: SECTREE DIFFER: [DEV]Cezariu 148x43 was 148x42 dist 1.0m
+Jun 12 12:45:57 :: SECTREE DIFFER: [DEV]Cezariu 148x42 was 148x43 dist 1.0m
+Jun 12 12:45:58 :: COMMAND: [DEV]Cezariu: ride
+Jun 12 12:45:58 :: AddAffect [DEV]Cezariu type 533 apply 53 10 flag 0 duration 86400
+Jun 12 12:45:58 :: AddAffect [DEV]Cezariu type 533 apply 159 5 flag 0 duration 86400
+Jun 12 12:45:58 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 86400
+Jun 12 12:45:58 :: AddAffect [DEV]Cezariu type 221 apply 109 20114 flag 0 duration 86400
+Jun 12 12:45:58 :: SECTREE DIFFER: [DEV]Cezariu 149x42 was 148x42 dist 1.0m
+Jun 12 12:46:02 :: SECTREE DIFFER: [DEV]Cezariu 150x42 was 149x42 dist 1.0m
+Jun 12 12:46:04 :: SECTREE DIFFER: [DEV]Cezariu 149x42 was 150x42 dist 1.0m
+Jun 12 12:46:04 :: SECTREE DIFFER: [DEV]Cezariu 149x41 was 149x42 dist 1.0m
+Jun 12 12:46:06 :: COMMAND: [DEV]Cezariu: open_biologist
+Jun 12 12:46:07 :: SECTREE DIFFER: [DEV]Cezariu 149x40 was 149x41 dist 1.0m
+Jun 12 12:46:10 :: SECTREE DIFFER: [DEV]Cezariu 149x39 was 149x40 dist 1.0m
+Jun 12 12:46:15 :: PONG! 239
+Jun 12 12:46:15 :: SECTREE DIFFER: [DEV]Cezariu 149x38 was 149x39 dist 1.0m
+Jun 12 12:46:15 :: Handshake: client_time 50327761 server_time 50507646 name: [DEV]Cezariu
+Jun 12 12:46:18 :: SAVE: [DEV]Cezariu 957264x244323
+Jun 12 12:46:29 :: SECTREE DIFFER: [DEV]Cezariu 149x37 was 149x38 dist 1.0m
+Jun 12 12:46:29 :: COMMAND: [DEV]Cezariu: ride
+Jun 12 12:46:29 :: RegisterRaceNumMap white lion 20114
+Jun 12 12:46:31 :: AddAffect Metin of Battle type 209 apply 0 0 flag 4 duration 31
+Jun 12 12:46:32 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=111)
+Jun 12 12:46:32 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=111)
+Jun 12 12:46:34 :: AddAffect Grizzly Bear type 209 apply 0 0 flag 4 duration 31
+Jun 12 12:46:34 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=111)
+Jun 12 12:46:34 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=112)
+Jun 12 12:46:35 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:35 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:36 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:36 :: AddAffect Grizzly Bear type 209 apply 0 0 flag 4 duration 31
+Jun 12 12:46:36 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=111)
+Jun 12 12:46:36 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=111)
+Jun 12 12:46:37 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:37 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:37 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:38 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:38 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:38 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:38 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=111)
+Jun 12 12:46:38 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:38 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:38 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:38 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:38 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:38 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:38 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=111)
+Jun 12 12:46:39 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:39 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:40 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:40 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:40 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:40 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:40 :: AddAffect Alpha Grey Wolf type 209 apply 0 0 flag 4 duration 31
+Jun 12 12:46:40 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:40 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=112)
+Jun 12 12:46:40 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:40 :: AddAffect Tiger type 209 apply 0 0 flag 4 duration 31
+Jun 12 12:46:40 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:40 :: AddAffect Alpha Grey Wolf type 209 apply 0 0 flag 4 duration 31
+Jun 12 12:46:40 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:41 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:41 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=112)
+Jun 12 12:46:41 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:41 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:41 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:41 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=112)
+Jun 12 12:46:41 :: AddAffect Tiger type 209 apply 0 0 flag 4 duration 31
+Jun 12 12:46:41 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:42 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:42 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:42 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:42 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:42 :: AddAffect Tiger type 209 apply 0 0 flag 4 duration 31
+Jun 12 12:46:42 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:42 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:42 :: AddAffect Tiger type 209 apply 0 0 flag 4 duration 31
+Jun 12 12:46:42 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:42 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:42 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=107)
+Jun 12 12:46:42 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:42 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=8003)
+Jun 12 12:46:42 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=114)
+Jun 12 12:46:47 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=104)
+Jun 12 12:46:48 :: SECTREE DIFFER: [DEV]Cezariu 150x37 was 149x37 dist 1.0m
+Jun 12 12:46:48 :: AddAffect Wild Boar type 209 apply 0 0 flag 4 duration 31
+Jun 12 12:46:48 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=108)
+Jun 12 12:46:49 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=104)
+Jun 12 12:46:50 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=104)
+Jun 12 12:46:50 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=104)
+Jun 12 12:46:51 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=104)
+Jun 12 12:46:52 :: SECTREE DIFFER: [DEV]Cezariu 149x37 was 150x37 dist 1.0m
+Jun 12 12:46:53 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=174)
+Jun 12 12:46:53 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=174)
+Jun 12 12:46:53 :: OnClick [DEV]Cezariu's Mount[vnum: 20114 vid: 10259] by [DEV]Cezariu
+Jun 12 12:46:54 :: CQuestManager::Kill QUEST_KILL_EVENT (pc=45, npc=174)
+Jun 12 12:46:55 :: SECTREE DIFFER: [DEV]Cezariu 150x37 was 149x37 dist 1.0m
+Jun 12 12:49:15 :: PONG! 239
+Jun 12 12:49:15 :: Handshake: client_time 50507646 server_time 50687687 name: [DEV]Cezariu
+Jun 12 12:49:18 :: SAVE: [DEV]Cezariu 961852x238599
+Jun 12 12:52:15 :: PONG! 239
+Jun 12 12:52:15 :: Handshake: client_time 50687687 server_time 50867728 name: [DEV]Cezariu
+Jun 12 12:52:18 :: SAVE: [DEV]Cezariu 961852x238599
+Jun 12 12:53:19 :: QUEST timer name timer2 cycle 18025 pc 45 npc 4294967294 loop? 0
+Jun 12 12:53:19 :: QUEST add timer 0x4103f6e0 2
+Jun 12 12:53:19 :: QUEST remove with no cancel 0x4103f7e0
+Jun 12 12:54:51 :: COMMAND: [DEV]Cezariu: quit
+Jun 12 12:54:54 :: DISCONNECT: [DEV]Cezariu (DESC::~DESC)
+Jun 12 12:54:54 :: SAVE: [DEV]Cezariu 961852x238599
+Jun 12 12:54:54 :: QUEST clear timer 1
+Jun 12 12:54:54 :: SYSTEM: closing socket. DESC #20
+Jun 12 13:00:00 :: SYSTEM: LOG ROTATE (2024-06-12 12)

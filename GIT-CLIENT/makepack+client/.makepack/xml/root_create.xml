@@ -427,6 +427,9 @@
 		<File ArchivedPath="data/items/protos/de"><![CDATA[source/root/data/items/protos/de]]></File>
 		<File ArchivedPath="data/items/protos/en"><![CDATA[source/root/data/items/protos/en]]></File>
 		<File ArchivedPath="data/items/protos/ro"><![CDATA[source/root/data/items/protos/ro]]></File>
+		<File ArchivedPath="data/items/protos/_de"><![CDATA[source/root/data/items/protos/_de]]></File>
+		<File ArchivedPath="data/items/protos/_en"><![CDATA[source/root/data/items/protos/_en]]></File>
+		<File ArchivedPath="data/items/protos/_ro"><![CDATA[source/root/data/items/protos/_ro]]></File>
 		<File ArchivedPath="data/items/descs/de.txt"><![CDATA[source/root/data/items/descs/de.txt]]></File>
 		<File ArchivedPath="data/items/descs/en.txt"><![CDATA[source/root/data/items/descs/en.txt]]></File>
 		<File ArchivedPath="data/items/descs/ro.txt"><![CDATA[source/root/data/items/descs/ro.txt]]></File>

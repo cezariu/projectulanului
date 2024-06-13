@@ -1,0 +1,7 @@
+Jun 12 10:40:27 :: P2P: Login [DEV]Cezariu
+Jun 12 10:40:27 :: MySQL connection was reconnected. querying locale set
+Jun 12 10:40:27 :: 	--mysql_set_character_set(latin1)
+Jun 12 10:40:47 :: P2P: Login Inceputul
+Jun 12 10:41:19 :: P2P: Logout Inceputul
+Jun 12 10:41:30 :: P2P: Logout [DEV]Cezariu
+Jun 12 11:00:00 :: SYSTEM: LOG ROTATE (2024-06-12 10)

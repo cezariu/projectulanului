@@ -43,13 +43,6 @@ Quest/item/yang_baule.lua
 Quest/login/automesaj.lua
 Quest/login/baule_start.lua
 Quest/login/give_basic_weapon.lua
-Quest/missioni_storia_server/main_quest_lv10.lua
-Quest/missioni_storia_server/main_quest_lv110.lua
-Quest/missioni_storia_server/main_quest_lv120.lua
-Quest/missioni_storia_server/main_quest_lv30.lua
-Quest/missioni_storia_server/main_quest_lv50.lua
-Quest/missioni_storia_server/main_quest_lv70.lua
-Quest/missioni_storia_server/main_quest_lv90.lua
 Quest/npc/arboreal_craft.lua
 Quest/npc/chest_reward.lua
 Quest/npc/dungeons_ranking.lua

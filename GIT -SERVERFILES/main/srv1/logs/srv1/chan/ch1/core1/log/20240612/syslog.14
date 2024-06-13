@@ -1,0 +1,169 @@
+Jun 12 14:00:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:01:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:02:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:03:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:04:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:04:35 :: RegisterRaceNumMap Vein Of Crystal Ore 20057
+Jun 12 14:05:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:05:34 :: RegisterRaceNumMap Pile Of Clams 20055
+Jun 12 14:06:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:07:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:08:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:09:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:09:38 :: RegisterRaceNumMap Vein Of Crystal Ore 20057
+Jun 12 14:10:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:11:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:12:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:13:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:14:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:14:42 :: RegisterRaceNumMap Vein Of Diamond Ore 20047
+Jun 12 14:15:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:16:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:17:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:17:58 :: RegisterRaceNumMap Heaven's Tear Vein 20059
+Jun 12 14:18:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:19:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:19:34 :: RegisterRaceNumMap Heaven's Tear Vein 20059
+Jun 12 14:20:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:21:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:22:04 :: RegisterRaceNumMap Pile Of Clams 20055
+Jun 12 14:22:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:23:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:24:02 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 1042603966 output input_len 0, ptr 0x2bb20100
+Jun 12 14:24:05 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 2807205057 output input_len 0, ptr 0x2bb20600
+Jun 12 14:24:05 :: Handshake: client_time 0 server_time 56377739
+Jun 12 14:24:05 :: LOGIN_BY_KEY: test4 key 216048960
+Jun 12 14:24:06 :: LoginSuccess
+Jun 12 14:24:06 :: 	player([DEV]Cezariu).job(0)
+Jun 12 14:24:06 :: 	player().job(0)
+Jun 12 14:24:06 :: 	player().job(0)
+Jun 12 14:24:06 :: 	player().job(0)
+Jun 12 14:24:06 :: 	player().job(0)
+Jun 12 14:24:06 :: success to 81.180.202.36:30070
+Jun 12 14:24:06 :: InputDB::login_success: test4
+Jun 12 14:24:06 :: SYSTEM: closing socket. DESC #20
+Jun 12 14:24:06 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 180216310 output input_len 0, ptr 0x2bb20100
+Jun 12 14:24:06 :: MARK_SERVER: Login
+Jun 12 14:24:06 :: LargePacket Size 136
+Jun 12 14:24:06 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 14:24:07 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 14:24:07 :: SYSTEM: closing socket. DESC #20
+Jun 12 14:24:10 :: SYSTEM: closing socket. DESC #21
+Jun 12 14:24:11 :: P2P: Login [DEV]Cezariu
+Jun 12 14:24:13 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2038124409 output input_len 0, ptr 0x2bb20600
+Jun 12 14:24:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:25:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:26:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:27:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:28:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:29:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:29:30 :: RegisterRaceNumMap Vein Of Diamond Ore 20047
+Jun 12 14:29:50 :: SYSTEM: closing socket. DESC #20
+Jun 12 14:29:50 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2829081328 output input_len 0, ptr 0x2bb20600
+Jun 12 14:29:50 :: SYSTEM: closing socket. DESC #20
+Jun 12 14:29:50 :: P2P: Logout [DEV]Cezariu
+Jun 12 14:30:02 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 740880384 output input_len 0, ptr 0x2bb20100
+Jun 12 14:30:02 :: SYSTEM: closing socket. DESC #20
+Jun 12 14:30:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:31:22 :: RegisterRaceNumMap Vein Of Crystal Ore 20057
+Jun 12 14:31:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:31:43 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3617754873 output input_len 0, ptr 0x2bb20100
+Jun 12 14:31:45 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 1602040037 output input_len 0, ptr 0x2bb20600
+Jun 12 14:31:45 :: Handshake: client_time 0 server_time 56837517
+Jun 12 14:31:45 :: LOGIN_BY_KEY: test4 key 31403680
+Jun 12 14:31:45 :: LoginSuccess
+Jun 12 14:31:45 :: 	player([DEV]Cezariu).job(0)
+Jun 12 14:31:45 :: 	player().job(0)
+Jun 12 14:31:45 :: 	player().job(0)
+Jun 12 14:31:45 :: 	player().job(0)
+Jun 12 14:31:45 :: 	player().job(0)
+Jun 12 14:31:45 :: success to 81.180.202.36:30070
+Jun 12 14:31:45 :: InputDB::login_success: test4
+Jun 12 14:31:46 :: SYSTEM: closing socket. DESC #20
+Jun 12 14:31:46 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 1465799057 output input_len 0, ptr 0x2bb20100
+Jun 12 14:31:46 :: MARK_SERVER: Login
+Jun 12 14:31:46 :: LargePacket Size 136
+Jun 12 14:31:46 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 14:31:46 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 14:31:47 :: SYSTEM: closing socket. DESC #20
+Jun 12 14:31:50 :: SYSTEM: closing socket. DESC #21
+Jun 12 14:31:51 :: P2P: Login [DEV]Cezariu
+Jun 12 14:31:52 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3290272780 output input_len 0, ptr 0x2bb20600
+Jun 12 14:32:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:32:58 :: P2P: Logout [DEV]Cezariu
+Jun 12 14:32:58 :: SYSTEM: closing socket. DESC #20
+Jun 12 14:32:58 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 360735600 output input_len 0, ptr 0x2bb20600
+Jun 12 14:33:03 :: P2P: Login [DEV]Cezariu
+Jun 12 14:33:03 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 1330734162 output input_len 0, ptr 0x2bb20100
+Jun 12 14:33:03 :: SYSTEM: closing socket. DESC #20
+Jun 12 14:33:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:33:41 :: RegisterRaceNumMap Vein Of Ebony Ore 20054
+Jun 12 14:34:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:34:35 :: RegisterRaceNumMap Vein Of Diamond Ore 20047
+Jun 12 14:35:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:36:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:37:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:38:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:39:03 :: PING_EVENT: no pong 93.115.44.117
+Jun 12 14:39:03 :: SYSTEM: closing socket. DESC #21
+Jun 12 14:39:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:40:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:41:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:41:42 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 900224996 output input_len 0, ptr 0x2bb20100
+Jun 12 14:41:42 :: SYSTEM: closing socket. DESC #20
+Jun 12 14:41:42 :: P2P: Logout [DEV]Cezariu
+Jun 12 14:42:10 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3202550292 output input_len 0, ptr 0x2bb20100
+Jun 12 14:42:12 :: SYSTEM: new connection from [93.115.44.117] fd: 21 handshake 1419991790 output input_len 0, ptr 0x2bb20600
+Jun 12 14:42:12 :: Handshake: client_time 0 server_time 57464610
+Jun 12 14:42:12 :: LOGIN_BY_KEY: test4 key 1838668049
+Jun 12 14:42:13 :: LoginSuccess
+Jun 12 14:42:13 :: 	player([DEV]Cezariu).job(0)
+Jun 12 14:42:13 :: 	player().job(0)
+Jun 12 14:42:13 :: 	player().job(0)
+Jun 12 14:42:13 :: 	player().job(0)
+Jun 12 14:42:13 :: 	player().job(0)
+Jun 12 14:42:13 :: success to 81.180.202.36:30070
+Jun 12 14:42:13 :: InputDB::login_success: test4
+Jun 12 14:42:13 :: SYSTEM: closing socket. DESC #20
+Jun 12 14:42:13 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2810421383 output input_len 0, ptr 0x2bb20100
+Jun 12 14:42:13 :: MARK_SERVER: Login
+Jun 12 14:42:14 :: LargePacket Size 136
+Jun 12 14:42:14 :: MARK_SERVER: GuildMarkIDXList 143 bytes sent.
+Jun 12 14:42:14 :: MARK_SERVER: Sending blocks. (imgIdx 0 diff 0 size 10)
+Jun 12 14:42:14 :: SYSTEM: closing socket. DESC #20
+Jun 12 14:42:17 :: SYSTEM: closing socket. DESC #21
+Jun 12 14:42:19 :: P2P: Login [DEV]Cezariu
+Jun 12 14:42:20 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 2986974093 output input_len 0, ptr 0x2bb20600
+Jun 12 14:42:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:42:53 :: P2P: Logout [DEV]Cezariu
+Jun 12 14:42:54 :: SYSTEM: closing socket. DESC #20
+Jun 12 14:42:54 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 1956074358 output input_len 0, ptr 0x2bb20600
+Jun 12 14:42:54 :: P2P: Login [DEV]Cezariu
+Jun 12 14:42:55 :: SYSTEM: closing socket. DESC #20
+Jun 12 14:42:55 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 1817192688 output input_len 0, ptr 0x2bb20600
+Jun 12 14:43:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:44:29 :: RegisterRaceNumMap Vein Of Diamond Ore 20047
+Jun 12 14:44:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:44:30 :: RegisterRaceNumMap Vein Of Crystal Ore 20057
+Jun 12 14:45:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:46:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:47:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:48:00 :: RegisterRaceNumMap Heaven's Tear Vein 20059
+Jun 12 14:48:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:48:55 :: PING_EVENT: no pong 93.115.44.117
+Jun 12 14:48:55 :: SYSTEM: closing socket. DESC #20
+Jun 12 14:49:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:50:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:50:34 :: RegisterRaceNumMap Vein Of White Gold Ore 20056
+Jun 12 14:51:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:52:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:53:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:54:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:55:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:56:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:57:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:57:59 :: RegisterRaceNumMap Vein Of White Gold Ore 20056
+Jun 12 14:58:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:59:29 :: SpawnMob: cannot create monster at non-exist sectree 405100 x 656600 (map 61)
+Jun 12 14:59:44 :: RegisterRaceNumMap Pile Of Clams 20055
+Jun 12 15:00:00 :: SYSTEM: LOG ROTATE (2024-06-12 14)

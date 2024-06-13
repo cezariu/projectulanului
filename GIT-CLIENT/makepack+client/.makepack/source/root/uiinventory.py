@@ -635,7 +635,7 @@ class InventoryWindow(ui.ScriptWindow):
 			for i in xrange(9):
 				inv_plus = player.GetEnvanter() + i
 				inv_pluss = player.GetEnvanter() - i
-				if page == 2:
+				if page == 555:
 					if player.GetEnvanter() > 8:
 						self.EX_INVEN_COVER_IMG_OPEN[i].Hide()
 						self.EX_INVEN_COVER_IMG_CLOSE[i].Hide()
@@ -648,7 +648,7 @@ class InventoryWindow(ui.ScriptWindow):
 						if inv_plus < 9:
 							self.EX_INVEN_COVER_IMG_CLOSE[inv_plus].Show()
 							self.EX_INVEN_COVER_IMG_OPEN[inv_plus].Hide()	
-				elif page == 3:
+				elif page == 553:
 					if player.GetEnvanter() < 9:	
 						self.EX_INVEN_COVER_IMG_OPEN[i].Hide()
 						self.EX_INVEN_COVER_IMG_CLOSE[i].Show()

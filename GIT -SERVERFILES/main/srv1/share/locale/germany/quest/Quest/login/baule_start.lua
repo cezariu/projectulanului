@@ -11,20 +11,19 @@ quest baule_start begin
 				pc.remove_item(50187, 1)
 				chat(string.format(gameforge[lang].baule_start._1, item_name(50187)))
 				chat(gameforge[lang].baule_start._2)
-				pc.give_item2(50188, 1)
-				pc.give_item2(72725, 1)
-				pc.give_item2(72729, 1)
-				pc.give_item2(53276, 1)
-				pc.give_item2(70038, 1)
-				pc.give_item2(71085, 1)
-				pc.give_item2(88935, 1)
-				pc.give_item2(88936, 1)
-				pc.give_item2(88937, 1)
-				pc.give_item2(88938, 1)
-				pc.give_item2(88939, 1)
-				pc.give_item2(88940, 1)
-				pc.give_item2(71124, 1)
-				pc.give_item2(30897, 1)
+				pc.give_item2(88918, 1) -- roua alba
+				pc.give_item2(72726, 1) --elixir rosu permanent
+				pc.give_item2(72730, 1) --elixir blue permanent
+				pc.give_item2(53028, 1) --pet
+				pc.give_item2(70038, 1) --mantie permanenta
+				pc.give_item2(71085, 1) --add bonus permanent
+				pc.give_item2(88922, 10) -- crit atac
+				pc.give_item2(88923, 10) -- crit patr 
+				pc.give_item2(88924, 10) -- site 1
+				pc.give_item2(88925, 10) -- site 2
+				pc.give_item2(88927, 10) -- site 3
+				pc.give_item2(71124, 1) -- leu alb
+				pc.give_item2(30897, 1) -- inel tp
 				if pc.get_sex() == 0 then
 					pc.give_item2(41856, 1)
 					pc.give_item2(45596, 1)
@@ -36,6 +35,7 @@ quest baule_start begin
 					pc.give_item2(40108, 1)
 					pc.give_item2(40111, 1)
 				elseif pc.get_job() == 1 then
+					pc.give_item2(40108, 1)
 					pc.give_item2(40109, 1)
 					pc.give_item2(40110, 1)
 				elseif pc.get_job() == 2 then

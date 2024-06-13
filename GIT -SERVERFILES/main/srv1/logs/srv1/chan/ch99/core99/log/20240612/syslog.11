@@ -1,0 +1,181 @@
+Jun 12 11:27:37 :: SYSTEM: new connection from [93.115.44.117] fd: 20 handshake 3118091231 output input_len 0, ptr 0x40a96500
+Jun 12 11:27:37 :: Handshake: client_time 0 server_time 45789490
+Jun 12 11:27:37 :: LOGIN_BY_KEY: test4 key 479419262
+Jun 12 11:27:37 :: LoginSuccess
+Jun 12 11:27:37 :: 	player([DEV]Cezariu).job(7)
+Jun 12 11:27:37 :: 	player().job(0)
+Jun 12 11:27:37 :: 	player().job(0)
+Jun 12 11:27:37 :: 	player().job(0)
+Jun 12 11:27:37 :: 	player().job(0)
+Jun 12 11:27:37 :: success to 81.180.202.36:30070
+Jun 12 11:27:37 :: InputDB::login_success: test4
+Jun 12 11:27:38 :: player_select: login: test4 index: 0
+Jun 12 11:27:38 :: GM_NEW_GET_LEVEL : FIND ACCOUNT
+Jun 12 11:27:38 :: PK_MODE: [DEV]Cezariu 3
+Jun 12 11:27:38 :: PLAYER_LOAD: [DEV]Cezariu PREMIUM 2062000800 2062000800, LOGGOFF_INTERVAL 2467 PTR: 0x41021ac0
+Jun 12 11:27:38 :: GM_LOGIN(gmlevel=5, name=[DEV]Cezariu(45), pos=(960630, 268090)
+Jun 12 11:27:38 :: InputDB: player_load [DEV]Cezariu 960630x268090x0 LEVEL 90 MOV_SPEED 200 JOB 0 ATG 3 DFG 190 GMLv 0
+Jun 12 11:27:38 :: ITEM_LOAD: COUNT [DEV]Cezariu 29
+Jun 12 11:27:38 :: RegisterRaceNumMap white lion 20114
+Jun 12 11:27:38 :: AddAffect [DEV]Cezariu type 533 apply 53 25 flag 0 duration 86400
+Jun 12 11:27:38 :: AddAffect [DEV]Cezariu type 533 apply 159 25 flag 0 duration 86400
+Jun 12 11:27:38 :: AddAffect [DEV]Cezariu type 533 apply 83 50 flag 0 duration 86400
+Jun 12 11:27:38 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 86400
+Jun 12 11:27:38 :: AddAffect [DEV]Cezariu type 221 apply 109 20114 flag 0 duration 86400
+Jun 12 11:27:38 :: QUEST_LOAD: count 5
+Jun 12 11:27:38 ::             give_basic_weapon.__status 668443392
+Jun 12 11:27:38 ::             rune.__status -1544680505
+Jun 12 11:27:38 ::             horse_name.valid_till 1842885420
+Jun 12 11:27:38 ::             main_quest_lv10.__status -596781658
+Jun 12 11:27:38 ::             kamp.spawned 1717147914
+Jun 12 11:27:39 :: VERSION: [DEV]Cezariu 1215955205 Hypnotic2.exe
+Jun 12 11:27:39 :: SHOW: [DEV]Cezariu 960630x268090x0
+Jun 12 11:27:39 :: AddAffect [DEV]Cezariu type 215 apply 0 0 flag 28 duration 5
+Jun 12 11:27:39 :: ENTERGAME: [DEV]Cezariu 960630x268090x0 93.115.44.117 map_index 41
+Jun 12 11:27:39 :: HORSE STAMINA CONSUME EVENT CANCEL 0x0
+Jun 12 11:27:39 :: HORSE STAMINA REGEN EVENT CREATE 0x28927d00
+Jun 12 11:27:39 :: SendLandList map 41 count 0 elem_size: 0
+Jun 12 11:27:39 :: AddAffect [DEV]Cezariu type 500 apply 0 0 flag 0 duration 343819941
+Jun 12 11:27:39 :: PREMIUM: [DEV]Cezariu type 0 343819941min
+Jun 12 11:27:39 :: AddAffect [DEV]Cezariu type 501 apply 0 0 flag 0 duration 343819941
+Jun 12 11:27:39 :: PREMIUM: [DEV]Cezariu type 1 343819941min
+Jun 12 11:27:39 :: AddAffect [DEV]Cezariu type 502 apply 0 0 flag 0 duration 343819941
+Jun 12 11:27:39 :: PREMIUM: [DEV]Cezariu type 2 343819941min
+Jun 12 11:27:39 :: AddAffect [DEV]Cezariu type 503 apply 0 0 flag 0 duration 343819941
+Jun 12 11:27:39 :: PREMIUM: [DEV]Cezariu type 3 343819941min
+Jun 12 11:27:39 :: AddAffect [DEV]Cezariu type 504 apply 0 0 flag 0 duration 343819941
+Jun 12 11:27:39 :: PREMIUM: [DEV]Cezariu type 4 343819941min
+Jun 12 11:27:39 :: AddAffect [DEV]Cezariu type 505 apply 0 0 flag 0 duration 343819941
+Jun 12 11:27:39 :: PREMIUM: [DEV]Cezariu type 5 343819941min
+Jun 12 11:27:39 :: AddAffect [DEV]Cezariu type 506 apply 0 0 flag 0 duration 343819941
+Jun 12 11:27:39 :: PREMIUM: [DEV]Cezariu type 6 343819941min
+Jun 12 11:27:39 :: VERSION : NO CHECK
+Jun 12 11:27:40 :: QUEST_LOAD: Login pc 45 by event
+Jun 12 11:27:40 :: QUEST timer name timer1 cycle 15025 pc 45 npc 4294967295 loop? 0
+Jun 12 11:27:40 :: QUEST add timer 0x28928440 1
+Jun 12 11:27:40 :: AddAffect [DEV]Cezariu type 999 apply 0 0 flag 0 duration 31536000
+Jun 12 11:27:54 :: SECTREE DIFFER: [DEV]Cezariu 150x42 was 150x41 dist 1.0m
+Jun 12 11:28:01 :: SECTREE DIFFER: [DEV]Cezariu 149x42 was 150x42 dist 1.0m
+Jun 12 11:28:15 :: SECTREE DIFFER: [DEV]Cezariu 150x42 was 149x42 dist 1.0m
+Jun 12 11:28:18 :: SECTREE DIFFER: [DEV]Cezariu 150x43 was 150x42 dist 1.0m
+Jun 12 11:28:21 :: SECTREE DIFFER: [DEV]Cezariu 150x42 was 150x43 dist 1.0m
+Jun 12 11:28:22 :: OnClick Blacksmith[vnum: 20016 vid: 10003] by [DEV]Cezariu
+Jun 12 11:28:24 :: SECTREE DIFFER: [DEV]Cezariu 149x42 was 150x42 dist 1.0m
+Jun 12 11:28:27 :: SECTREE DIFFER: [DEV]Cezariu 149x43 was 149x42 dist 1.0m
+Jun 12 11:28:28 :: SECTREE DIFFER: [DEV]Cezariu 148x43 was 149x43 dist 1.0m
+Jun 12 11:28:31 :: SECTREE DIFFER: [DEV]Cezariu 147x43 was 148x43 dist 1.0m
+Jun 12 11:28:34 :: SECTREE DIFFER: [DEV]Cezariu 147x44 was 147x43 dist 1.0m
+Jun 12 11:28:36 :: SECTREE DIFFER: [DEV]Cezariu 147x45 was 147x44 dist 1.0m
+Jun 12 11:30:37 :: PONG! 239
+Jun 12 11:30:37 :: Handshake: lower than zero -19
+Jun 12 11:30:37 :: Handshake: client_time 45789490 server_time 45969616 name: [DEV]Cezariu
+Jun 12 11:30:39 :: SAVE: [DEV]Cezariu 941686x288072
+Jun 12 11:31:38 :: COMMAND: [DEV]Cezariu: update_reward_data
+Jun 12 11:31:42 :: SECTREE DIFFER: [DEV]Cezariu 147x46 was 147x45 dist 1.0m
+Jun 12 11:31:44 :: SECTREE DIFFER: [DEV]Cezariu 146x46 was 147x46 dist 1.0m
+Jun 12 11:31:45 :: SECTREE DIFFER: [DEV]Cezariu 146x47 was 146x46 dist 1.0m
+Jun 12 11:31:47 :: SECTREE DIFFER: [DEV]Cezariu 146x48 was 146x47 dist 1.0m
+Jun 12 11:31:56 :: SECTREE DIFFER: [DEV]Cezariu 147x48 was 146x48 dist 1.0m
+Jun 12 11:31:59 :: SECTREE DIFFER: [DEV]Cezariu 148x48 was 147x48 dist 1.0m
+Jun 12 11:32:02 :: SECTREE DIFFER: [DEV]Cezariu 149x48 was 148x48 dist 1.0m
+Jun 12 11:32:02 :: COMMAND: [DEV]Cezariu: open_biologist
+Jun 12 11:32:05 :: SECTREE DIFFER: [DEV]Cezariu 150x48 was 149x48 dist 1.0m
+Jun 12 11:33:08 :: SECTREE DIFFER: [DEV]Cezariu 151x48 was 150x48 dist 1.0m
+Jun 12 11:33:09 :: SECTREE DIFFER: [DEV]Cezariu 150x48 was 151x48 dist 1.0m
+Jun 12 11:33:12 :: SECTREE DIFFER: [DEV]Cezariu 149x48 was 150x48 dist 1.0m
+Jun 12 11:33:33 :: SECTREE DIFFER: [DEV]Cezariu 148x48 was 149x48 dist 1.0m
+Jun 12 11:33:35 :: SECTREE DIFFER: [DEV]Cezariu 147x48 was 148x48 dist 1.0m
+Jun 12 11:33:37 :: PONG! 239
+Jun 12 11:33:37 :: Handshake: lower than zero -2
+Jun 12 11:33:37 :: Handshake: client_time 45969616 server_time 46149576 name: [DEV]Cezariu
+Jun 12 11:33:39 :: SECTREE DIFFER: [DEV]Cezariu 147x47 was 147x48 dist 1.0m
+Jun 12 11:33:40 :: SAVE: [DEV]Cezariu 941019x304379
+Jun 12 11:33:41 :: SECTREE DIFFER: [DEV]Cezariu 146x47 was 147x47 dist 1.0m
+Jun 12 11:33:43 :: SECTREE DIFFER: [DEV]Cezariu 146x46 was 146x47 dist 1.0m
+Jun 12 11:33:43 :: COMMAND: [DEV]Cezariu: ride
+Jun 12 11:33:43 :: RegisterRaceNumMap white lion 20114
+Jun 12 11:34:28 :: COMMAND: [DEV]Cezariu: ride
+Jun 12 11:34:28 :: AddAffect [DEV]Cezariu type 533 apply 53 25 flag 0 duration 86400
+Jun 12 11:34:28 :: AddAffect [DEV]Cezariu type 533 apply 159 25 flag 0 duration 86400
+Jun 12 11:34:28 :: AddAffect [DEV]Cezariu type 533 apply 83 50 flag 0 duration 86400
+Jun 12 11:34:28 :: AddAffect [DEV]Cezariu type 533 apply 19 50 flag 0 duration 86400
+Jun 12 11:34:28 :: AddAffect [DEV]Cezariu type 221 apply 109 20114 flag 0 duration 86400
+Jun 12 11:34:31 :: SECTREE DIFFER: [DEV]Cezariu 146x45 was 146x46 dist 1.0m
+Jun 12 11:34:33 :: SECTREE DIFFER: [DEV]Cezariu 146x44 was 146x45 dist 1.0m
+Jun 12 11:34:36 :: SECTREE DIFFER: [DEV]Cezariu 145x44 was 146x44 dist 1.0m
+Jun 12 11:34:39 :: COMMAND: [DEV]Cezariu: ride
+Jun 12 11:34:39 :: RegisterRaceNumMap white lion 20114
+Jun 12 11:34:39 :: COMMAND: [DEV]Cezariu: user_horse_back
+Jun 12 11:35:12 :: SECTREE DIFFER: [DEV]Cezariu 145x45 was 145x44 dist 1.0m
+Jun 12 11:36:37 :: PONG! 239
+Jun 12 11:36:37 :: Handshake: client_time 46149576 server_time 46329416 name: [DEV]Cezariu
+Jun 12 11:36:40 :: SAVE: [DEV]Cezariu 930245x290082
+Jun 12 11:37:41 :: QUEST loading locale/germany/quest/object/timer2/timer/automesaj.start : automesaj [STATE] start
+Jun 12 11:37:41 :: QUEST timer name timer2 cycle 18025 pc 45 npc 4294967294 loop? 0
+Jun 12 11:37:41 :: QUEST add timer 0x28928640 2
+Jun 12 11:37:41 :: QUEST remove with no cancel 0x28928440
+Jun 12 11:39:37 :: PONG! 239
+Jun 12 11:39:37 :: Handshake: client_time 46329416 server_time 46509416 name: [DEV]Cezariu
+Jun 12 11:39:39 :: HORSE STAMINA + 0x28927d00
+Jun 12 11:39:40 :: SAVE: [DEV]Cezariu 930245x290082
+Jun 12 11:40:05 :: COMMAND: [DEV]Cezariu: set
+Jun 12 11:40:05 :: POLYMORPH: [DEV]Cezariu race 101 
+Jun 12 11:40:05 :: POLYMORPH: [DEV]Cezariu race 0 
+Jun 12 11:40:08 :: COMMAND: [DEV]Cezariu: item
+Jun 12 11:40:08 :: Invalid Socket Count 3, set to maximum
+Jun 12 11:40:09 :: [DEV]Cezariu: USE_ITEM Sabie Triton+9 (inven 1, cell: 7)
+Jun 12 11:40:26 :: COMMAND: [DEV]Cezariu: item
+Jun 12 11:40:27 :: [DEV]Cezariu: USE_ITEM Par fantoma (M) (permane (inven 1, cell: 7)
+Jun 12 11:40:29 :: [DEV]Cezariu: USE_ITEM Par fantoma (M) (permane (inven 1, cell: 200)
+Jun 12 11:40:30 :: [DEV]Cezariu: USE_ITEM Par fantoma (M) (permane (inven 1, cell: 7)
+Jun 12 11:40:31 :: COMMAND: [DEV]Cezariu: hide_costume
+Jun 12 11:40:36 :: [DEV]Cezariu: USE_ITEM Leul Alb[P] (inven 1, cell: 37)
+Jun 12 11:40:36 :: RegisterRaceNumMap white lion 20114
+Jun 12 11:40:46 :: SECTREE DIFFER: [DEV]Cezariu 145x44 was 145x45 dist 1.0m
+Jun 12 11:40:54 :: REFINE: FIND 387 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 388 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 389 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 390 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 391 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 392 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 393 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 394 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 395 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 387 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 388 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 389 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 390 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 391 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 392 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 393 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 394 TRUE
+Jun 12 11:40:54 :: REFINE: FIND 395 TRUE
+Jun 12 11:42:37 :: PONG! 239
+Jun 12 11:42:37 :: Handshake: client_time 46509416 server_time 46689416 name: [DEV]Cezariu
+Jun 12 11:42:40 :: SAVE: [DEV]Cezariu 930842x287952
+Jun 12 11:42:56 :: COMMAND: [DEV]Cezariu: item
+Jun 12 11:42:57 :: [DEV]Cezariu: USE_ITEM Sigiliu Leonidas[P] (inven 1, cell: 7)
+Jun 12 11:42:57 :: RegisterRaceNumMap Leonidas 34008
+Jun 12 11:42:57 :: AddAffect [DEV]Cezariu type 587 apply 0 0 flag 90001141 duration 1892160000
+Jun 12 11:43:30 :: COMMAND: [DEV]Cezariu: item
+Jun 12 11:43:31 :: [DEV]Cezariu: USE_ITEM Efect Armã Violet II (Pe (inven 1, cell: 8)
+Jun 12 11:45:37 :: PONG! 239
+Jun 12 11:45:37 :: Handshake: client_time 46689416 server_time 46869416 name: [DEV]Cezariu
+Jun 12 11:45:39 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 11:48:37 :: PONG! 239
+Jun 12 11:48:37 :: Handshake: client_time 46869416 server_time 47049416 name: [DEV]Cezariu
+Jun 12 11:48:39 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 11:49:42 :: QUEST loading locale/germany/quest/object/timer3/timer/automesaj.start : automesaj [STATE] start
+Jun 12 11:49:42 :: QUEST timer name timer3 cycle 22525 pc 45 npc 4294967293 loop? 0
+Jun 12 11:49:42 :: QUEST add timer 0x4103f3e0 2
+Jun 12 11:49:42 :: QUEST remove with no cancel 0x28928640
+Jun 12 11:51:37 :: PONG! 239
+Jun 12 11:51:37 :: Handshake: client_time 47049416 server_time 47229415 name: [DEV]Cezariu
+Jun 12 11:51:40 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 11:54:37 :: PONG! 239
+Jun 12 11:54:37 :: Handshake: client_time 47229415 server_time 47409414 name: [DEV]Cezariu
+Jun 12 11:54:40 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 11:57:37 :: PONG! 239
+Jun 12 11:57:37 :: Handshake: client_time 47409414 server_time 47589416 name: [DEV]Cezariu
+Jun 12 11:57:40 :: SAVE: [DEV]Cezariu 931379x287204
+Jun 12 12:00:00 :: SYSTEM: LOG ROTATE (2024-06-12 11)
