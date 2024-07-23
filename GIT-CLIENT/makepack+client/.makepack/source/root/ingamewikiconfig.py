@@ -530,7 +530,7 @@ WIKI_CATEGORIES = [
 			[localeinfo.WIKI_SUBCATEGORY_NECKLACE, (5,), "d:/ymir work/ui/wiki/banners/%s/necklaces.png" % BANNERS_PATH],
 			[localeinfo.WIKI_SUBCATEGORY_SHOES, (3,), "d:/ymir work/ui/wiki/banners/%s/shoes.png" % BANNERS_PATH],
 			[localeinfo.WIKI_SUBCATEGORY_BELTS, (9,), "d:/ymir work/ui/wiki/banners/%s/belts.png" % BANNERS_PATH],
-			[localeinfo.WIKI_SUBCATEGORY_TALISMANS, (10,), "d:/ymir work/ui/wiki/banners/%s/talismans.png" % BANNERS_PATH],
+			# [localeinfo.WIKI_SUBCATEGORY_TALISMANS, (10,), "d:/ymir work/ui/wiki/banners/%s/talismans.png" % BANNERS_PATH],
 		]
 	],
 	[
@@ -539,8 +539,8 @@ WIKI_CATEGORIES = [
 			[localeinfo.WIKI_SUBCATEGORY_WEAPONS, (COSTUME_WEAPON_VNUMS,), "d:/ymir work/ui/wiki/banners/%s/costume_weapon.png" % BANNERS_PATH],
 			[localeinfo.WIKI_SUBCATEGORY_ARMOR, (COSTUME_ARMOR_VNUMS,), "d:/ymir work/ui/wiki/banners/%s/costume_armor.png" % BANNERS_PATH],
 			[localeinfo.WIKI_SUBCATEGORY_HAIRSTYLES, (COSTUME_HAIR_VNUMS,), "d:/ymir work/ui/wiki/banners/%s/costume_hairstyle.png" % BANNERS_PATH],
-			[localeinfo.WIKI_SUBCATEGORY_STOLE, (STOLE_VNUMS,), "d:/ymir work/ui/wiki/banners/%s/item_stole.png" % BANNERS_PATH],
-			[localeinfo.WIKI_SUBCATEGORY_STOLE_COSTUMES, (COSTUME_SASH_VNUMS,), "d:/ymir work/ui/wiki/banners/%s/costume_stole.png" % BANNERS_PATH],
+			# [localeinfo.WIKI_SUBCATEGORY_STOLE, (STOLE_VNUMS,), "d:/ymir work/ui/wiki/banners/%s/item_stole.png" % BANNERS_PATH],
+			# [localeinfo.WIKI_SUBCATEGORY_STOLE_COSTUMES, (COSTUME_SASH_VNUMS,), "d:/ymir work/ui/wiki/banners/%s/costume_stole.png" % BANNERS_PATH],
 			[localeinfo.WIKI_SUBCATEGORY_WEAPONS_EFFECT, (COSTUME_WEAPONS_EFFECT_VNUMS,), "d:/ymir work/ui/wiki/banners/%s/costume_shining_weapons.png" % BANNERS_PATH],
 			[localeinfo.WIKI_SUBCATEGORY_ARMORS_EFFECT, (COSTUME_ARMORS_EFFECT_VNUMS,), "d:/ymir work/ui/wiki/banners/%s/costume_shining_armors.png" % BANNERS_PATH]
 		]
@@ -590,26 +590,26 @@ WIKI_CATEGORIES = [
 	[
 		localeinfo.WIKI_CATEGORY_SYSTEMS,
 		[
-			[localeinfo.WIKI_SUBCATEGORY_DRAGONALCHEMY, ("systems/dragon_alchemy.txt",)],
+			# [localeinfo.WIKI_SUBCATEGORY_DRAGONALCHEMY, ("systems/dragon_alchemy.txt",)],
 			[localeinfo.WIKI_SUBCATEGORY_BATTLEPASS, ("systems/battlepass.txt",)],
-			[localeinfo.WIKI_SUBCATEGORY_BOOST, ("systems/boost.txt",)],
-			[localeinfo.WIKI_SUBCATEGORY_PASSIVE, ("systems/passive.txt",)],
+			# [localeinfo.WIKI_SUBCATEGORY_BOOST, ("systems/boost.txt",)],
+			# [localeinfo.WIKI_SUBCATEGORY_PASSIVE, ("systems/passive.txt",)],
 			[localeinfo.WIKI_SUBCATEGORY_BIOLOGIST, ("systems/biologist.txt",)],
 			[localeinfo.WIKI_SUBCATEGORY_ANTIFARM, ("systems/multifarm.txt",)],
 			[localeinfo.WIKI_SUBCATEGORY_SKILL_COLOR, ("systems/skill_color.txt",)],
-			[localeinfo.WIKI_SUBCATEGORY_FREEZE, ("systems/freeze.txt",)],
-			[localeinfo.WIKI_SUBCATEGORY_COSTUME_SASH, ("systems/costume_sash.txt",)],
-			[localeinfo.WIKI_SUBCATEGORY_COSTUMES, ("systems/costumes.txt",)],
-			[localeinfo.WIKI_SUBCATEGORY_PET, ("systems/pet.txt",)],
-			[localeinfo.WIKI_SUBCATEGORY_ANIME, ("systems/anime.txt",)],
-			[localeinfo.WIKI_SUBCATEGORY_SHOULDER_SASH, ("systems/shoulder_sash.txt",)],
-			[localeinfo.WIKI_SUBCATEGORY_EPIC_SYSTEM, ("systems/epic.txt",)],
-			[localeinfo.WIKI_SUBCATEGORY_RUNES, ("systems/runes.txt",)],
+			# [localeinfo.WIKI_SUBCATEGORY_FREEZE, ("systems/freeze.txt",)],
+			# [localeinfo.WIKI_SUBCATEGORY_COSTUME_SASH, ("systems/costume_sash.txt",)],
+			# [localeinfo.WIKI_SUBCATEGORY_COSTUMES, ("systems/costumes.txt",)],
+			# [localeinfo.WIKI_SUBCATEGORY_PET, ("systems/pet.txt",)],
+			# [localeinfo.WIKI_SUBCATEGORY_ANIME, ("systems/anime.txt",)],
+			# [localeinfo.WIKI_SUBCATEGORY_SHOULDER_SASH, ("systems/shoulder_sash.txt",)],
+			# [localeinfo.WIKI_SUBCATEGORY_EPIC_SYSTEM, ("systems/epic.txt",)],
+			# [localeinfo.WIKI_SUBCATEGORY_RUNES, ("systems/runes.txt",)],
 			#[localeinfo.WIKI_SUBCATEGORY_SHAMY, ("systems/shamy.txt",)],
-			[localeinfo.WIKI_SUBCATEGORY_TALISMANS, ("systems/talismans.txt",)],
-			[localeinfo.WIKI_SUBCATEGORY_TRANSLATE, ("systems/translate.txt",)],
-			[localeinfo.WIKI_SUBCATEGORY_GAYA, ("systems/gaya.txt",)],
-			[localeinfo.WIKI_SUBCATEGORY_GUILD, ("systems/guilds.txt",)],
+			# [localeinfo.WIKI_SUBCATEGORY_TALISMANS, ("systems/talismans.txt",)],
+			# [localeinfo.WIKI_SUBCATEGORY_TRANSLATE, ("systems/translate.txt",)],
+			# [localeinfo.WIKI_SUBCATEGORY_GAYA, ("systems/gaya.txt",)],
+			# [localeinfo.WIKI_SUBCATEGORY_GUILD, ("systems/guilds.txt",)],
 			[localeinfo.WIKI_SUBCATEGORY_OFFLINESHOP, ("systems/offlineshop.txt",)]
 		]
 	],
@@ -645,18 +645,18 @@ WIKI_CATEGORIES = [
 	#		#[localeinfo.WIKI_SUBCATEGORY_PVP_TOURNAMENT, ("events/pvp_tournament.txt",)]
 	#	]
 	#],
-	[
-		localeinfo.WIKI_CATEGORY_GUIDES,
-		[
-			[localeinfo.WIKI_SUBCATEGORY_FASTKEY, ("guides/fastkey.txt",)]
-		]
-	],
-	[
-		localeinfo.WIKI_CATEGORY_PERSO,
-		[
-			[localeinfo.WIKI_SUBCATEGORY_PERSO, ("guides/perso.txt",)]
-		]
-	],
+	# [
+	# 	localeinfo.WIKI_CATEGORY_GUIDES,
+	# 	[
+	# 		[localeinfo.WIKI_SUBCATEGORY_FASTKEY, ("guides/fastkey.txt",)]
+	# 	]
+	# ],
+	# [
+	# 	localeinfo.WIKI_CATEGORY_PERSO,
+	# 	[
+	# 		[localeinfo.WIKI_SUBCATEGORY_PERSO, ("guides/perso.txt",)]
+	# 	]
+	# ],
 ]
 
 #/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\

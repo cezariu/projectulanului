@@ -89,8 +89,8 @@
 96	SHAMAN	Ajutorul Dragonului	Suportul Dragonului	Puterea Dragonului	intareste atacul tau sau al unui membru din grup.	 (si pentru membrii grupului)	Creste sansa la lovitura critica	Bonus la aruncare asupra ta	Intarit de INT	STANDING_SKILL|CAN_USE_FOR_ME|NEED_TARGET|ONLY_FOR_ALLIANCE		gicheon	6	4			Sansa unei lovituri critice: +%.1f%%	(ip*0.3+5)*(2*k)/(k+3)				
 141	SUPPORT	Inima Dragonului			Canalizati-va puterea interioara pentru a va spori sanatatea.					CANNOT_LEVEL_UP|PASSIVE		jeunghyul					Max. HP +%.0f	k * 1500.00			
 142	SUPPORT	Gheara dragonului			Trezeste puterea Zeului Dragonului din tine pentru a-ti strapunge dusmanii.					CANNOT_LEVEL_UP|PASSIVE		chultong					Pierce Attack Chance + %.0f%%	k * 10			
-143	SUPPORT	Forta divin			Dobandeste din ea puterea divin.					CANNOT_LEVEL_UP|PASSIVE		common1									
-144	SUPPORT	Maestrul aurului			Dobandeste din ea puterea divin.					CANNOT_LEVEL_UP|PASSIVE		common2									
-145	SUPPORT	Vanator de monstri			Dobandeste din ea puterea divin.					CANNOT_LEVEL_UP|PASSIVE		common3									
-146	SUPPORT	Forta vietii			Dobandeste din ea puterea divin.					CANNOT_LEVEL_UP|PASSIVE		common4									
+143	SUPPORT	Forta divina			Dobandeste din ea puterea divina.					CANNOT_LEVEL_UP|PASSIVE		common1									
+144	SUPPORT	Maestrul aurului			Dobandeste din ea puterea divina.					CANNOT_LEVEL_UP|PASSIVE		common2									
+145	SUPPORT	Vanator de monstrii			Dobandeste din ea puterea divina.					CANNOT_LEVEL_UP|PASSIVE		common3									
+146	SUPPORT	Forta vietii			Dobandeste din ea puterea divina					CANNOT_LEVEL_UP|PASSIVE		common4									
 
